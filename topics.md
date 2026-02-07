@@ -6,3216 +6,1533 @@
 ## Contents
 
 - [3d](#3d)
-- [agent](#agent)
 - [ai](#ai)
-- [ai-agents](#ai-agents)
-- [analytics](#analytics)
+- [algorithm](#algorithm)
+- [algorithms](#algorithms)
 - [android](#android)
 - [angular](#angular)
-- [ansible](#ansible)
-- [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
-- [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
-- [aws](#aws)
-- [azure](#azure)
-- [backend](#backend)
-- [bash](#bash)
-- [bitcoin](#bitcoin)
-- [bot](#bot)
-- [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
-- [chatbot](#chatbot)
-- [chatgpt](#chatgpt)
-- [chrome](#chrome)
-- [chrome-extension](#chrome-extension)
-- [cli](#cli)
-- [clojure](#clojure)
-- [cloud](#cloud)
-- [cms](#cms)
-- [code](#code)
-- [code-quality](#code-quality)
-- [code-review](#code-review)
-- [coding](#coding)
-- [command-line](#command-line)
 - [compiler](#compiler)
-- [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
-- [config](#config)
-- [continuous-integration](#continuous-integration)
+- [covid-19](#covid-19)
 - [cpp](#cpp)
-- [crawler](#crawler)
-- [cryptography](#cryptography)
-- [csharp](#csharp)
-- [css](#css)
-- [cybersecurity](#cybersecurity)
-- [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
-- [data-engineering](#data-engineering)
 - [data-science](#data-science)
-- [data-structures](#data-structures)
 - [data-visualization](#data-visualization)
-- [database](#database)
 - [deep-learning](#deep-learning)
-- [deno](#deno)
-- [deployment](#deployment)
-- [design](#design)
-- [developer-tools](#developer-tools)
-- [development](#development)
-- [devops](#devops)
-- [discord](#discord)
-- [django](#django)
 - [docker](#docker)
-- [documentation](#documentation)
-- [dotnet](#dotnet)
-- [education](#education)
-- [electron](#electron)
-- [elixir](#elixir)
-- [embedded](#embedded)
-- [emoji](#emoji)
-- [english](#english)
-- [es6](#es6)
-- [finance](#finance)
-- [firebase](#firebase)
-- [firefox](#firefox)
-- [flask](#flask)
-- [flutter](#flutter)
-- [flutter-apps](#flutter-apps)
+- [font](#font)
 - [framework](#framework)
-- [frontend](#frontend)
-- [game](#game)
-- [gamedev](#gamedev)
 - [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
-- [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
-- [good-first-issue](#good-first-issue)
 - [google](#google)
-- [graphql](#graphql)
-- [gui](#gui)
-- [hacking](#hacking)
-- [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
-- [home-assistant](#home-assistant)
-- [homebrew](#homebrew)
-- [html](#html)
-- [html5](#html5)
-- [http](#http)
-- [https](#https)
 - [image-processing](#image-processing)
-- [information-gathering](#information-gathering)
-- [instagram](#instagram)
 - [ios](#ios)
-- [iot](#iot)
-- [ipfs](#ipfs)
-- [java](#java)
 - [javascript](#javascript)
-- [js](#js)
-- [json](#json)
 - [kotlin](#kotlin)
-- [kubernetes](#kubernetes)
-- [language](#language)
-- [latex](#latex)
 - [learning](#learning)
-- [library](#library)
 - [linux](#linux)
 - [llm](#llm)
-- [login](#login)
-- [low-code](#low-code)
-- [mac](#mac)
 - [machine-learning](#machine-learning)
-- [macos](#macos)
-- [markdown](#markdown)
-- [mcp](#mcp)
-- [microservices](#microservices)
-- [microsoft](#microsoft)
+- [matlab](#matlab)
 - [mobile](#mobile)
-- [mongodb](#mongodb)
-- [monitoring](#monitoring)
-- [music](#music)
-- [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
-- [nestjs](#nestjs)
 - [neural-network](#neural-network)
-- [nextjs](#nextjs)
 - [nlp](#nlp)
-- [no-code](#no-code)
-- [node](#node)
-- [nodejs](#nodejs)
-- [nosql](#nosql)
-- [npm](#npm)
 - [numpy](#numpy)
-- [objective-c](#objective-c)
-- [obsidian](#obsidian)
-- [open-data](#open-data)
 - [open-source](#open-source)
-- [openai](#openai)
-- [osint](#osint)
+- [opencv](#opencv)
 - [others](#others)
-- [p2p](#p2p)
-- [package-manager](#package-manager)
-- [parsing](#parsing)
-- [pentesting](#pentesting)
-- [postgresql](#postgresql)
-- [powershell](#powershell)
-- [privacy](#privacy)
-- [productivity](#productivity)
+- [pixel-art](#pixel-art)
 - [programming](#programming)
-- [programming-language](#programming-language)
-- [prompt-engineering](#prompt-engineering)
-- [publishing](#publishing)
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
-- [qt](#qt)
-- [r](#r)
-- [rag](#rag)
-- [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
-- [reactjs](#reactjs)
-- [redux](#redux)
 - [reinforcement-learning](#reinforcement-learning)
-- [rest-api](#rest-api)
-- [reverse-engineering](#reverse-engineering)
-- [ruby](#ruby)
 - [rust](#rust)
-- [scala](#scala)
-- [security](#security)
-- [security-tools](#security-tools)
-- [self-hosted](#self-hosted)
-- [server](#server)
-- [serverless](#serverless)
+- [scikit-learn](#scikit-learn)
 - [shell](#shell)
-- [software](#software)
-- [sql](#sql)
-- [sql-server](#sql-server)
-- [sqlite](#sqlite)
+- [sketch](#sketch)
 - [stable-diffusion](#stable-diffusion)
-- [statistics](#statistics)
-- [svelte](#svelte)
 - [swift](#swift)
-- [swiftui](#swiftui)
-- [tailwindcss](#tailwindcss)
-- [telegram](#telegram)
-- [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
-- [terminal](#terminal)
-- [terraform](#terraform)
-- [testing](#testing)
-- [text-to-speech](#text-to-speech)
-- [tui](#tui)
-- [twitter](#twitter)
-- [typescript](#typescript)
-- [ui](#ui)
-- [ui-design](#ui-design)
-- [unreal-engine](#unreal-engine)
+- [ubuntu](#ubuntu)
 - [video](#video)
-- [virtual-reality](#virtual-reality)
-- [visual-studio-code](#visual-studio-code)
+- [vim](#vim)
 - [visualization](#visualization)
-- [vpn](#vpn)
 - [vue](#vue)
-- [vuejs](#vuejs)
-- [web](#web)
-- [web-development](#web-development)
-- [webapp](#webapp)
-- [website](#website)
-- [windows](#windows)
-- [xcode](#xcode)
-- [xml](#xml)
 - [youtube](#youtube)
-- [zig](#zig)
-- [zsh](#zsh)
 
 ## 3d 
 
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-
-## agent 
-
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents. OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system p
-- [miantiao-me/cloud-code](https://github.com/miantiao-me/cloud-code) - Cloud Code (Cloudflare + OpenCode), running OpenCode on Cloudflare to build a dedicated cloud Agent for you.
-- [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
-- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-- [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
-- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to
-- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
-- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines.
+- [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 
 ## ai 
 
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-- [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
-- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
-- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
-- [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
-- [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
-- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
-- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
-- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [livekit/agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
-- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
-- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
-- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated Query Engine for AI - The only MCP Server you'll ever need
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-- [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+- [modelbox-ai/modelbox](https://github.com/modelbox-ai/modelbox) - A high performance, high expansion, easy to use framework for AI application. 为AI应用的开发者提供一套统一的高性能、易用的编程框架，快速基于AI全栈服务、开发跨端边云的AI行业应用，支持GPU，NPU加速。
+- [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
+- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
 
-## ai-agents 
+## algorithm 
 
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents. OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system p
-- [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
-- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
-- [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
+- [muziing/Traffic-Lights-Classification](https://github.com/muziing/Traffic-Lights-Classification) - HSV色彩空间下的交通灯识别
+- [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C++11
+- [binzi56/AlgorithmicPractice](https://github.com/binzi56/AlgorithmicPractice) - 关于LeetCode算法的练习(主要包括剑指Offer题解, 算法概念, 高频题型几个部分)
 
-## analytics 
+## algorithms 
 
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated Query Engine for AI - The only MCP Server you'll ever need
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
-- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
-- [modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale your Pandas workflows by changing a single line of code
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- [murufeng/Awesome-AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm) - 人工智能算法方面的综合资料合集:包括求职面试、机器学习、深度学习、强化学习等方面的资料和代码
+- [binzi56/algorithm-pattern-c](https://github.com/binzi56/algorithm-pattern-c) - 算法模板(c++), 包含数据结构,基础算法和算法思维篇
+- [PRML/PRMLT](https://github.com/PRML/PRMLT) - Matlab code of machine learning algorithms in book PRML
 
 ## android 
 
-- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
-- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
-- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
-- [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+- [CainKernel/CainCamera](https://github.com/CainKernel/CainCamera) - CainCamera is an Android Project to learn about development of beauty camera, image and short video
+- [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 
 ## angular 
 
-- [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
-
-## ansible 
-
-- [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
-
-## api 
-
-- [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go
-- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-- [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
-- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
+- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 ## artificial-intelligence 
 
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-
-## automation 
-
-- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater) - Automatic container image update for Argo CD
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
-- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
-- [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
-- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
-- [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
-- [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [lucidrains/pixel-level-contrastive-learning](https://github.com/lucidrains/pixel-level-contrastive-learning) - Implementation of Pixel-level Contrastive Learning, proposed in the paper "Propagate Yourself", in Pytorch
+- [djosix/IconFlow](https://github.com/djosix/IconFlow) - Code for "Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization", CVPR 2022.
+- [lucidrains/stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) - Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement
+- [murufeng/Awesome-AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm) - 人工智能算法方面的综合资料合集:包括求职面试、机器学习、深度学习、强化学习等方面的资料和代码
+- [aitorzip/PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN) - A clean and readable Pytorch implementation of CycleGAN
 
 ## awesome 
 
-- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 8000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
-- [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - ⚡️IPTV直播源自动更新平台『🤖全自动采集、筛选、测速、生成🚀』：自定义获取频道；IPv4/IPv6；接口验效；推流；多平台支持；工作流、Docker、命令行、GUI多端部署 | IPTV live streaming source automatic update platform
-- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
-- [Kalmaegi/computer-book-list](https://github.com/Kalmaegi/computer-book-list) - 一个综合了豆瓣，goodreads综合评分的计算机书籍书单
-- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-- [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
-- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [yeungchenwa/Recommendations-Diffusion-Text-Image](https://github.com/yeungchenwa/Recommendations-Diffusion-Text-Image) - A paper collection of recent diffusion models for text-image generation tasks, e,g., visual text generation, font generation, text removal, text image super resolution, text editing, handwritten gener
+- [mikeroyal/ISP-Guide](https://github.com/mikeroyal/ISP-Guide) - Image Signal Processing (ISP) Guide. Learn all about the process of converting an image/video into digital form by performing tasks like noise reduction, filtering, auto exposure, autofocus, HDR corre
+- [Efficient-ML/Awesome-Model-Quantization](https://github.com/Efficient-ML/Awesome-Model-Quantization) - A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (pape
 
 ## awesome-list 
 
-- [Kalmaegi/computer-book-list](https://github.com/Kalmaegi/computer-book-list) - 一个综合了豆瓣，goodreads综合评分的计算机书籍书单
-- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-- [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
-- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-
-## aws 
-
-- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
-- [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
-- [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
-
-## azure 
-
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
-- [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
-
-## backend 
-
-- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
-- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-
-## bash 
-
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-
-## bitcoin 
-
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
-
-## bot 
-
-- [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
-- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
-- [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
-
-## bugbounty 
-
-- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [G-U-N/Awesome-Consistency-Models](https://github.com/G-U-N/Awesome-Consistency-Models) - Awesome List of Consistency Models
+- [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 
 ## c 
 
-- [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
-- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
+- [zchrissirhcz/pixel](https://github.com/zchrissirhcz/pixel) - Image processing library for learning purpose
 
 ## c-plus-plus 
 
-- [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
-- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-
-## chatbot 
-
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
-- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
-- [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
-
-## chatgpt 
-
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
-- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - The open source codebase powering HuggingChat
-- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
-
-## chrome 
-
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
-- [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
-- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
-
-## chrome-extension 
-
-- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
-- [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
-
-## cli 
-
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
-- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
-- [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
-- [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
-- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
-- [homeport/havener](https://github.com/homeport/havener) - /ˈheɪvənə/ - Think of it as a swiss army knife for Kubernetes tasks
-- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
-- [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
-- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
-
-## clojure 
-
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
-
-## cloud 
-
-- [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
-- [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-- [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
-- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
-
-## cms 
-
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-
-## code 
-
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-
-## code-quality 
-
-- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-- [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
-
-## code-review 
-
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
-
-## coding 
-
-- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
-- [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
-
-## command-line 
-
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
-- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
+- [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON for ARM.
 
 ## compiler 
 
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
-- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language Core and API (CNCF Sandbox Project). https://kcl-lang.io
-- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-
-## computer-science 
-
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
-- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-- [Kalmaegi/computer-book-list](https://github.com/Kalmaegi/computer-book-list) - 一个综合了豆瓣，goodreads综合评分的计算机书籍书单
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [MegEngine/MegCC](https://github.com/MegEngine/MegCC) - MegCC是一个运行时超轻量，高效，移植简单的深度学习模型编译器
 
 ## computer-vision 
 
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
+- [pvitoria/ChromaGAN](https://github.com/pvitoria/ChromaGAN) - Official Implementation of ChromaGAN: An Adversarial Approach for Picture Colorization
+- [ZouShilong1024/CycleDiff](https://github.com/ZouShilong1024/CycleDiff) - Code for TIP2026 paper: CycleDiff: Cycle Diffusion Models for Unpaired Image-to-image Translation
+- [bupt-ai-cz/BCI](https://github.com/bupt-ai-cz/BCI) - BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix
+- [mikkoim/dinotool](https://github.com/mikkoim/dinotool) - Command-line tool for extracting DINOv3, CLIP, SigLIP2, RADIO, features for images and videos
+- [nachifur/MulimgViewer](https://github.com/nachifur/MulimgViewer) - MulimgViewer is a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching.
+- [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
+- [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
+- [Kaminyou/Kernelized-Instance-Normalization](https://github.com/Kaminyou/Kernelized-Instance-Normalization) - [ECCV 2022] Official implementation of "Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization"
+- [Kaminyou/Dense-Normalization](https://github.com/Kaminyou/Dense-Normalization) - [ECCV 2024] Official implementation of "Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization"
+- [alpc91/NICE-GAN-pytorch](https://github.com/alpc91/NICE-GAN-pytorch) - Official PyTorch implementation of NICE-GAN:  Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation
+- [ExplainableML/BayesCap](https://github.com/ExplainableML/BayesCap) - (ECCV 2022) BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen Neural Networks
+- [sunsided/stroke-width-transform](https://github.com/sunsided/stroke-width-transform) - Python implementation of and experiments with the Stroke Width Transformation and connected components filtering.
+- [sparkfish/shabby-pages](https://github.com/sparkfish/shabby-pages) - ShabbyPages is a state-of-the-art corpus of born-digital document images with both ground truth and distorted versions appropriate for use in training models to reverse distortions and recover to orig
+- [kkanshul/finegan](https://github.com/kkanshul/finegan) - FineGAN: Unsupervised Hierarchical Disentanglement for Fine-grained Object Generation and Discovery
+- [compphoto/Intrinsic](https://github.com/compphoto/Intrinsic) - Repo for the papers "Intrinsic Image Decomposition via Ordinal Shading" (TOG 2023) and "Colorful Diffuse Intrinsic Image Decomposition in the Wild" (TOG 2024)
+- [JunlinHan/BID](https://github.com/JunlinHan/BID) - Code for Blind Image Decomposition (BID) and Blind Image Decomposition network (BIDeN). ECCV, 2022.
+- [SamPujade/image-colorization](https://github.com/SamPujade/image-colorization) - Landscape and face image colorization with Generative Adversarial Networks (GANs)
+- [10x-Engineers/Infinite-ISP_ReferenceModel](https://github.com/10x-Engineers/Infinite-ISP_ReferenceModel) - A Python based fixed-point implementation of the Infinite-ISP design for ASIC and FPGA design and verification.
+- [li-plus/seam-carving](https://github.com/li-plus/seam-carving) - A super-fast Python implementation of seam carving algorithm for intelligent image resizing.
+- [andrewdcampbell/seam-carving](https://github.com/andrewdcampbell/seam-carving) - A fast Python implementation of Seam Carving for Content-Aware Image Resizing.
+- [CorentinBrtx/image-stitching](https://github.com/CorentinBrtx/image-stitching) - Image Stitching algorithm in Python from scratch with gain compensation and blending
+- [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
+- [dongheehand/MemoPainter-PyTorch](https://github.com/dongheehand/MemoPainter-PyTorch) - An unofficial implementation of MemoPainter(Coloring With Limited Data:  Few-shot Colorization via Memory Augmented Networks) using PyTorch framework.
+- [djosix/IconFlow](https://github.com/djosix/IconFlow) - Code for "Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization", CVPR 2022.
+- [eliahuhorwitz/DeepSIM](https://github.com/eliahuhorwitz/DeepSIM) - Official PyTorch implementation of the paper: "DeepSIM: Image Shape Manipulation from a Single Augmented Training Sample" (ICCV 2021 Oral)
+- [PITI-Synthesis/PITI](https://github.com/PITI-Synthesis/PITI) - PITI: Pretraining is All You Need for Image-to-Image Translation
+- [GaParmar/img2img-turbo](https://github.com/GaParmar/img2img-turbo) - One-step image-to-image with Stable Diffusion turbo: sketch2image, day2night, and more
+- [OpenStitching/stitching](https://github.com/OpenStitching/stitching) - A Python package for fast and robust Image Stitching
+- [ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-](https://github.com/ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-) - A. Moghimi, M. Welzel, T. Celik, and T. Schlurmann, "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Rem
+- [ohayonguy/PMRF](https://github.com/ohayonguy/PMRF) - [ICLR 2025] Official implementation of Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration
+- [JunlinHan/DCLGAN](https://github.com/JunlinHan/DCLGAN) - Code for Dual Contrastive Learning for Unsupervised Image-to-Image Translation, NTIRE, CVPRW 2021, oral.
+- [aiff22/PyNET-PyTorch](https://github.com/aiff22/PyNET-PyTorch) - Generating RGB photos from RAW image files with PyNET (PyTorch)
+- [mahmoudnafifi/SIIE](https://github.com/mahmoudnafifi/SIIE) - Sensor-Independent Illumination Estimation for DNN Models (BMVC 2019)
+- [Ha0Tang/AttentionGAN](https://github.com/Ha0Tang/AttentionGAN) - AttentionGAN for Unpaired Image-to-Image Translation & Multi-Domain Image-to-Image Translation
+- [nhauber99/degradr](https://github.com/nhauber99/degradr) - Python library for realistically degrading images.
+- [dailenson/One-DM](https://github.com/dailenson/One-DM) - Official Code for ECCV 2024 paper — One-Shot Diffusion Mimicker for Handwritten Text Generation
+- [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
+- [Maclory/Deep-Iterative-Collaboration](https://github.com/Maclory/Deep-Iterative-Collaboration) - Pytorch implementation of Deep Face Super-Resolution with Iterative Collaboration between Attentive Recovery and Landmark Estimation (CVPR 2020)
+- [prasunroy/stefann](https://github.com/prasunroy/stefann) - :fire: [CVPR 2020] STEFANN: Scene Text Editor using Font Adaptive Neural Network (official code).
+- [mahmoudnafifi/WB_sRGB](https://github.com/mahmoudnafifi/WB_sRGB) - White balance camera-rendered sRGB images (CVPR 2019) [Matlab & Python]
+- [swz30/CycleISP](https://github.com/swz30/CycleISP) - [CVPR 2020--Oral] CycleISP: Real Image Restoration via Improved Data Synthesis
+- [Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision) - A Collection of Papers and Codes for CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision
+- [mhamilton723/STEGO](https://github.com/mhamilton723/STEGO) - Unsupervised Semantic Segmentation by Distilling Feature Correspondences
+- [frobertpixto/hand-drawn-shapes-dataset](https://github.com/frobertpixto/hand-drawn-shapes-dataset) - Hand-drawn Shapes (HDS) Dataset. Images like Rectangles, Ellipses and Triangles
+- [alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data](https://github.com/alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data) - Using synthetic data in combination with Deep Learning, to determine if a system can be made that will be able to recognise and classify correctly real traffic signs.
+- [alexppppp/synthetic-dataset-object-detection](https://github.com/alexppppp/synthetic-dataset-object-detection) - How to Create Synthetic Dataset for Computer Vision (Object Detection) (Article on Medium)
+- [taesungp/contrastive-unpaired-translation](https://github.com/taesungp/contrastive-unpaired-translation) - Contrastive unpaired image-to-image translation, faster and lighter training than cyclegan (ECCV 2020, in PyTorch)
+- [mv-lab/AISP](https://github.com/mv-lab/AISP) - AI Image Signal Processing and Computational Photography. Official library for NTIRE (CVPR) and AIM (ICCV/ECCV) Challenges. You will find Learned ISPs, RAW Restoration-Upsampling-Reconstruction, Image
+- [mahmoudnafifi/WB_color_augmenter](https://github.com/mahmoudnafifi/WB_color_augmenter) - WB color augmenter improves the accuracy of image classification and image semantic segmentation methods by emulating different WB effects  (ICCV 2019) [Python & Matlab].
+- [MarkMoHR/Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) - :books: A collection of Deep Learning based Image Colorization and Video Colorization papers.
+- [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
+- [MyNiuuu/VCSD](https://github.com/MyNiuuu/VCSD) - [CVPR 2023] Visibility Constrained Wide-band Illumination Spectrum Design for Seeing-in-the-Dark
+- [junyanz/interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization) - Deep learning software for colorizing black and white images with a few clicks.
+- [CGLab-GIST/RIDFnF](https://github.com/CGLab-GIST/RIDFnF) - An official source code of AAAI 2023 paper, "Robust Image Denoising of No-Flash Images Guided by Consistent Flash Images".
+- [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
+- [aitorzip/PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN) - A clean and readable Pytorch implementation of CycleGAN
+- [ishit/L1Stabilizer](https://github.com/ishit/L1Stabilizer) - :movie_camera: Video stabilization using L1-norm optimal camera paths.
+- [Lakshya-Kejriwal/Real-Time-Video-Stabilization](https://github.com/Lakshya-Kejriwal/Real-Time-Video-Stabilization) - real time video stabilization using Kalman Filter
+- [ElvinC/gyroflow](https://github.com/ElvinC/gyroflow) - [INACTIVE LEGACY VERSION, FIND THE PROJECT HERE: https://github.com/gyroflow/gyroflow] Video stabilization using IMU motion data from internal or external logs
+- [aiff22/PyNET-Bokeh](https://github.com/aiff22/PyNET-Bokeh) - Rendering Realistic Bokeh Images with PyNET
+- [sjmoran/low-light-video-enhancement](https://github.com/sjmoran/low-light-video-enhancement) - Repository for the ECCV 2020 paper: "Low Light Video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping"
+- [swz30/MIRNet](https://github.com/swz30/MIRNet) - [ECCV 2020] Learning Enriched Features for Real Image Restoration and Enhancement. SOTA results for image denoising, super-resolution, and image enhancement.
+- [swz30/MPRNet](https://github.com/swz30/MPRNet) - [CVPR 2021] Multi-Stage Progressive Image Restoration. SOTA results for Image deblurring, deraining, and denoising.
+- [KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN) - Image Deblurring using Generative Adversarial Networks
+- [richzhang/colorization-pytorch](https://github.com/richzhang/colorization-pytorch) - PyTorch reimplementation of Interactive Deep Colorization
+- [ufoym/recursive-bf](https://github.com/ufoym/recursive-bf) - A lightweight C++ library for recursive bilateral filtering [Yang, Qingxiong. "Recursive bilateral filtering". European Conference on Computer Vision, 2012].
+- [baidut/OpenCE](https://github.com/baidut/OpenCE) - Contrast Enhancement Techniques for low-light images
 
-## config 
+## covid-19 
 
-- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
-
-## continuous-integration 
-
-- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
-- [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-- [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [cvlab-stonybrook/LSAE](https://github.com/cvlab-stonybrook/LSAE) - PyTorch Implementation of Lung Swapping Autoencoder
 
 ## cpp 
 
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
-- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-- [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-
-## crawler 
-
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
-- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-
-## cryptography 
-
-- [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
-- [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
-
-## csharp 
-
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-
-## css 
-
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-
-## cybersecurity 
-
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
-- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-
-## dart 
-
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+- [mcpp-community/d2mcpp](https://github.com/mcpp-community/d2mcpp) - D2X | Modern C++ Core Language Features - "A C++ tutorial project focused on practical"
+- [coderonion/cuda-beginner-course-cpp-version](https://github.com/coderonion/cuda-beginner-course-cpp-version) - bilibili视频【CUDA 12.x 并行编程入门(C++版)】配套代码
+- [ChunelFeng/CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的，跨平台的C++线程池。欢迎 star & fork
+- [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C++11
+- [TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box) - A toolbox for deep learning model deployment using C++ YoloX | YoloV7 | YoloV8 | Gan | OCR | MobileVit | Scrfd | MobileSAM | StableDiffusion
+- [huangmingchuan/Cpp_Primer_Answers](https://github.com/huangmingchuan/Cpp_Primer_Answers) - 《C++ Primer》第五版中文版习题答案
+- [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
+- [Lakshya-Kejriwal/Real-Time-Video-Stabilization](https://github.com/Lakshya-Kejriwal/Real-Time-Video-Stabilization) - real time video stabilization using Kalman Filter
+- [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
 
 ## data 
 
-- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
-- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+- [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
 
 ## data-analysis 
 
-- [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-
-## data-engineering 
-
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
-- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
-- [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [weijie-chen/Linear-Algebra-With-Python](https://github.com/weijie-chen/Linear-Algebra-With-Python) - Lecture Notes for Linear Algebra Featuring Python. This series of lecture notes will walk you through all the must-know concepts that set the foundation of data science or advanced quantitative skills
 
 ## data-science 
 
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
-- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
-- [modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale your Pandas workflows by changing a single line of code
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [ipython/ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
-- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-
-## data-structures 
-
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
+- [sparkfish/shabby-pages](https://github.com/sparkfish/shabby-pages) - ShabbyPages is a state-of-the-art corpus of born-digital document images with both ground truth and distorted versions appropriate for use in training models to reverse distortions and recover to orig
+- [Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization](https://github.com/Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization) - ”数学不难“  之  《线性代数不难》上下册，66话题完册；欢迎批评指正
+- [weijie-chen/Linear-Algebra-With-Python](https://github.com/weijie-chen/Linear-Algebra-With-Python) - Lecture Notes for Linear Algebra Featuring Python. This series of lecture notes will walk you through all the must-know concepts that set the foundation of data science or advanced quantitative skills
 
 ## data-visualization 
 
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
-- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-
-## database 
-
-- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
-- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
-- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [groue/GRDB.swift](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
-- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
-- [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
-- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
-- [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
-- [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in Go.
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
-- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
-- [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
-- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
-- [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+- [Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization](https://github.com/Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization) - ”数学不难“  之  《线性代数不难》上下册，66话题完册；欢迎批评指正
+- [weijie-chen/Linear-Algebra-With-Python](https://github.com/weijie-chen/Linear-Algebra-With-Python) - Lecture Notes for Linear Algebra Featuring Python. This series of lecture notes will walk you through all the must-know concepts that set the foundation of data science or advanced quantitative skills
 
 ## deep-learning 
 
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-- [google/magika](https://github.com/google/magika) - Fast and accurate AI powered file content types detection
-- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
-- [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-
-## deno 
-
-- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
-
-## deployment 
-
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-- [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-
-## design 
-
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## developer-tools 
-
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
-- [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) - Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud Native Dev Environment that connects to kubernetes cluster network.
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
-- [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
-- [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
-- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
-
-## development 
-
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## devops 
-
-- [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud Native Dev Environment that connects to kubernetes cluster network.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language Core and API (CNCF Sandbox Project). https://kcl-lang.io
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resource
-- [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
-- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-
-## discord 
-
-- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
-
-## django 
-
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
-- [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+- [megvii-research/megvii-tsinghua-dl-course](https://github.com/megvii-research/megvii-tsinghua-dl-course) - Slides with modifications for a course at Tsinghua University.
+- [pvitoria/ChromaGAN](https://github.com/pvitoria/ChromaGAN) - Official Implementation of ChromaGAN: An Adversarial Approach for Picture Colorization
+- [jinyeying/DC-ShadowNet-Hard-and-Soft-Shadow-Removal](https://github.com/jinyeying/DC-ShadowNet-Hard-and-Soft-Shadow-Removal) - [ICCV2021]"DC-ShadowNet: Single-Image Hard and Soft Shadow Removal Using Unsupervised Domain-Classifier Guided Network", https://arxiv.org/abs/2207.10434
+- [ZouShilong1024/CycleDiff](https://github.com/ZouShilong1024/CycleDiff) - Code for TIP2026 paper: CycleDiff: Cycle Diffusion Models for Unpaired Image-to-image Translation
+- [bupt-ai-cz/BCI](https://github.com/bupt-ai-cz/BCI) - BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix
+- [yeungchenwa/FontDiffuser](https://github.com/yeungchenwa/FontDiffuser) - [AAAI2024] FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning
+- [NWPU-LHH/WFLM-GAN](https://github.com/NWPU-LHH/WFLM-GAN) - WFLM-GAN：Multiscale Generative Adversarial Network Based on Wavelet Feature Learning for SAR-to-Optical Image Translation
+- [NICALab/STABLE](https://github.com/NICALab/STABLE) - Preserving Spatial and Quantitative Information in Unpaired Biomedical Image-to-Image Translation
+- [harry7557558/Graphics](https://github.com/harry7557558/Graphics) - Source files for my experiments not limited to computer graphics.
+- [nachifur/MulimgViewer](https://github.com/nachifur/MulimgViewer) - MulimgViewer is a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching.
+- [steq28/e2gan](https://github.com/steq28/e2gan) - E2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation
+- [snap-research/CAT](https://github.com/snap-research/CAT) - [CVPR 2021] Teachers Do More Than Teach: Compressing Image-to-Image Models (CAT)
+- [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
+- [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
+- [Kaminyou/Kernelized-Instance-Normalization](https://github.com/Kaminyou/Kernelized-Instance-Normalization) - [ECCV 2022] Official implementation of "Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization"
+- [lucidrains/pixel-level-contrastive-learning](https://github.com/lucidrains/pixel-level-contrastive-learning) - Implementation of Pixel-level Contrastive Learning, proposed in the paper "Propagate Yourself", in Pytorch
+- [JarrentWu1031/CCPL](https://github.com/JarrentWu1031/CCPL) - [ECCV 2022 Oral] Official Pytorch implementation of CCPL and SCTNet
+- [Reyhanehne/CVF-SID_PyTorch](https://github.com/Reyhanehne/CVF-SID_PyTorch) - Official implementation of the paper "CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image" (CVPR 2022)
+- [alpc91/NICE-GAN-pytorch](https://github.com/alpc91/NICE-GAN-pytorch) - Official PyTorch implementation of NICE-GAN:  Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation
+- [ExplainableML/BayesCap](https://github.com/ExplainableML/BayesCap) - (ECCV 2022) BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen Neural Networks
+- [Royalvice/DocDiff](https://github.com/Royalvice/DocDiff) - ACM Multimedia 2023: DocDiff: Document Enhancement via Residual Diffusion Models. Also contains 1597 red seals in Chinese scenes, along with their corresponding binary masks.
+- [dali92002/DE-GAN](https://github.com/dali92002/DE-GAN) - Document Image Enhancement with GANs - TPAMI journal
+- [Jzy2017/TOPAL](https://github.com/Jzy2017/TOPAL) - TCSVT 2022 | Target Oriented Perceptual Adversarial Fusion Network for Underwater Image Enhancement.
+- [kkanshul/finegan](https://github.com/kkanshul/finegan) - FineGAN: Unsupervised Hierarchical Disentanglement for Fine-grained Object Generation and Discovery
+- [FilippoBotti/Avoiding-Shortcuts-in-Unpaired-Image-to-Image-Translation](https://github.com/FilippoBotti/Avoiding-Shortcuts-in-Unpaired-Image-to-Image-Translation) - This repository contains the PyTorch code for our ICIAP 2021 paper “Avoiding Shortcuts in Unpaired Image-to-Image Translation”.
+- [SamPujade/image-colorization](https://github.com/SamPujade/image-colorization) - Landscape and face image colorization with Generative Adversarial Networks (GANs)
+- [modelbox-ai/modelbox](https://github.com/modelbox-ai/modelbox) - A high performance, high expansion, easy to use framework for AI application. 为AI应用的开发者提供一套统一的高性能、易用的编程框架，快速基于AI全栈服务、开发跨端边云的AI行业应用，支持GPU，NPU加速。
+- [vt-vl-lab/Guided-pix2pix](https://github.com/vt-vl-lab/Guided-pix2pix) - [ICCV 2019] Guided Image-to-Image Translation with Bi-Directional Feature Transformation
+- [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
+- [dongheehand/MemoPainter-PyTorch](https://github.com/dongheehand/MemoPainter-PyTorch) - An unofficial implementation of MemoPainter(Coloring With Limited Data:  Few-shot Colorization via Memory Augmented Networks) using PyTorch framework.
+- [knazeri/edge-connect](https://github.com/knazeri/edge-connect) - EdgeConnect: Structure Guided Image Inpainting using Edge Prediction, ICCV  2019 https://arxiv.org/abs/1901.00212
+- [djosix/IconFlow](https://github.com/djosix/IconFlow) - Code for "Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization", CVPR 2022.
+- [kunheek/style-aware-discriminator](https://github.com/kunheek/style-aware-discriminator) - CVPR 2022 - Official PyTorch implementation of "A Style-Aware Discriminator for Controllable Image Translation"
+- [delta6189/Anime-Sketch-Colorizer](https://github.com/delta6189/Anime-Sketch-Colorizer) - Automatic Sketch Colorization with reference image
+- [eliahuhorwitz/DeepSIM](https://github.com/eliahuhorwitz/DeepSIM) - Official PyTorch implementation of the paper: "DeepSIM: Image Shape Manipulation from a Single Augmented Training Sample" (ICCV 2021 Oral)
+- [giddyyupp/ganilla](https://github.com/giddyyupp/ganilla) - Official Pytorch implementation of GANILLA
+- [advimman/HiDT](https://github.com/advimman/HiDT) - Official repository for the paper "High-Resolution Daytime Translation Without Domain Labels" (CVPR2020, Oral)
+- [jolibrain/joliGEN](https://github.com/jolibrain/joliGEN) - Generative AI Image and Video Toolset with GANs and Diffusion for Real-World Applications
+- [gunahn/StyleGAN2-ADA-pytorch-for-gray-images](https://github.com/gunahn/StyleGAN2-ADA-pytorch-for-gray-images) - This is my code for StlyeGAN2-ADA-PyTorch for gray images.
+- [GaParmar/img2img-turbo](https://github.com/GaParmar/img2img-turbo) - One-step image-to-image with Stable Diffusion turbo: sketch2image, day2night, and more
+- [ericsujw/InstColorization](https://github.com/ericsujw/InstColorization) - 
+- [ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-](https://github.com/ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-) - A. Moghimi, M. Welzel, T. Celik, and T. Schlurmann, "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Rem
+- [mahmoudnafifi/HistoGAN](https://github.com/mahmoudnafifi/HistoGAN) - Reference code for the paper HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms (CVPR 2021).
+- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+- [aiff22/PyNET-PyTorch](https://github.com/aiff22/PyNET-PyTorch) - Generating RGB photos from RAW image files with PyNET (PyTorch)
+- [mahmoudnafifi/SIIE](https://github.com/mahmoudnafifi/SIIE) - Sensor-Independent Illumination Estimation for DNN Models (BMVC 2019)
+- [Ha0Tang/AttentionGAN](https://github.com/Ha0Tang/AttentionGAN) - AttentionGAN for Unpaired Image-to-Image Translation & Multi-Domain Image-to-Image Translation
+- [msracver/Deep-Exemplar-based-Colorization](https://github.com/msracver/Deep-Exemplar-based-Colorization) - The source code of "Deep Exemplar-based Colorization".
+- [dailenson/One-DM](https://github.com/dailenson/One-DM) - Official Code for ECCV 2024 paper — One-Shot Diffusion Mimicker for Handwritten Text Generation
+- [1adrianb/face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch
+- [Algolzw/daclip-uir](https://github.com/Algolzw/daclip-uir) - [ICLR 2024] Controlling Vision-Language Models for Universal Image Restoration. 5th place in the NTIRE 2024 Restore Any Image Model in the Wild Challenge.
+- [Maclory/Deep-Iterative-Collaboration](https://github.com/Maclory/Deep-Iterative-Collaboration) - Pytorch implementation of Deep Face Super-Resolution with Iterative Collaboration between Attentive Recovery and Landmark Estimation (CVPR 2020)
+- [xuxy09/RawSR](https://github.com/xuxy09/RawSR) - Exploiting raw images for real-scene super-resolution, TPAMI 2021
+- [jinyeying/RaindropClarity](https://github.com/jinyeying/RaindropClarity) - [ECCV2024] "Raindrop Clarity: A Dual-Focused Dataset for Day and Night Raindrop Removal", https://arxiv.org/abs/2407.16957
+- [prasunroy/stefann](https://github.com/prasunroy/stefann) - :fire: [CVPR 2020] STEFANN: Scene Text Editor using Font Adaptive Neural Network (official code).
+- [RQ-Wu/RIDCP_dehazing](https://github.com/RQ-Wu/RIDCP_dehazing) - [CVPR 2023] | RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors
+- [jinyeying/nighttime_dehaze](https://github.com/jinyeying/nighttime_dehaze) - [ACMMM2023] "Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution", https://arxiv.org/abs/2308.01738
+- [Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild. Our new online demo is also released at suppixel.ai.
+- [mhamilton723/STEGO](https://github.com/mhamilton723/STEGO) - Unsupervised Semantic Segmentation by Distilling Feature Correspondences
+- [frobertpixto/hand-drawn-shapes-dataset](https://github.com/frobertpixto/hand-drawn-shapes-dataset) - Hand-drawn Shapes (HDS) Dataset. Images like Rectangles, Ellipses and Triangles
+- [alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data](https://github.com/alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data) - Using synthetic data in combination with Deep Learning, to determine if a system can be made that will be able to recognise and classify correctly real traffic signs.
+- [mv-lab/AISP](https://github.com/mv-lab/AISP) - AI Image Signal Processing and Computational Photography. Official library for NTIRE (CVPR) and AIM (ICCV/ECCV) Challenges. You will find Learned ISPs, RAW Restoration-Upsampling-Reconstruction, Image
+- [adobe-research/beacon-aug](https://github.com/adobe-research/beacon-aug) - Cross-library augmentation toolbox supporting 300 operators over 8 libraries + AI transforms
+- [mahmoudnafifi/WB_color_augmenter](https://github.com/mahmoudnafifi/WB_color_augmenter) - WB color augmenter improves the accuracy of image classification and image semantic segmentation methods by emulating different WB effects  (ICCV 2019) [Python & Matlab].
+- [MarkMoHR/Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) - :books: A collection of Deep Learning based Image Colorization and Video Colorization papers.
+- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
+- [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
+- [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
+- [Srameo/LED](https://github.com/Srameo/LED) - [ICCV 2023] Lighting Every Darkness in Two Pairs: A Calibration-Free Pipeline for RAW Denoising && [Arxiv 2023] Make Explicit Calibration Implicit: Calibrate Denoiser Instead of the Noise Model
+- [samuelyu2002/ImVisible](https://github.com/samuelyu2002/ImVisible) - ImVisible: Pedestrian Traffic Light (PTL) Dataset, Lightweight CNN (LytNet), and Mobile Application for the Visually Impaired (CAIP '19, ICCV Workshops '19)
+- [MyNiuuu/VCSD](https://github.com/MyNiuuu/VCSD) - [CVPR 2023] Visibility Constrained Wide-band Illumination Spectrum Design for Seeing-in-the-Dark
+- [cszn/KAIR](https://github.com/cszn/KAIR) - Image Restoration Toolbox (PyTorch). Training and testing codes for DPIR, USRNet, DnCNN, FFDNet, SRMD, DPSR, BSRGAN, SwinIR
+- [jakc4103/DFQ](https://github.com/jakc4103/DFQ) - PyTorch implementation of Data Free Quantization Through Weight Equalization and Bias Correction.
+- [WangQvQ/YOLOMagic](https://github.com/WangQvQ/YOLOMagic) - YOLO Magic🪄 is an extension based on Ultralytics' YOLOv5, designed to provide more powerful functionality and simpler operations for visual tasks.
+- [microsoft/VoTT](https://github.com/microsoft/VoTT) - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
+- [junyanz/interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization) - Deep learning software for colorizing black and white images with a few clicks.
+- [CGLab-GIST/RIDFnF](https://github.com/CGLab-GIST/RIDFnF) - An official source code of AAAI 2023 paper, "Robust Image Denoising of No-Flash Images Guided by Consistent Flash Images".
+- [jinyeying/night-enhancement](https://github.com/jinyeying/night-enhancement) - [ECCV2022] "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",  https://arxiv.org/abs/2207.10564
+- [MegEngine/MegCC](https://github.com/MegEngine/MegCC) - MegCC是一个运行时超轻量，高效，移植简单的深度学习模型编译器
+- [hellloxiaotian/CFSRCNN](https://github.com/hellloxiaotian/CFSRCNN) - Coarse-to-Fine CNN for Image Super-Resolution (IEEE Transactions on Multimedia,2021)
+- [murufeng/Awesome-AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm) - 人工智能算法方面的综合资料合集:包括求职面试、机器学习、深度学习、强化学习等方面的资料和代码
+- [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
+- [NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP) - 此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
+- [Efficient-ML/Awesome-Model-Quantization](https://github.com/Efficient-ML/Awesome-Model-Quantization) - A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (pape
+- [aitorzip/PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN) - A clean and readable Pytorch implementation of CycleGAN
+- [codeslake/IFAN](https://github.com/codeslake/IFAN) - [CVPR 2021] Official PyTorch Implementation for "Iterative Filter Adaptive Network for Single Image Defocus Deblurring"
+- [m-tassano/dvdnet](https://github.com/m-tassano/dvdnet) - DVDnet: A Simple and Fast Network for Deep Video Denoising
+- [aiff22/PyNET-Bokeh](https://github.com/aiff22/PyNET-Bokeh) - Rendering Realistic Bokeh Images with PyNET
+- [cydonia999/Learning_to_See_in_the_Dark_PyTorch](https://github.com/cydonia999/Learning_to_See_in_the_Dark_PyTorch) - Learning to See in the Dark in PyTorch
+- [centreborelli/mf2f](https://github.com/centreborelli/mf2f) - Self-supervised training for blind multi-frame video denoising
+- [soumik12345/Zero-DCE](https://github.com/soumik12345/Zero-DCE) - Pytorch implementation of Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement
+- [pminhtam/MIRnet_SIDD](https://github.com/pminhtam/MIRnet_SIDD) - Pytorch implement "Learning Enriched Features for Real Image Restoration and Enhancement"
+- [zzh-tech/RSCD](https://github.com/zzh-tech/RSCD) - [CVPR2021] Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes
+- [KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN) - Image Deblurring using Generative Adversarial Networks
+- [hejingwenhejingwen/CResMD](https://github.com/hejingwenhejingwen/CResMD) - (ECCV 2020) Interactive Multi-Dimension Modulation with Dynamic Controllable Residual Learning for Image Restoration
+- [codeslake/DMENet](https://github.com/codeslake/DMENet) - [CVPR 2019] Official TensorFlow Implementation for "Deep Defocus Map Estimation using Domain Adaptation"
+- [ialhashim/DenseDepth](https://github.com/ialhashim/DenseDepth) - High Quality Monocular Depth Estimation via Transfer Learning
+- [nianticlabs/stereo-from-mono](https://github.com/nianticlabs/stereo-from-mono) - [ECCV 2020] Learning stereo from single images using monocular depth estimation networks
+- [richzhang/colorization-pytorch](https://github.com/richzhang/colorization-pytorch) - PyTorch reimplementation of Interactive Deep Colorization
 
 ## docker 
 
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
-- [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud Native Dev Environment that connects to kubernetes cluster network.
-- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-- [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-- [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resource
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
-- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
-- [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
-- [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
-- [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
-- [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
-- [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
-- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
-- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
-- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+- [a-nau/synthetic-dataset-generation](https://github.com/a-nau/synthetic-dataset-generation) - Easily create an instance segmentation dataset from an existing pool of objects of interest, distractor objects and background images. Easy configuration, diverse image compositions, multiple blending
+- [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
 
-## documentation 
+## font 
 
-- [rootsongjc/eng-practices](https://github.com/rootsongjc/eng-practices) - 谷歌工程实践文档
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-
-## dotnet 
-
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-
-## education 
-
-- [Kalmaegi/computer-book-list](https://github.com/Kalmaegi/computer-book-list) - 一个综合了豆瓣，goodreads综合评分的计算机书籍书单
-
-## electron 
-
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-
-## elixir 
-
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
-
-## embedded 
-
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-
-## emoji 
-
-- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-
-## english 
-
-- [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-- [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
-
-## es6 
-
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
-
-## finance 
-
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-
-## firebase 
-
-- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-
-## firefox 
-
-- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
-- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
-
-## flask 
-
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-
-## flutter 
-
-- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
-- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-
-## flutter-apps 
-
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+- [ueoo/AGIS-Net](https://github.com/ueoo/AGIS-Net) - [SIGGRAPH Asia 2019] Artistic Glyph Image Synthesis via One-Stage Few-Shot Learning
 
 ## framework 
 
-- [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
-- [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
-- [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
-- [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
-- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
-- [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
-- [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
-- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
-- [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
-- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-
-## frontend 
-
-- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-
-## game 
-
-- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-
-## gamedev 
-
-- [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
+- [modelbox-ai/modelbox](https://github.com/modelbox-ai/modelbox) - A high performance, high expansion, easy to use framework for AI application. 为AI应用的开发者提供一套统一的高性能、易用的编程框架，快速基于AI全栈服务、开发跨端边云的AI行业应用，支持GPU，NPU加速。
 
 ## generative-ai 
 
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
-- [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
-- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+- [huggingface/instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) - Code for instruction-tuning Stable Diffusion.
 
 ## git 
 
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
-- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+- [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
 
 ## github 
 
-- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
-
-## github-api 
-
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
+- [feng2208/github-hosts](https://github.com/feng2208/github-hosts) - 加速 github。
 
 ## go 
 
-- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
-- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
-- [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go
-- [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-- [samber/slog-multi](https://github.com/samber/slog-multi) - 🚨 Design workflows of slog handlers: pipeline, middleware, fanout, routing, failover, load balancing...
-- [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
-- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater) - Automatic container image update for Argo CD
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
-- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
-- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-- [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
-- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
-- [wechatpay-apiv3/wechatpay-go](https://github.com/wechatpay-apiv3/wechatpay-go) - 微信支付 APIv3 的官方 Go Library
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-- [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
-- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
-- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
-- [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
-- [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resource
-- [silenceper/wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go （微信SDK：简单、易用）
-- [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
-- [connectrpc/connect-go](https://github.com/connectrpc/connect-go) - The Go implementation of Connect: Protobuf RPC that works.
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.
-- [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP, REST, and SSE client library for Go
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
-- [homeport/havener](https://github.com/homeport/havener) - /ˈheɪvənə/ - Think of it as a swiss army knife for Kubernetes tasks
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Go implementation of JSON Web Tokens (JWT).
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
-- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-- [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
-- [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
-- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
-- [IBM/sarama](https://github.com/IBM/sarama) - Sarama is a Go library for Apache Kafka.
-- [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
-- [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
-- [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
-- [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
-- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
-- [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
-- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
-- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
-- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
-- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
-- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
-- [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
-- [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [golang/go](https://github.com/golang/go) - The Go programming language
 
 ## golang 
 
-- [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
-- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
-- [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-- [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
-- [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
-- [samber/slog-multi](https://github.com/samber/slog-multi) - 🚨 Design workflows of slog handlers: pipeline, middleware, fanout, routing, failover, load balancing...
-- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater) - Automatic container image update for Argo CD
-- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end realtime stack for connecting humans and AI
-- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
-- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
-- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-- [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
-- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
-- [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
-- [wechatpay-apiv3/wechatpay-go](https://github.com/wechatpay-apiv3/wechatpay-go) - 微信支付 APIv3 的官方 Go Library
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
-- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
-- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-- [go-faker/faker](https://github.com/go-faker/faker) - Go (Golang) Fake Data Generator for Struct, previously https://github.com/bxcodec/faker
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
-- [treeverse/lakeFS](https://github.com/treeverse/lakeFS) - lakeFS - Data version control for your data lake | Git for data
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
-- [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
-- [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resource
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
-- [silenceper/wechat](https://github.com/silenceper/wechat) - WeChat SDK for Go （微信SDK：简单、易用）
-- [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
-- [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
-- [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-- [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
-- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
-- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
-- [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
-- [go-pay/gopay](https://github.com/go-pay/gopay) - 微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
-- [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP, REST, and SSE client library for Go
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Go implementation of JSON Web Tokens (JWT).
-- [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
-- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
-- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-- [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
-- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
-- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
-- [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
-- [sideshow/apns2](https://github.com/sideshow/apns2) - ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-- [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-- [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
-- [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
-- [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
-- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
-- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
-- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
-- [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
-- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
-- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
-- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
-- [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
-- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
-- [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [golang/go](https://github.com/golang/go) - The Go programming language
-
-## good-first-issue 
-
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 
 ## google 
 
-- [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
-- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
-
-## graphql 
-
-- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-
-## gui 
-
-- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
-
-## hacking 
-
-- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
-
-## hacktoberfest 
-
-- [evilmartians/lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
-- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
-- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
-- [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s) - A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl
-- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
-- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - The open source codebase powering HuggingChat
-- [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
-- [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
-- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
-- [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated Query Engine for AI - The only MCP Server you'll ever need
-- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
-- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-- [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-- [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
-- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
-- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
-- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [go-co-op/gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-- [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP, REST, and SSE client library for Go
-- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
-- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
-- [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
-- [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [darccio/mergo](https://github.com/darccio/mergo) - Mergo: merging Go structs and maps since 2013
-- [devicekit/DeviceKit](https://github.com/devicekit/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes
-- [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
-- [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
-- [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
-- [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
-- [ory/keto](https://github.com/ory/keto) - The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, clo
-- [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
-- [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
-- [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
-- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-- [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
-- [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
-- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
-- [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
-- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [ipython/ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
-- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
+- [sukkritsharmaofficial/SeeInDark](https://github.com/sukkritsharmaofficial/SeeInDark) - Learning to See in the Dark using pytorch
 
 ## haskell 
 
-- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-
-## home-assistant 
-
-- [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
-
-## homebrew 
-
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
-
-## html 
-
-- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
-- [scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
-- [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
-
-## html5 
-
-- [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
-- [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
-
-## http 
-
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
-- [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
-- [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
-- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-
-## https 
-
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- [damianfral/colortransfer](https://github.com/damianfral/colortransfer) - A small tool to try to transfer colors between images.
 
 ## image-processing 
 
-- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
-- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
-
-## information-gathering 
-
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-
-## instagram 
-
-- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+- [lixinustc/Awesome-diffusion-model-for-image-processing](https://github.com/lixinustc/Awesome-diffusion-model-for-image-processing) - one summary of diffusion-based image processing, including restoration, enhancement, coding, quality assessment
+- [vitorsr/exact-histogram-specification](https://github.com/vitorsr/exact-histogram-specification) - Fast implementation of "Exact Histogram Specification" by Coltuc et al.
+- [StefanoD/ExactHistogramSpecification](https://github.com/StefanoD/ExactHistogramSpecification) - Exact histogram matching implementation of Dinu Coltuc et al.
+- [elimkwan/Bilateral-Guided-Upsampling](https://github.com/elimkwan/Bilateral-Guided-Upsampling) - A python implementation of Bilateral Guided Upsampling for accelerating image processing
+- [mzur/pyJBU](https://github.com/mzur/pyJBU) - A Python implementation of Joint Bilateral Upsampling
+- [setanarut/decompose](https://github.com/setanarut/decompose) - Decompose image into layers (Fast Soft Color Segmentation)
+- [freedomofme/SampleRecolor](https://github.com/freedomofme/SampleRecolor) - 基于线性映射模板的色彩转移(Based on Image recoloring using linear template mapping)
+- [sunsided/stroke-width-transform](https://github.com/sunsided/stroke-width-transform) - Python implementation of and experiments with the Stroke Width Transformation and connected components filtering.
+- [Fediory/HVI-CIDNet](https://github.com/Fediory/HVI-CIDNet) - [CVPR2025 && NTIRE2025] HVI: A New Color Space for Low-light Image Enhancement (Official Implementation)
+- [cnyvfang/CORUN-Colabator](https://github.com/cnyvfang/CORUN-Colabator) - [NeurIPS2024 Spotlight] Real-world Image Dehazing with Coherence-based Pseudo Labeling and Cooperative Unfolding Network
+- [compphoto/Intrinsic](https://github.com/compphoto/Intrinsic) - Repo for the papers "Intrinsic Image Decomposition via Ordinal Shading" (TOG 2023) and "Colorful Diffuse Intrinsic Image Decomposition in the Wild" (TOG 2024)
+- [10x-Engineers/Infinite-ISP_ReferenceModel](https://github.com/10x-Engineers/Infinite-ISP_ReferenceModel) - A Python based fixed-point implementation of the Infinite-ISP design for ASIC and FPGA design and verification.
+- [li-plus/seam-carving](https://github.com/li-plus/seam-carving) - A super-fast Python implementation of seam carving algorithm for intelligent image resizing.
+- [CorentinBrtx/image-stitching](https://github.com/CorentinBrtx/image-stitching) - Image Stitching algorithm in Python from scratch with gain compensation and blending
+- [damianfral/colortransfer](https://github.com/damianfral/colortransfer) - A small tool to try to transfer colors between images.
+- [advimman/HiDT](https://github.com/advimman/HiDT) - Official repository for the paper "High-Resolution Daytime Translation Without Domain Labels" (CVPR2020, Oral)
+- [ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-](https://github.com/ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-) - A. Moghimi, M. Welzel, T. Celik, and T. Schlurmann, "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Rem
+- [ohayonguy/PMRF](https://github.com/ohayonguy/PMRF) - [ICLR 2025] Official implementation of Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration
+- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+- [aiff22/PyNET-PyTorch](https://github.com/aiff22/PyNET-PyTorch) - Generating RGB photos from RAW image files with PyNET (PyTorch)
+- [mahmoudnafifi/SIIE](https://github.com/mahmoudnafifi/SIIE) - Sensor-Independent Illumination Estimation for DNN Models (BMVC 2019)
+- [nhauber99/degradr](https://github.com/nhauber99/degradr) - Python library for realistically degrading images.
+- [caiyuanhao1998/PNGAN](https://github.com/caiyuanhao1998/PNGAN) - "Learning to Generate Realistic Noisy Images via Pixel-level Noise-aware Adversarial Training" (NeurIPS 2021)
+- [FusionBrainLab/HairFastGAN](https://github.com/FusionBrainLab/HairFastGAN) - [NeurIPS 2024] The official implementation of HairFastGAN. A framework for virtual hairstyle fitting.
+- [dengyueyun666/Image-Contrast-Enhancement](https://github.com/dengyueyun666/Image-Contrast-Enhancement) - C++ implementation of several image contrast enhancement techniques.
+- [mahmoudnafifi/WB_sRGB](https://github.com/mahmoudnafifi/WB_sRGB) - White balance camera-rendered sRGB images (CVPR 2019) [Matlab & Python]
+- [mikeroyal/ISP-Guide](https://github.com/mikeroyal/ISP-Guide) - Image Signal Processing (ISP) Guide. Learn all about the process of converting an image/video into digital form by performing tasks like noise reduction, filtering, auto exposure, autofocus, HDR corre
+- [RQ-Wu/RIDCP_dehazing](https://github.com/RQ-Wu/RIDCP_dehazing) - [CVPR 2023] | RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors
+- [Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision) - A Collection of Papers and Codes for CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision
+- [Jamy-L/Handheld-Multi-Frame-Super-Resolution](https://github.com/Jamy-L/Handheld-Multi-Frame-Super-Resolution) - Handheld Multi-image Super-resolution [Wronski et al., SIGGRAPH19]. Non-official GPU-supported Python implementation.
+- [haoyuc/MaskedDenoising](https://github.com/haoyuc/MaskedDenoising) - [CVPR 2023] Masked Image Training for Generalizable Deep Image Denoising https://arxiv.org/abs/2303.13132
+- [balcilar/Color-Image-Segmentation-Using-Region-Growing-and-Region-Merging](https://github.com/balcilar/Color-Image-Segmentation-Using-Region-Growing-and-Region-Merging) - Unsupervised color image segmentation using Region Growing and Region Merging
+- [alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data](https://github.com/alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data) - Using synthetic data in combination with Deep Learning, to determine if a system can be made that will be able to recognise and classify correctly real traffic signs.
+- [mv-lab/AISP](https://github.com/mv-lab/AISP) - AI Image Signal Processing and Computational Photography. Official library for NTIRE (CVPR) and AIM (ICCV/ECCV) Challenges. You will find Learned ISPs, RAW Restoration-Upsampling-Reconstruction, Image
+- [octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color](https://github.com/octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color) - Project is an implementation of skin segmentation using OpenCV and dominant color extraction using SciKit-Learn
+- [zchrissirhcz/pixel](https://github.com/zchrissirhcz/pixel) - Image processing library for learning purpose
+- [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON for ARM.
+- [QiuJueqin/fast-openISP](https://github.com/QiuJueqin/fast-openISP) - fast-openISP: a faster re-implementation of openISP
+- [hellloxiaotian/CFSRCNN](https://github.com/hellloxiaotian/CFSRCNN) - Coarse-to-Fine CNN for Image Super-Resolution (IEEE Transactions on Multimedia,2021)
+- [jhfmat/ISP-pipeline-hdrplus](https://github.com/jhfmat/ISP-pipeline-hdrplus) - Denoise,HDR,Isppipeline,Image-processing(图形处理),camera, Isp ,HDRplus
+- [aitorzip/PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN) - A clean and readable Pytorch implementation of CycleGAN
+- [HuiZeng/Image-Adaptive-3DLUT](https://github.com/HuiZeng/Image-Adaptive-3DLUT) - Learning Image-adaptive 3D Lookup Tables for High Performance Photo Enhancement in Real-time
+- [ishit/L1Stabilizer](https://github.com/ishit/L1Stabilizer) - :movie_camera: Video stabilization using L1-norm optimal camera paths.
+- [Lakshya-Kejriwal/Real-Time-Video-Stabilization](https://github.com/Lakshya-Kejriwal/Real-Time-Video-Stabilization) - real time video stabilization using Kalman Filter
+- [ElvinC/gyroflow](https://github.com/ElvinC/gyroflow) - [INACTIVE LEGACY VERSION, FIND THE PROJECT HERE: https://github.com/gyroflow/gyroflow] Video stabilization using IMU motion data from internal or external logs
+- [aiff22/PyNET-Bokeh](https://github.com/aiff22/PyNET-Bokeh) - Rendering Realistic Bokeh Images with PyNET
+- [KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN) - Image Deblurring using Generative Adversarial Networks
+- [cruxopen/openISP](https://github.com/cruxopen/openISP) - Image Signal Processor
+- [DasudaRunner/DeltaCV](https://github.com/DasudaRunner/DeltaCV) - A high performance library for image processing
+- [ufoym/recursive-bf](https://github.com/ufoym/recursive-bf) - A lightweight C++ library for recursive bilateral filtering [Yang, Qingxiong. "Recursive bilateral filtering". European Conference on Computer Vision, 2012].
+- [meisamrf/ivhc-estimator](https://github.com/meisamrf/ivhc-estimator) - Fast image noise estimation (Estimation of Gaussian, signal-dependent, and processed noise in Image and Video Signals)
+- [baidut/OpenCE](https://github.com/baidut/OpenCE) - Contrast Enhancement Techniques for low-light images
 
 ## ios 
 
-- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
-- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Speech Recognition for Apple Silicon
-- [Mijick/Camera](https://github.com/Mijick/Camera) - Camera made simple. The ultimate camera library that significantly reduces implementation time and effort. Written with and for SwiftUI.
-- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
-- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [tuist/tuist](https://github.com/tuist/tuist) - A virtual platform team for mobile devs who ship
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
-- [danielsaidi/RichTextKit](https://github.com/danielsaidi/RichTextKit) - View and edit rich text in Swift & SwiftUI.
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-- [devicekit/DeviceKit](https://github.com/devicekit/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
-- [SFSafeSymbols/SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing
-- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
-- [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Universal API for request permission and get its statuses.
-- [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
-- [appleboy/gorush](https://github.com/appleboy/gorush) - A push notification server written in Go (Golang).
-- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-- [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
-- [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
-
-## iot 
-
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
-- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-
-## ipfs 
-
-- [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
-
-## java 
-
-- [cadence-workflow/cadence](https://github.com/cadence-workflow/cadence) - Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
-- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
-- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
-- [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
+- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+- [binzi56/AlgorithmicPractice](https://github.com/binzi56/AlgorithmicPractice) - 关于LeetCode算法的练习(主要包括剑指Offer题解, 算法概念, 高频题型几个部分)
 
 ## javascript 
 
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
-- [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library
-- [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
-- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
-- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
-- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
-- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) - Import and export tools for elasticsearch & opensearch
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
-- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
-- [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
-
-## js 
-
-- [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
-
-## json 
-
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
-- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
-- [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
-- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
-- [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 ## kotlin 
 
-- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
-
-## kubernetes 
-
-- [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn) - KubeVPN offers a Cloud Native Dev Environment that connects to kubernetes cluster network.
-- [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replicatio
-- [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
-- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
-- [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
-- [argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater) - Automatic container image update for Argo CD
-- [microsoft/retina](https://github.com/microsoft/retina) - eBPF distributed networking observability tool for Kubernetes
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language Core and API (CNCF Sandbox Project). https://kcl-lang.io
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
-- [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s) - A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl
-- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
-- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
-- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - eBPF Observability - Distributed Tracing and Profiling
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resource
-- [clusternet/clusternet](https://github.com/clusternet/clusternet) - [CNCF Sandbox Project] Managing your Kubernetes clusters (including public, private, edge, etc.) as easily as visiting the Internet
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
-- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
-- [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) - Kubernetes-native Job Queueing
-- [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star!
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
-- [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
-- [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
-- [homeport/havener](https://github.com/homeport/havener) - /ˈheɪvənə/ - Think of it as a swiss army knife for Kubernetes tasks
-- [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!
-- [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
-- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
-- [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
-- [harvester/harvester](https://github.com/harvester/harvester) - Open source hyperconverged infrastructure (HCI) software
-- [kyverno/kyverno](https://github.com/kyverno/kyverno) - Cloud Native Policy Management
-- [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
-- [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes
-- [stashed/stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications
-- [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-- [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
-- [argoproj/argo-events](https://github.com/argoproj/argo-events) - Event-driven Automation Framework for Kubernetes
-- [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
-- [kubereboot/kured](https://github.com/kubereboot/kured) - Kubernetes Reboot Daemon
-- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
-- [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
-- [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
-- [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
-- [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
-- [kubeflow/spark-operator](https://github.com/kubeflow/spark-operator) - Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
-- [openkruise/kruise](https://github.com/openkruise/kruise) - Automated management of large-scale applications on Kubernetes (incubating project under CNCF)
-- [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
-- [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
-- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
-- [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
-- [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-- [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
-- [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
-- [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-- [kubernetes/kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-- [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
-- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
-- [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
-- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
-- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
-- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
-- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
-- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-
-## language 
-
-- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language Core and API (CNCF Sandbox Project). https://kcl-lang.io
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [golang/go](https://github.com/golang/go) - The Go programming language
-
-## latex 
-
-- [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 ## learning 
 
-- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
-- [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
-
-## library 
-
-- [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
-- [wechatpay-apiv3/wechatpay-go](https://github.com/wechatpay-apiv3/wechatpay-go) - 微信支付 APIv3 的官方 Go Library
-- [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star!
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go.
-- [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
+- [weaiken/ebook](https://github.com/weaiken/ebook) - classic books of computer science!
 
 ## linux 
 
-- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-- [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
-- [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-- [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+- [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
+- [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
+- [Asadullah-Dal17/Distance_measurement_using_single_camera](https://github.com/Asadullah-Dal17/Distance_measurement_using_single_camera) - using single camera to measure the distance opencv python,
 
 ## llm 
 
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents. OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system p
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
-- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
-- [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) - Tongyi Deep Research, the Leading Open-source Deep Research Agent
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
-- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
-- [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
-- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - The open source codebase powering HuggingChat
-- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
-- [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - eBPF Observability - Distributed Tracing and Profiling
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-
-## login 
-
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
-- [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
-
-## low-code 
-
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-
-## mac 
-
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 ## machine-learning 
 
-- [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
-- [gorse-io/gorse](https://github.com/gorse-io/gorse) - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
-- [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-- [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
-- [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star!
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+- [neosr-project/neosr](https://github.com/neosr-project/neosr) - neosr is an open-source framework for training super-resolution models.
+- [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
+- [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
+- [ExplainableML/BayesCap](https://github.com/ExplainableML/BayesCap) - (ECCV 2022) BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen Neural Networks
+- [Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization](https://github.com/Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization) - ”数学不难“  之  《线性代数不难》上下册，66话题完册；欢迎批评指正
+- [compphoto/Intrinsic](https://github.com/compphoto/Intrinsic) - Repo for the papers "Intrinsic Image Decomposition via Ordinal Shading" (TOG 2023) and "Colorful Diffuse Intrinsic Image Decomposition in the Wild" (TOG 2024)
+- [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
+- [AgaMiko/data-augmentation-review](https://github.com/AgaMiko/data-augmentation-review) - List of useful data augmentation resources. You will find here some not common techniques, libraries, links to GitHub repos, papers, and others.
+- [djosix/IconFlow](https://github.com/djosix/IconFlow) - Code for "Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization", CVPR 2022.
+- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+- [nhauber99/degradr](https://github.com/nhauber99/degradr) - Python library for realistically degrading images.
+- [lucidrains/stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) - Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement
+- [SmirkCao/Lihang](https://github.com/SmirkCao/Lihang) - Statistical learning methods, 统计学习方法(第2版)[李航]  [笔记, 代码, notebook, 参考文献, Errata, lihang]
+- [frobertpixto/hand-drawn-shapes-dataset](https://github.com/frobertpixto/hand-drawn-shapes-dataset) - Hand-drawn Shapes (HDS) Dataset. Images like Rectangles, Ellipses and Triangles
+- [alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data](https://github.com/alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data) - Using synthetic data in combination with Deep Learning, to determine if a system can be made that will be able to recognise and classify correctly real traffic signs.
+- [octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color](https://github.com/octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color) - Project is an implementation of skin segmentation using OpenCV and dominant color extraction using SciKit-Learn
+- [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
+- [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON for ARM.
+- [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
+- [WangQvQ/YOLOMagic](https://github.com/WangQvQ/YOLOMagic) - YOLO Magic🪄 is an extension based on Ultralytics' YOLOv5, designed to provide more powerful functionality and simpler operations for visual tasks.
+- [MegEngine/MegCC](https://github.com/MegEngine/MegCC) - MegCC是一个运行时超轻量，高效，移植简单的深度学习模型编译器
+- [murufeng/Awesome-AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm) - 人工智能算法方面的综合资料合集:包括求职面试、机器学习、深度学习、强化学习等方面的资料和代码
+- [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
+- [NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP) - 此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
+- [PRML/PRMLT](https://github.com/PRML/PRMLT) - Matlab code of machine learning algorithms in book PRML
 
-## macos 
+## matlab 
 
-- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
-- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Speech Recognition for Apple Silicon
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
-- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-- [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
-- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
-- [cirruslabs/tart](https://github.com/cirruslabs/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
-- [danielsaidi/RichTextKit](https://github.com/danielsaidi/RichTextKit) - View and edit rich text in Swift & SwiftUI.
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
-- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
-- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) - A software update framework for macOS
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-- [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
-- [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-
-## markdown 
-
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
-- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-- [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
-- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-- [88250/lute](https://github.com/88250/lute) - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
-- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-
-## mcp 
-
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
-- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
-- [google/adk-go](https://github.com/google/adk-go) - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
-- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-- [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
-- [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated Query Engine for AI - The only MCP Server you'll ever need
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-
-## microservices 
-
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
-- [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
-- [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resource
-- [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
-- [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
-- [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
-- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
-
-## microsoft 
-
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [balcilar/Color-Image-Segmentation-Using-Region-Growing-and-Region-Merging](https://github.com/balcilar/Color-Image-Segmentation-Using-Region-Growing-and-Region-Merging) - Unsupervised color image segmentation using Region Growing and Region Merging
+- [ishit/L1Stabilizer](https://github.com/ishit/L1Stabilizer) - :movie_camera: Video stabilization using L1-norm optimal camera paths.
+- [averyma/active-depth-from-defocus](https://github.com/averyma/active-depth-from-defocus) - Monocular 3D Reconstruction via Active Depth from Defocus
+- [meisamrf/ivhc-estimator](https://github.com/meisamrf/ivhc-estimator) - Fast image noise estimation (Estimation of Gaussian, signal-dependent, and processed noise in Image and Video Signals)
+- [PRML/PRMLT](https://github.com/PRML/PRMLT) - Matlab code of machine learning algorithms in book PRML
 
 ## mobile 
 
-- [Mijick/Camera](https://github.com/Mijick/Camera) - Camera made simple. The ultimate camera library that significantly reduces implementation time and effort. Written with and for SwiftUI.
-- [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
-- [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-
-## mongodb 
-
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-
-## monitoring 
-
-- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
-- [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
-- [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
-- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - OpenObserve is an open-source observability platform for logs, metrics, traces, and frontend monitoring. A cost-effective alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage cost
-- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.
-- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [pyrra-dev/pyrra](https://github.com/pyrra-dev/pyrra) - Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!
-- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
-- [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus!
-- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines.
-- [cortexproject/cortex](https://github.com/cortexproject/cortex) - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-- [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
-- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
-- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
-- [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
-- [influxdata/telegraf](https://github.com/influxdata/telegraf) - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-
-## music 
-
-- [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
-
-## mysql 
-
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
-- [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated Query Engine for AI - The only MCP Server you'll ever need
-- [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in Go.
-- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- [aiff22/PyNET-PyTorch](https://github.com/aiff22/PyNET-PyTorch) - Generating RGB photos from RAW image files with PyNET (PyTorch)
+- [aiff22/PyNET-Bokeh](https://github.com/aiff22/PyNET-Bokeh) - Rendering Realistic Bokeh Images with PyNET
+- [dong-x16/PortraitNet](https://github.com/dong-x16/PortraitNet) - Code for the paper "PortraitNet: Real-time portrait segmentation network for mobile device"  @ CAD&Graphics2019
 
 ## natural-language-processing 
 
-- [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP) - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-
-## nestjs 
-
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
+- [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
 
 ## neural-network 
 
-- [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-
-## nextjs 
-
-- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
-- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+- [divyanshu092/Photorealistic_Style_Transfer](https://github.com/divyanshu092/Photorealistic_Style_Transfer) - Deeper Understanding and Modifications proposed to the High-Resolution Network for Photorealistic Style Transfer
+- [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON for ARM.
+- [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
+- [samuelyu2002/ImVisible](https://github.com/samuelyu2002/ImVisible) - ImVisible: Pedestrian Traffic Light (PTL) Dataset, Lightweight CNN (LytNet), and Mobile Application for the Visually Impaired (CAIP '19, ICCV Workshops '19)
+- [SuperbTUM/RAW-image-denoising](https://github.com/SuperbTUM/RAW-image-denoising) - Image denoising with Bayer augmentation and neural network
+- [KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN) - Image Deblurring using Generative Adversarial Networks
+- [kevinjoseph1995/Depth-from-Defocus-NN](https://github.com/kevinjoseph1995/Depth-from-Defocus-NN) - 
 
 ## nlp 
 
-- [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-- [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP) - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-
-## no-code 
-
-- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
-- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-
-## node 
-
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-
-## nodejs 
-
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
-- [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
-- [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
-- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
-- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
-
-## nosql 
-
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-- [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
-
-## npm 
-
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-- [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
+- [NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP) - 此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
 
 ## numpy 
 
-- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-
-## objective-c 
-
-- [tuist/tuist](https://github.com/tuist/tuist) - A virtual platform team for mobile devs who ship
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-
-## obsidian 
-
-- [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-
-## open-data 
-
-- [jackvale/rectg](https://github.com/jackvale/rectg) - 收录并持续精选 10,000+ 个 Telegram 频道、群组与机器人，分类清晰，搜索即得，帮你省下自己找资源的时间。
+- [teboli/polyblur](https://github.com/teboli/polyblur) - An unofficial Python (Numpy and Pytorch) implementation of "Polyblur:  Removing  mild blur by polynomial reblurring" by Mauricio Delbracio and collaborators.
 
 ## open-source 
 
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
-- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
-- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
-- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+- [mcpp-community/d2mcpp](https://github.com/mcpp-community/d2mcpp) - D2X | Modern C++ Core Language Features - "A C++ tutorial project focused on practical"
 
-## openai 
+## opencv 
 
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
-- [coze-dev/coze-loop](https://github.com/coze-dev/coze-loop) - Next-generation AI Agent Optimization Platform: Cozeloop addresses challenges in AI agent development by providing full-lifecycle management capabilities from development, debugging, and evaluation to
-- [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [livekit/agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
-- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
-- [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/o
-
-## osint 
-
-- [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
+- [ZongXR/AI-training-contest](https://github.com/ZongXR/AI-training-contest) - 2024中国职业技能大赛人工智能训练赛项
+- [dyfcalid/CameraCalibration](https://github.com/dyfcalid/CameraCalibration) - Fisheye or Normal Camera Intrinsic and Extrinsic Calibration. Surround Camera Bird Eye View Generator.
+- [andrewdcampbell/seam-carving](https://github.com/andrewdcampbell/seam-carving) - A fast Python implementation of Seam Carving for Content-Aware Image Resizing.
+- [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
+- [muziing/Traffic-Lights-Classification](https://github.com/muziing/Traffic-Lights-Classification) - HSV色彩空间下的交通灯识别
+- [octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color](https://github.com/octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color) - Project is an implementation of skin segmentation using OpenCV and dominant color extraction using SciKit-Learn
+- [BBuf/Image-processing-algorithm-Speed](https://github.com/BBuf/Image-processing-algorithm-Speed) - opencv
+- [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
+- [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
+- [BBuf/Image-processing-algorithm](https://github.com/BBuf/Image-processing-algorithm) - paper implement
+- [Lakshya-Kejriwal/Real-Time-Video-Stabilization](https://github.com/Lakshya-Kejriwal/Real-Time-Video-Stabilization) - real time video stabilization using Kalman Filter
+- [sahmad98/Distance_measurement_using_single_camera](https://github.com/sahmad98/Distance_measurement_using_single_camera) - Distance Measurement system using single camera
 
 ## others 
 
-- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.
-- [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
-- [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cl
-- [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
-- [vuejs-ai/skills](https://github.com/vuejs-ai/skills) - Agent skills for Vue 3 development
-- [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
-- [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
-- [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
-- [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
-- [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
-- [Universal-Commerce-Protocol/ucp](https://github.com/Universal-Commerce-Protocol/ucp) - Specification and documentation for the Universal Commerce Protocol (UCP)
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
-- [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能
-- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
-- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
-- [google/A2UI](https://github.com/google/A2UI) - 
-- [Yuyz0112/claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse) - A Tool to Visualize Claude Code's LLM Interactions
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
-- [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by perf
-- [dromara/dongle](https://github.com/dromara/dongle) - A simple, semantic and developer-friendly crypto package for golang
-- [yichengchen/ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo) - BiliBili Client Demo for Apple TV (tvOS)
-- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [shanleiguang/vRain](https://github.com/shanleiguang/vRain) - 中文古籍刻本風格直排電子書製作工具 Chinese Ancient eBooks Generator
-- [rancher/rke2](https://github.com/rancher/rke2) - 
-- [MatrixSeven/file-transfer-go](https://github.com/MatrixSeven/file-transfer-go) - Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
-- [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
-- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-- [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-- [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
-- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-- [uber-go/ratelimit](https://github.com/uber-go/ratelimit) - A Go blocking leaky-bucket rate limit implementation
-- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
-- [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
-- [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
-- [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Agent framework and applications built upon Qwen&gt;=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
-- [mao888/golang-guide](https://github.com/mao888/golang-guide) - 「Golang学习+面试指南」一份涵盖大部分 Golang程序员所需要掌握的核心知识。准备 Golang面试，首选 GolangGuide！
-- [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
-- [googleapis/api-linter](https://github.com/googleapis/api-linter) - A linter for APIs defined in protocol buffers.
-- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
-- [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
-- [microsoft/typespec](https://github.com/microsoft/typespec) - 
-- [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
-- [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
-- [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) - The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)
-- [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication feature
-- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
-- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-- [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
-- [grafana/beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of web applications and network metrics
-- [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) - More than just IM 不只是即时通讯( IM )
-- [TangSengDaoDao/TangSengDaoDaoServer](https://github.com/TangSengDaoDao/TangSengDaoDaoServer) - 高颜值 IM 即时通讯,聊天
-- [go-logr/logr](https://github.com/go-logr/logr) - A simple logging interface for Go
-- [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system
-- [willnorris/imageproxy](https://github.com/willnorris/imageproxy) - A caching, resizing image proxy written in Go
-- [apple/swift-http-types](https://github.com/apple/swift-http-types) - Version-independent HTTP currency types for Swift
-- [johnlui/DIYSearchEngine](https://github.com/johnlui/DIYSearchEngine) - 🔍 Go 开发的开源互联网搜索引擎，附教程《自己动手开发互联网搜索引擎》
-- [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command-line tool and Xcode Extension for formatting Swift code
-- [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
-- [XiaoGerGer/zimuzu-yyets-resourcelist](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist) - 人人影视资源列表，排序如下
-- [Tencent/libpag](https://github.com/Tencent/libpag) - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
-- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
-- [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
-- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [klauspost/cpuid](https://github.com/klauspost/cpuid) - CPU feature identification for Go
-- [hashicorp/go-version](https://github.com/hashicorp/go-version) - A Go (golang) library for parsing and verifying versions and version constraints.
-- [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
-- [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
-- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-- [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders) - A framework for Engineering Managers
-- [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
-- [Altinity/clickhouse-backup](https://github.com/Altinity/clickhouse-backup) - Tool for easy backup and restore for ClickHouse® using object storage for backup files.
-- [go-mysql-org/go-mysql](https://github.com/go-mysql-org/go-mysql) - a powerful mysql toolset with Go
-- [cncf/glossary](https://github.com/cncf/glossary) - The CNCF Cloud Native Glossary Project aims to define cloud native concepts in clear and simple language, making them accessible to anyone —  whether they have a technical background or not (https://g
-- [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-- [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
-- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中英文对译版本
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh) - 技术面试最后反问面试官的话
-- [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [Mayandev/where-is-douban250](https://github.com/Mayandev/where-is-douban250) - 🐛 一个爬虫程序，整理了腾讯视频、爱奇艺、优酷、哔哩哔哩等视频网站中，能够观看的「豆瓣电影 Top250 榜单」影片。
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
-- [swiftlang/swift-markdown](https://github.com/swiftlang/swift-markdown) - A Swift package for parsing, building, editing, and analyzing Markdown documents.
-- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [submariner-io/submariner](https://github.com/submariner-io/submariner) - Networking component for interconnecting Pods and Services across Kubernetes clusters.
-- [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
-- [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
-- [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
-- [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
-- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
-- [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-- [appleboy/gin-jwt](https://github.com/appleboy/gin-jwt) - JWT Middleware for Gin framework
-- [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-- [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 
-- [ent/ent](https://github.com/ent/ent) - An entity framework for Go
-- [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-- [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-- [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
-- [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
-- [xtaci/kcptun](https://github.com/xtaci/kcptun) - Reliable UDP Transmission Optimizer based on KCP: Enhancing network efficiency in poor connectivity environments.
-- [swift-server/async-http-client](https://github.com/swift-server/async-http-client) - HTTP client library built on SwiftNIO
-- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
-- [apple/swift-log](https://github.com/apple/swift-log) - A Logging API for Swift
-- [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
-- [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
-- [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
-- [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
-- [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
-- [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
-- [kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) - Static provisioner of local volumes
-- [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) - Specifications for OpenTelemetry
-- [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
-- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
-- [google/pprof](https://github.com/google/pprof) - pprof is a tool for visualization and analysis of profiling data
-- [kubernetes-retired/dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
-- [xiaolai/public-speaking-with-meaning](https://github.com/xiaolai/public-speaking-with-meaning) - 《我也有话要说》—— 普通人的当众讲话技能
-- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
-- [marteinn/The-Big-Username-Blocklist](https://github.com/marteinn/The-Big-Username-Blocklist) - This is a opinionated blocklist of words that you might not like to see used as usernames in your service.
-- [jamiehannaford/what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s) - 🤔  What happens when I type kubectl run?
-- [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
-- [kiali/kiali](https://github.com/kiali/kiali) - Kiali project, observability for the Istio service mesh
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search client for m
-- [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
-- [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
-- [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
-- [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
-- [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
-- [greatghoul/remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
-- [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-- [skyline75489/what-happens-when-zh_CN](https://github.com/skyline75489/what-happens-when-zh_CN) - What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when
-- [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
-- [swiftlang/swift](https://github.com/swiftlang/swift) - The Swift Programming Language
-- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-- [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
-- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [CVI-SZU/FaceBench](https://github.com/CVI-SZU/FaceBench) - [CVPR 2025] FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs
+- [NVlabs/FastGen](https://github.com/NVlabs/FastGen) - NVIDIA FastGen: Fast Generation from Diffusion Models
+- [Luo-Yihong/YOSO](https://github.com/Luo-Yihong/YOSO) - [ICLR 2025] You Only Sample Once: Taming One-Step Text-To-Image Synthesis by Self-Cooperative Diffusion GANs
+- [jp-guo/CODiff](https://github.com/jp-guo/CODiff) - [ICCV'25] Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal
+- [IDKiro/sdxs](https://github.com/IDKiro/sdxs) - SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions
+- [cswry/OSEDiff](https://github.com/cswry/OSEDiff) - [NeurlPS2024] One-Step Effective Diffusion Network for Real-World Image Super-Resolution
+- [fudan-generative-vision/DicFace](https://github.com/fudan-generative-vision/DicFace) - [ICCV2025 Highlight] DicFace: Dirichlet-Constrained Variational Codebook Learning for Temporally Coherent Video Face Restoration
+- [dome272/MaskGIT-pytorch](https://github.com/dome272/MaskGIT-pytorch) - Pytorch implementation of MaskGIT: Masked Generative Image Transformer (https://arxiv.org/pdf/2202.04200.pdf)
+- [SamsungLabs/DT-BFR](https://github.com/SamsungLabs/DT-BFR) - [WACV 2025 (Oral)] Towards Unsupervised Blind Face Restoration using Diffusion Prior
+- [sen-mao/InterLCM](https://github.com/sen-mao/InterLCM) - [ICLR2025] Official Implementations "InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration"
+- [XJTU-LHF/Awesome-Face-Restoration](https://github.com/XJTU-LHF/Awesome-Face-Restoration) - 
+- [woodx9/minimal-embedding-server](https://github.com/woodx9/minimal-embedding-server) - a embedding infer server faster than vllm and sglang
+- [jkwang28/HonestFace](https://github.com/jkwang28/HonestFace) - 
+- [gobunu/OSDHuman](https://github.com/gobunu/OSDHuman) - 
+- [Qualcomm-AI-research/SwiftEdit](https://github.com/Qualcomm-AI-research/SwiftEdit) - Official PyTorch implementation of our CVPR 2025 paper: "SwiftEdit: Lightning Fast Text-guided Image Editing via One-step Diffusion"
+- [Qualcomm-AI-research/clockwork-diffusion](https://github.com/Qualcomm-AI-research/clockwork-diffusion) - 
+- [AMAP-ML/RealQA](https://github.com/AMAP-ML/RealQA) - Next Token Is Enough: Realistic Image Quality and Aesthetic Scoring with Multimodal Large Language Model.
+- [thunderbolt215/UniPercept](https://github.com/thunderbolt215/UniPercept) - UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
+- [bytedance/Q-Insight](https://github.com/bytedance/Q-Insight) - Q-Insight Family: Q-Insight, VQ-Insight and RALI (NeurIPS 2025 Spotlight, AAAI 2026 Oral, and ICLR 2026 Oral)
+- [Huang-ShiRui/Semi-UIR](https://github.com/Huang-ShiRui/Semi-UIR) - Official code for "Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank" (2023 CVPR)
+- [Jiayi-Fu/IPC-Dehaze](https://github.com/Jiayi-Fu/IPC-Dehaze) - [CVPR2025] Iterative Predictor-Critic Code Decoding for Real-World Image Dehazing
+- [FLClab/TA-GAN](https://github.com/FLClab/TA-GAN) - Repository for "Task-Assisted GAN for Resolution Enhancement and Modality Translation in Fluorescence Microscopy"
+- [lewis081/CCL-Net](https://github.com/lewis081/CCL-Net) - two-stage framework based method with cascaded contrastive learning for UIE
+- [GlassyWu/AECR-Net](https://github.com/GlassyWu/AECR-Net) - Contrastive Learning for Compact Single Image Dehazing, CVPR2021
+- [madebyollin/taesd](https://github.com/madebyollin/taesd) - Tiny AutoEncoder for Stable Diffusion (and other image models)
+- [luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model) - Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference
+- [Moongod-Love/WTDiff](https://github.com/Moongod-Love/WTDiff) - Official implementation of the paper "WTDiff: High-Fidelity Weather Translation with One-Step Diffusion"
+- [coffeeNtv/PPT](https://github.com/coffeeNtv/PPT) - Codebase for Patch alignment-based Paired image-to-image Translation (PPT)
+- [Ave001025/UIE_CLIP](https://github.com/Ave001025/UIE_CLIP) - Unveiling the underwater world:CLIP perception model-guided underwater image enhancement
+- [csslc/CCSR](https://github.com/csslc/CCSR) - [TIP2026] Official codes of CCSRv2 and CCSRv1: Improving the Stability and Efficiency of Diffusion Models for Content Consistent Super-Resolution
+- [sony/ctm](https://github.com/sony/ctm) - 
+- [snap-research/InstantRestore](https://github.com/snap-research/InstantRestore) - Official Implementation for "InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention"
+- [NceBoy/NceAlg](https://github.com/NceBoy/NceAlg) - rv1126,rk1808,hisi3516dv300,hisi3559av100,mnn,nnie,npu,vfnet,retinaface,arcface,centernet,ttf,yolox,detect,alg. This is a cross-platform algorithm framework./跨平台异构算法推理框架
+- [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - An app for managing github starred repositories.
+- [NVIDIA/tao_tutorials](https://github.com/NVIDIA/tao_tutorials) - Quick start scripts and tutorial notebooks to get started with TAO Toolkit
+- [ZhexinLiang/CLIP-LIT](https://github.com/ZhexinLiang/CLIP-LIT) - [ICCV 2023, Oral] Iterative Prompt Learning for Unsupervised Backlit Image Enhancement
+- [FreeButUselessSoul/bokehdiff](https://github.com/FreeButUselessSoul/bokehdiff) - This is the official repository for "BokehDiff: Neural Lens Blur with One-Step Diffusion" (ICCV'25).
+- [Retinal-Research/CUNSB-RFIE](https://github.com/Retinal-Research/CUNSB-RFIE) - (WACV 2024) Code for paper:  CUNSB-RFIE: Context-aware Unpaired Neural Schr¨odinger Bridge in Retinal Fundus Image Enhancement
+- [ywxjm/DehazeSB](https://github.com/ywxjm/DehazeSB) - When Schrödinger Bridge Meets Real-World Image Dehazing with Unpaired Training (ICCV2025)
+- [xugao97/AttentionDistillation](https://github.com/xugao97/AttentionDistillation) - [CVPR 2025] Attention Distillation: A Unified Approach to Visual Characteristics Transfer
+- [xudonmao/PairEdit](https://github.com/xudonmao/PairEdit) - 
+- [Westlake-AGI-Lab/Awesome-Style-Transfer-with-Diffusion-Models](https://github.com/Westlake-AGI-Lab/Awesome-Style-Transfer-with-Diffusion-Models) - A curated list of recent style transfer methods with diffusion models
+- [nftblackmagic/catvton-flux](https://github.com/nftblackmagic/catvton-flux) - 
+- [Peyton-Chen/RegionE](https://github.com/Peyton-Chen/RegionE) - [ICLR 2026] The official implementation of "RegionE: Adaptive Region-Aware Generation for Efficient Image Editing"
+- [River-Zhang/ICEdit](https://github.com/River-Zhang/ICEdit) - [NeurIPS 2025] Image editing is worth a single LoRA! 0.1% training data for fantastic image editing! Surpasses GPT-4o in ID persistence~ MoE ckpt released! Only 4GB VRAM is enough to run!
+- [showlab/PhotoDoodle](https://github.com/showlab/PhotoDoodle) - [ICCV 2025] Code Implementation of  "ArtEditor: Learning Customized Instructional Image Editor from Few-Shot Examples"
+- [showlab/OmniConsistency](https://github.com/showlab/OmniConsistency) - The official code implementation of the paper "OmniConsistency: Learning Style-Agnostic Consistency from Paired Stylization Data."
+- [prs-eth/Marigold](https://github.com/prs-eth/Marigold) - [CVPR 2024 - Oral, Best Paper Award Candidate] Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation
+- [gojasper/LBM](https://github.com/gojasper/LBM) - LBM: Latent Bridge Matching for Fast Image-to-Image Translation ✨ (ICCV 2025 Highlight)
+- [Netflix/vmaf](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
+- [shenmintao/V-Log-Alchemy](https://github.com/shenmintao/V-Log-Alchemy) - Turn your Panasonic Lumix camera into a Fujifilm GFX, Leica, ARRI, and more using precise ACES inverse engineering
+- [shenmintao/Raw-Alchemy](https://github.com/shenmintao/Raw-Alchemy) - Bridge the gap between photo and video color grading. Accurately apply any creative LUT to your RAW files with this tool.
+- [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation (AAAI 2025 Oral)
+- [alibaba-damo-academy/T2I-Distill](https://github.com/alibaba-damo-academy/T2I-Distill) - [Tutorial] Few-Step Distillation for Text-to-Image Generation: A Practical Guide
+- [thanhkaist/AttentionResnet](https://github.com/thanhkaist/AttentionResnet) - Classification with backbone Resnet and attentions: SE-Channel Attention, BAM - (Spatial Attention, Channel Attention, Joint Attention), CBAM - (Spatial Attention, Channel Attention, Joint Attention)
+- [changzheng123/L-CAD](https://github.com/changzheng123/L-CAD) - Implementation for "L-CAD: Language-based Colorization with Any-level Descriptions using Diffusion Priors"
+- [CyberAgentAILab/Palette2Image](https://github.com/CyberAgentAILab/Palette2Image) - Official implementation of Exploring Palette based Color Guidance in Diffusion Models, ACM MM 2025.
+- [OmarSZamzam/PixelShuffler](https://github.com/OmarSZamzam/PixelShuffler) - 
+- [chrisway613/SDSB](https://github.com/chrisway613/SDSB) - Simplified Diffusion Schrödinger Bridge
+- [goldbema/WeightedLeastSquaresFilter](https://github.com/goldbema/WeightedLeastSquaresFilter) - Implementation of Z. Farbman, R. Fattal, D. Lischinski, and R. Szeliski, 'Edge-Preserving Decompositions for Multi-Scale Tone and Detail Manipulation' (2008)
+- [peacewang017/shortcut-models-torch](https://github.com/peacewang017/shortcut-models-torch) - Pytorch version implementation of “ICLR '25: One Step Diffusion via Shortcut Models”
+- [amilbhagat/Conditional-Consistency-Models](https://github.com/amilbhagat/Conditional-Consistency-Models) - This repository contains the official implementation and supplementary materials for the research paper "Conditional Consistency Guided Image Translation and Enhancement". It explores advanced consist
+- [Coordi777/ACD_S2ODPM](https://github.com/Coordi777/ACD_S2ODPM) - The official implementation of the paper Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation.
+- [yukara-ikemiya/modified-shortcut-models-pytorch](https://github.com/yukara-ikemiya/modified-shortcut-models-pytorch) - PyTorch implementation of Shortcut Models [Frans, 2025] with little modification
+- [NVlabs/edm](https://github.com/NVlabs/edm) - Elucidating the Design Space of Diffusion-Based Generative Models (EDM)
+- [devrimcavusoglu/dmd](https://github.com/devrimcavusoglu/dmd) - PyTorch implementation of One-step Diffusion with Distribution Matching Distillation
+- [tianweiy/DMD2](https://github.com/tianweiy/DMD2) - (NeurIPS 2024 Oral 🔥) Improved Distribution Matching Distillation for Fast Image Synthesis
+- [1202kbs/GCTM](https://github.com/1202kbs/GCTM) - Official PyTorch implementation of "Generalized Consistency Trajectory Models for Image Manipulation"
+- [Rem105-210/DiffFashion](https://github.com/Rem105-210/DiffFashion) - 
+- [gosha20777/cmKAN](https://github.com/gosha20777/cmKAN) - Color Matching Using Hypernetwork-Based Kolmogorov-Arnold Networks
+- [THUSIGSICLAB/HQG-Net](https://github.com/THUSIGSICLAB/HQG-Net) - 
+- [iMED-Lab/StillGAN](https://github.com/iMED-Lab/StillGAN) - Structure and Illumination Constrained GAN forMedical Image Quality Enhancement
+- [mummmml/Cycle-Retinex](https://github.com/mummmml/Cycle-Retinex) - The source code for "Cycle-Retinex: Unpaired Low-light Image Enhancement via Retinex-inline CycleGAN".
+- [YaoxinHuang/WTUNet](https://github.com/YaoxinHuang/WTUNet) - First  fully Wavelet Transformation-based U-Net.
+- [GeorgeEskandar/USIS-Unsupervised-Semantic-Image-Synthesis](https://github.com/GeorgeEskandar/USIS-Unsupervised-Semantic-Image-Synthesis) - 
+- [xiaoyu258/DocProj](https://github.com/xiaoyu258/DocProj) - Document Rectification and Illumination Correction using a Patch-based CNN
+- [eezkni/FDL](https://github.com/eezkni/FDL) - [CVPR-2024] Official Pytorch implementation of "Misalignment-Robust Frequency Distribution Loss for Image Transformation"
+- [BurguerJohn/global_perceptual_similarity_loss](https://github.com/BurguerJohn/global_perceptual_similarity_loss) - 
+- [little51/dinov3-samples](https://github.com/little51/dinov3-samples) - dinov3例子
+- [harrytea/UDoc-GAN](https://github.com/harrytea/UDoc-GAN) - Official PyTorch implementation for ACM MM22 "UDoc-GAN: Unpaired Document Illumination Correction with Background Light Prior"
+- [fh2019ustc/DocTr](https://github.com/fh2019ustc/DocTr) - The official code for “DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction”, ACM MM, Oral Paper, 2021.
+- [mazurowski-lab/ContourDiff](https://github.com/mazurowski-lab/ContourDiff) - Contour-Guided Diffusion Models for Unpaired Image-to-Image Translation
+- [cabooster/UTOM](https://github.com/cabooster/UTOM) - Unsupervised content-preserving transformation for optical microscopy
+- [hieuvmphan/MaskGAN](https://github.com/hieuvmphan/MaskGAN) - MaskGAN for unpaired MR-to-CT synthesis. Official implementation of MICCAI 2023
+- [chandrasekaraditya/PhISH-Net](https://github.com/chandrasekaraditya/PhISH-Net) - Official Implementation for "PhISH-Net: Physics Inspired System for High Resolution Underwater Image Enhancement"
+- [wwxb2012/digital_staining_knowledge_distillation](https://github.com/wwxb2012/digital_staining_knowledge_distillation) - 
+- [Kid-Liet/Reg-GAN](https://github.com/Kid-Liet/Reg-GAN) - 
+- [zhu-xlab/UCDFormer](https://github.com/zhu-xlab/UCDFormer) - Code for TGRS paper "UCDFormer: Unsupervised Change Detection Using a Transformer-driven Image Translation"
+- [n-kubiak/S3R-Net](https://github.com/n-kubiak/S3R-Net) - Code repo for "S3R-Net: A Single-Stage Approach to Self-Supervised Shadow Removal" (NTIRE workshop @ CVPR 2024)
+- [suhas-srinath/undive](https://github.com/suhas-srinath/undive) - Official repository for our paper titled "UnDIVE: Generalized Underwater Video Enhancement Using Generative Priors"
+- [zzr-idam/4KDehazing](https://github.com/zzr-idam/4KDehazing) - 
+- [SystemErrorWang/Joint-Bilateral-Photorealistic-Style-Transfer](https://github.com/SystemErrorWang/Joint-Bilateral-Photorealistic-Style-Transfer) - An unofficial implementation of paper "Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer"
+- [CVL-UESTC/BPAM](https://github.com/CVL-UESTC/BPAM) - ICCV2025-Learning Pixel-adaptive Multi-layer Perceptrons for Real-time Image
+- [AFeng-x/PixWizard](https://github.com/AFeng-x/PixWizard) - [ICLR2025] A versatile image-to-image visual assistant, designed for image generation, manipulation, and translation based on free-from user instructions.
+- [sevenHsu/FaceMask_CelebA](https://github.com/sevenHsu/FaceMask_CelebA) - Simulated masked face with dataset CelebA
+- [chenjunkai2018/Photoshop_algorithm](https://github.com/chenjunkai2018/Photoshop_algorithm) - the Photoshop algorithm
+- [SJLeo/DMAD](https://github.com/SJLeo/DMAD) - Pytorch implementation of our paper accepted by IEEE TMM, 2022 --Learning Efficient GANs for Image Translation via Differentiable Masks and co-Attention Distillation
+- [bytedance/OMGD](https://github.com/bytedance/OMGD) - Online Multi-Granularity Distillation for GAN Compression (ICCV2021)
+- [NVlabs/RADIO](https://github.com/NVlabs/RADIO) - Official repository for "AM-RADIO: Reduce All Domains Into One"
+- [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
+- [ArchipLab-LinfengZhang/wkd-datasets](https://github.com/ArchipLab-LinfengZhang/wkd-datasets) - This repository provides the dataset used in our cvpr2022 paper - wavelet knowledge distillation
+- [zhengchen1999/QuantDemoire](https://github.com/zhengchen1999/QuantDemoire) - PyTorch code for our paper "QuantDemoire: Quantization with Outlier Aware for Image Demoiréing"
+- [VectorSpaceLab/EditScore](https://github.com/VectorSpaceLab/EditScore) - EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling
+- [homm/color-filters-reconstruction](https://github.com/homm/color-filters-reconstruction) - Very accurate color filters reconstruction tools based on 3D color LUTs
+- [yulinghan/ImageQualityEnhancement](https://github.com/yulinghan/ImageQualityEnhancement) - 
+- [yz-wang/UCL-Dehaze](https://github.com/yz-wang/UCL-Dehaze) - Image dehazing
+- [LingLIx/SCL-LLE](https://github.com/LingLIx/SCL-LLE) - SCL-LLE code
+- [autonomousvision/projected-gan](https://github.com/autonomousvision/projected-gan) - [NeurIPS'21] Projected GANs Converge Faster
+- [little-misfit/GRAG-Image-Editing](https://github.com/little-misfit/GRAG-Image-Editing) - https://little-misfit.github.io/GRAG-Image-Editing/
+- [Mid-Push/santa](https://github.com/Mid-Push/santa) - Unpaired Image-to-Image Translation with Shortest Path Regularization
+- [FuyaLuo/PearlGAN](https://github.com/FuyaLuo/PearlGAN) - Image translation from Nighttime thermal infrared images to Daytime color images.
+- [alexandonian/contrastive-feature-loss](https://github.com/alexandonian/contrastive-feature-loss) - PyTorch implementation of Contrastive Feature Loss for Image Prediction (AIM Workshop at ICCV 2021)
+- [fnzhan/MoNCE](https://github.com/fnzhan/MoNCE) - [CVPR 2022] Modulated Contrast for Versatile Image Synthesis
+- [modelscope/modelscope-classroom](https://github.com/modelscope/modelscope-classroom) - 
+- [immanuelsch/gegl-HDR-ColorMapper](https://github.com/immanuelsch/gegl-HDR-ColorMapper) - Algorithm for chromatic consistency during luminance re-mapping.
+- [cyclomon/DiffuseIT](https://github.com/cyclomon/DiffuseIT) - Official repository of "Diffusion-based Image Translation using Disentangled Style and Content Representation" ( ICLR 2023 )
+- [galaxygliese/Latent-DDBM](https://github.com/galaxygliese/Latent-DDBM) - Simplified implementation of DDBM.
+- [000linlin/ConsisLoRA](https://github.com/000linlin/ConsisLoRA) - Official Implementation of ConsisLoRA
+- [wd1511/Awesome-Diffusion-for-Image-Translation](https://github.com/wd1511/Awesome-Diffusion-for-Image-Translation) - A collection of papers on Diffusion for Image-to-Image Translation and Style Transfer
+- [xuekt98/BBDM](https://github.com/xuekt98/BBDM) - BBDM: Image-to-image Translation with Brownian Bridge Diffusion Models
+- [alexzhou907/DDBM](https://github.com/alexzhou907/DDBM) - 
+- [THU-LYJ-Lab/dmt](https://github.com/THU-LYJ-Lab/dmt) - [TPAMI 2024] Official PyTorch implementation of A Diffusion Model Translator for Efficient Image-to-Image Translation
+- [suxuann/ddib](https://github.com/suxuann/ddib) - Dual Diffusion Implicit Bridges for Image-to-Image Translation. ICLR 2023.
+- [Yuxinn-J/Scenimefy](https://github.com/Yuxinn-J/Scenimefy) - [ICCV 2023] Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation
+- [imlixinyang/HiSD](https://github.com/imlixinyang/HiSD) - Code for "Image-to-image Translation via Hierarchical Style Disentanglement" (CVPR 2021 Oral).
+- [zhaoyuzhi/Reference-Based-Sketch-Image-Colorization-ImageNet](https://github.com/zhaoyuzhi/Reference-Based-Sketch-Image-Colorization-ImageNet) - PyTorch implementation of CVPR 2020 paper (Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence) and pre-trained model on ImageNet dataset
+- [csguoh/ReFIR](https://github.com/csguoh/ReFIR) - [NeurIPS2024] Overcome hallucination of diffusion restoration models.
+- [ZhengPeng7/BiRefNet](https://github.com/ZhengPeng7/BiRefNet) - [CAAI AIR'24] Bilateral Reference for High-Resolution Dichotomous Image Segmentation
+- [odiofan/L1L0_TM-CVPR2018](https://github.com/odiofan/L1L0_TM-CVPR2018) - A Hybrid L1-L0 Layer Decomposition Model for Tone Mapping, CVPR 2018.
+- [xuzhongyou/Colorization](https://github.com/xuzhongyou/Colorization) - deep exemplar colorization
+- [wd1511/PDNLA-Net](https://github.com/wd1511/PDNLA-Net) - Unsupervised Deep Exemplar Colorization via Pyramid Dual Non-local Attention (TIP 2023)
+- [ErwannMillon/Color-diffusion](https://github.com/ErwannMillon/Color-diffusion) - A diffusion model to colorize black and white images
+- [Lhyejin/DG-Colorization](https://github.com/Lhyejin/DG-Colorization) - The official PyTorch implementation of "Bridging the Domain Gap towards Generalization in Automatic Colorization", [ECCV 2022].
+- [pcb9382/PlateRecognition](https://github.com/pcb9382/PlateRecognition) - 高性能 高精度 大陆车牌、港澳车牌、台湾车牌 韩国车牌(South Korea LPR)识别  代码开源，方便移植嵌入式和安卓端使用，支持12种车牌识别，支持港澳车牌识别，支持大角度车牌识别，准确率高达99%+
+- [jixiaozhong/ColorFormer](https://github.com/jixiaozhong/ColorFormer) - 
+- [ioannislivieris/Grad_CAM_Siamese](https://github.com/ioannislivieris/Grad_CAM_Siamese) - 
+- [we0091234/crnn_plate_recognition](https://github.com/we0091234/crnn_plate_recognition) - crnn chinese_plate_recognition
+- [sapphire497/query-selected-attention](https://github.com/sapphire497/query-selected-attention) - Official implementation for "QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation" (CVPR 2022)
+- [PatrickHua/SimSiam](https://github.com/PatrickHua/SimSiam) - A pytorch implementation for paper 'Exploring Simple Siamese Representation Learning'
+- [BonifazStuhr/feamgan](https://github.com/BonifazStuhr/feamgan) - This is the original implementation of the paper “Masked Discriminators for Content-Consistent Unpaired Image-to-Image Translation” in PyTorch 1.10.0.
+- [myscience/hierarchy-flow](https://github.com/myscience/hierarchy-flow) - Unofficial implementation of Hierarchical Flow (image-to-image) for didactic purposes
+- [zhaohengyuan1/Color2Embed](https://github.com/zhaohengyuan1/Color2Embed) - Color2Embed: Fast Exemplar-Based Image Colorization using Color Embeddings.
+- [CR-Gjx/SCC](https://github.com/CR-Gjx/SCC) - Pytorch implementation of "Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image Translation via Structure Consistency Constraint." (CVPR 2022).
+- [WeichenFan/HierarchyFlow](https://github.com/WeichenFan/HierarchyFlow) - 
+- [isl-org/PhotorealismEnhancement](https://github.com/isl-org/PhotorealismEnhancement) - Code & Data for Enhancing Photorealism Enhancement
+- [weepiess/StyleFlow-Content-Fixed-I2I](https://github.com/weepiess/StyleFlow-Content-Fixed-I2I) - 
+- [lyndonzheng/F-LSeSim](https://github.com/lyndonzheng/F-LSeSim) - [CVPR 2021]: The Spatially-Correlative Loss for Various Image Translation Tasks
+- [facebookresearch/vsait](https://github.com/facebookresearch/vsait) - Unpaired Image Translation via Vector Symbolic Architectures (ECCV 2022)
+- [SeanJia/SRUNIT](https://github.com/SeanJia/SRUNIT) - Code for Semantically Robust Unpaired Image Translation for Data with Unmatched Semantics Statistics (SRUNIT), ICCV 2021
+- [XiudingCai/EnCo-pytorch](https://github.com/XiudingCai/EnCo-pytorch) - Rethinking the Paradigm of Content Constraints in Unpaired Image-to-Image Translation (AAAI'24)
+- [XiudingCai/PyTorch-EnCo](https://github.com/XiudingCai/PyTorch-EnCo) - Constraining Multi-scale Pairwise Features between Encoder and Decoder Using Contrastive Learning for Unpaired Image-to-Image Translation
+- [sian-wusidi/StegoGAN](https://github.com/sian-wusidi/StegoGAN) - Official code for StegoGAN: Leveraging Steganography for Non-bijective Image-to-Image Translation
+- [BeyondHeaven/UNICE](https://github.com/BeyondHeaven/UNICE) - 
+- [Yonsei-STL/pix2next](https://github.com/Yonsei-STL/pix2next) - Official implementation of "Pix2Next: Leveraging Vision Foundation Models for RGB to NIR Image Translation"
+- [taeho-kil/Document-Image-Dewarping](https://github.com/taeho-kil/Document-Image-Dewarping) - Document Image Dewarping
+- [jingxiLiao/GT-mean-loss](https://github.com/jingxiLiao/GT-mean-loss) - 
+- [Abir1803/EHDI](https://github.com/Abir1803/EHDI) - EHDI: Enhancement of Historical Document Images via Generative Adversarial Network
+- [lukun199/MonoPix](https://github.com/lukun199/MonoPix) - Official implementation of MonoPix - Contrastive Monotonic Pixel-Level Modulation (ECCV'2022 Oral)
+- [KarelZhang/CSDNet-CSDGAN](https://github.com/KarelZhang/CSDNet-CSDGAN) - [TNNLS 2021] The official code for the paper "Learning Deep Context-Sensitive Decomposition for Low-Light Image Enhancement"
+- [Jumponthemoon/AllWeatherNet](https://github.com/Jumponthemoon/AllWeatherNet) - [ICPR 2024 Best Paper]:"AllWeatherNet:Unified Image enhancement for autonomous driving under adverse weather and lowlight-conditions"
+- [qqqyd/MOSTEL](https://github.com/qqqyd/MOSTEL) - 
+- [wm-bupt/STSN](https://github.com/wm-bupt/STSN) - 
+- [grenlayk/deep-text-edit](https://github.com/grenlayk/deep-text-edit) - Our implementation of Text Style Brush architecture.
+- [alfinnurhalim/StyleTransferDehaze](https://github.com/alfinnurhalim/StyleTransferDehaze) - 
+- [UMich-CURLY/Debias_IMU](https://github.com/UMich-CURLY/Debias_IMU) - 
+- [hitzhangyu/Self-supervised-Image-Enhancement-Network-Training-With-Low-Light-Images-Only](https://github.com/hitzhangyu/Self-supervised-Image-Enhancement-Network-Training-With-Low-Light-Images-Only) - Self-supervised Image Enhancement Network: Training With Low Light Images Only
+- [KarelZhang/RUAS](https://github.com/KarelZhang/RUAS) - [CVPR 2021] This is the official code for the paper "Retinex-inspired Unrolling with Cooperative Prior Architecture Search for Low-light Image Enhancement"
+- [JianghaiSCU/R2RNet](https://github.com/JianghaiSCU/R2RNet) - Official code of "R2RNet: Low-light Image Enhancement Via Real-low to Real-normal Network".
+- [AndersonYong/URetinex-Net](https://github.com/AndersonYong/URetinex-Net) - Code Released for URetinex-Net
+- [zhenqifu/PairLIE](https://github.com/zhenqifu/PairLIE) - 
+- [langmanbusi/Semantic-Aware-Low-Light-Image-Enhancement](https://github.com/langmanbusi/Semantic-Aware-Low-Light-Image-Enhancement) - Semantic-Aware LLIE. CVPR 2023 TPAMI 2024
+- [caiyuanhao1998/Retinexformer](https://github.com/caiyuanhao1998/Retinexformer) - "Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement" (ICCV 2023) & (NTIRE 2024 Runner-Up)
+- [ChunmingHe/Reti-Diff](https://github.com/ChunmingHe/Reti-Diff) - Official Code for "Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model". A SOTA algorithm in low-light image enhancement, underwater image enhancement, and 
+- [XPixelGroup/HYPIR](https://github.com/XPixelGroup/HYPIR) - Official implementation of HYPIR: Harnessing Diffusion-Yielded Score Priors for Image Restoration (SIGGRAPH 2025)
+- [osmosis-diffusion/osmosis-diffusion-code](https://github.com/osmosis-diffusion/osmosis-diffusion-code) - official implementation of Osmosis - RGBD Diffusion Prior for Underwater Image Restoration
+- [kongdai123/SLURPP](https://github.com/kongdai123/SLURPP) - 💦 [IEEE TPAMI 2025] SLURPP Single-step Latent Underwater Restoration with Pretrained Priors
+- [HalbertCH/IEContraAST](https://github.com/HalbertCH/IEContraAST) - This is the official PyTorch implementation of our paper: "Artistic Style Transfer with Internal-external Learning and Contrastive Learning".
+- [jaejun-yoo/wct2_trainer](https://github.com/jaejun-yoo/wct2_trainer) - I am not sure this was the final version for training the wave encoder and decoder that I used for the paper, but this is what I can find for now.
+- [mu-cai/frequency-domain-image-translation](https://github.com/mu-cai/frequency-domain-image-translation) - 
+- [Hiahia1369/StableShadowRemoval](https://github.com/Hiahia1369/StableShadowRemoval) - 
+- [wzhsysu/LLIE](https://github.com/wzhsysu/LLIE) - 
+- [clovaai/tunit](https://github.com/clovaai/tunit) - Rethinking the Truly Unsupervised Image-to-Image Translation - Official PyTorch Implementation (ICCV 2021)
+- [alexch1/ImageProcessing](https://github.com/alexch1/ImageProcessing) - 
+- [HUSTSYJ/DA_dahazing](https://github.com/HUSTSYJ/DA_dahazing) - Domain Adaptation for Image Dehazing, CVPR2020
+- [liuye123321/DMT-Net](https://github.com/liuye123321/DMT-Net) - Image dehazing
+- [ErinChen1/EPDN](https://github.com/ErinChen1/EPDN) - Enhanced Pix2pix Dehazing Network, accepted by CVPR 2019
+- [huangzhikun1995/IPM-Net](https://github.com/huangzhikun1995/IPM-Net) - IJCAI-2020 Real-World Automatic Makeup via Identity Preservation Makeup Net
+- [samjcheng/Structure-preserving-Guided-Retinal-Image-Filtering](https://github.com/samjcheng/Structure-preserving-Guided-Retinal-Image-Filtering) - 
+- [xl-tang3/RCOT](https://github.com/xl-tang3/RCOT) - (ICML' 24) Residual-Conditioned Optimal Transport: Towards Structure-Preserving Unpaired and Paired Image Restoration
+- [mingcv/YTMT-Strategy](https://github.com/mingcv/YTMT-Strategy) - Offical implementation for "Trash or Treasure? An Interactive Dual-Stream Strategy for Single Image Reflection Separation".
+- [ZhenboSong/RobustSIRR](https://github.com/ZhenboSong/RobustSIRR) - Official implement for CVPR2023 "Robust Single Image Reflection Removal Against Adversarial Attacks"
+- [zsyOAOA/ResShift](https://github.com/zsyOAOA/ResShift) - ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting (NeurIPS@2023 Spotlight, TPAMI@2024)
+- [haoyGONG/LP-Diff](https://github.com/haoyGONG/LP-Diff) - Code of paper "LP-Diff: Towards Improved Restoration of Real-World Degraded License Plate"
+- [RobbeNooyens/ann-scene-classifier](https://github.com/RobbeNooyens/ann-scene-classifier) - [UAntwerpen Ma Datascience and AI] Project for the course Artificial Neural Networks
+- [majita06/Relighting_in_the_Wild](https://github.com/majita06/Relighting_in_the_Wild) - 
+- [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
+- [krantbrity/Single-Image-Reflection-Removal-Papers-and-Code-Collection](https://github.com/krantbrity/Single-Image-Reflection-Removal-Papers-and-Code-Collection) - 
+- [mr3coi/screen_photo_simulator](https://github.com/mr3coi/screen_photo_simulator) - Python implementation for simulating moire effects seen in photos of digital device screens
+- [CVMI-Lab/UHDM](https://github.com/CVMI-Lab/UHDM) - (ECCV2022) This is the official PyTorch implementation of ECCV2022 paper: Towards Efficient and Scale-Robust Ultra-High-Definition Image Demoireing
+- [JianghaiSCU/SIED](https://github.com/JianghaiSCU/SIED) - Official PyTorch implementation for "Learning to See in the Extremely Dark"
+- [noelshin/Pix2PixHD](https://github.com/noelshin/Pix2PixHD) - Simple implementation of Pix2PixHD with PyTorch
+- [JeongHyunJin/Pix2PixHD](https://github.com/JeongHyunJin/Pix2PixHD) - Pix2PixHD codes for scientific data analysis
+- [cxjyxxme/pix2pixSC](https://github.com/cxjyxxme/pix2pixSC) - Official PyTorch Implementation of "Example-Guided Style-Consistent Image Synthesis from Semantic Labeling" - CVPR 2019
+- [BounharAbdelaziz/Face-Image-Colorization](https://github.com/BounharAbdelaziz/Face-Image-Colorization) - We use generative networks to tranform a 512x512 input image in the B&W domain to a 512x512 image in the RGB domain.
+- [4DVLab/UniDemoire](https://github.com/4DVLab/UniDemoire) - Official repository for paper "UniDemoiré: Towards Universal Image Demoiréing with Data Generation and Synthesis"
+- [zysxmu/UnDeM](https://github.com/zysxmu/UnDeM) - image demoireing, moire synthesis
+- [Hideinlab/Unpaired_image_demoireing](https://github.com/Hideinlab/Unpaired_image_demoireing) - 
+- [csjliang/LPTN](https://github.com/csjliang/LPTN) - Official implementation of the paper 'High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network' in CVPR 2021
+- [yylgoodlucky/HDTR-Net-v2.0](https://github.com/yylgoodlucky/HDTR-Net-v2.0) - 
+- [facebookresearch/sapiens](https://github.com/facebookresearch/sapiens) - High-resolution models for human tasks.
+- [buyizhiyou/NRVQA](https://github.com/buyizhiyou/NRVQA) - no reference  image/video quaity assessment(BRISQUE/NIQE/PIQE/DIQA/deepBIQ/VSFA
+- [Tobyzai/EndoSRR](https://github.com/Tobyzai/EndoSRR) - Endoscopy Specular Reflection Removal
+- [sergeyk/rayleigh](https://github.com/sergeyk/rayleigh) - Search image collections by multiple color palettes or by image color similarity.
+- [xahidbuffon/FUnIE-GAN](https://github.com/xahidbuffon/FUnIE-GAN) - Fast underwater image enhancement for Improved Visual Perception. #TensorFlow #PyTorch #RAL2020
+- [cpuimage/LocalColorCorrection](https://github.com/cpuimage/LocalColorCorrection) - implmentation of 《Local Color Correction using Non-Linear Masking》
+- [FunmilayoUde/Skin-color-transferApp](https://github.com/FunmilayoUde/Skin-color-transferApp) - Source code for a skin color transfer web application
+- [PRAN20/Skin-Color-Transfer-3D](https://github.com/PRAN20/Skin-Color-Transfer-3D) - 
+- [pashango2/Image4Layer](https://github.com/pashango2/Image4Layer) - It is implemented by 'pillow' in blend mode of CSS3.
+- [nugwuegbu/Color_Transfer_project](https://github.com/nugwuegbu/Color_Transfer_project) - The task at hand is to develop an application capable of performing skin color transfer.
+- [FacePerceiver/facer](https://github.com/FacePerceiver/facer) - Face analysis tools for modern research, equipped with state-of-the-art Face Parsing and Face Alignment
+- [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
+- [honeygupta/PAGSR](https://github.com/honeygupta/PAGSR) - This repository contains the code for our paper: Pyramidal edge-maps and Attention based Guided thermal image Super-Resolution (PAGSR)
+- [teboli/fast_two_stage_psf_correction](https://github.com/teboli/fast_two_stage_psf_correction) - Official implementation for the ECCV22 paper "Fast Two-step Blind Optical Aberration Correction".
+- [mjambon/purple-fringe](https://github.com/mjambon/purple-fringe) - Removal of purple fringing from digital photos
+- [nucbaixu/AutoExposure](https://github.com/nucbaixu/AutoExposure) - 自动曝光的开源代码
+- [Hjincheng/auto-exposure](https://github.com/Hjincheng/auto-exposure) - Automatic exposure algorithm based on frame difference method
+- [intel/libxcam](https://github.com/intel/libxcam) - libXCam is a project for extended camera(not limited in camera) features and focus on image quality improvement and video analysis. There are lots features supported in image pre-processing, image pos
+- [Dylanin1999/ISP_Algorithm](https://github.com/Dylanin1999/ISP_Algorithm) - 传统的图像处理相关算法的代码实现
+- [AomanHao/ISP_Infrared_Image_Process](https://github.com/AomanHao/ISP_Infrared_Image_Process) - 
+- [LeiWang1999/FPGA](https://github.com/LeiWang1999/FPGA) - 帮助大家进行FPGA的入门，分享FPGA相关的优秀文章，优秀项目
+- [FZWei-YYDS/ZhangZhengYou](https://github.com/FZWei-YYDS/ZhangZhengYou) - 张正友标定法的数学原理以及python源码实现（详细）
+- [littlebearsama/CalibrationTools](https://github.com/littlebearsama/CalibrationTools) - 1.相机模型标定（鱼眼相机，普通相机）；2.立体相机标定与极线矫正；3.RGB(/灰度)相机与深度相机（tof）标定，数据融合；4.外参标定
+- [libing64/camera_model](https://github.com/libing64/camera_model) - 相机内参标定和双目标定, 支持多种相机模型和多种标定板，
+- [CaptainEven/Vehicle-Car-detection-and-multilabel-classification](https://github.com/CaptainEven/Vehicle-Car-detection-and-multilabel-classification) - 使用YOLO_v3_tiny和B-CNN实现街头车辆的检测和车辆属性的多标签识别 Using yolo_v3_tiny to do vehicle or car detection and attribute's multilabel classification or recognize
+- [dyh/unbox_yolov5_deepsort_counting](https://github.com/dyh/unbox_yolov5_deepsort_counting) - yolov5 deepsort 行人 车辆 跟踪 检测 计数
+- [mbrossard/threadpool](https://github.com/mbrossard/threadpool) - A simple C Thread pool implementation
+- [Veinin/POSIX-threads-programming-tutorials](https://github.com/Veinin/POSIX-threads-programming-tutorials) - Summaries and notes on pthreads programming.
+- [jonhoo/pthread_pool](https://github.com/jonhoo/pthread_pool) - A simple implementation of thread pooling for C/C++ using POSIX threads
+- [Maratyszcza/pthreadpool](https://github.com/Maratyszcza/pthreadpool) - Portable (POSIX/Windows/Emscripten) thread pool for C/C++
+- [JokerEyeAdas/LTM](https://github.com/JokerEyeAdas/LTM) - The local tone mapping algorithm based on histogram
+- [senlinzhan/dpool](https://github.com/senlinzhan/dpool) - 使用 C++11 实现的动态线程池
+- [wzxzhuxi/rknn-3588-npu-yolo-accelerate](https://github.com/wzxzhuxi/rknn-3588-npu-yolo-accelerate) - rknn-3588部署yolov5，利用线程池实现npu推理加速；Deploying YOLOv5 on RKNN-3588, utilizing a thread pool to achieve NPU inference acceleration.
+- [Xiaojiu-z/EasyControl](https://github.com/Xiaojiu-z/EasyControl) - Implementation of "EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer"(ICCV2025)
+- [gdenes355/flicker_metric_ted](https://github.com/gdenes355/flicker_metric_ted) - Flicker metric reference implementation for the under-review paper "Estimates of Temporal Edge Detection Filters in Human Vision"
+- [CompVis/adaptive-style-transfer](https://github.com/CompVis/adaptive-style-transfer) - source code for the ECCV18 paper A Style-Aware Content Loss for Real-time HD Style Transfer
+- [idstcv/SoftTriple](https://github.com/idstcv/SoftTriple) - PyTorch Implementation for SoftTriple Loss
+- [Razirp/Seam-Carving-python](https://github.com/Razirp/Seam-Carving-python) - A high-performance python implementation of the Seam Carving algorithm. | Seam Carving 算法的 Python 高效实现。
+- [Abdurehman458/HDR-tone_mapping](https://github.com/Abdurehman458/HDR-tone_mapping) - Implementation of "Fast bilateral filtering for the display of high-dynamic-range images"
+- [OpenImagingLab/HDRFlow](https://github.com/OpenImagingLab/HDRFlow) - [CVPR 2024] Real-Time HDR Video Reconstruction
+- [jerryweihuajing/Automatic-Exposure](https://github.com/jerryweihuajing/Automatic-Exposure) - Code for AE Simulation considering ROI parameters, peak search method, contrast measure operators and efficiency in various scenario.
+- [ishaanmht/aer_auto_exposure_gradient](https://github.com/ishaanmht/aer_auto_exposure_gradient) - 
+- [SonyResearch/raw_image_denoising](https://github.com/SonyResearch/raw_image_denoising) - Noise Modeling in One Hour: Minimizing Preparation Efforts for Self-supervised Low-Light RAW Image Denoising
+- [jdfxzzy/DPMN](https://github.com/jdfxzzy/DPMN) - Improving Scene Text Image Super-Resolution via  Dual Prior Modulation Network (AAAI 2023)
+- [instantX-research/InstantStyle-Plus](https://github.com/instantX-research/InstantStyle-Plus) - InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation 🔥
+- [mzhao98/laplacian_blend](https://github.com/mzhao98/laplacian_blend) - Tutorial on Laplacian Image Blending
+- [bcmi/Awesome-Image-Blending](https://github.com/bcmi/Awesome-Image-Blending) - A curated list of papers, code and resources pertaining to image blending.
+- [zsyOAOA/InvSR](https://github.com/zsyOAOA/InvSR) - Arbitrary-steps Image Super-resolution via Diffusion Inversion (CVPR 2025)
+- [jkwang28/OSDFace](https://github.com/jkwang28/OSDFace) - Official Repo for CVPR 2025 paper "OSDFace: One-Step Diffusion Model for Face Restoration"
+- [np-csu/AlphaMatting](https://github.com/np-csu/AlphaMatting) - An OpenCV2 version for image matting algorithm described by papre - Shared Sample for Real-Time Alpha Matting
+- [subeeshvasu/Awesome-ImageHarmonization](https://github.com/subeeshvasu/Awesome-ImageHarmonization) - 
+- [bcmi/Color-Transfer-for-Image-Harmonization](https://github.com/bcmi/Color-Transfer-for-Image-Harmonization) - Summarize different color transfer strategies for image harmonization task.
+- [bcmi/Image-Harmonization-Dataset-iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4) - [CVPR 2020] The first large-scale public benchmark dataset for image harmonization. The code used in our paper "DoveNet: Deep Image Harmonization via Domain Verification", CVPR2020. Useful for image h
+- [hanweikung/face_anon_simple](https://github.com/hanweikung/face_anon_simple) - [WACV 2025] Official implementation of "Face Anonymization Made Simple"
+- [valfride/lpr-rsr-ext](https://github.com/valfride/lpr-rsr-ext) - Official code for 'Super-Resolution of License Plate Images Using Attention Modules and Sub-Pixel Convolution Layers' (Computers & Graphics 2023)
+- [kritika220703/CS517-Enhancing-License-Plate-Super-Resolution](https://github.com/kritika220703/CS517-Enhancing-License-Plate-Super-Resolution) - 
+- [EndlessSora/focal-frequency-loss](https://github.com/EndlessSora/focal-frequency-loss) - [ICCV 2021] Focal Frequency Loss for Image Reconstruction and Synthesis
+- [tamarott/ASAPNet](https://github.com/tamarott/ASAPNet) - 
+- [Stephen0808/DnLUT](https://github.com/Stephen0808/DnLUT) - [CVPR 2025] DnLUT: Ultra-Efficient Color Image Denoising via Channel-Aware Lookup Tables
+- [Dreamzz5/Simple-Align](https://github.com/Dreamzz5/Simple-Align) - 
+- [YuAo/YUCIHighPassSkinSmoothing](https://github.com/YuAo/YUCIHighPassSkinSmoothing) - An implementation of High Pass Skin Smoothing using Apple's Core Image Framework
+- [XianfengWu01/LightGen](https://github.com/XianfengWu01/LightGen) - An Efficient Text-to-Image Generation Pretrain Pipeline
+- [lime-j/RDNet](https://github.com/lime-j/RDNet) - Reversible Decoupling Network for Single Image Reflection Removal, To be appeared in CVPR 2025
+- [Saptarshi-Mandal/Enhanced-SINGAN](https://github.com/Saptarshi-Mandal/Enhanced-SINGAN) - Enhanced SinGAN: An improved version of SinGAN, focusing on robustness and versatility in image generation. Includes enhanced noise handling, total variational loss for sharp edges, and image preproce
+- [weichaozeng/TextCtrl](https://github.com/weichaozeng/TextCtrl) - [2024-NeurIPS] TextCtrl: Diffusion-based Scene Text Editing with Prior Guidance Control
+- [icandle/EFDN](https://github.com/icandle/EFDN) - Edge-enhanced Feature Distillation Network for Efficient Super-Resolution (CVPRW 2022)
+- [zehongs/RelativePose](https://github.com/zehongs/RelativePose) - 
+- [xuboming8/CDVD-TSPNL](https://github.com/xuboming8/CDVD-TSPNL) - [TPAMI] This repository is the official PyTorch implementation of "Cascaded Deep Video Deblurring Using Temporal Sharpness Prior and Non-local Spatial-Temporal Similarity".
+- [lcyfrank/PlateGen](https://github.com/lcyfrank/PlateGen) - Generate images of Chinese license plates
+- [AvLab-CV/SPG](https://github.com/AvLab-CV/SPG) - SPG generates synthetic license plates, preserving style while editing characters to address data imbalance and privacy issues.
+- [fangyuanmao/PID](https://github.com/fangyuanmao/PID) - Code for PID: Physics-Informed Diffusion Model for Infrared Image Generation
+- [ChunmingHe/awesome-diffusion-models-in-low-level-vision](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) - A Repository for Diffusion-Model-related Papers in Low-level Vision
+- [flyeyesport/flicker_remover](https://github.com/flyeyesport/flicker_remover) - Source code for "Realtime flicker removal for fast video streaming" paper.
+- [ofeeler/LPR](https://github.com/ofeeler/LPR) - pku lpr dataset
+- [sai-bi/ImageSmoothing](https://github.com/sai-bi/ImageSmoothing) - A collection of image smoothing algorithms.
+- [LYCEXE/StructSR](https://github.com/LYCEXE/StructSR) - StructSR: Refuse Spurious Details in Real-World Image Super-Resolution
+- [Yuehan717/PDD](https://github.com/Yuehan717/PDD) - [ECCV 2024] The Official Code for "Pairwise Distance Distillation for Unsupervised Real-World Image Super-Resolution"
+- [Nenger/chinese_licence_plate_generator](https://github.com/Nenger/chinese_licence_plate_generator) - A tool for generating Chinese license plate dataset for plate detecting
+- [clovaai/WCT2](https://github.com/clovaai/WCT2) - Software that can perform photorealistic style transfer without the need of any post-processing steps.
+- [liweileev/FET-GAN](https://github.com/liweileev/FET-GAN) - FET-GAN: Font Effect Transfer via K-shot Adaptive Instance Normalization. AAAI 2020 oral.
+- [williamyang1991/TET-GAN](https://github.com/williamyang1991/TET-GAN) - [AAAI 2019] TET-GAN: Text Effects Transfer via Stylization and Destylization
+- [myeongkyunkang/i2i4debias](https://github.com/myeongkyunkang/i2i4debias) - Neural Networks. "Content preserving image translation with texture co-occurrence and spatial self-similarity for texture debiasing and domain adaptation"
+- [Leaderzhangyi/Dh-StyHT](https://github.com/Leaderzhangyi/Dh-StyHT) - Code implementation of Dunhuang Art Style Transfer via Hierarchical Vision Transformer and Color Consistency Constraints
+- [ZHKKKe/NeuralPreset](https://github.com/ZHKKKe/NeuralPreset) - AI-Generated Presets for Faithful 4K Color Style Transfer in Real Time [CVPR 2023]
+- [clibs/cmocka](https://github.com/clibs/cmocka) - An elegant unit testing framework for C with support for mock objects.
+- [trentqq/TCTL-Net](https://github.com/trentqq/TCTL-Net) - 
+- [Kiteretsu77/APISR](https://github.com/Kiteretsu77/APISR) - APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024)
+- [NVlabs/imaginaire](https://github.com/NVlabs/imaginaire) - NVIDIA's Deep Imagination Team's PyTorch Library
+- [OUCVisionGroup/CLIP-UIE](https://github.com/OUCVisionGroup/CLIP-UIE) - Underwater Image Enhancement by Diffusion Model with Customized CLIP-Classifier
+- [Yuanshi9815/OminiControl](https://github.com/Yuanshi9815/OminiControl) - [ICCV 2025 Highlight] OminiControl: Minimal and Universal Control for Diffusion Transformer
+- [dhryougit/learning-to-translate-noise](https://github.com/dhryougit/learning-to-translate-noise) - 
+- [JianzeLi-114/FluxSR](https://github.com/JianzeLi-114/FluxSR) - 
+- [Boyiliee/SITTA](https://github.com/Boyiliee/SITTA) - Single Image Texture Translation for Data Augmentation
+- [rosinality/swapping-autoencoder-pytorch](https://github.com/rosinality/swapping-autoencoder-pytorch) - Unofficial implementation of Swapping Autoencoder for Deep Image Manipulation (https://arxiv.org/abs/2007.00653) in PyTorch
+- [GuHuangAI/DiffusionEdge](https://github.com/GuHuangAI/DiffusionEdge) - Code for AAAI 2024 paper: "DiffusionEdge: Diffusion Probabilistic Model for Crisp Edge Detection"
+- [yhxuyou/generate_chinese_license_plate](https://github.com/yhxuyou/generate_chinese_license_plate) - 生成中国车牌，包括绿牌，黄牌，蓝牌，警牌等车牌
+- [mingbocui/Generate-LicensePlate-with-GAN](https://github.com/mingbocui/Generate-LicensePlate-with-GAN) - Using GAN magic to generate more realistic license plates
+- [SHI-Labs/Rethinking-Text-Segmentation](https://github.com/SHI-Labs/Rethinking-Text-Segmentation) - [CVPR 2021] Rethinking Text Segmentation: A Novel Dataset and A Text-Specific Refinement Approach
+- [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
+- [astra-vision/CoMoGAN](https://github.com/astra-vision/CoMoGAN) - CoMoGAN: continuous model-guided image-to-image translation. CVPR 2021 oral.
+- [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
+- [val-iisc/NoisyTwins](https://github.com/val-iisc/NoisyTwins) - [CVPR 2023] Source code for NoisyTwins: Class-consistent and Diverse Image Generation Through StyleGANs
+- [Gie-ok-Hie-ut/pytorch-stylegan2-distillation](https://github.com/Gie-ok-Hie-ut/pytorch-stylegan2-distillation) - StyleGAN2 Distillation for Feed-forward Image Manipulation
+- [yuval-alaluf/hyperstyle](https://github.com/yuval-alaluf/hyperstyle) - Official Implementation for "HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing" (CVPR 2022) https://arxiv.org/abs/2111.15666
+- [aydao/stylegan2-surgery](https://github.com/aydao/stylegan2-surgery) - StyleGAN2 fork with scripts and convenience modifications for creative media synthesis
+- [happy-jihye/Cartoon-StyleGAN](https://github.com/happy-jihye/Cartoon-StyleGAN) - Fine-tuning StyleGAN2 for Cartoon Face Generation
+- [AiArt-Gao/MATEBIT](https://github.com/AiArt-Gao/MATEBIT) - [CVPR'23] Masked and Adaptive Transformer for Exemplar Based Image Translation (MATEBIT)
+- [jhoffman/cycada_release](https://github.com/jhoffman/cycada_release) - Code to accompany ICML 2018 paper
+- [WenjiaWang0312/TextZoom](https://github.com/WenjiaWang0312/TextZoom) - [ECCV2020] A super-resolution dataset of paired LR-HR scene text images
+- [EvgenyKashin/stylegan2-distillation](https://github.com/EvgenyKashin/stylegan2-distillation) - 
+- [eladrich/pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel) - Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation" (CVPR 2021) presenting the pixel2style2pixel (pSp) framework
+- [haoyGONG/LPDGAN](https://github.com/haoyGONG/LPDGAN) - 
+- [masterAllen/LearnOpenCV](https://github.com/masterAllen/LearnOpenCV) - Learning OpenCV By Official Documents
+- [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
+- [ewrfcas/Face-Super-Resolution](https://github.com/ewrfcas/Face-Super-Resolution) - Face super resolution based on ESRGAN
+- [awesome-davian/Text2Colors](https://github.com/awesome-davian/Text2Colors) - Code for "Coloring with Words: Guiding Image Colorization through Text-based Palette Generation" - ECCV 2018
+- [hahnec/color-matcher](https://github.com/hahnec/color-matcher) - automatic color-grading
+- [sagieppel/fine-tune-train_segment_anything_2_in_60_lines_of_code](https://github.com/sagieppel/fine-tune-train_segment_anything_2_in_60_lines_of_code) - The repository provides code for  training/fine tune the Meta Segment Anything Model 2 (SAM 2)
+- [luca-medeiros/lightning-sam](https://github.com/luca-medeiros/lightning-sam) - Fine-tune Segment-Anything Model with Lightning Fabric.
+- [cameronfabbri/Underwater-Color-Correction](https://github.com/cameronfabbri/Underwater-Color-Correction) - Using GANs to correct color distortion in underwater images.
+- [brownvc/R3GAN](https://github.com/brownvc/R3GAN) - Code for NeurIPS 2024 paper - The GAN is dead; long live the GAN! A Modern Baseline GAN - by Huang et al.
+- [cyclomon/UNSB](https://github.com/cyclomon/UNSB) - Official Repository of "Unpaired Image-to-Image Translation via Neural Schrödinger Bridge" (ICLR 2024)
+- [bes-dev/MobileStyleGAN.pytorch](https://github.com/bes-dev/MobileStyleGAN.pytorch) - An official implementation of MobileStyleGAN in PyTorch
+- [AIRI-Institute/HairFastGAN](https://github.com/AIRI-Institute/HairFastGAN) - [NeurIPS 2024] The official implementation of HairFastGAN. A framework for virtual hairstyle fitting.
+- [Fanghc95/Plate-Landmarks-detection](https://github.com/Fanghc95/Plate-Landmarks-detection) - 使用retinaface完成车牌关键点检测，并在tensorRT下部署
+- [qzpzd/license-plate-detect-recoginition](https://github.com/qzpzd/license-plate-detect-recoginition) - 车牌定位与关键点检测，以及车牌号码的识别
+- [XiaZixun/Edit_Propagation_via_Color_Palettes](https://github.com/XiaZixun/Edit_Propagation_via_Color_Palettes) - 
+- [skrmanne/3DLUT_sRGB_WB](https://github.com/skrmanne/3DLUT_sRGB_WB) - 3D LUTs for Real Time sRGB White-Balance Correction
+- [omertov/encoder4editing](https://github.com/omertov/encoder4editing) - Official implementation of "Designing an Encoder for StyleGAN Image Manipulation"  (SIGGRAPH 2021) https://arxiv.org/abs/2102.02766
+- [fenghansen/YOND_public](https://github.com/fenghansen/YOND_public) - The official implementation of "YOND: Practical Blind Raw Image Denoising Free from Camera-Specific Data Dependency"
+- [hamzapehlivan/StyleRes](https://github.com/hamzapehlivan/StyleRes) - 
+- [chi0tzp/FFHQFaceAlignment](https://github.com/chi0tzp/FFHQFaceAlignment) - Face alignment tool for transforming face images into FFHQ-style.
+- [Insta360-Research-Team/RomniStereo](https://github.com/Insta360-Research-Team/RomniStereo) - Code for our paper RomniStereo: Recurrent Omnidirectional Stereo Matching (IEEE RA-L)
+- [Kartik-3004/SegFace](https://github.com/Kartik-3004/SegFace) - [AAAI 25] SegFace: Face Segmentation of Long-tail classes
+- [ymy-k/Hi-SAM](https://github.com/ymy-k/Hi-SAM) - [IEEE TPAMI] Hi-SAM: Marrying Segment Anything Model for Hierarchical Text Segmentation
+- [LuisSR/RCD-Demosaicing](https://github.com/LuisSR/RCD-Demosaicing) - A Bayer demosaicing routine aimed to reduce pixel overshooting
+- [LibRaw/LibRaw-demosaic-pack-GPL2](https://github.com/LibRaw/LibRaw-demosaic-pack-GPL2) - Demosaic methods for LibRaw distributed under the terms of GPL2+
+- [starkfan007/awesome-ISP](https://github.com/starkfan007/awesome-ISP) - A curated list of awesome ISP frameworks, papers, libraries, resources, and shiny things.
+- [mjq11302010044/TPGSR](https://github.com/mjq11302010044/TPGSR) - Code for Text Prior Guided Scene Text Image Super-Resolution (TIP 2023)
+- [qianx77/Face_Restoration_Ref](https://github.com/qianx77/Face_Restoration_Ref) - some works about face restoration
+- [windcr/E2Diff](https://github.com/windcr/E2Diff) - An Enhanced Lightweight Diffusion Model for Blind Face Restoration
+- [ttchengab/zest_code](https://github.com/ttchengab/zest_code) - [ECCV-2024] This is the official implementation of ZeST.
+- [jcy132/Hneg_SRC](https://github.com/jcy132/Hneg_SRC) - Official Pytorch implementation of "Exploring Patch-wise Semantic Relation for Contrastive Learning in Image-to-Image Translation Tasks" (CVPR 2022)
+- [flyhu2/DarkSR](https://github.com/flyhu2/DarkSR) - [ACCV 2024] Official code of our paper "Joint Image Super-resolution and Low-light Enhancement in the Dark"
+- [cyj407/VQ-I2I](https://github.com/cyj407/VQ-I2I) - Vector Quantized Image-to-Image Translation (ECCV 2022)
+- [EndlessSora/TSIT](https://github.com/EndlessSora/TSIT) - [ECCV 2020 Spotlight] A Simple and Versatile Framework for Image-to-Image Translation
+- [HsinYingLee/DRIT](https://github.com/HsinYingLee/DRIT) - Learning diverse image-to-image translation from unpaired data
+- [ANSANJAY/LinuxCoredumpValgrind](https://github.com/ANSANJAY/LinuxCoredumpValgrind) - A comprehensive guide to debugging in Linux with emphasis on core dumps and Valgrind. Dive into practical examples with source codes and documentation, aiding both beginners and professionals.
+- [HDCVLab/EDFace-Celeb-1M](https://github.com/HDCVLab/EDFace-Celeb-1M) - 
+- [bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model](https://github.com/bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model) - 
+- [burakunutmaz/Abstract-Art-Generator](https://github.com/burakunutmaz/Abstract-Art-Generator) - A python program that generates abstract art with variety of shapes, styles and randomization using pygame.
+- [zhengrchan/FREx](https://github.com/zhengrchan/FREx) - Official code for Blind Face Restoration under Extreme Conditions: Leveraging 3D-2D Prior Fusion for Superior Structural and Texture Recovery
+- [zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis](https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis) - Pytorch implementation of paper "One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing"
+- [ZYM-PKU/UDiffText](https://github.com/ZYM-PKU/UDiffText) - [ECCV 2024] Official repo for UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models
+- [ronjonxu/NAID](https://github.com/ronjonxu/NAID) - [IEEE TMM 2024] NIR-Assisted Image Denoising: A Selective Fusion Approach and A Real-World Benchmark Dataset
+- [NVlabs/stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch) - StyleGAN2-ADA - Official PyTorch implementation
+- [minnu03/human_face_restoration_using_GFPGAN](https://github.com/minnu03/human_face_restoration_using_GFPGAN) - Major Project in deep learning along with entire documentation
+- [GarrickZ2/Image-Denoising](https://github.com/GarrickZ2/Image-Denoising) - 
+- [happycaoyue/LLD](https://github.com/happycaoyue/LLD) - 
+- [csxmli2016/textbsr](https://github.com/csxmli2016/textbsr) - This is a simple text image blind super-resolution model, using BSRGAN
+- [vonJJ/DemosaickingNestUnet](https://github.com/vonJJ/DemosaickingNestUnet) - a image demosaicking neural network based on UNet++
+- [zhaoyuzhi/RAW2RGB-GAN](https://github.com/zhaoyuzhi/RAW2RGB-GAN) - PyTorch implementation of saliency map-aided GAN for Auto-demosaic+denosing
+- [XPixelGroup/DepictQA](https://github.com/XPixelGroup/DepictQA) - DepictQA: Depicted Image Quality Assessment with Vision Language Models
+- [AIM-SKKU/IFQA](https://github.com/AIM-SKKU/IFQA) - IFQA: Interpretable Face Quality Assessment - Official Pytorch Implementation (WACV 2023)
+- [YaN9-Y/lafin](https://github.com/YaN9-Y/lafin) - LaFIn: Generative Landmark Guided Face Inpainting
+- [labhai/ffhq-wrinkle-dataset](https://github.com/labhai/ffhq-wrinkle-dataset) - 
+- [hhj1897/face_pose_augmentation](https://github.com/hhj1897/face_pose_augmentation) - 
+- [wang-zidu/3DDFA-V3](https://github.com/wang-zidu/3DDFA-V3) - The official implementation of 3DDFA_V3 in CVPR2024 (Highlight).
+- [yangxy/PASD](https://github.com/yangxy/PASD) - [ECCV2024] Pixel-Aware Stable Diffusion for Realistic Image Super-Resolution and Personalized Stylization
+- [mingcv/DSRNet](https://github.com/mingcv/DSRNet) - Official implementation for "Single Image Reflection Separation via Component Synergy"
+- [zhuyr97/Reflection_RemoVal_CVPR2024](https://github.com/zhuyr97/Reflection_RemoVal_CVPR2024) - 
+- [JennaChangY/Reflection-Removal-with-Auxiliary-Techniques](https://github.com/JennaChangY/Reflection-Removal-with-Auxiliary-Techniques) - Single Image Reflection Removal with Edge Guidance, Reflection Classifier, and Recurrent Decomposition, WACV2021
+- [rajeevyasarla/AT-Net](https://github.com/rajeevyasarla/AT-Net) - Learning to Restore Images Degraded by Atmospheric Turbulence Using Uncertainty
+- [sidneyrachel/psfrgan-reimplementation](https://github.com/sidneyrachel/psfrgan-reimplementation) - Reimplementation of progressive semantic-aware style transformation for blind face restoration.
+- [rajeevyasarla/UMSN-Face-Deblurring](https://github.com/rajeevyasarla/UMSN-Face-Deblurring) - Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks
+- [chaofengc/PSFRGAN](https://github.com/chaofengc/PSFRGAN) - PyTorch codes for "Progressive Semantic-Aware Style Transformation for Blind Face Restoration", CVPR2021
+- [SeungyounShin/CAGFace](https://github.com/SeungyounShin/CAGFace) - Component Attention Guided Face Super-Resolution Network: CAGFace
+- [cs-giung/FSRNet-pytorch](https://github.com/cs-giung/FSRNet-pytorch) - PyTorch implementation of "FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors" (https://arxiv.org/abs/1711.10703)
+- [yinzhicun/MetaF2N](https://github.com/yinzhicun/MetaF2N) - MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces (ICCV 2023)
+- [csxmli2016/ReDegNet](https://github.com/csxmli2016/ReDegNet) - From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution (ECCV 2022)
+- [AndersonCotrim/SBFBurst](https://github.com/AndersonCotrim/SBFBurst) - SBFBurst: This is the official implementation of VISAPP 2024 "Simple Base Frame Guided Residual Network for RAW Burst Image Super-Resolution".
+- [mjq11302010044/Real-CE](https://github.com/mjq11302010044/Real-CE) - Real-CE: A Benchmark for Chinese-English Scene Text Image Super-resolution (ICCV2023)
+- [mjq11302010044/TATT](https://github.com/mjq11302010044/TATT) - A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution (CVPR2022)
+- [jzijin/Super-FAN](https://github.com/jzijin/Super-FAN) - The PyTorch implement of the paper "Super-FAN: Integrated facial landmark localization and super-resolution of real-world low resolution faces in arbitrary poses with GANs"
+- [DeokyunKim/Progressive-Face-Super-Resolution](https://github.com/DeokyunKim/Progressive-Face-Super-Resolution) - Official Pytorch Implementation of Progressive Face Super-Resolution (BMVC 2019 Accepted)
+- [wzhouxiff/RestoreFormerPlusPlus](https://github.com/wzhouxiff/RestoreFormerPlusPlus) - [TPAMI2023] RestoreFormer++
+- [Kaldwin0106/DR2_Drgradation_Remover](https://github.com/Kaldwin0106/DR2_Drgradation_Remover) - DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration. CVPR 2023.
+- [parallel101/cppguidebook](https://github.com/parallel101/cppguidebook) - 小彭老师领衔编写，现代C++的中文百科全书
+- [24wenjie-li/Awesome-Face-Restoration](https://github.com/24wenjie-li/Awesome-Face-Restoration) - [ACM CSUR 2025] A comprehensive summary of deep face restoration methods.
+- [CalayZhou/JDM-HDRNet](https://github.com/CalayZhou/JDM-HDRNet) - Joint RGB-Spectral Decomposition Model Guided Image Enhancement in Mobile Photography (ECCV2024)
+- [lllyasviel/LayerDiffuse_DiffusersCLI](https://github.com/lllyasviel/LayerDiffuse_DiffusersCLI) - LayerDiffuse in pure diffusers without any GUI
+- [chenhaoxing/DiffUTE](https://github.com/chenhaoxing/DiffUTE) - This repository is the code of our paper "DiffUTE: Universal Text Editing Diffusion Model" (NeurIPS'2023).
+- [CyberAgentAILab/derendering-text](https://github.com/CyberAgentAILab/derendering-text) - 
+- [ZeroAct/SceneTextRemover-pytorch](https://github.com/ZeroAct/SceneTextRemover-pytorch) - This is a minimal implementation of Scene text removal via cascaded text stroke detection and erasing. This github repository is for studying on image in-painting for scene text erasing. Thank you :)
+- [lcy0604/CTRNet](https://github.com/lcy0604/CTRNet) - This repository is the implementation of "Don't Forget Me: Accurate Background Recovery for Text Removal via Modeling Local-Global Context".
+- [shannanyinxiang/UPOCR](https://github.com/shannanyinxiang/UPOCR) - Official implementation of UPOCR: Towards unified pixel-level OCR interface (ICML 2024)
+- [gosha20777/rawformer](https://github.com/gosha20777/rawformer) - Unpaired Raw-to-Raw Translation for Learnable Camera ISPs
+- [Stephen0808/ICELUT](https://github.com/Stephen0808/ICELUT) - [ECCV 2024] Taming Lookup Tables for Efficient Image Retouching
+- [liujikun/Densely-Self-guided-Wavelet-Network-for-Image-Denoising](https://github.com/liujikun/Densely-Self-guided-Wavelet-Network-for-Image-Denoising) - A  network for image denoising （A solution for NTIRE 2020）
+- [cucapra/approx-vision](https://github.com/cucapra/approx-vision) - Designing image processing hardware and software for computer vision
+- [ZYiJie/Simple-CLIP](https://github.com/ZYiJie/Simple-CLIP) - 基于开源预训练模型来实现一个简单的CLIP模型
+- [alexhe101/FourierISP](https://github.com/alexhe101/FourierISP) - Official implementation of AAAI-2024 paper "Enhancing RAW-to-sRGB with Decoupled Style Structure in Fourier Domain"
+- [TinyBeauty/TinyBeauty](https://github.com/TinyBeauty/TinyBeauty) - 
+- [cszhilu1998/RAW-to-sRGB](https://github.com/cszhilu1998/RAW-to-sRGB) - [ICCV 2021] Learning RAW-to-sRGB Mappings with Inaccurately Aligned Supervision
+- [ljzycmd/RAWBlur](https://github.com/ljzycmd/RAWBlur) - Real-world video deblurring by synthesizing realistic blurs in RAW space
+- [hamadichihaoui/BIRD](https://github.com/hamadichihaoui/BIRD) - This is the official implementation of "Blind Image Restoration via Fast Diffusion Inversion"
+- [KangLiao929/Noise-DA](https://github.com/KangLiao929/Noise-DA) - [ICLR 2025] Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration
+- [lcybuzz/Low-Level-Vision-Paper-Record](https://github.com/lcybuzz/Low-Level-Vision-Paper-Record) - 记录近期的 1) 图像/视频的超分增强等low level vision任务; 2) 图像生成 等任务相关论文, 主要为18年以后的DL based方法.
+- [SenseBrainTech/overexposure-mask-reverse-ISP](https://github.com/SenseBrainTech/overexposure-mask-reverse-ISP) - This is the official repository providing the inference code for RGB-to-RAW mapping for ECCV 2022 and AIM Workshop 2022.
+- [centreborelli/RVDD-release](https://github.com/centreborelli/RVDD-release) - Video joint denoising and demosaicing with recurrent CNNs - WACV 2023
+- [fkmajiji/Unsupervised-Spectral-Demosaicing](https://github.com/fkmajiji/Unsupervised-Spectral-Demosaicing) - This is an official PyTorch implementation for "Unsupervised Spectral Demosaicing with Lightweight Spectral Attention Networks".
+- [alwaysuu/CLIPDenoising](https://github.com/alwaysuu/CLIPDenoising) - CVPR2024: Transfer CLIP for Generalizable Image Denoising
+- [DanielNobbe/rawnoise](https://github.com/DanielNobbe/rawnoise) - Synthetic noise on RAW images, implemented in Torch.
+- [vojirt/PixOOD](https://github.com/vojirt/PixOOD) - Official implementation of the "PixOOD: Pixel-Level Out-of-Distribution Detection"
+- [lly-louis/INF](https://github.com/lly-louis/INF) - [CVPR 2023] Metadata-Based RAW Reconstruction via Implicit Neural Functions
+- [Vishal-V/FSDA-LowLight](https://github.com/Vishal-V/FSDA-LowLight) - Code for "Few Shot Domain Adaptation for Low Light RAW Image Enhancement" BMVC 2021 Best Student Paper Award Runner Up
+- [Tencent/Real-SR](https://github.com/Tencent/Real-SR) - Real-World Super-Resolution via Kernel Estimation and Noise Injection
+- [cszn/BSRGAN](https://github.com/cszn/BSRGAN) - Designing a Practical Degradation Model for Deep Blind Image Super-Resolution (ICCV, 2021) (PyTorch) - We released the training code!
+- [gosha20777/few-shot-isp-domain-adaptation](https://github.com/gosha20777/few-shot-isp-domain-adaptation) - A new method for few-shot domain adaptation of RAW-to-RGB neural image signal processing (ISP) pipelines.
+- [zfu006/sRGB-Real-Noise-Synthesis](https://github.com/zfu006/sRGB-Real-Noise-Synthesis) - Official PyTorch implementation of "sRGB Real Noise Synthesizing with Neighboring Correlation-Aware Noise Model" in CVPR 2023.
+- [fengzhang427/LRD](https://github.com/fengzhang427/LRD) - Official implementation for our ICCV 2023 paper “Towards General Low-Light Raw Noise Synthesis and Modeling”
+- [VinAIResearch/single_image_hdr](https://github.com/VinAIResearch/single_image_hdr) - Single-Image HDR Reconstruction by Multi-Exposure Generation (WACV 2023)
+- [p1y2z3/SDAP](https://github.com/p1y2z3/SDAP) - Random Sub-Samples Generation for Self-Supervised Real Image Denoising (ICCV 2023)
+- [602387193c/ComfyUI-wiki](https://github.com/602387193c/ComfyUI-wiki) - Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
+- [createcolor/nightimaging24](https://github.com/createcolor/nightimaging24) - Repo with code for NIR'24 challange
+- [HUST-IAL/CoTF](https://github.com/HUST-IAL/CoTF) - The code of paper "Real-Time Exposure Correction via Collaborative Transformations and Adaptive Sampling" (CVPR 2024)
+- [LZ-CH/Exposure_Correction-pytorch](https://github.com/LZ-CH/Exposure_Correction-pytorch) - CVPR2021 Learning Multi-Scale Photo Exposure Correction论文的非官方pytorch代码
+- [q935970314/Deep-FlexISP](https://github.com/q935970314/Deep-FlexISP) - This is the official implementation of "Deep-FlexISP: A Three-Stage Framework for Night Photography Rendering"
+- [YuZheng9/C2PNet](https://github.com/YuZheng9/C2PNet) - [CVPR 2023] Curricular Contrastive Regularization for Physics-aware Single Image Dehazing
+- [csjliang/LDL](https://github.com/csjliang/LDL) - Official implementation of the paper 'Details or Artifacts: A Locally Discriminative Learning Approach to Realistic Image Super-Resolution' in CVPR 2022
+- [Li-Tong-621/DMID](https://github.com/Li-Tong-621/DMID) - [TPAMI 2024] The offical code for DMID ( Stimulating the Diffusion Model for Image Denoising via Adaptive Embedding and Ensembling ).
+- [jinlong17/LightDiff](https://github.com/jinlong17/LightDiff) - About [CVPR 2024] The official implementation of paper " Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving"
+- [EternalEvan/FlowIE](https://github.com/EternalEvan/FlowIE) - This repository contains the official implementation of "FlowIE: Efficient Image Enhancement via Rectified Flow"
+- [ZcsrenlongZ/ZoomGS](https://github.com/ZcsrenlongZ/ZoomGS) - [ECCV 2024] Dual-Camera Smoooth Zoom on Mobile Phones
+- [ZhaomingKong/Denoising-Comparison](https://github.com/ZhaomingKong/Denoising-Comparison) - 
+- [dhryougit/AFM](https://github.com/dhryougit/AFM) - 
+- [rflepp/SplitterNet-Efficient-Mobile-Denoising-Models-CVPR2024](https://github.com/rflepp/SplitterNet-Efficient-Mobile-Denoising-Models-CVPR2024) - This framework includes the loading of different datasets as well as several denoising models. Several of the models are optimized for mobile usage. Those models include a simple U-Net, the winning mo
+- [mss3331/AGCWD](https://github.com/mss3331/AGCWD) - Efficient Contrast Enhancement Using Adaptive Gamma Correction With Weighting Distribution
+- [teboli/simulated_exposure_fusion_python](https://github.com/teboli/simulated_exposure_fusion_python) - 
+- [stroking-fishes-ml-corp/A-ESRGAN](https://github.com/stroking-fishes-ml-corp/A-ESRGAN) - [PRICAI 2023] A-ESRGAN aims to provide better super-resolution images by using multi-scale attention U-net discriminators.
+- [cszn/SCUNet](https://github.com/cszn/SCUNet) - Practical Blind Denoising via Swin-Conv-UNet and Data Synthesis (Machine Intelligence Research 2023)
+- [XPixelGroup/DiffBIR](https://github.com/XPixelGroup/DiffBIR) - [ECCV 2024] codes of DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior
+- [UX-Decoder/Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM) - [ECCV 2024] Official implementation of the paper "Semantic-SAM: Segment and Recognize Anything at Any Granularity"
+- [lukemelas/pixmatch](https://github.com/lukemelas/pixmatch) - 
+- [JingyunLiang/SwinIR](https://github.com/JingyunLiang/SwinIR) - SwinIR: Image Restoration Using Swin Transformer (official repository)
+- [luca-medeiros/lang-segment-anything](https://github.com/luca-medeiros/lang-segment-anything) - SAM with text prompt
+- [schoolpost/PiDNG](https://github.com/schoolpost/PiDNG) - Create Adobe DNG RAW files using Python. Works with any Bayer RAW Data including native support for Raspberry Pi cameras.
+- [wvangansbeke/Unsupervised-Semantic-Segmentation](https://github.com/wvangansbeke/Unsupervised-Semantic-Segmentation) - Unsupervised Semantic Segmentation by Contrasting Object Mask Proposals. [ICCV 2021]
+- [Nikunj-Gupta/Image-Segmentation-Using-Color-and-Texture-Descriptors-with-Expectation-Maximization](https://github.com/Nikunj-Gupta/Image-Segmentation-Using-Color-and-Texture-Descriptors-with-Expectation-Maximization) - An algorithm for unsupervised segmentation of an RGB image.
+- [ChuRuaNh0/Image_Restoration](https://github.com/ChuRuaNh0/Image_Restoration) - 
+- [brain-research/flying-shapes](https://github.com/brain-research/flying-shapes) - A potentially infinite dataset of coloured shapes which bounce around on a black background.
+- [TannerGilbert/Computer-Vision-Synthetic-Data-Generation](https://github.com/TannerGilbert/Computer-Vision-Synthetic-Data-Generation) - Synthetic data-set generator for Object Detection and Instance Segmentation
+- [debidatta/syndata-generation](https://github.com/debidatta/syndata-generation) - Code used to generate synthetic scenes and bounding box annotations for object detection. This was used to generate data used in the Cut, Paste and Learn paper
+- [symao/InteractiveImageSegmentation](https://github.com/symao/InteractiveImageSegmentation) - An interactive image segmentation tool for image segmentation labeling, which use GrabCut and implemented in OpenCV 3 and Python.
+- [ZVsion/rgbd_image_segmentation](https://github.com/ZVsion/rgbd_image_segmentation) - Python implementation of "Interactive Segmentation on RGBD Images via Cue Selection"
+- [UX-Decoder/Segment-Everything-Everywhere-All-At-Once](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once) - [NeurIPS 2023] Official implementation of the paper "Segment Everything Everywhere All at Once"
+- [budui/flare_removal_pytorch](https://github.com/budui/flare_removal_pytorch) - PyTorch Implementation of "How to Train Neural Networks for Flare Removal"
+- [pfnet-research/FSCS](https://github.com/pfnet-research/FSCS) - Fast Soft Color Segmentation
+- [mattnedrich/MeanShift_py](https://github.com/mattnedrich/MeanShift_py) - Simple implementation of mean shift clustering in python
+- [yylgoodlucky/HDTR-Net](https://github.com/yylgoodlucky/HDTR-Net) - A Real-Time High-Definition Teeth Restoration Network for ArbitraryTalking Face Generation Methods
+- [TencentYoutuResearch/FaceRestoration-sgpn](https://github.com/TencentYoutuResearch/FaceRestoration-sgpn) - Code for CVPR 2022 paper "Blind Face Restoration via Integrating Face Shape and Generative Priors"
+- [pq-yang/PGDiff](https://github.com/pq-yang/PGDiff) - [NeurIPS 2023] PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance
+- [chenxx89/BFRffusion](https://github.com/chenxx89/BFRffusion) - Official codes of Towards Real-World Blind Face Restoration with Generative Diffusion Prior
+- [rimchang/RSBlur](https://github.com/rimchang/RSBlur) - Repository for Realistic Blur Synthesis for Learning Image Deblurring
+- [JokerEyeAdas/HDR-ISP](https://github.com/JokerEyeAdas/HDR-ISP) - An ISP Pipeline For  HDR CMOS Image Sensor
+- [HuiiJi/AISP](https://github.com/HuiiJi/AISP) - 2D AI-NR model for raw images, including dataset、training、infer.
+- [fenghansen/PNNP](https://github.com/fenghansen/PNNP) - Physics-guided Noise Neural Proxy for Practical Low-light Raw Image Denoising
+- [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points
+- [lhaippp/gyro-video-stabilization](https://github.com/lhaippp/gyro-video-stabilization) - 
+- [youngyangyang04/TechCPP](https://github.com/youngyangyang04/TechCPP) - 【C++面试&C++学习指南】 这里整理了C++后端研发工程师面试和工作必备的知识点 。
+- [BBuf/how-to-learn-deep-learning-framework](https://github.com/BBuf/how-to-learn-deep-learning-framework) - how to learn PyTorch and OneFlow
+- [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) - 
+- [HUSTjmx/ShaderToy](https://github.com/HUSTjmx/ShaderToy) - 
+- [qhanson/translucent-image-recolor](https://github.com/qhanson/translucent-image-recolor) - This repository contains the code in paper "Translucent Image Recoloring through Homography Estimation".
+- [tody411/PaletteSelection](https://github.com/tody411/PaletteSelection) - Automatic Color Palette Selection (Python)
+- [pipi3838/DIP_Final](https://github.com/pipi3838/DIP_Final) - (Reproduce) Palette-based Photo Recoloring
+- [wkcn/Adaptive-Fast-Face-Color-Transfer](https://github.com/wkcn/Adaptive-Fast-Face-Color-Transfer) - 《自适应的快速人脸肤色转移》(Adaptive Fast Face Color Transfer)论文复现
+- [CodingTomo/traffic-light-relevance-annotation](https://github.com/CodingTomo/traffic-light-relevance-annotation) - Annotation for reproducing the result of the paper "Cross-model temporal cooperation via saliency maps for efficient recognition and classification of relevant traffic lights" .
+- [shengjie55555/traffic_lights_tracker](https://github.com/shengjie55555/traffic_lights_tracker) - 
+- [lynnboy/CppCoreGuidelines-zh-CN](https://github.com/lynnboy/CppCoreGuidelines-zh-CN) - Translation of C++ Core Guidelines [https://github.com/isocpp/CppCoreGuidelines] into Simplified Chinese.
+- [coolxv/knowledge](https://github.com/coolxv/knowledge) - 
+- [Srameo/DNF](https://github.com/Srameo/DNF) - [CVPR 2023 Highlight] DNF: Decouple and Feedback Network for Seeing in the Dark
+- [DarrenPan/Awesome-ICCV2023-Low-Level-Vision](https://github.com/DarrenPan/Awesome-ICCV2023-Low-Level-Vision) - A Collection of Papers and Codes in ICCV2023/2021 about low level vision
+- [wyf0912/ExposureDiffusion](https://github.com/wyf0912/ExposureDiffusion) - [ICCV 2023] ExposureDiffusion: Learning to Expose for Low-light Image Enhancement
+- [shuangxu96/MN-A-model-driven-network-for-guided-image-denoising](https://github.com/shuangxu96/MN-A-model-driven-network-for-guided-image-denoising) - A model-driven network for guided image denoising
+- [lustrouselixir/SANet](https://github.com/lustrouselixir/SANet) - Structure Aggregation for Cross-Spectral Stereo Image Guided Denoising
+- [megvii-research/DVN](https://github.com/megvii-research/DVN) - 
+- [ChenyangLEI/flash-reflection-removal](https://github.com/ChenyangLEI/flash-reflection-removal) - [CVPR2021] Robust Reflection Removal with Reflection-free Flash-only Cues
+- [Jermmy/pytorch-quantization-demo](https://github.com/Jermmy/pytorch-quantization-demo) - A simple network quantization demo using pytorch from scratch.
+- [ModelTC/mqbench-paper](https://github.com/ModelTC/mqbench-paper) - 
+- [xuwanyan1998/RawFomer](https://github.com/xuwanyan1998/RawFomer) - This is the code of paper "RawFormer: An Efficient Vision Transformer for Low-Light RAW Image Enhancement"
+- [theoad/dot-dmax](https://github.com/theoad/dot-dmax) - Official Pytorch implementation of "Deep Optimal Transport: A Practical Algorithm for Photo-realistic Image Restoration"
+- [yuanzhi-zhu/DiffPIR](https://github.com/yuanzhi-zhu/DiffPIR) - "Denoising Diffusion Models for Plug-and-Play Image Restoration", Yuanzhi Zhu, Kai Zhang, Jingyun Liang, Jiezhang Cao, Bihan Wen, Radu Timofte, Luc Van Gool.
+- [cyanymore/DDGAN](https://github.com/cyanymore/DDGAN) - DDGAN:Dense Residual Module and Dual-stream Attention-Guided Generative Adversarial Network for Colorizing Near-Infrared Images
+- [DAN-AND-DNA/learn-gdb-by-example-for-c](https://github.com/DAN-AND-DNA/learn-gdb-by-example-for-c) - learn gdb by example | gdb 教程 例子
+- [harinduravin/DualCam](https://github.com/harinduravin/DualCam) - DualCam Traffic Light Dataset created using two synchronous narrow angle and wide angle cameras.
+- [HuKai97/yolov5-5.x-annotations](https://github.com/HuKai97/yolov5-5.x-annotations) - 一个基于yolov5-5.0的中文注释版本！
+- [jizhishutong/YOLOU](https://github.com/jizhishutong/YOLOU) - YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6-v1、YOLOv6-v2、YOLOv7、YOLOX、YOLOX-Lite、PP-YOLOE、PP-PicoDet-Plus、YOLO-Fastest v2、FastestDet、YOLOv5-SPD、TensorRT、NCNN、Tengine、OpenVINO
+- [Jpvmello/traffic-light-detection-synthetic-context](https://github.com/Jpvmello/traffic-light-detection-synthetic-context) - 
+- [jiayi-ma/FusionGAN](https://github.com/jiayi-ma/FusionGAN) - FusionGAN: A generative adversarial network for infrared and visible image fusion
+- [jiayi-ma/ResNetFusion](https://github.com/jiayi-ma/ResNetFusion) - Infrared and visible image fusion via detail preserving adversarial learning
+- [hanna-xu/U2Fusion](https://github.com/hanna-xu/U2Fusion) - Code of U2Fusion: a unified unsupervised image fusion network for multiple image fusion tasks, including multi-modal, multi-exposure and multi-focus image fusion.
+- [Linfeng-Tang/SeAFusion](https://github.com/Linfeng-Tang/SeAFusion) - The code of " Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network"
+- [ykdai/Flare7K](https://github.com/ykdai/Flare7K) - Official Implementation of "Flare7K: A Phenomenological Nighttime Flare Removal Dataset"
+- [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
+- [wyf0912/R2LCM](https://github.com/wyf0912/R2LCM) - [CVPR'23/IJCV'24] Raw Image Reconstruction with Learned Compact Metadata
+- [wyhuai/RND](https://github.com/wyhuai/RND) - [AAAI 2023 Oral] GAN Prior based Null-Space Learning for Consistent Super-Resolution
+- [yudadabing/WACV2023_Dual-Stream-Transformer-for-Hyperspectral-Image-Restoration](https://github.com/yudadabing/WACV2023_Dual-Stream-Transformer-for-Hyperspectral-Image-Restoration) - Dual-Stream Transformer for Hyperspectral Image Restoration
+- [zsyOAOA/DifFace](https://github.com/zsyOAOA/DifFace) - DifFace: Blind Face Restoration with Diffused Error Contraction (TPAMI, 2024)
+- [YCL92/LowlightENR](https://github.com/YCL92/LowlightENR) - Progressive Joint Low-light Enhancement and Noise Removal for Raw Images
+- [ofsoundof/GRL-Image-Restoration](https://github.com/ofsoundof/GRL-Image-Restoration) - 
+- [zhaoyuzhi/D2HNet](https://github.com/zhaoyuzhi/D2HNet) - D2HNet: Joint Denoising and Deblurring with Hierarchical Network for Robust Night Image Restoration. ECCV, 2022
+- [shlee0/NoiseTransfer](https://github.com/shlee0/NoiseTransfer) - NoiseTransfer: Image Noise Generation with Contrastive Embeddings, ACCV 2022 oral
+- [wyhuai/DDNM](https://github.com/wyhuai/DDNM) - [ICLR 2023 Oral] Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model
+- [savvaki/LPDM](https://github.com/savvaki/LPDM) - Denoising Diffusion Post-Processing for Low-Light Image Enhancement
+- [KIMGEONUNG/BigColor](https://github.com/KIMGEONUNG/BigColor) - [ECCV 2022] Official PyTorch implementation of "BigColor"
+- [cindydeng1991/TPAMI-CU-Net](https://github.com/cindydeng1991/TPAMI-CU-Net) - 
+- [Erkaman/vulkan_minimal_compute](https://github.com/Erkaman/vulkan_minimal_compute) - Minimal Example of Using Vulkan for Compute Operations. Only ~400LOC.
+- [TCL-AILab/Abandon_Bayer-Filter_See_in_the_Dark](https://github.com/TCL-AILab/Abandon_Bayer-Filter_See_in_the_Dark) - Source code for CVPR2022 paper "Abandoning the Bayer-Filter to See in the Dark"
+- [likesum/deepFnF](https://github.com/likesum/deepFnF) - Code for "Deep Denoising of Flash and No-Flash Pairs for Photography in Low-Light Environments".
+- [Ldpe2G/ArmNeonOptimization](https://github.com/Ldpe2G/ArmNeonOptimization) - Arm neon optimization practice
+- [PPshrimpGo/AIinterview](https://github.com/PPshrimpGo/AIinterview) - 算法工程师面试题整理
+- [zchrissirhcz/neon_sim](https://github.com/zchrissirhcz/neon_sim) - Implement ARM NEON intrinsics in C++
+- [Lornatang/RCAN-PyTorch](https://github.com/Lornatang/RCAN-PyTorch) - PyTorch implements `Image Super-Resolution Using Very Deep Residual Channel Attention Networks` paper.
+- [code-wd/AI_offer](https://github.com/code-wd/AI_offer) - 这个项目主要用来总结算法工程师面试中常见的问题
+- [xn1997/CV_interviews_Campus](https://github.com/xn1997/CV_interviews_Campus) - CV算法岗知识点及面试问答汇总，主要分为计算机视觉、机器学习、图像处理、编程语言和数据结构。
+- [renyuehe/ai-lesson_Deeplearning_Face](https://github.com/renyuehe/ai-lesson_Deeplearning_Face) - 深度学习___面试
+- [GYee/CV_interviews_Q-A](https://github.com/GYee/CV_interviews_Q-A) - CV算法岗知识点及面试问答汇总，主要分为计算机视觉、机器学习、图像处理和 C++基础四大块，一起努力向offers发起冲击！
+- [yangzhaonan18/yolov3_trafficSign_pytorch](https://github.com/yangzhaonan18/yolov3_trafficSign_pytorch) - Traffic sign detection 交通标志、信号灯检测，请加Q群交流：904484709
+- [bubbliiiing/yolox-pytorch](https://github.com/bubbliiiing/yolox-pytorch) - 这是一个yolox-pytorch的源码，可以用于训练自己的模型。
+- [AngelMonica126/GraphicAlgorithm](https://github.com/AngelMonica126/GraphicAlgorithm) - :octopus: :octopus:图形学论文实现
+- [ethan-li-coding/StereoV3DCode](https://github.com/ethan-li-coding/StereoV3DCode) - 《立体视觉入门指南》 代码， c++ code for StereoV3D course
+- [amonod/hdrplus-python](https://github.com/amonod/hdrplus-python) - Open source Python implementation of the HDR+ photography pipeline
+- [me115/design_patterns](https://github.com/me115/design_patterns) - 图说设计模式
+- [joyDeng/Yangtze_AutoImageStitch](https://github.com/joyDeng/Yangtze_AutoImageStitch) - Panoramic image stitching
+- [lucasjinreal/AI-Infer-Engine-From-Zero](https://github.com/lucasjinreal/AI-Infer-Engine-From-Zero) - 关于自建AI推理引擎的手册，从0开始你需要知道的所有事情
+- [bubbliiiing/yolo3-pytorch](https://github.com/bubbliiiing/yolo3-pytorch) - 这是一个yolo3-pytorch的源码，可以用于训练自己的模型。
+- [coldlarry/YOLOv3-complete-pruning](https://github.com/coldlarry/YOLOv3-complete-pruning) - 提供对YOLOv3及Tiny的多种剪枝版本，以适应不同的需求。
+- [yangxy/GPEN](https://github.com/yangxy/GPEN) - 
+- [shawshany/traffic_light_classified](https://github.com/shawshany/traffic_light_classified) - Traffic light classify
+- [BoyPao/ImageSignalProcessing-ISP](https://github.com/BoyPao/ImageSignalProcessing-ISP) - Implementation of ISP
+- [kosme/fix_fft](https://github.com/kosme/fix_fft) - Fix_fft library
+- [Aiemu/Zero-DCE-improved](https://github.com/Aiemu/Zero-DCE-improved) - Improved version of Zero-DCE for low-light image enhancement
+- [zhaoyuzhi/QRNet](https://github.com/zhaoyuzhi/QRNet) - Modeling Dual-Exposure Quad-Bayer Patterns for Joint Denoising and Deblurring. IEEE TIP, 2024
+- [zhangyi-3/Noise-Synthesis](https://github.com/zhangyi-3/Noise-Synthesis) - Rethinking Noise Synthesis and Modeling in Raw Denoising (ICCV2021)
+- [jmluu/Awesome-Efficient-Training](https://github.com/jmluu/Awesome-Efficient-Training) - A collection of research papers on efficient training of DNNs
+- [Krasjet/quaternion](https://github.com/Krasjet/quaternion) - A brief introduction to the quaternions and its applications in 3D geometry.
+- [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
+- [xiahaa/RS_IEKF](https://github.com/xiahaa/RS_IEKF) - Parameter estimation using IEKF for RS camera
+- [yossato/virtualGimbal](https://github.com/yossato/virtualGimbal) - virtualGimbal is an electronic stabilize device for videos that were taken by hand held camera. (I.e. DSLR)
+- [yossato/virtualgimbal_ros](https://github.com/yossato/virtualgimbal_ros) - Video stabilization using IMU information. This package stabilizes a video taken with a camera on mobile robots.
+- [JerryLeolfl/pytorch-MRGAN-master](https://github.com/JerryLeolfl/pytorch-MRGAN-master) - Code of the moire removal method "Unsupervised Moire Patterns Removal for Recaptured Screen Images"
+- [linzhi123/pytorch-caffe-darknet-convert](https://github.com/linzhi123/pytorch-caffe-darknet-convert) - 
+- [kob51/image_deblurring](https://github.com/kob51/image_deblurring) - Implementation of "Image Deblurring Using Inertial Measurement Sensors" for the Computational Photography final project (Fall 2020)
+- [remicongee/Fourier-Burst-Accumulation](https://github.com/remicongee/Fourier-Burst-Accumulation) - Implemetation of "Removing Camera Shake via Weighted Fourier Burst Accumulation".
+- [ryanfb/torch-warp](https://github.com/ryanfb/torch-warp) - Fully automatic optical flow based image morphing implemented in Torch
+- [mcahny/Deep-Video-Inpainting](https://github.com/mcahny/Deep-Video-Inpainting) - Official pytorch implementation for "Deep Video Inpainting" (CVPR 2019)
+- [yu-li/TCMonoDepth](https://github.com/yu-li/TCMonoDepth) - Enforcing Temporal Consistency in Video Depth Estimation, ICCV-W 2021.
+- [Zhengtq/ncnn_breakdown](https://github.com/Zhengtq/ncnn_breakdown) - A breakdown of NCNN
+- [BUPTLdy/Caffe_Code_Analysis](https://github.com/BUPTLdy/Caffe_Code_Analysis) - Caffe_Code_Analysis
+- [hgpvision/darknet](https://github.com/hgpvision/darknet) - darknet深度学习框架源码分析：详细中文注释，涵盖框架原理与实现语法分析
+- [ArtyZe/yolo_quantization](https://github.com/ArtyZe/yolo_quantization) - Based of paper "Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference"
+- [holy44162/surround-view-system-introduction-imported](https://github.com/holy44162/surround-view-system-introduction-imported) - 
+- [neozhaoliang/surround-view-system-introduction](https://github.com/neozhaoliang/surround-view-system-introduction) - A full Python implementation for real car surround view system
+- [aaaaangel/RRDNet](https://github.com/aaaaangel/RRDNet) - Implementation of "Zero-Shot Restoration of Underexposed Images via Robust Retinex Decomposition, International Conference on Multimedia and Expo, 2020"
+- [WangJY06/RDGAN](https://github.com/WangJY06/RDGAN) - ICME 2019 paper "RDGAN: Retinex Decomposition based Adversarial Learning for Low-Light Enhancement"
+- [jiupinjia/Deep-adversarial-decomposition](https://github.com/jiupinjia/Deep-adversarial-decomposition) - Pytorch implementation of the paper: "A Unified Framework for Separating Superimposed Images", in CVPR 2020.
+- [xw-hu/Mask-ShadowGAN](https://github.com/xw-hu/Mask-ShadowGAN) - Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data | ICCV 2019
+- [csqiangwen/Single-Image-Reflection-Removal-Beyond-Linearity](https://github.com/csqiangwen/Single-Image-Reflection-Removal-Beyond-Linearity) - 
+- [kasumi494/opencv_lucas-kanade](https://github.com/kasumi494/opencv_lucas-kanade) - Pyramidal Implementation of the Lucas Kanade Feature Tracker
+- [nejcgalof/Optical-Flow-using-Dense-Inverse-Search](https://github.com/nejcgalof/Optical-Flow-using-Dense-Inverse-Search) - 
+- [yu-li/FGI](https://github.com/yu-li/FGI) - Code of 'FGI: Fast Guided Global Interpolation for Depth and Motion' (ECCV 2016 spotlight)
+- [martin-marek/hdr-plus-pytorch](https://github.com/martin-marek/hdr-plus-pytorch) - A PyTorch implementation of HDR+ with GPU support.
+- [AaltoVision/camera-gyro-calibration](https://github.com/AaltoVision/camera-gyro-calibration) - Robust Gyroscope-Aided Camera Self-Calibration (codes)
+- [hovren/crisp](https://github.com/hovren/crisp) - Camera-to-IMU calibration and synchronization toolbox
+- [francocurotto/Video-Stabilization](https://github.com/francocurotto/Video-Stabilization) - 
+- [pcl111/DBDNet](https://github.com/pcl111/DBDNet) - Code of "DBDnet: A Deep Boosting Strategy for Image Denoising"
+- [alex-golts/Video-Stabilization](https://github.com/alex-golts/Video-Stabilization) - Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes
+- [wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) - Single Underwater Image Enhancement and Color Restoration, which is Python implementation for a comprehensive review paper "An Experimental-based Review of Image Enhancement and Image Restoration Meth
+- [tuezato/guided-deep-decoder](https://github.com/tuezato/guided-deep-decoder) - Code of 'Guided Deep Decoder: Unsupervised Image Pair Fusion'
+- [vccimaging/Deep-Red-Flash](https://github.com/vccimaging/Deep-Red-Flash) - Source code for 2021 CVPR paper "Seeing in Extra Darkness Using a Deep-red Flash"
+- [yhjo09/SR-LUT](https://github.com/yhjo09/SR-LUT) - 
+- [zhetongliang/BDNet](https://github.com/zhetongliang/BDNet) - 
+- [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C++》- 完成翻译
+- [liuguoyou/EffectiveModernCppChinese](https://github.com/liuguoyou/EffectiveModernCppChinese) - 《Effective Modern C++》翻译 - 已完成
+- [NJU-Jet/SR_Mobile_Quantization](https://github.com/NJU-Jet/SR_Mobile_Quantization) - Winner solution of mobile AI (CVPRW 2021).
+- [sxpro/ImageEnhance_cGAN](https://github.com/sxpro/ImageEnhance_cGAN) - Pytorch implementation of "Enhance Image as You Like with Unpaired Learning" (IJCAI 2021)
+- [goutamgmb/NTIRE21_BURSTSR](https://github.com/goutamgmb/NTIRE21_BURSTSR) - 
+- [Erfan-Ahmadi/BokehDepthOfField](https://github.com/Erfan-Ahmadi/BokehDepthOfField) - Implementing Different Algorithms to mimic Bokeh Depth Of Field: A Physical Camera Effect created due to Focal Length, Aperture size, shape
+- [ChengyuWang1007/Deep-Learning-for-Camera-Autofocus](https://github.com/ChengyuWang1007/Deep-Learning-for-Camera-Autofocus) - 
+- [csm9493/FBI-Denoiser](https://github.com/csm9493/FBI-Denoiser) - Official Code of FBI-Denoiser (Oral, CVPR 2021)
+- [zsyOAOA/noise_est_ICCV2015](https://github.com/zsyOAOA/noise_est_ICCV2015) - An Efficient Statistical Method for Image Noise Level Estimation, ICCV 2015, Python
+- [binary-sky/ExtremeLowLight](https://github.com/binary-sky/ExtremeLowLight) - Code&Dataset : Learning an Adaptive Model for Extreme Low-light Raw Image Processing
+- [Jiaming-Liu/BayerUnifyAug](https://github.com/Jiaming-Liu/BayerUnifyAug) - Python toolbox for Bayer Raw image unification and augmentation
+- [jannemus/LSD2](https://github.com/jannemus/LSD2) - Joint Denoising and Deblurring of Short and Long Exposure Images with CNNs
+- [shliang0603/Awesome-DeepLearning-500FAQ](https://github.com/shliang0603/Awesome-DeepLearning-500FAQ) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。声明：所有内容来自（仅供学习）：https://github.com/scutan90/DeepLearning-500-questions
+- [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
+- [cao-cong/SMID-pytorch](https://github.com/cao-cong/SMID-pytorch) - Unofficial pytorch code for Seeing-Motion in the Dark.
+- [SheepHow/Learning-to-See-in-the-Dark-Pytorch](https://github.com/SheepHow/Learning-to-See-in-the-Dark-Pytorch) - 
+- [MichaelHYJiang/Learning-to-See-Moving-Objects-in-the-Dark](https://github.com/MichaelHYJiang/Learning-to-See-Moving-Objects-in-the-Dark) - Learning to See Moving Objects in the Dark. ICCV 2019
+- [yzxing87/pytorch-deep-video-prior](https://github.com/yzxing87/pytorch-deep-video-prior) - [NeurIPS 2020] Blind Video Temporal Consistency via Deep Video Prior
+- [WangLiwen1994/DLN](https://github.com/WangLiwen1994/DLN) - low-light image enhancement
+- [Marinyyt/noise-modeling-for-extreme-low-light-condition](https://github.com/Marinyyt/noise-modeling-for-extreme-low-light-condition) - 
+- [JaChouSSS/the-pytorch-implementation-of-Kindling-the-Darkness-A-Practical-Low-light-Image-Enhancer-](https://github.com/JaChouSSS/the-pytorch-implementation-of-Kindling-the-Darkness-A-Practical-Low-light-Image-Enhancer-) - 
+- [JimmyChame/LSFNet](https://github.com/JimmyChame/LSFNet) - Pytorch code for "Low-light Image Restoration with Short- and Long-exposure Raw Pairs"
+- [zhangyhuaee/KinD](https://github.com/zhangyhuaee/KinD) - Kindling the Darkness: a Practical Low-light Image Enhancer
+- [z-bingo/Recurrent-Fully-Convolutional-Networks](https://github.com/z-bingo/Recurrent-Fully-Convolutional-Networks) - Reimplement of paper End-to-End Denoising of Dark Burst Images Using Recurrent Fully Convolutional Networks
+- [parasmaharjan/DeepImageDenoising](https://github.com/parasmaharjan/DeepImageDenoising) - 
+- [gmengusthk/Seeing-Motion-in-the-Dark-Pytorch](https://github.com/gmengusthk/Seeing-Motion-in-the-Dark-Pytorch) - A pytorch implementation of Seeing-Motion in the Dark.
+- [hoainamken/Burst-Denoising-of-Dark-Images](https://github.com/hoainamken/Burst-Denoising-of-Dark-Images) - 
+- [flyywh/CVPR-2020-Semi-Low-Light](https://github.com/flyywh/CVPR-2020-Semi-Low-Light) - 
+- [constantine7cd/burst_enhancement](https://github.com/constantine7cd/burst_enhancement) - Bachelor's Degree Final Project. Project related to computer vision and computational photography, the algorithm purpose to process burst of raw Bayer images shot in scenes with low light to get image
+- [vijishmadhavan/Light-Up](https://github.com/vijishmadhavan/Light-Up) - Low-Light Image Enhancement
+- [computational-imaging/neural-holography](https://github.com/computational-imaging/neural-holography) - Code and data for Neural Holography
+- [Apathetically/ProxyOpt](https://github.com/Apathetically/ProxyOpt) - Unofficial implement of denoising SIDD dataset reference the article Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies
+- [h4nwei/SPAQ](https://github.com/h4nwei/SPAQ) - [CVPR'20] Official SPAQ & Implementation
+- [laulampaul/sgnet](https://github.com/laulampaul/sgnet) - joint demosaicing and denoising with self guidance, cvpr20
+- [yanconglin/Deep-Hough-Transform-Line-Priors](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors) - Official implementation for Deep-Hough-Transform-Line-Priors (ECCV 2020)
+- [yzxing87/Invertible-ISP](https://github.com/yzxing87/Invertible-ISP) - [CVPR2021] Invertible Image Signal Processing
+- [zkawfanx/StableLLVE](https://github.com/zkawfanx/StableLLVE) - Learning Temporal Consistency for Low Light Video Enhancement from Single Images (CVPR2021)
+- [hucvl/dark-burst-photography](https://github.com/hucvl/dark-burst-photography) - Official Tensorflow Implementation for "Burst Denoising of Dark Images", IEEE Transactions on Image Processing, November 2021
+- [pminhtam/DeepBurstDenoising](https://github.com/pminhtam/DeepBurstDenoising) - Pytorch implement " Deep Burst Denoising  "
+- [zsyOAOA/DANet](https://github.com/zsyOAOA/DANet) - Dual Adversarial Network: Toward Real-world Noise Removal and Noise Generation (ECCV 2020) (Pytorch)
+- [pminhtam/NBNet](https://github.com/pminhtam/NBNet) - Pytorch UNOFFICIAL implement "NBNet: Noise Basis Learning for Image Denoising with Subspace Projection"
+- [tehret/blind-denoising](https://github.com/tehret/blind-denoising) - Model-Blind Video Denoising Via Frame-to-frame Training
+- [XHWXD/DBSN](https://github.com/XHWXD/DBSN) - Unpaired Learning of Deep Image Denoising
+- [happycaoyue/Pseudo-ISP](https://github.com/happycaoyue/Pseudo-ISP) - 
+- [anchen507/MMNet](https://github.com/anchen507/MMNet) - video denoising
+- [avinashpaliwal/MaskDnGAN](https://github.com/avinashpaliwal/MaskDnGAN) - Official PyTorch implementation of "Multi-Stage Raw Video Denoising with Adversarial Loss and Gradient Mask"
+- [DavidQiuChao/PBNFM](https://github.com/DavidQiuChao/PBNFM) - An implementation for noise model estimation method of "A Physics-based Noise Formation Model for Extreme Low-light Raw Denoising", CVPR 2020.
+- [Vandermode/ELD](https://github.com/Vandermode/ELD) - Physics-based Noise Modeling for Extreme Low-light Photography (CVPR 2020 Oral & TPAMI 2021)
+- [GuoShi28/GCP-Net](https://github.com/GuoShi28/GCP-Net) - Code for "Joint Denoising and Demosaicking with Green Channel Prior for Real-world Burst Images", TIP2021
+- [cao-cong/RViDeNet](https://github.com/cao-cong/RViDeNet) - Supervised Raw Video Denoising with a Benchmark Dataset on Dynamic Scenes. CVPR 2020
+- [FrederikWarburg/Burst-Image-Deblurring](https://github.com/FrederikWarburg/Burst-Image-Deblurring) - 
+- [iwtw/SRN-DeblurNet](https://github.com/iwtw/SRN-DeblurNet) - SRN-DeblurNet pytorch replicate , pretrained model provided
+- [BrehmiumPwr/deblurring_ntire2020](https://github.com/BrehmiumPwr/deblurring_ntire2020) - Code for CVPR 2020 Workshop Paper "High-Resolution Dual-Stage Multi-Level Feature Aggregation for Single Image and Video Deblurring"
+- [zhaoyuzhi/DeblurGANv2-MobileNetv123-PyTorch](https://github.com/zhaoyuzhi/DeblurGANv2-MobileNetv123-PyTorch) - Provide pre-trained MobileNetv123 and MobileNet-DSC FPN models for DeblurGANv2
+- [rimchang/RealBlur](https://github.com/rimchang/RealBlur) - Repository for Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms
+- [abhijithpunnappurath/dual-pixel-defocus-disparity](https://github.com/abhijithpunnappurath/dual-pixel-defocus-disparity) - 
+- [SeungjunNah/DeepDeblur-PyTorch](https://github.com/SeungjunNah/DeepDeblur-PyTorch) - Deep Multi-scale CNN for Dynamic Scene Deblurring
+- [SeungjunNah/DeepDeblur_release](https://github.com/SeungjunNah/DeepDeblur_release) - Deep Multi-scale CNN for Dynamic Scene Deblurring
+- [idiap/psfestimation](https://github.com/idiap/psfestimation) - Code for the PyTorch implementation of "Spatially-Variant CNN-based Point Spread Function Estimation for Blind Deconvolution and Depth Estimation in Optical Microscopy", IEEE Transactions on Image Pro
+- [tsingqguo/efficientderain](https://github.com/tsingqguo/efficientderain) - We propose EfficientDerain for high-efficiency single-image deraining at AAAI 2021. The latest extended version has been accepted by IJCV at 2024. Please check the released code at https://github.com/
+- [sczhou/DAVANet](https://github.com/sczhou/DAVANet) - [CVPR 2019, Oral] DAVANet: Stereo Deblurring with View Aggregation
+- [Lotayou/Face-Renovation](https://github.com/Lotayou/Face-Renovation) - Official repository of the paper "HiFaceGAN: Face Renovation via Collaborative Suppression and Replenishment".
+- [ziizouz/middlebury-stereo-dataset](https://github.com/ziizouz/middlebury-stereo-dataset) - Small python script that downloads middlebury stereo dataset 2014, converst PFM file to PNG. Then, it saves gray and depth into 2 pickles for later use with Tensorflow
+- [JiaxiongQ/DeepBlindness](https://github.com/JiaxiongQ/DeepBlindness) - Fast Blindness Map Estimation and Blindness Type Classification for Outdoor Scene from Single Color Image
+- [Imalne/Defocus-and-Motion-Blur-Detection-with-Deep-Contextual-Features](https://github.com/Imalne/Defocus-and-Motion-Blur-Detection-with-Deep-Contextual-Features) - 
+- [elejke/awesome-defocus-detection](https://github.com/elejke/awesome-defocus-detection) - A curated list of defocus detection and image quality assessment papers and codes
+- [alikaraali/depth-edge-aware-dfe-tip2022](https://github.com/alikaraali/depth-edge-aware-dfe-tip2022) - Code of the paper https://arxiv.org/abs/2009.11939. A defocus blur estimation method.
+- [xytmhy/DID-ANet-Defocus-Deblurring](https://github.com/xytmhy/DID-ANet-Defocus-Deblurring) - Code for our paper DED-Net: the Dual-task Network for Defocus Estimation and Deblurring (Under Construction Now)
+- [hezhujun/autofocus-rnn](https://github.com/hezhujun/autofocus-rnn) - 
+- [antonio490/Autofocus](https://github.com/antonio490/Autofocus) - Implementation of different autofocus functions using python. The main goal is to obtain efficiently the maximal contrast between pixels
+- [soyers/ddff-pytorch](https://github.com/soyers/ddff-pytorch) - Deep Depth from Focus implementation
+- [spatialaudio/digital-signal-processing-lecture](https://github.com/spatialaudio/digital-signal-processing-lecture) - Digital Signal Processing - Theory and Computational Examples
+- [unpingco/Python-for-Signal-Processing](https://github.com/unpingco/Python-for-Signal-Processing) - Notebooks for "Python for Signal Processing" book
+- [bastamon/sound_signal_process-matlab-](https://github.com/bastamon/sound_signal_process-matlab-) - 语音信号处理实验教程（MATLAB源代码）
+- [aditya9211/Tellmate](https://github.com/aditya9211/Tellmate) - Screen Flickering Detection
+- [codeslake/SYNDOF](https://github.com/codeslake/SYNDOF) - The official matlab implementation of SYNDOF generation used in the paper, 'Deep Defocus Map Estimation using Domain Adaptation', CVPR 2019
+- [YvanYin/DiverseDepth](https://github.com/YvanYin/DiverseDepth) - The code and data of DiverseDepth
+- [roserustowicz/psf-estimation](https://github.com/roserustowicz/psf-estimation) - PSF Estimation in Matlab, from Mosleh Blur Estimation paper
+- [ShawnIL/DefocusBlurRemoving](https://github.com/ShawnIL/DefocusBlurRemoving) - 
+- [zhengshuiqin/Wavefront-Detection-Tutorial](https://github.com/zhengshuiqin/Wavefront-Detection-Tutorial) - Matlab simulation codes for some typical wavefront detection techniques
+- [marcelampc/d3net_depth_estimation](https://github.com/marcelampc/d3net_depth_estimation) - Dense Deep Depth Estimation Network (D3-Net) in PyTorch.
+- [dvl-tum/defocus-net](https://github.com/dvl-tum/defocus-net) - Official PyTorch implementation of "Focus on Defocus" paper.
+- [LeighAH/blender_autofocus](https://github.com/LeighAH/blender_autofocus) - Per camera auto focus for Blender. Camera will auto focus on the nearest surface within the specified range.
+- [StudentCV/PiAutofocusCV](https://github.com/StudentCV/PiAutofocusCV) - 
+- [idiap/deepfocus](https://github.com/idiap/deepfocus) - Pytorch implementation of "DeepFocus: a Few-Shot Microscope Slide Auto-Focus using a Sample Invariant CNN-based Sharpness Function"
+- [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2) - edition 2 of the slambook
+- [EEEGUI/DenseDepth-pytorch](https://github.com/EEEGUI/DenseDepth-pytorch) - pytorch implement of [High Quality Monocular Depth Estimation via Transfer Learning]
+- [LouisFoucard/DepthMap_dataset](https://github.com/LouisFoucard/DepthMap_dataset) - Python Blender script to generate random scene, depth map and corresponding Stereo images for machine learning.
+- [chenghegao4556/megadepth](https://github.com/chenghegao4556/megadepth) - 
+- [JiawangBian/SC-SfMLearner-Release](https://github.com/JiawangBian/SC-SfMLearner-Release) - Unsupervised Scale-consistent Depth Learning from Video (IJCV2021 & NeurIPS 2019)
+- [scott89/awesome-depth](https://github.com/scott89/awesome-depth) - A curated list of publication for depth estimation
+- [ethan-li-coding/SemiGlobalMatching](https://github.com/ethan-li-coding/SemiGlobalMatching) - SGM，立体匹配StereoMatching最经典应用最广泛算法，4000+引用，兼顾效率和效果。完整实现，代码规范，注释清晰，博客教学！
+- [lasinger/3DVideos2Stereo](https://github.com/lasinger/3DVideos2Stereo) - Code to extract stereo frame pairs from 3D videos, as used in "Ranftl et. al., Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer, arXiv:1907.01341"
+- [isl-org/MiDaS](https://github.com/isl-org/MiDaS) - Code for robust monocular depth estimation described in "Ranftl et. al., Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer, TPAMI 2022"
+- [TRI-ML/packnet-sfm](https://github.com/TRI-ML/packnet-sfm) - TRI-ML Monocular Depth Estimation Repository
+- [kujason/ip_basic](https://github.com/kujason/ip_basic) - Image Processing for Basic Depth Completion
+- [yzcjtr/GeoNet](https://github.com/yzcjtr/GeoNet) - Code for GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose (CVPR 2018)
+- [mrharicot/monodepth](https://github.com/mrharicot/monodepth) - Unsupervised single image depth prediction with CNNs
+- [facebookresearch/consistent_depth](https://github.com/facebookresearch/consistent_depth) - We estimate dense, flicker-free, geometrically consistent depth from monocular video, for example hand-held cell phone video.
+- [fmannan/PSFEstimation](https://github.com/fmannan/PSFEstimation) - Point Spread Function Estimation from Images
+- [sedara0218/camera_autofocus](https://github.com/sedara0218/camera_autofocus) - A machine learning approach for defining contrast for autofocus.
+- [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
+- [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
+- [chaehonglee/Joint_Depth_Esimation_and_Deblur](https://github.com/chaehonglee/Joint_Depth_Esimation_and_Deblur) - Python+Matlab Implementation of Joint Depth Estimation and Camera Shake Removal from Single Blurry Image
+- [changhuanyang/DefocusCameraCalibration](https://github.com/changhuanyang/DefocusCameraCalibration) - Defocus Camera calibration
+- [srdjankrstic/defocus](https://github.com/srdjankrstic/defocus) - Depth from defocus
+- [vllab/fast_defocus_map](https://github.com/vllab/fast_defocus_map) - Fast Defocus Map Estimation
+- [CattleProdigy/image-blur-map](https://github.com/CattleProdigy/image-blur-map) - A reproduction of the results of 'Estimating Spatially Varying Defocus Blur From A Single Image' by Zhu et. al.
+- [fmannan/DFDRelBlur](https://github.com/fmannan/DFDRelBlur) - Relative blur based Depth from Defocus (DFD)
+- [vinthony/depth-distillation](https://github.com/vinthony/depth-distillation) - [ECCV 2020] Defocus Blur Detection via Depth Distillation
+- [fmannan/DFDFD](https://github.com/fmannan/DFDFD) - Discriminative Filters for Depth from Defocus
+- [AlbertHuyb/DepthNet](https://github.com/AlbertHuyb/DepthNet) - An attempt to estimate depth information of pictures captured by certain aperture.
+- [YudeWang/deeplabv3plus-pytorch](https://github.com/YudeWang/deeplabv3plus-pytorch) - Here is a pytorch implementation of deeplabv3+ supporting ResNet(79.155%) and Xception(79.945%). Multi-scale & flip test and COCO dataset interface has been finished.
+- [google/portrait-shadow-manipulation](https://github.com/google/portrait-shadow-manipulation) - 
+- [cgearhart/DepthFromDefocus](https://github.com/cgearhart/DepthFromDefocus) - Interpolated depth from defocus using graph cut optimization
+- [davemers0160/Camera_Code](https://github.com/davemers0160/Camera_Code) - 
+- [buridiaditya/DepthFromDefocus](https://github.com/buridiaditya/DepthFromDefocus) - 
+- [davemers0160/dfd_gc](https://github.com/davemers0160/dfd_gc) - Depth from Defocus using Graph Cuts
+- [iSarmad/Depth-From-Defocus-Matlab](https://github.com/iSarmad/Depth-From-Defocus-Matlab) - This is a Matlab implementation of Depth from Defocus using your mobile phone. In addition I use a number of techniques such as graph cuts and matting laplacian to improve the results
+- [rzel/depth-from-defocus](https://github.com/rzel/depth-from-defocus) - 
+- [clovaai/ext_portrait_segmentation](https://github.com/clovaai/ext_portrait_segmentation) - 
+- [AomanHao/ImageProcessing100Wen](https://github.com/AomanHao/ImageProcessing100Wen) - 「画像処理100本ノック」中文版本！为图像处理初学者设计的 100 个问题。
+- [google/bgu](https://github.com/google/bgu) - 
+- [mbuckler/ReversiblePipeline](https://github.com/mbuckler/ReversiblePipeline) - This is an implementation of a forward and reverse computational photography pipeline
+- [tlliao/Perception-based-seam-cutting](https://github.com/tlliao/Perception-based-seam-cutting) - [SIViP 2018] Official code for perception-based seam cutting for image stitching
+- [CVHj/Fast-and-robust-seam-estimation](https://github.com/CVHj/Fast-and-robust-seam-estimation) - Fast and robust seam estimation to seamless image stitching
+- [majedelhelou/SFM](https://github.com/majedelhelou/SFM) - (ECCV 2020) Stochastic Frequency Masking to Improve Super-Resolution and Denoising Networks
+- [leenham/palette-based-recoloring](https://github.com/leenham/palette-based-recoloring) - 
+- [YuanhaoGong/SideWindowFilter](https://github.com/YuanhaoGong/SideWindowFilter) - Side window is better than Full window
+- [jiayi-ma/GTF](https://github.com/jiayi-ma/GTF) - Infrared and visible image fusion via gradient transfer and total variation minimization
+- [tkd1088/multi-exposure-image-fusion](https://github.com/tkd1088/multi-exposure-image-fusion) - 
+- [leVirve/Tone-Enhancement](https://github.com/leVirve/Tone-Enhancement) - An implementation of tone enhancement. May refer to "Two-scale Tone Management for Photographic Look", SIGGRAPH 2006.
+- [pengyan510/glcae](https://github.com/pengyan510/glcae) - Global and Local Contrast Adaptive Enhancement for Non-uniform Illumination Color Images
+- [whdcumt/exposure_correction](https://github.com/whdcumt/exposure_correction) - Implements the exposure correction algorithms presented in Yuan et al's "Automatic Exposure Correction of Consumer Photographs".
+- [aasharma90/UnprocessDenoising_PyTorch](https://github.com/aasharma90/UnprocessDenoising_PyTorch) - Unofficial PyTorch code for the paper - Unprocessing Images for Learned Raw Denoising, CVPR'19
+- [12dmodel/camera_sim](https://github.com/12dmodel/camera_sim) - 
+- [CarVac/librtprocess](https://github.com/CarVac/librtprocess) - A project to make RawTherapee's processing algorithms more readily available.
+- [liuguoyou/HDR-Fast-Local-Laplacian](https://github.com/liuguoyou/HDR-Fast-Local-Laplacian) - HDR recovering and tonemapping using fast local laplacian approach
+- [timothybrooks/hdr-plus](https://github.com/timothybrooks/hdr-plus) - HDR+ Implementation
+- [russwong89/sharpness_detection_autofocus](https://github.com/russwong89/sharpness_detection_autofocus) - A contrast-based autofocusing algorithm using sample images to determine the optimal focal distance for DSLR cameras
+- [tikroeger/OF_DIS](https://github.com/tikroeger/OF_DIS) - Fast Optical Flow using Dense Inverse Search (DIS)
+- [AlbusPeter/MeshFlow_Video_Denoising](https://github.com/AlbusPeter/MeshFlow_Video_Denoising) - Source Code for MeshFlow Video Denoising
+- [sergiogenilson/STMKF](https://github.com/sergiogenilson/STMKF) - A Real-Time Spatio-Temporal Vídeo Denoising Method with Kalman-based and Bilateral Filters Fusion
+- [xyang35/BurstImageDenoising](https://github.com/xyang35/BurstImageDenoising) - Fast burst images denoising project
+- [AbdoKamel/simple-camera-pipeline](https://github.com/AbdoKamel/simple-camera-pipeline) - A simple and light-weight camera image processing pipeline
+- [DanBloomberg/leptonica](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. The official github repository for Leptonica is: danbloomberg/lepto
+- [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn) - C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
 
-## p2p 
+## pixel-art 
 
-- [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
-- [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
-- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
-
-## package-manager 
-
-- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
-- [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy
-
-## parsing 
-
-- [marmelroy/PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
-- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
-
-## pentesting 
-
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-
-## postgresql 
-
-- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-- [gobackup/gobackup](https://github.com/gobackup/gobackup) - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated Query Engine for AI - The only MCP Server you'll ever need
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
-- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
-- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
-- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-
-## powershell 
-
-- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-
-## privacy 
-
-- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-
-## productivity 
-
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
-- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
-- [tuist/tuist](https://github.com/tuist/tuist) - A virtual platform team for mobile devs who ship
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [sidstuff/moire](https://github.com/sidstuff/moire) - Using the Python Imaging Library (PIL, now Pillow) to generate colors and animate Moiré patterns.
 
 ## programming 
 
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-- [Kalmaegi/computer-book-list](https://github.com/Kalmaegi/computer-book-list) - 一个综合了豆瓣，goodreads综合评分的计算机书籍书单
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## programming-language 
-
-- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language Core and API (CNCF Sandbox Project). https://kcl-lang.io
-- [golang/go](https://github.com/golang/go) - The Go programming language
-
-## prompt-engineering 
-
-- [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) - 🍌 8000+ selected Nano Banana Pro prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
-
-## publishing 
-
-- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 ## python 
 
-- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot-detection with ease.
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-- [pathwaycom/pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
-- [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) - [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-- [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-- [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
-- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
-- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
-- [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
-- [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
-- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [odigos-io/odigos](https://github.com/odigos-io/odigos) - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
-- [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s) - A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl
-- [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - An autonomous agent that conducts deep research on any data using any LLM providers.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
-- [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP) - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package www.jionlp.com
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
-- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
-- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
-- [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
-- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
-- [flyteorg/flyte](https://github.com/flyteorg/flyte) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-- [kedro-org/kedro](https://github.com/kedro-org/kedro) - Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, an
-- [argoproj-labs/hera](https://github.com/argoproj-labs/hera) - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star!
-- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
-- [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
-- [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
-- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
-- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
-- [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
-- [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
-- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
-- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale your Pandas workflows by changing a single line of code
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
-- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
-- [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
-- [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
-- [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
-- [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [ipython/ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
-- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-- [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
-- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
-- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
-- [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+- [elerac/structuredlight](https://github.com/elerac/structuredlight) - Generate and Decode structured light. Binary, Gray, XOR, Ramp, Phase-Shifting, Stripe.
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
+- [pengbo-learn/python-face-relighting](https://github.com/pengbo-learn/python-face-relighting) - A python implementation of portrait lighting transfer using a mass transport approach.
+- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+- [flrs/blend_modes](https://github.com/flrs/blend_modes) - Python package that implements image blend modes
+- [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
+- [sunsided/stroke-width-transform](https://github.com/sunsided/stroke-width-transform) - Python implementation of and experiments with the Stroke Width Transformation and connected components filtering.
+- [Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization](https://github.com/Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization) - ”数学不难“  之  《线性代数不难》上下册，66话题完册；欢迎批评指正
+- [teboli/polyblur](https://github.com/teboli/polyblur) - An unofficial Python (Numpy and Pytorch) implementation of "Polyblur:  Removing  mild blur by polynomial reblurring" by Mauricio Delbracio and collaborators.
+- [dyfcalid/CameraCalibration](https://github.com/dyfcalid/CameraCalibration) - Fisheye or Normal Camera Intrinsic and Extrinsic Calibration. Surround Camera Bird Eye View Generator.
+- [li-plus/seam-carving](https://github.com/li-plus/seam-carving) - A super-fast Python implementation of seam carving algorithm for intelligent image resizing.
+- [andrewdcampbell/seam-carving](https://github.com/andrewdcampbell/seam-carving) - A fast Python implementation of Seam Carving for Content-Aware Image Resizing.
+- [OpenStitching/stitching](https://github.com/OpenStitching/stitching) - A Python package for fast and robust Image Stitching
+- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+- [nhauber99/degradr](https://github.com/nhauber99/degradr) - Python library for realistically degrading images.
+- [1adrianb/face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch
+- [SmirkCao/Lihang](https://github.com/SmirkCao/Lihang) - Statistical learning methods, 统计学习方法(第2版)[李航]  [笔记, 代码, notebook, 参考文献, Errata, lihang]
+- [mikeroyal/ISP-Guide](https://github.com/mikeroyal/ISP-Guide) - Image Signal Processing (ISP) Guide. Learn all about the process of converting an image/video into digital form by performing tasks like noise reduction, filtering, auto exposure, autofocus, HDR corre
+- [chaofengc/IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) - 👁️ 🖼️ 🔥PyTorch Toolbox for Image Quality Assessment, including PSNR, SSIM, LPIPS, FID, NIQE, NRQM(Ma), MUSIQ, TOPIQ, NIMA, DBCNN, BRISQUE, PI and more...
+- [alexppppp/synthetic-dataset-object-detection](https://github.com/alexppppp/synthetic-dataset-object-detection) - How to Create Synthetic Dataset for Computer Vision (Object Detection) (Article on Medium)
+- [octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color](https://github.com/octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color) - Project is an implementation of skin segmentation using OpenCV and dominant color extraction using SciKit-Learn
+- [coderonion/cuda-beginner-course-cpp-version](https://github.com/coderonion/cuda-beginner-course-cpp-version) - bilibili视频【CUDA 12.x 并行编程入门(C++版)】配套代码
+- [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
+- [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
+- [samuelyu2002/ImVisible](https://github.com/samuelyu2002/ImVisible) - ImVisible: Pedestrian Traffic Light (PTL) Dataset, Lightweight CNN (LytNet), and Mobile Application for the Visually Impaired (CAIP '19, ICCV Workshops '19)
+- [weijie-chen/Linear-Algebra-With-Python](https://github.com/weijie-chen/Linear-Algebra-With-Python) - Lecture Notes for Linear Algebra Featuring Python. This series of lecture notes will walk you through all the must-know concepts that set the foundation of data science or advanced quantitative skills
+- [ialhashim/DenseDepth](https://github.com/ialhashim/DenseDepth) - High Quality Monocular Depth Estimation via Transfer Learning
+- [averyma/active-depth-from-defocus](https://github.com/averyma/active-depth-from-defocus) - Monocular 3D Reconstruction via Active Depth from Defocus
+- [meisamrf/ivhc-estimator](https://github.com/meisamrf/ivhc-estimator) - Fast image noise estimation (Estimation of Gaussian, signal-dependent, and processed noise in Image and Video Signals)
+- [AndyHuang1995/Image-Contrast-Enhancement](https://github.com/AndyHuang1995/Image-Contrast-Enhancement) - Python implementation of "A New Image Contrast Enhancement Algorithm Using Exposure Fusion Framework", CAIP2017
 
 ## python3 
 
-- [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
-- [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
+- [nachifur/MulimgViewer](https://github.com/nachifur/MulimgViewer) - MulimgViewer is a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching.
+- [mzur/pyJBU](https://github.com/mzur/pyJBU) - A Python implementation of Joint Bilateral Upsampling
+- [m-tassano/dvdnet](https://github.com/m-tassano/dvdnet) - DVDnet: A Simple and Fast Network for Deep Video Denoising
 
 ## pytorch 
 
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-
-## qt 
-
-- [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-
-## r 
-
-- [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
-
-## rag 
-
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents. OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system p
-- [Tencent/WeKnora](https://github.com/Tencent/WeKnora) - LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
-- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
-- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
-- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Federated Query Engine for AI - The only MCP Server you'll ever need
-- [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
-
-## raspberry-pi 
-
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [bupt-ai-cz/BCI](https://github.com/bupt-ai-cz/BCI) - BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix
+- [neuralchen/SimSwap](https://github.com/neuralchen/SimSwap) - An arbitrary face-swapping framework on images and videos with one single trained model!
+- [NWPU-LHH/WFLM-GAN](https://github.com/NWPU-LHH/WFLM-GAN) - WFLM-GAN：Multiscale Generative Adversarial Network Based on Wavelet Feature Learning for SAR-to-Optical Image Translation
+- [snap-research/CAT](https://github.com/snap-research/CAT) - [CVPR 2021] Teachers Do More Than Teach: Compressing Image-to-Image Models (CAT)
+- [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
+- [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
+- [p16i/siamese-net-and-friends](https://github.com/p16i/siamese-net-and-friends) - 
+- [seanbenhur/siamese_net](https://github.com/seanbenhur/siamese_net) - Signature verification system using Siamese networks
+- [JarrentWu1031/CCPL](https://github.com/JarrentWu1031/CCPL) - [ECCV 2022 Oral] Official Pytorch implementation of CCPL and SCTNet
+- [Reyhanehne/CVF-SID_PyTorch](https://github.com/Reyhanehne/CVF-SID_PyTorch) - Official implementation of the paper "CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image" (CVPR 2022)
+- [alpc91/NICE-GAN-pytorch](https://github.com/alpc91/NICE-GAN-pytorch) - Official PyTorch implementation of NICE-GAN:  Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation
+- [ExplainableML/UncertaintyAwareCycleConsistency](https://github.com/ExplainableML/UncertaintyAwareCycleConsistency) - Building blocks for uncertainty-aware cycle consistency presented at NeurIPS'21.
+- [dingkeyan93/DISTS](https://github.com/dingkeyan93/DISTS) - IQA: Deep Image Structure and Texture Similarity Metric
+- [Royalvice/DocDiff](https://github.com/Royalvice/DocDiff) - ACM Multimedia 2023: DocDiff: Document Enhancement via Residual Diffusion Models. Also contains 1597 red seals in Chinese scenes, along with their corresponding binary masks.
+- [Jzy2017/TOPAL](https://github.com/Jzy2017/TOPAL) - TCSVT 2022 | Target Oriented Perceptual Adversarial Fusion Network for Underwater Image Enhancement.
+- [sonnguyen129/SANet-pytorch](https://github.com/sonnguyen129/SANet-pytorch) - Pytorch re-implementation of paper Arbitrary Style Transfer with Style-Attentional Networks
+- [kkanshul/finegan](https://github.com/kkanshul/finegan) - FineGAN: Unsupervised Hierarchical Disentanglement for Fine-grained Object Generation and Discovery
+- [wtjiang98/PSGAN](https://github.com/wtjiang98/PSGAN) - PyTorch code for "PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer" (CVPR 2020 Oral)
+- [JunlinHan/BID](https://github.com/JunlinHan/BID) - Code for Blind Image Decomposition (BID) and Blind Image Decomposition network (BIDeN). ECCV, 2022.
+- [FilippoBotti/Avoiding-Shortcuts-in-Unpaired-Image-to-Image-Translation](https://github.com/FilippoBotti/Avoiding-Shortcuts-in-Unpaired-Image-to-Image-Translation) - This repository contains the PyTorch code for our ICIAP 2021 paper “Avoiding Shortcuts in Unpaired Image-to-Image Translation”.
+- [SamPujade/image-colorization](https://github.com/SamPujade/image-colorization) - Landscape and face image colorization with Generative Adversarial Networks (GANs)
+- [hainuo-wang/XReflection](https://github.com/hainuo-wang/XReflection) - XReflection is a neat toolbox tailored for single-image reflection removal(SIRR). We offer state-of-the-art SIRR solutions for training and inference, with a high-performance data pipeline, multi-GPU/
+- [teboli/polyblur](https://github.com/teboli/polyblur) - An unofficial Python (Numpy and Pytorch) implementation of "Polyblur:  Removing  mild blur by polynomial reblurring" by Mauricio Delbracio and collaborators.
+- [modelbox-ai/modelbox](https://github.com/modelbox-ai/modelbox) - A high performance, high expansion, easy to use framework for AI application. 为AI应用的开发者提供一套统一的高性能、易用的编程框架，快速基于AI全栈服务、开发跨端边云的AI行业应用，支持GPU，NPU加速。
+- [vt-vl-lab/Guided-pix2pix](https://github.com/vt-vl-lab/Guided-pix2pix) - [ICCV 2019] Guided Image-to-Image Translation with Bi-Directional Feature Transformation
+- [Adi-iitd/AI-Art](https://github.com/Adi-iitd/AI-Art) - PyTorch (and PyTorch Lightning) implementation of Neural Style Transfer, Pix2Pix, CycleGAN, and Deep Dream!
+- [mit-han-lab/gan-compression](https://github.com/mit-han-lab/gan-compression) - [CVPR 2020] GAN Compression: Efficient Architectures for Interactive Conditional GANs
+- [NVlabs/DG-Net](https://github.com/NVlabs/DG-Net) - :couple: Joint Discriminative and Generative Learning for Person Re-identification. CVPR'19 (Oral) :couple:
+- [knazeri/edge-connect](https://github.com/knazeri/edge-connect) - EdgeConnect: Structure Guided Image Inpainting using Edge Prediction, ICCV  2019 https://arxiv.org/abs/1901.00212
+- [S-aiueo32/srntt-pytorch](https://github.com/S-aiueo32/srntt-pytorch) - A PyTorch implementation of SRNTT, which is a novel RefSR method.
+- [WendongMao/Intelligent_Typography](https://github.com/WendongMao/Intelligent_Typography) - Artistic Text Style Transfer for Complex Texture and Structure
+- [VITA-Group/ShapeMatchingGAN](https://github.com/VITA-Group/ShapeMatchingGAN) - [ICCV 2019, Oral] Controllable Artistic Text Style Transfer via Shape-Matching GAN
+- [clovaai/stargan-v2](https://github.com/clovaai/stargan-v2) - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
+- [avivga/lord-pytorch](https://github.com/avivga/lord-pytorch) - Official pytorch re-implementation of "Demystifying Inter-Class Disentanglement", ICLR 2020.
+- [avivga/overlord](https://github.com/avivga/overlord) - Official pytorch implementation of "Scaling-up Disentanglement for Image Translation", ICCV 2021.
+- [kunheek/style-aware-discriminator](https://github.com/kunheek/style-aware-discriminator) - CVPR 2022 - Official PyTorch implementation of "A Style-Aware Discriminator for Controllable Image Translation"
+- [delta6189/Anime-Sketch-Colorizer](https://github.com/delta6189/Anime-Sketch-Colorizer) - Automatic Sketch Colorization with reference image
+- [eliahuhorwitz/DeepSIM](https://github.com/eliahuhorwitz/DeepSIM) - Official PyTorch implementation of the paper: "DeepSIM: Image Shape Manipulation from a Single Augmented Training Sample" (ICCV 2021 Oral)
+- [giddyyupp/ganilla](https://github.com/giddyyupp/ganilla) - Official Pytorch implementation of GANILLA
+- [jolibrain/joliGEN](https://github.com/jolibrain/joliGEN) - Generative AI Image and Video Toolset with GANs and Diffusion for Real-World Applications
+- [gunahn/StyleGAN2-ADA-pytorch-for-gray-images](https://github.com/gunahn/StyleGAN2-ADA-pytorch-for-gray-images) - This is my code for StlyeGAN2-ADA-PyTorch for gray images.
+- [jiajunhe98/Landscape-StyleGAN](https://github.com/jiajunhe98/Landscape-StyleGAN) - This repository contains codes which re-implement StyleGAN in PyTorch and train StyleGAN for virtual landscape photographs.
+- [mit-han-lab/data-efficient-gans](https://github.com/mit-han-lab/data-efficient-gans) - [NeurIPS 2020] Differentiable Augmentation for Data-Efficient GAN Training
+- [taey16/pix2pixBEGAN.pytorch](https://github.com/taey16/pix2pixBEGAN.pytorch) - A pytorch implementation of pix2pix + BEGAN (Boundary Equilibrium Generative Adversarial Networks)
+- [JunlinHan/DCLGAN](https://github.com/JunlinHan/DCLGAN) - Code for Dual Contrastive Learning for Unsupervised Image-to-Image Translation, NTIRE, CVPRW 2021, oral.
+- [mahmoudnafifi/HistoGAN](https://github.com/mahmoudnafifi/HistoGAN) - Reference code for the paper HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms (CVPR 2021).
+- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+- [Ha0Tang/AttentionGAN](https://github.com/Ha0Tang/AttentionGAN) - AttentionGAN for Unpaired Image-to-Image Translation & Multi-Domain Image-to-Image Translation
+- [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
+- [lucidrains/stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) - Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement
+- [1adrianb/face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch
+- [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
+- [Algolzw/daclip-uir](https://github.com/Algolzw/daclip-uir) - [ICLR 2024] Controlling Vision-Language Models for Universal Image Restoration. 5th place in the NTIRE 2024 Restore Any Image Model in the Wild Challenge.
+- [duxiangcheng/SAEN](https://github.com/duxiangcheng/SAEN) - Modeling Stroke Mask for End-to-End Text Erasing
+- [swz30/CycleISP](https://github.com/swz30/CycleISP) - [CVPR 2020--Oral] CycleISP: Real Image Restoration via Improved Data Synthesis
+- [cheind/pytorch-debayer](https://github.com/cheind/pytorch-debayer) - Convolutional PyTorch debayering / demosaicing layers
+- [chaofengc/IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) - 👁️ 🖼️ 🔥PyTorch Toolbox for Image Quality Assessment, including PSNR, SSIM, LPIPS, FID, NIQE, NRQM(Ma), MUSIQ, TOPIQ, NIMA, DBCNN, BRISQUE, PI and more...
+- [RQ-Wu/RIDCP_dehazing](https://github.com/RQ-Wu/RIDCP_dehazing) - [CVPR 2023] | RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors
+- [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
+- [Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild. Our new online demo is also released at suppixel.ai.
+- [mhamilton723/STEGO](https://github.com/mhamilton723/STEGO) - Unsupervised Semantic Segmentation by Distilling Feature Correspondences
+- [taesungp/contrastive-unpaired-translation](https://github.com/taesungp/contrastive-unpaired-translation) - Contrastive unpaired image-to-image translation, faster and lighter training than cyclegan (ECCV 2020, in PyTorch)
+- [zllrunning/face-parsing.PyTorch](https://github.com/zllrunning/face-parsing.PyTorch) - Using modified BiSeNet for face parsing in PyTorch
+- [LIAGM/DAEFR](https://github.com/LIAGM/DAEFR) - [ICLR 2024] DAEFR: Dual Associated Encoder for Face Restoration
+- [wzhouxiff/RestoreFormer](https://github.com/wzhouxiff/RestoreFormer) - [CVPR 2022] RestoreFormer: High-Quality Blind Face Restoration from Undegraded Key-Value Pairs
+- [deepinsight/insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
+- [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+- [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
+- [sirius-ai/LPRNet_Pytorch](https://github.com/sirius-ai/LPRNet_Pytorch) - Pytorch Implementation For LPRNet, A High Performance And Lightweight License Plate Recognition Framework.
+- [inisis/brocolli](https://github.com/inisis/brocolli) - Everything in Torch Fx
+- [THU-MIG/torch-model-compression](https://github.com/THU-MIG/torch-model-compression) - 针对pytorch模型的自动化模型结构分析和修改工具集，包含自动分析模型结构的模型压缩算法库
+- [Srameo/LED](https://github.com/Srameo/LED) - [ICCV 2023] Lighting Every Darkness in Two Pairs: A Calibration-Free Pipeline for RAW Denoising && [Arxiv 2023] Make Explicit Calibration Implicit: Calibrate Denoiser Instead of the Noise Model
+- [MyNiuuu/VCSD](https://github.com/MyNiuuu/VCSD) - [CVPR 2023] Visibility Constrained Wide-band Illumination Spectrum Design for Seeing-in-the-Dark
+- [cszn/KAIR](https://github.com/cszn/KAIR) - Image Restoration Toolbox (PyTorch). Training and testing codes for DPIR, USRNet, DnCNN, FFDNet, SRMD, DPSR, BSRGAN, SwinIR
+- [WangQvQ/YOLOMagic](https://github.com/WangQvQ/YOLOMagic) - YOLO Magic🪄 is an extension based on Ultralytics' YOLOv5, designed to provide more powerful functionality and simpler operations for visual tasks.
+- [xxradon/ONNXToCaffe](https://github.com/xxradon/ONNXToCaffe) - pytorch -&gt; onnx -&gt; caffe, pytorch to caffe, or other deep learning framework to onnx and onnx to caffe.
+- [akshaydudhane16/BIPNet](https://github.com/akshaydudhane16/BIPNet) - [CVPR 2022--Oral, Best paper Finalist] Burst Image Restoration and Enhancement. SOTA for Burst Super-resolution, Low-light Burst Image Enhancement, Burst Image De-noising
+- [megvii-research/PMN](https://github.com/megvii-research/PMN) - [TPAMI 2023 / ACMMM 2022 Best Paper Runner-Up Award] Learnability Enhancement for Low-light Raw Denoising: Where Paired Real Data Meets Noise Modeling (a Data Perspective)
+- [hellopipu/PBRID](https://github.com/hellopipu/PBRID) - MegCup 2022, blind raw image denoising, 10th place
+- [megvii-research/NAFNet](https://github.com/megvii-research/NAFNet) - The state-of-the-art image restoration model without nonlinear activation functions.
+- [swz30/Restormer](https://github.com/swz30/Restormer) - [CVPR 2022--Oral] Restormer: Efficient Transformer for High-Resolution Image Restoration. SOTA  for motion deblurring, image deraining, denoising (Gaussian/real data), and defocus deblurring.
+- [hellloxiaotian/CFSRCNN](https://github.com/hellloxiaotian/CFSRCNN) - Coarse-to-Fine CNN for Image Super-Resolution (IEEE Transactions on Multimedia,2021)
+- [guochengqian/TENet](https://github.com/guochengqian/TENet) - [ICCP'22] Rethinking Learning-based Demosaicing, Denoising, and Super-Resolution Pipeline
+- [aitorzip/PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN) - A clean and readable Pytorch implementation of CycleGAN
+- [666DZY666/micronet](https://github.com/666DZY666/micronet) - micronet, a model compression and deploy lib. compression: 1、quantization: quantization-aware-training(QAT), High-Bit(&gt;2b)(DoReFa/Quantization and Training of Neural Networks for Efficient Integer-
+- [codeslake/IFAN](https://github.com/codeslake/IFAN) - [CVPR 2021] Official PyTorch Implementation for "Iterative Filter Adaptive Network for Single Image Defocus Deblurring"
+- [SeokjaeLIM/DSLR-release](https://github.com/SeokjaeLIM/DSLR-release) - Deep Stacked Laplacian Restorer for Low-light Image Enhancement
+- [m-tassano/dvdnet](https://github.com/m-tassano/dvdnet) - DVDnet: A Simple and Fast Network for Deep Video Denoising
+- [cydonia999/Learning_to_See_in_the_Dark_PyTorch](https://github.com/cydonia999/Learning_to_See_in_the_Dark_PyTorch) - Learning to See in the Dark in PyTorch
+- [sukkritsharmaofficial/SeeInDark](https://github.com/sukkritsharmaofficial/SeeInDark) - Learning to See in the Dark using pytorch
+- [Developer-Zer0/ZeroDCE](https://github.com/Developer-Zer0/ZeroDCE) - PyTorch implementation of Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement Chongyi Li et al.
+- [soumik12345/Zero-DCE](https://github.com/soumik12345/Zero-DCE) - Pytorch implementation of Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement
+- [lllllllllllll-llll/SPAQ](https://github.com/lllllllllllll-llll/SPAQ) - Pytorch Code for the CVPR2020 paper: "Perceptual Quality Assessment of Smartphone Photography."
+- [VITA-Group/EnlightenGAN](https://github.com/VITA-Group/EnlightenGAN) - [IEEE TIP] "EnlightenGAN: Deep Light Enhancement without Paired Supervision" by Yifan Jiang, Xinyu Gong, Ding Liu, Yu Cheng, Chen Fang, Xiaohui Shen, Jianchao Yang, Pan Zhou, Zhangyang Wang
+- [Yang-Liu1082/InvDN](https://github.com/Yang-Liu1082/InvDN) - Implementation for the paper: Invertible Denoising Network: A Light Solution for Real Noise Removal (CVPR2021).
+- [arcchang1236/CA-NoiseGAN](https://github.com/arcchang1236/CA-NoiseGAN) - The official implementation of our ECCV 2020 paper "Learning Camera-Aware Noise Models".
+- [xinntao/EDVR](https://github.com/xinntao/EDVR) - Winning Solution in NTIRE19 Challenges on Video Restoration and Enhancement (CVPR19 Workshops) - Video Restoration with Enhanced Deformable Convolutional Networks. EDVR has been merged into BasicSR an
+- [swz30/MIRNet](https://github.com/swz30/MIRNet) - [ECCV 2020] Learning Enriched Features for Real Image Restoration and Enhancement. SOTA results for image denoising, super-resolution, and image enhancement.
+- [swz30/MPRNet](https://github.com/swz30/MPRNet) - [CVPR 2021] Multi-Stage Progressive Image Restoration. SOTA results for Image deblurring, deraining, and denoising.
+- [KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN) - Image Deblurring using Generative Adversarial Networks
+- [Raschka-research-group/coral-cnn](https://github.com/Raschka-research-group/coral-cnn) - Rank Consistent Ordinal Regression for Neural Networks with Application to Age Estimation
+- [ialhashim/DenseDepth](https://github.com/ialhashim/DenseDepth) - High Quality Monocular Depth Estimation via Transfer Learning
+- [richzhang/colorization-pytorch](https://github.com/richzhang/colorization-pytorch) - PyTorch reimplementation of Interactive Deep Colorization
 
 ## react 
 
-- [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
-- [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
-- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 ## react-native 
 
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
-- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-
-## reactjs 
-
-- [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
-- [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-
-## redux 
-
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
+- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 ## reinforcement-learning 
 
-- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-
-## rest-api 
-
-- [ogen-go/ogen](https://github.com/ogen-go/ogen) - OpenAPI v3 code generator for go
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
-- [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
-- [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
-
-## reverse-engineering 
-
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
-
-## ruby 
-
-- [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+- [murufeng/Awesome-AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm) - 人工智能算法方面的综合资料合集:包括求职面试、机器学习、深度学习、强化学习等方面的资料和代码
 
 ## rust 
 
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
-- [pathwaycom/pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language Core and API (CNCF Sandbox Project). https://kcl-lang.io
-- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
-- [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-- [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
-- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.
-- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions.
-- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-- [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
-- [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [versatica/mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing
-- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
+- [coderonion/cuda-beginner-course-cpp-version](https://github.com/coderonion/cuda-beginner-course-cpp-version) - bilibili视频【CUDA 12.x 并行编程入门(C++版)】配套代码
 
-## scala 
+## scikit-learn 
 
-- [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
-
-## security 
-
-- [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
-- [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) - AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
-- [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
-- [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
-- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
-- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
-- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
-- [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
-- [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes 
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Go implementation of JSON Web Tokens (JWT).
-- [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) - 🐊 Policy Controller for Kubernetes
-- [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
-- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-
-## security-tools 
-
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
-- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-- [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
-- [smallstep/cli](https://github.com/smallstep/cli) - 🧰  A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-
-## self-hosted 
-
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
-- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts.
-- [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-- [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system.
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-
-## server 
-
-- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
-- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
-- [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
-
-## serverless 
-
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
-- [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - The Cloud Native Control Plane
-- [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
-- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
-- [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-- [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
-- [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
+- [octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color](https://github.com/octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color) - Project is an implementation of skin segmentation using OpenCV and dominant color extraction using SciKit-Learn
 
 ## shell 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
-- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
 
-## software 
+## sketch 
 
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-
-## sql 
-
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
-- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
-- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
-- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) - Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming.
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
-- [groue/GRDB.swift](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
-- [databendlabs/databend](https://github.com/databendlabs/databend) - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
-- [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
-- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
-- [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
-- [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in Go.
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
-- [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
-- [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
-- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
-- [modin-project/modin](https://github.com/modin-project/modin) - Modin: Scale your Pandas workflows by changing a single line of code
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
-- [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
-- [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
-
-## sql-server 
-
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in Go.
-
-## sqlite 
-
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Read-path sync engine for Postgres that handles partial replication, data delivery and fan-out.
-- [amacneil/dbmate](https://github.com/amacneil/dbmate) - 🚀 A lightweight, framework-agnostic database migration tool.
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
-- [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-- [groue/GRDB.swift](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
-- [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
-- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
+- [delta6189/Anime-Sketch-Colorizer](https://github.com/delta6189/Anime-Sketch-Colorizer) - Automatic Sketch Colorization with reference image
 
 ## stable-diffusion 
 
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
-
-## statistics 
-
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
-
-## svelte 
-
-- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - The open source codebase powering HuggingChat
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
+- [sooyeon-go/eye_for_an_eye](https://github.com/sooyeon-go/eye_for_an_eye) - Eye-for-an-eye: Appearance Transfer with Semantic Correspondence in Diffusion Models
+- [garibida/cross-image-attention](https://github.com/garibida/cross-image-attention) - Officail Implementation for "Cross-Image Attention for Zero-Shot Appearance Transfer"
+- [huggingface/instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) - Code for instruction-tuning Stable Diffusion.
+- [djbielejeski/a-person-mask-generator](https://github.com/djbielejeski/a-person-mask-generator) - Extension for Automatic1111 and ComfyUI to automatically create masks for Background/Hair/Body/Face/Clothes in Img2Img
+- [GaParmar/img2img-turbo](https://github.com/GaParmar/img2img-turbo) - One-step image-to-image with Stable Diffusion turbo: sketch2image, day2night, and more
+- [nick8592/text-guided-image-colorization](https://github.com/nick8592/text-guided-image-colorization) - This repository provides an interactive image colorization tool that leverages Stable Diffusion (SDXL) and BLIP for user-controlled color generation. With a retrained model using the ControlNet approa
+- [ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
+- [cswry/SeeSR](https://github.com/cswry/SeeSR) - [CVPR2024] SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution
+- [Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild. Our new online demo is also released at suppixel.ai.
+- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
 
 ## swift 
 
-- [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Speech Recognition for Apple Silicon
-- [Mijick/Camera](https://github.com/Mijick/Camera) - Camera made simple. The ultimate camera library that significantly reduces implementation time and effort. Written with and for SwiftUI.
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
-- [apple/swift-openapi-generator](https://github.com/apple/swift-openapi-generator) - Generate Swift client and server code from an OpenAPI document.
-- [tuist/tuist](https://github.com/tuist/tuist) - A virtual platform team for mobile devs who ship
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-- [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
-- [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
-- [danielsaidi/RichTextKit](https://github.com/danielsaidi/RichTextKit) - View and edit rich text in Swift & SwiftUI.
-- [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
-- [devicekit/DeviceKit](https://github.com/devicekit/DeviceKit) - DeviceKit is a value-type replacement of UIDevice.
-- [marmelroy/PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) - A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
-- [SFSafeSymbols/SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols) - Safely access Apple's SF Symbols using static typing
-- [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) - A type-safe, Swift-language layer over SQLite3.
-- [kylebrowning/APNSwift](https://github.com/kylebrowning/APNSwift) - 📱HTTP/2 Apple Push Notification Service built with swift - send push notifications to iOS, iPadOS, tvOS, macOS, watchOS, visionOS, and Safari!
-- [realm/SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions.
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [apple/swift-nio](https://github.com/apple/swift-nio) - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
-- [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
-- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-- [AudioKit/AudioKit](https://github.com/AudioKit/AudioKit) - Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
-- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-- [mxcl/PromiseKit](https://github.com/mxcl/PromiseKit) - Promises for Swift & ObjC.
-- [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
-- [vapor/vapor](https://github.com/vapor/vapor) - 💧 A server-side Swift HTTP web framework.
-- [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
-- [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
-
-## swiftui 
-
-- [Mijick/Camera](https://github.com/Mijick/Camera) - Camera made simple. The ultimate camera library that significantly reduces implementation time and effort. Written with and for SwiftUI.
-- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-- [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
-- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
-- [danielsaidi/RichTextKit](https://github.com/danielsaidi/RichTextKit) - View and edit rich text in Swift & SwiftUI.
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [exyte/PopupView](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI
-- [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
-
-## tailwindcss 
-
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - The open source codebase powering HuggingChat
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-
-## telegram 
-
-- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
-- [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
-- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
-- [jackvale/rectg](https://github.com/jackvale/rectg) - 收录并持续精选 10,000+ 个 Telegram 频道、群组与机器人，分类清晰，搜索即得，帮你省下自己找资源的时间。
-- [grafana/oncall](https://github.com/grafana/oncall) - Developer-friendly incident response with brilliant Slack integration
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
-
-## telegram-bot 
-
-- [jackvale/rectg](https://github.com/jackvale/rectg) - 收录并持续精选 10,000+ 个 Telegram 频道、群组与机器人，分类清晰，搜索即得，帮你省下自己找资源的时间。
-- [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
+- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+- [samuelyu2002/ImVisible](https://github.com/samuelyu2002/ImVisible) - ImVisible: Pedestrian Traffic Light (PTL) Dataset, Lightweight CNN (LytNet), and Mobile Application for the Visually Impaired (CAIP '19, ICCV Workshops '19)
 
 ## tensorflow 
 
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+- [modelbox-ai/modelbox](https://github.com/modelbox-ai/modelbox) - A high performance, high expansion, easy to use framework for AI application. 为AI应用的开发者提供一套统一的高性能、易用的编程框架，快速基于AI全栈服务、开发跨端边云的AI行业应用，支持GPU，NPU加速。
+- [mit-han-lab/data-efficient-gans](https://github.com/mit-han-lab/data-efficient-gans) - [NeurIPS 2020] Differentiable Augmentation for Data-Efficient GAN Training
+- [frobertpixto/hand-drawn-shapes-dataset](https://github.com/frobertpixto/hand-drawn-shapes-dataset) - Hand-drawn Shapes (HDS) Dataset. Images like Rectangles, Ellipses and Triangles
+- [CGLab-GIST/RIDFnF](https://github.com/CGLab-GIST/RIDFnF) - An official source code of AAAI 2023 paper, "Robust Image Denoising of No-Flash Images Guided by Consistent Flash Images".
+- [YoungYoung619/Make-vehicles-see-in-the-dark](https://github.com/YoungYoung619/Make-vehicles-see-in-the-dark) - Low light enhance for driving scene
 
-## terminal 
+## ubuntu 
 
-- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-
-## terraform 
-
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
-
-## testing 
-
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
-- [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
-- [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
-- [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
-- [probelabs/goreplay](https://github.com/probelabs/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
-- [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
-
-## text-to-speech 
-
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
-- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and embed dubbing & subtitles.
-- [rany2/edge-tts](https://github.com/rany2/edge-tts) - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key
-
-## tui 
-
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
-- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-
-## twitter 
-
-- [nikoksr/notify](https://github.com/nikoksr/notify) - A dead simple Go library for sending notifications to various messaging services.
-
-## typescript 
-
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
-- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
-- [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
-- [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) - Generate TypeScript types from OpenAPI 3 specs
-- [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
-- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 Run Background Tasks at Scale
-- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
-- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
-- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [huggingface/chat-ui](https://github.com/huggingface/chat-ui) - The open source codebase powering HuggingChat
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, Git native feature management solution
-- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
-- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
-- [apache/answer](https://github.com/apache/answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
-- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
-- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-
-## ui 
-
-- [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
-- [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) - A lightweight log analytic and data visualize platform  built on clickhouse.
-- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
-- [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Universal API for request permission and get its statuses.
-
-## ui-design 
-
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-
-## unreal-engine 
-
-- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
+- [nachifur/MulimgViewer](https://github.com/nachifur/MulimgViewer) - MulimgViewer is a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching.
 
 ## video 
 
-- [livekit/agents](https://github.com/livekit/agents) - A powerful framework for building realtime voice AI agents 🤖🎙️📹
-- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end realtime stack for connecting humans and AI
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
-- [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
-- [gwuhaolin/livego](https://github.com/gwuhaolin/livego) - live video streaming server in golang
-- [pion/webrtc](https://github.com/pion/webrtc) - Pure Go implementation of the WebRTC API
-- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+- [neuralchen/SimSwap](https://github.com/neuralchen/SimSwap) - An arbitrary face-swapping framework on images and videos with one single trained model!
+- [mcpp-community/d2mcpp](https://github.com/mcpp-community/d2mcpp) - D2X | Modern C++ Core Language Features - "A C++ tutorial project focused on practical"
+- [yangKJ/Harbeth](https://github.com/yangKJ/Harbeth) - 🎨 GPU accelerated image / video and camera filter library based on Metal. Support macOS & iOS. 图像、视频、相机滤镜框架
+- [m-tassano/dvdnet](https://github.com/m-tassano/dvdnet) - DVDnet: A Simple and Fast Network for Deep Video Denoising
 
-## virtual-reality 
+## vim 
 
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-
-## visual-studio-code 
-
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
 
 ## visualization 
 
-- [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-
-## vpn 
-
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-- [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
-- [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-- [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
+- [holundersaft/Pridemon](https://github.com/holundersaft/Pridemon) - A tool to recolor Pokemon
+- [Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization](https://github.com/Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization) - ”数学不难“  之  《线性代数不难》上下册，66话题完册；欢迎批评指正
 
 ## vue 
 
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
-- [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
-- [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-
-## vuejs 
-
-- [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-
-## web 
-
-- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-- [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
-- [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-
-## web-development 
-
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-
-## webapp 
-
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-
-## website 
-
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
-
-## windows 
-
-- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
-- [appium/appium](https://github.com/appium/appium) - Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol
-- [giampaolo/psutil](https://github.com/giampaolo/psutil) - Cross-platform lib for process and system monitoring in Python
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-
-## xcode 
-
-- [tuist/tuist](https://github.com/tuist/tuist) - A virtual platform team for mobile devs who ship
-- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-- [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) - Universal API for request permission and get its statuses.
-- [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) - A lightweight, pure-Swift library for downloading and caching images from the web.
-- [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
-
-## xml 
-
-- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
-- [qax-os/excelize](https://github.com/qax-os/excelize) - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-- [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
+- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 ## youtube 
 
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-- [yattee/yattee](https://github.com/yattee/yattee) - Privacy oriented video player for iOS, tvOS and macOS
-- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-
-## zig 
-
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-## zsh 
-
-- [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [VAIBHAV-2303/VideoStabilization](https://github.com/VAIBHAV-2303/VideoStabilization) - Python implementation of the video stabilizing algorithm used in YouTube
 
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [maguowei](https://github.com/maguowei) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [yxc1234567539](https://github.com/yxc1234567539) has waived all copyright and related or neighboring rights to this work.
 
