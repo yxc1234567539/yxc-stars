@@ -170,6 +170,7 @@
 
 ## Jupyter Notebook 
 
+- [tsmatz/diffusion-tutorials](https://github.com/tsmatz/diffusion-tutorials) - Theoretical introduction and examples for diffusion model algorithms
 - [Qualcomm-AI-research/clockwork-diffusion](https://github.com/Qualcomm-AI-research/clockwork-diffusion) - 
 - [FLClab/TA-GAN](https://github.com/FLClab/TA-GAN) - Repository for "Task-Assisted GAN for Resolution Enhancement and Modality Translation in Fluorescence Microscopy"
 - [pvitoria/ChromaGAN](https://github.com/pvitoria/ChromaGAN) - Official Implementation of ChromaGAN: An Adversarial Approach for Picture Colorization
