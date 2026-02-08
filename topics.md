@@ -554,6 +554,7 @@
 
 ## others 
 
+- [tsmatz/diffusion-tutorials](https://github.com/tsmatz/diffusion-tutorials) - Theoretical introduction and examples for diffusion model algorithms
 - [CVI-SZU/FaceBench](https://github.com/CVI-SZU/FaceBench) - [CVPR 2025] FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs
 - [NVlabs/FastGen](https://github.com/NVlabs/FastGen) - NVIDIA FastGen: Fast Generation from Diffusion Models
 - [Luo-Yihong/YOSO](https://github.com/Luo-Yihong/YOSO) - [ICLR 2025] You Only Sample Once: Taming One-Step Text-To-Image Synthesis by Self-Cooperative Diffusion GANs
