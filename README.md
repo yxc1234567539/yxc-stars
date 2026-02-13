@@ -146,7 +146,7 @@
 
 ## Go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## HTML 
 
@@ -309,6 +309,7 @@
 
 ## Others 
 
+- [SintonZZ/Awesome-AI-ISP](https://github.com/SintonZZ/Awesome-AI-ISP) - A list of awesome AI-ISP works.
 - [XJTU-LHF/Awesome-Face-Restoration](https://github.com/XJTU-LHF/Awesome-Face-Restoration) - 
 - [megvii-research/megvii-tsinghua-dl-course](https://github.com/megvii-research/megvii-tsinghua-dl-course) - Slides with modifications for a course at Tsinghua University.
 - [jkwang28/HonestFace](https://github.com/jkwang28/HonestFace) - 
@@ -375,6 +376,7 @@
 
 ## Python 
 
+- [VSehwag/minimal-diffusion](https://github.com/VSehwag/minimal-diffusion) - A minimal yet resourceful implementation of diffusion models (along with pretrained models + synthetic images for nine datasets)
 - [CVI-SZU/FaceBench](https://github.com/CVI-SZU/FaceBench) - [CVPR 2025] FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs
 - [NVlabs/FastGen](https://github.com/NVlabs/FastGen) - NVIDIA FastGen: Fast Generation from Diffusion Models
 - [Luo-Yihong/YOSO](https://github.com/Luo-Yihong/YOSO) - [ICLR 2025] You Only Sample Once: Taming One-Step Text-To-Image Synthesis by Self-Cooperative Diffusion GANs
