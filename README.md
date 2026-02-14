@@ -519,7 +519,6 @@
 - [Lhyejin/DG-Colorization](https://github.com/Lhyejin/DG-Colorization) - The official PyTorch implementation of "Bridging the Domain Gap towards Generalization in Automatic Colorization", [ECCV 2022].
 - [jixiaozhong/ColorFormer](https://github.com/jixiaozhong/ColorFormer) - 
 - [p16i/siamese-net-and-friends](https://github.com/p16i/siamese-net-and-friends) - 
-- [lucidrains/pixel-level-contrastive-learning](https://github.com/lucidrains/pixel-level-contrastive-learning) - Implementation of Pixel-level Contrastive Learning, proposed in the paper "Propagate Yourself", in Pytorch
 - [seanbenhur/siamese_net](https://github.com/seanbenhur/siamese_net) - Signature verification system using Siamese networks
 - [we0091234/crnn_plate_recognition](https://github.com/we0091234/crnn_plate_recognition) - crnn chinese_plate_recognition
 - [sapphire497/query-selected-attention](https://github.com/sapphire497/query-selected-attention) - Official implementation for "QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation" (CVPR 2022)
@@ -752,7 +751,6 @@
 - [zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis](https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis) - Pytorch implementation of paper "One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing"
 - [ZYM-PKU/UDiffText](https://github.com/ZYM-PKU/UDiffText) - [ECCV 2024] Official repo for UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models
 - [ronjonxu/NAID](https://github.com/ronjonxu/NAID) - [IEEE TMM 2024] NIR-Assisted Image Denoising: A Selective Fusion Approach and A Real-World Benchmark Dataset
-- [lucidrains/stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) - Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement
 - [NVlabs/stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch) - StyleGAN2-ADA - Official PyTorch implementation
 - [minnu03/human_face_restoration_using_GFPGAN](https://github.com/minnu03/human_face_restoration_using_GFPGAN) - Major Project in deep learning along with entire documentation
 - [caiyuanhao1998/PNGAN](https://github.com/caiyuanhao1998/PNGAN) - "Learning to Generate Realistic Noisy Images via Pixel-level Noise-aware Adversarial Training" (NeurIPS 2021)
