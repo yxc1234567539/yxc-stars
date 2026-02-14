@@ -108,9 +108,7 @@
 
 ## artificial-intelligence 
 
-- [lucidrains/pixel-level-contrastive-learning](https://github.com/lucidrains/pixel-level-contrastive-learning) - Implementation of Pixel-level Contrastive Learning, proposed in the paper "Propagate Yourself", in Pytorch
 - [djosix/IconFlow](https://github.com/djosix/IconFlow) - Code for "Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization", CVPR 2022.
-- [lucidrains/stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) - Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement
 - [murufeng/Awesome-AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm) - 人工智能算法方面的综合资料合集:包括求职面试、机器学习、深度学习、强化学习等方面的资料和代码
 - [aitorzip/PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN) - A clean and readable Pytorch implementation of CycleGAN
 
@@ -261,7 +259,6 @@
 - [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
 - [Kaminyou/Kernelized-Instance-Normalization](https://github.com/Kaminyou/Kernelized-Instance-Normalization) - [ECCV 2022] Official implementation of "Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization"
-- [lucidrains/pixel-level-contrastive-learning](https://github.com/lucidrains/pixel-level-contrastive-learning) - Implementation of Pixel-level Contrastive Learning, proposed in the paper "Propagate Yourself", in Pytorch
 - [JarrentWu1031/CCPL](https://github.com/JarrentWu1031/CCPL) - [ECCV 2022 Oral] Official Pytorch implementation of CCPL and SCTNet
 - [Reyhanehne/CVF-SID_PyTorch](https://github.com/Reyhanehne/CVF-SID_PyTorch) - Official implementation of the paper "CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image" (CVPR 2022)
 - [alpc91/NICE-GAN-pytorch](https://github.com/alpc91/NICE-GAN-pytorch) - Official PyTorch implementation of NICE-GAN:  Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation
@@ -482,7 +479,6 @@
 - [djosix/IconFlow](https://github.com/djosix/IconFlow) - Code for "Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization", CVPR 2022.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [nhauber99/degradr](https://github.com/nhauber99/degradr) - Python library for realistically degrading images.
-- [lucidrains/stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) - Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement
 - [SmirkCao/Lihang](https://github.com/SmirkCao/Lihang) - Statistical learning methods, 统计学习方法(第2版)[李航]  [笔记, 代码, notebook, 参考文献, Errata, lihang]
 - [frobertpixto/hand-drawn-shapes-dataset](https://github.com/frobertpixto/hand-drawn-shapes-dataset) - Hand-drawn Shapes (HDS) Dataset. Images like Rectangles, Ellipses and Triangles
 - [alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data](https://github.com/alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data) - Using synthetic data in combination with Deep Learning, to determine if a system can be made that will be able to recognise and classify correctly real traffic signs.
@@ -1395,7 +1391,6 @@
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [Ha0Tang/AttentionGAN](https://github.com/Ha0Tang/AttentionGAN) - AttentionGAN for Unpaired Image-to-Image Translation & Multi-Domain Image-to-Image Translation
 - [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
-- [lucidrains/stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) - Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement
 - [1adrianb/face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 - [Algolzw/daclip-uir](https://github.com/Algolzw/daclip-uir) - [ICLR 2024] Controlling Vision-Language Models for Universal Image Restoration. 5th place in the NTIRE 2024 Restore Any Image Model in the Wild Challenge.
