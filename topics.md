@@ -8,15 +8,12 @@
 - [3d](#3d)
 - [ai](#ai)
 - [algorithm](#algorithm)
-- [algorithms](#algorithms)
 - [android](#android)
 - [angular](#angular)
 - [artificial-intelligence](#artificial-intelligence)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
-- [c](#c)
 - [c-plus-plus](#c-plus-plus)
-- [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [covid-19](#covid-19)
 - [cpp](#cpp)
@@ -59,7 +56,6 @@
 - [pytorch](#pytorch)
 - [react](#react)
 - [react-native](#react-native)
-- [reinforcement-learning](#reinforcement-learning)
 - [rust](#rust)
 - [scikit-learn](#scikit-learn)
 - [shell](#shell)
@@ -90,17 +86,10 @@
 - [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C++11
 - [binzi56/AlgorithmicPractice](https://github.com/binzi56/AlgorithmicPractice) - 关于LeetCode算法的练习(主要包括剑指Offer题解, 算法概念, 高频题型几个部分)
 
-## algorithms 
-
-- [murufeng/Awesome-AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm) - 人工智能算法方面的综合资料合集:包括求职面试、机器学习、深度学习、强化学习等方面的资料和代码
-- [binzi56/algorithm-pattern-c](https://github.com/binzi56/algorithm-pattern-c) - 算法模板(c++), 包含数据结构,基础算法和算法思维篇
-- [PRML/PRMLT](https://github.com/PRML/PRMLT) - Matlab code of machine learning algorithms in book PRML
-
 ## android 
 
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [CainKernel/CainCamera](https://github.com/CainKernel/CainCamera) - CainCamera is an Android Project to learn about development of beauty camera, image and short video
-- [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 
 ## angular 
 
@@ -109,33 +98,21 @@
 ## artificial-intelligence 
 
 - [djosix/IconFlow](https://github.com/djosix/IconFlow) - Code for "Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization", CVPR 2022.
-- [murufeng/Awesome-AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm) - 人工智能算法方面的综合资料合集:包括求职面试、机器学习、深度学习、强化学习等方面的资料和代码
-- [aitorzip/PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN) - A clean and readable Pytorch implementation of CycleGAN
 
 ## awesome 
 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [yeungchenwa/Recommendations-Diffusion-Text-Image](https://github.com/yeungchenwa/Recommendations-Diffusion-Text-Image) - A paper collection of recent diffusion models for text-image generation tasks, e,g., visual text generation, font generation, text removal, text image super resolution, text editing, handwritten gener
 - [mikeroyal/ISP-Guide](https://github.com/mikeroyal/ISP-Guide) - Image Signal Processing (ISP) Guide. Learn all about the process of converting an image/video into digital form by performing tasks like noise reduction, filtering, auto exposure, autofocus, HDR corre
-- [Efficient-ML/Awesome-Model-Quantization](https://github.com/Efficient-ML/Awesome-Model-Quantization) - A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (pape
 
 ## awesome-list 
 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [G-U-N/Awesome-Consistency-Models](https://github.com/G-U-N/Awesome-Consistency-Models) - Awesome List of Consistency Models
-- [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
-
-## c 
-
-- [zchrissirhcz/pixel](https://github.com/zchrissirhcz/pixel) - Image processing library for learning purpose
 
 ## c-plus-plus 
 
 - [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON for ARM.
-
-## compiler 
-
-- [MegEngine/MegCC](https://github.com/MegEngine/MegCC) - MegCC是一个运行时超轻量，高效，移植简单的深度学习模型编译器
 
 ## computer-vision 
 
@@ -194,7 +171,6 @@
 - [junyanz/interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization) - Deep learning software for colorizing black and white images with a few clicks.
 - [CGLab-GIST/RIDFnF](https://github.com/CGLab-GIST/RIDFnF) - An official source code of AAAI 2023 paper, "Robust Image Denoising of No-Flash Images Guided by Consistent Flash Images".
 - [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
-- [aitorzip/PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN) - A clean and readable Pytorch implementation of CycleGAN
 - [ishit/L1Stabilizer](https://github.com/ishit/L1Stabilizer) - :movie_camera: Video stabilization using L1-norm optimal camera paths.
 - [Lakshya-Kejriwal/Real-Time-Video-Stabilization](https://github.com/Lakshya-Kejriwal/Real-Time-Video-Stabilization) - real time video stabilization using Kalman Filter
 - [ElvinC/gyroflow](https://github.com/ElvinC/gyroflow) - [INACTIVE LEGACY VERSION, FIND THE PROJECT HERE: https://github.com/gyroflow/gyroflow] Video stabilization using IMU motion data from internal or external logs
@@ -321,13 +297,9 @@
 - [junyanz/interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization) - Deep learning software for colorizing black and white images with a few clicks.
 - [CGLab-GIST/RIDFnF](https://github.com/CGLab-GIST/RIDFnF) - An official source code of AAAI 2023 paper, "Robust Image Denoising of No-Flash Images Guided by Consistent Flash Images".
 - [jinyeying/night-enhancement](https://github.com/jinyeying/night-enhancement) - [ECCV2022] "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",  https://arxiv.org/abs/2207.10564
-- [MegEngine/MegCC](https://github.com/MegEngine/MegCC) - MegCC是一个运行时超轻量，高效，移植简单的深度学习模型编译器
 - [hellloxiaotian/CFSRCNN](https://github.com/hellloxiaotian/CFSRCNN) - Coarse-to-Fine CNN for Image Super-Resolution (IEEE Transactions on Multimedia,2021)
-- [murufeng/Awesome-AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm) - 人工智能算法方面的综合资料合集:包括求职面试、机器学习、深度学习、强化学习等方面的资料和代码
 - [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
 - [NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP) - 此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
-- [Efficient-ML/Awesome-Model-Quantization](https://github.com/Efficient-ML/Awesome-Model-Quantization) - A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (pape
-- [aitorzip/PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN) - A clean and readable Pytorch implementation of CycleGAN
 - [codeslake/IFAN](https://github.com/codeslake/IFAN) - [CVPR 2021] Official PyTorch Implementation for "Iterative Filter Adaptive Network for Single Image Defocus Deblurring"
 - [m-tassano/dvdnet](https://github.com/m-tassano/dvdnet) - DVDnet: A Simple and Fast Network for Deep Video Denoising
 - [aiff22/PyNET-Bokeh](https://github.com/aiff22/PyNET-Bokeh) - Rendering Realistic Bokeh Images with PyNET
@@ -421,12 +393,10 @@
 - [alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data](https://github.com/alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data) - Using synthetic data in combination with Deep Learning, to determine if a system can be made that will be able to recognise and classify correctly real traffic signs.
 - [mv-lab/AISP](https://github.com/mv-lab/AISP) - AI Image Signal Processing and Computational Photography. Official library for NTIRE (CVPR) and AIM (ICCV/ECCV) Challenges. You will find Learned ISPs, RAW Restoration-Upsampling-Reconstruction, Image
 - [octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color](https://github.com/octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color) - Project is an implementation of skin segmentation using OpenCV and dominant color extraction using SciKit-Learn
-- [zchrissirhcz/pixel](https://github.com/zchrissirhcz/pixel) - Image processing library for learning purpose
 - [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON for ARM.
 - [QiuJueqin/fast-openISP](https://github.com/QiuJueqin/fast-openISP) - fast-openISP: a faster re-implementation of openISP
 - [hellloxiaotian/CFSRCNN](https://github.com/hellloxiaotian/CFSRCNN) - Coarse-to-Fine CNN for Image Super-Resolution (IEEE Transactions on Multimedia,2021)
 - [jhfmat/ISP-pipeline-hdrplus](https://github.com/jhfmat/ISP-pipeline-hdrplus) - Denoise,HDR,Isppipeline,Image-processing(图形处理),camera, Isp ,HDRplus
-- [aitorzip/PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN) - A clean and readable Pytorch implementation of CycleGAN
 - [HuiZeng/Image-Adaptive-3DLUT](https://github.com/HuiZeng/Image-Adaptive-3DLUT) - Learning Image-adaptive 3D Lookup Tables for High Performance Photo Enhancement in Real-time
 - [ishit/L1Stabilizer](https://github.com/ishit/L1Stabilizer) - :movie_camera: Video stabilization using L1-norm optimal camera paths.
 - [Lakshya-Kejriwal/Real-Time-Video-Stabilization](https://github.com/Lakshya-Kejriwal/Real-Time-Video-Stabilization) - real time video stabilization using Kalman Filter
@@ -487,11 +457,8 @@
 - [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON for ARM.
 - [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
 - [WangQvQ/YOLOMagic](https://github.com/WangQvQ/YOLOMagic) - YOLO Magic🪄 is an extension based on Ultralytics' YOLOv5, designed to provide more powerful functionality and simpler operations for visual tasks.
-- [MegEngine/MegCC](https://github.com/MegEngine/MegCC) - MegCC是一个运行时超轻量，高效，移植简单的深度学习模型编译器
-- [murufeng/Awesome-AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm) - 人工智能算法方面的综合资料合集:包括求职面试、机器学习、深度学习、强化学习等方面的资料和代码
 - [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
 - [NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP) - 此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
-- [PRML/PRMLT](https://github.com/PRML/PRMLT) - Matlab code of machine learning algorithms in book PRML
 
 ## matlab 
 
@@ -499,7 +466,6 @@
 - [ishit/L1Stabilizer](https://github.com/ishit/L1Stabilizer) - :movie_camera: Video stabilization using L1-norm optimal camera paths.
 - [averyma/active-depth-from-defocus](https://github.com/averyma/active-depth-from-defocus) - Monocular 3D Reconstruction via Active Depth from Defocus
 - [meisamrf/ivhc-estimator](https://github.com/meisamrf/ivhc-estimator) - Fast image noise estimation (Estimation of Gaussian, signal-dependent, and processed noise in Image and Video Signals)
-- [PRML/PRMLT](https://github.com/PRML/PRMLT) - Matlab code of machine learning algorithms in book PRML
 
 ## mobile 
 
@@ -550,6 +516,7 @@
 
 ## others 
 
+- [FlowAlign/FlowAlign](https://github.com/FlowAlign/FlowAlign) - Official repository of FlowAlign
 - [SintonZZ/Awesome-AI-ISP](https://github.com/SintonZZ/Awesome-AI-ISP) - A list of awesome AI-ISP works.
 - [VSehwag/minimal-diffusion](https://github.com/VSehwag/minimal-diffusion) - A minimal yet resourceful implementation of diffusion models (along with pretrained models + synthetic images for nine datasets)
 - [tsmatz/diffusion-tutorials](https://github.com/tsmatz/diffusion-tutorials) - Theoretical introduction and examples for diffusion model algorithms
@@ -1424,7 +1391,6 @@
 - [swz30/Restormer](https://github.com/swz30/Restormer) - [CVPR 2022--Oral] Restormer: Efficient Transformer for High-Resolution Image Restoration. SOTA  for motion deblurring, image deraining, denoising (Gaussian/real data), and defocus deblurring.
 - [hellloxiaotian/CFSRCNN](https://github.com/hellloxiaotian/CFSRCNN) - Coarse-to-Fine CNN for Image Super-Resolution (IEEE Transactions on Multimedia,2021)
 - [guochengqian/TENet](https://github.com/guochengqian/TENet) - [ICCP'22] Rethinking Learning-based Demosaicing, Denoising, and Super-Resolution Pipeline
-- [aitorzip/PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN) - A clean and readable Pytorch implementation of CycleGAN
 - [666DZY666/micronet](https://github.com/666DZY666/micronet) - micronet, a model compression and deploy lib. compression: 1、quantization: quantization-aware-training(QAT), High-Bit(&gt;2b)(DoReFa/Quantization and Training of Neural Networks for Efficient Integer-
 - [codeslake/IFAN](https://github.com/codeslake/IFAN) - [CVPR 2021] Official PyTorch Implementation for "Iterative Filter Adaptive Network for Single Image Defocus Deblurring"
 - [SeokjaeLIM/DSLR-release](https://github.com/SeokjaeLIM/DSLR-release) - Deep Stacked Laplacian Restorer for Low-light Image Enhancement
@@ -1452,10 +1418,6 @@
 ## react-native 
 
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-
-## reinforcement-learning 
-
-- [murufeng/Awesome-AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm) - 人工智能算法方面的综合资料合集:包括求职面试、机器学习、深度学习、强化学习等方面的资料和代码
 
 ## rust 
 
