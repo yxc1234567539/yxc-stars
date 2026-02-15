@@ -49,7 +49,6 @@
 - [LibRaw/LibRaw-demosaic-pack-GPL2](https://github.com/LibRaw/LibRaw-demosaic-pack-GPL2) - Demosaic methods for LibRaw distributed under the terms of GPL2+
 - [ANSANJAY/LinuxCoredumpValgrind](https://github.com/ANSANJAY/LinuxCoredumpValgrind) - A comprehensive guide to debugging in Linux with emphasis on core dumps and Valgrind. Dive into practical examples with source codes and documentation, aiding both beginners and professionals.
 - [schoolpost/PiDNG](https://github.com/schoolpost/PiDNG) - Create Adobe DNG RAW files using Python. Works with any Bayer RAW Data including native support for Raspberry Pi cameras.
-- [zchrissirhcz/pixel](https://github.com/zchrissirhcz/pixel) - Image processing library for learning purpose
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) - 
 - [TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box) - A toolbox for deep learning model deployment using C++ YoloX | YoloV7 | YoloV8 | Gan | OCR | MobileVit | Scrfd | MobileSAM | StableDiffusion
 - [jhfmat/ISP-pipeline-hdrplus](https://github.com/jhfmat/ISP-pipeline-hdrplus) - Denoise,HDR,Isppipeline,Image-processing(图形处理),camera, Isp ,HDRplus
@@ -95,7 +94,6 @@
 - [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
 - [Erkaman/vulkan_minimal_compute](https://github.com/Erkaman/vulkan_minimal_compute) - Minimal Example of Using Vulkan for Compute Operations. Only ~400LOC.
 - [Ldpe2G/ArmNeonOptimization](https://github.com/Ldpe2G/ArmNeonOptimization) - Arm neon optimization practice
-- [MegEngine/MegCC](https://github.com/MegEngine/MegCC) - MegCC是一个运行时超轻量，高效，移植简单的深度学习模型编译器
 - [zchrissirhcz/neon_sim](https://github.com/zchrissirhcz/neon_sim) - Implement ARM NEON intrinsics in C++
 - [AngelMonica126/GraphicAlgorithm](https://github.com/AngelMonica126/GraphicAlgorithm) - :octopus: :octopus:图形学论文实现
 - [ethan-li-coding/StereoV3DCode](https://github.com/ethan-li-coding/StereoV3DCode) - 《立体视觉入门指南》 代码， c++ code for StereoV3D course
@@ -111,7 +109,6 @@
 - [BUPTLdy/Caffe_Code_Analysis](https://github.com/BUPTLdy/Caffe_Code_Analysis) - Caffe_Code_Analysis
 - [BBuf/Image-processing-algorithm](https://github.com/BBuf/Image-processing-algorithm) - paper implement
 - [binzi56/AlgorithmicPractice](https://github.com/binzi56/AlgorithmicPractice) - 关于LeetCode算法的练习(主要包括剑指Offer题解, 算法概念, 高频题型几个部分)
-- [binzi56/algorithm-pattern-c](https://github.com/binzi56/algorithm-pattern-c) - 算法模板(c++), 包含数据结构,基础算法和算法思维篇
 - [kasumi494/opencv_lucas-kanade](https://github.com/kasumi494/opencv_lucas-kanade) - Pyramidal Implementation of the Lucas Kanade Feature Tracker
 - [nejcgalof/Optical-Flow-using-Dense-Inverse-Search](https://github.com/nejcgalof/Optical-Flow-using-Dense-Inverse-Search) - 
 - [yu-li/FGI](https://github.com/yu-li/FGI) - Code of 'FGI: Fast Guided Global Interpolation for Depth and Motion' (ECCV 2016 spotlight)
@@ -292,7 +289,6 @@
 - [jiayi-ma/GTF](https://github.com/jiayi-ma/GTF) - Infrared and visible image fusion via gradient transfer and total variation minimization
 - [tkd1088/multi-exposure-image-fusion](https://github.com/tkd1088/multi-exposure-image-fusion) - 
 - [xyang35/BurstImageDenoising](https://github.com/xyang35/BurstImageDenoising) - Fast burst images denoising project
-- [PRML/PRMLT](https://github.com/PRML/PRMLT) - Matlab code of machine learning algorithms in book PRML
 - [baidut/OpenCE](https://github.com/baidut/OpenCE) - Contrast Enhancement Techniques for low-light images
 
 ## Metal 
@@ -354,12 +350,9 @@
 - [PPshrimpGo/AIinterview](https://github.com/PPshrimpGo/AIinterview) - 算法工程师面试题整理
 - [code-wd/AI_offer](https://github.com/code-wd/AI_offer) - 这个项目主要用来总结算法工程师面试中常见的问题
 - [GYee/CV_interviews_Q-A](https://github.com/GYee/CV_interviews_Q-A) - CV算法岗知识点及面试问答汇总，主要分为计算机视觉、机器学习、图像处理和 C++基础四大块，一起努力向offers发起冲击！
-- [murufeng/Awesome-AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm) - 人工智能算法方面的综合资料合集:包括求职面试、机器学习、深度学习、强化学习等方面的资料和代码
 - [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
 - [lucasjinreal/AI-Infer-Engine-From-Zero](https://github.com/lucasjinreal/AI-Infer-Engine-From-Zero) - 关于自建AI推理引擎的手册，从0开始你需要知道的所有事情
-- [Efficient-ML/Awesome-Model-Quantization](https://github.com/Efficient-ML/Awesome-Model-Quantization) - A list of papers, docs, codes about model quantization. This repo is aimed to provide the info for model quantization research, we are continuously improving the project. Welcome to PR the works (pape
 - [jmluu/Awesome-Efficient-Training](https://github.com/jmluu/Awesome-Efficient-Training) - A collection of research papers on efficient training of DNNs
-- [zchrissirhcz/awesome-ncnn](https://github.com/zchrissirhcz/awesome-ncnn) - 😎  A Collection of Awesome NCNN-based Projects
 - [alex-golts/Video-Stabilization](https://github.com/alex-golts/Video-Stabilization) - Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C++》- 完成翻译
 - [liuguoyou/EffectiveModernCppChinese](https://github.com/liuguoyou/EffectiveModernCppChinese) - 《Effective Modern C++》翻译 - 已完成
@@ -376,6 +369,7 @@
 
 ## Python 
 
+- [FlowAlign/FlowAlign](https://github.com/FlowAlign/FlowAlign) - Official repository of FlowAlign
 - [VSehwag/minimal-diffusion](https://github.com/VSehwag/minimal-diffusion) - A minimal yet resourceful implementation of diffusion models (along with pretrained models + synthetic images for nine datasets)
 - [CVI-SZU/FaceBench](https://github.com/CVI-SZU/FaceBench) - [CVPR 2025] FaceBench: A Multi-View Multi-Level Facial Attribute VQA Dataset for Benchmarking Face Perception MLLMs
 - [NVlabs/FastGen](https://github.com/NVlabs/FastGen) - NVIDIA FastGen: Fast Generation from Diffusion Models
@@ -958,7 +952,6 @@
 - [aaaaangel/RRDNet](https://github.com/aaaaangel/RRDNet) - Implementation of "Zero-Shot Restoration of Underexposed Images via Robust Retinex Decomposition, International Conference on Multimedia and Expo, 2020"
 - [WangJY06/RDGAN](https://github.com/WangJY06/RDGAN) - ICME 2019 paper "RDGAN: Retinex Decomposition based Adversarial Learning for Low-Light Enhancement"
 - [jiupinjia/Deep-adversarial-decomposition](https://github.com/jiupinjia/Deep-adversarial-decomposition) - Pytorch implementation of the paper: "A Unified Framework for Separating Superimposed Images", in CVPR 2020.
-- [aitorzip/PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN) - A clean and readable Pytorch implementation of CycleGAN
 - [xw-hu/Mask-ShadowGAN](https://github.com/xw-hu/Mask-ShadowGAN) - Mask-ShadowGAN: Learning to Remove Shadows from Unpaired Data | ICCV 2019
 - [csqiangwen/Single-Image-Reflection-Removal-Beyond-Linearity](https://github.com/csqiangwen/Single-Image-Reflection-Removal-Beyond-Linearity) - 
 - [HuiZeng/Image-Adaptive-3DLUT](https://github.com/HuiZeng/Image-Adaptive-3DLUT) - Learning Image-adaptive 3D Lookup Tables for High Performance Photo Enhancement in Real-time
