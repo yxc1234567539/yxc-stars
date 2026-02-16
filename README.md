@@ -170,7 +170,6 @@
 - [tsmatz/diffusion-tutorials](https://github.com/tsmatz/diffusion-tutorials) - Theoretical introduction and examples for diffusion model algorithms
 - [Qualcomm-AI-research/clockwork-diffusion](https://github.com/Qualcomm-AI-research/clockwork-diffusion) - 
 - [FLClab/TA-GAN](https://github.com/FLClab/TA-GAN) - Repository for "Task-Assisted GAN for Resolution Enhancement and Modality Translation in Fluorescence Microscopy"
-- [pvitoria/ChromaGAN](https://github.com/pvitoria/ChromaGAN) - Official Implementation of ChromaGAN: An Adversarial Approach for Picture Colorization
 - [NVIDIA/tao_tutorials](https://github.com/NVIDIA/tao_tutorials) - Quick start scripts and tutorial notebooks to get started with TAO Toolkit
 - [sooyeon-go/eye_for_an_eye](https://github.com/sooyeon-go/eye_for_an_eye) - Eye-for-an-eye: Appearance Transfer with Semantic Correspondence in Diffusion Models
 - [CyberAgentAILab/Palette2Image](https://github.com/CyberAgentAILab/Palette2Image) - Official implementation of Exploring Palette based Color Guidance in Diffusion Models, ACM MM 2025.
@@ -467,7 +466,6 @@
 - [CVL-UESTC/BPAM](https://github.com/CVL-UESTC/BPAM) - ICCV2025-Learning Pixel-adaptive Multi-layer Perceptrons for Real-time Image
 - [AFeng-x/PixWizard](https://github.com/AFeng-x/PixWizard) - [ICLR2025] A versatile image-to-image visual assistant, designed for image generation, manipulation, and translation based on free-from user instructions.
 - [sevenHsu/FaceMask_CelebA](https://github.com/sevenHsu/FaceMask_CelebA) - Simulated masked face with dataset CelebA
-- [nachifur/MulimgViewer](https://github.com/nachifur/MulimgViewer) - MulimgViewer is a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching.
 - [flrs/blend_modes](https://github.com/flrs/blend_modes) - Python package that implements image blend modes
 - [huggingface/instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) - Code for instruction-tuning Stable Diffusion.
 - [steq28/e2gan](https://github.com/steq28/e2gan) - E2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation
@@ -528,7 +526,6 @@
 - [weepiess/StyleFlow-Content-Fixed-I2I](https://github.com/weepiess/StyleFlow-Content-Fixed-I2I) - 
 - [lyndonzheng/F-LSeSim](https://github.com/lyndonzheng/F-LSeSim) - [CVPR 2021]: The Spatially-Correlative Loss for Various Image Translation Tasks
 - [facebookresearch/vsait](https://github.com/facebookresearch/vsait) - Unpaired Image Translation via Vector Symbolic Architectures (ECCV 2022)
-- [alpc91/NICE-GAN-pytorch](https://github.com/alpc91/NICE-GAN-pytorch) - Official PyTorch implementation of NICE-GAN:  Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation
 - [SeanJia/SRUNIT](https://github.com/SeanJia/SRUNIT) - Code for Semantically Robust Unpaired Image Translation for Data with Unmatched Semantics Statistics (SRUNIT), ICCV 2021
 - [XiudingCai/EnCo-pytorch](https://github.com/XiudingCai/EnCo-pytorch) - Rethinking the Paradigm of Content Constraints in Unpaired Image-to-Image Translation (AAAI'24)
 - [XiudingCai/PyTorch-EnCo](https://github.com/XiudingCai/PyTorch-EnCo) - Constraining Multi-scale Pairwise Features between Encoder and Decoder Using Contrastive Learning for Unpaired Image-to-Image Translation
