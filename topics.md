@@ -63,7 +63,6 @@
 - [stable-diffusion](#stable-diffusion)
 - [swift](#swift)
 - [tensorflow](#tensorflow)
-- [ubuntu](#ubuntu)
 - [video](#video)
 - [vim](#vim)
 - [visualization](#visualization)
@@ -116,16 +115,13 @@
 
 ## computer-vision 
 
-- [pvitoria/ChromaGAN](https://github.com/pvitoria/ChromaGAN) - Official Implementation of ChromaGAN: An Adversarial Approach for Picture Colorization
 - [ZouShilong1024/CycleDiff](https://github.com/ZouShilong1024/CycleDiff) - Code for TIP2026 paper: CycleDiff: Cycle Diffusion Models for Unpaired Image-to-image Translation
 - [bupt-ai-cz/BCI](https://github.com/bupt-ai-cz/BCI) - BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix
 - [mikkoim/dinotool](https://github.com/mikkoim/dinotool) - Command-line tool for extracting DINOv3, CLIP, SigLIP2, RADIO, features for images and videos
-- [nachifur/MulimgViewer](https://github.com/nachifur/MulimgViewer) - MulimgViewer is a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching.
 - [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
 - [Kaminyou/Kernelized-Instance-Normalization](https://github.com/Kaminyou/Kernelized-Instance-Normalization) - [ECCV 2022] Official implementation of "Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization"
 - [Kaminyou/Dense-Normalization](https://github.com/Kaminyou/Dense-Normalization) - [ECCV 2024] Official implementation of "Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization"
-- [alpc91/NICE-GAN-pytorch](https://github.com/alpc91/NICE-GAN-pytorch) - Official PyTorch implementation of NICE-GAN:  Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation
 - [ExplainableML/BayesCap](https://github.com/ExplainableML/BayesCap) - (ECCV 2022) BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen Neural Networks
 - [sunsided/stroke-width-transform](https://github.com/sunsided/stroke-width-transform) - Python implementation of and experiments with the Stroke Width Transformation and connected components filtering.
 - [sparkfish/shabby-pages](https://github.com/sparkfish/shabby-pages) - ShabbyPages is a state-of-the-art corpus of born-digital document images with both ground truth and distorted versions appropriate for use in training models to reverse distortions and recover to orig
@@ -221,7 +217,6 @@
 ## deep-learning 
 
 - [megvii-research/megvii-tsinghua-dl-course](https://github.com/megvii-research/megvii-tsinghua-dl-course) - Slides with modifications for a course at Tsinghua University.
-- [pvitoria/ChromaGAN](https://github.com/pvitoria/ChromaGAN) - Official Implementation of ChromaGAN: An Adversarial Approach for Picture Colorization
 - [jinyeying/DC-ShadowNet-Hard-and-Soft-Shadow-Removal](https://github.com/jinyeying/DC-ShadowNet-Hard-and-Soft-Shadow-Removal) - [ICCV2021]"DC-ShadowNet: Single-Image Hard and Soft Shadow Removal Using Unsupervised Domain-Classifier Guided Network", https://arxiv.org/abs/2207.10434
 - [ZouShilong1024/CycleDiff](https://github.com/ZouShilong1024/CycleDiff) - Code for TIP2026 paper: CycleDiff: Cycle Diffusion Models for Unpaired Image-to-image Translation
 - [bupt-ai-cz/BCI](https://github.com/bupt-ai-cz/BCI) - BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix
@@ -229,7 +224,6 @@
 - [NWPU-LHH/WFLM-GAN](https://github.com/NWPU-LHH/WFLM-GAN) - WFLM-GAN：Multiscale Generative Adversarial Network Based on Wavelet Feature Learning for SAR-to-Optical Image Translation
 - [NICALab/STABLE](https://github.com/NICALab/STABLE) - Preserving Spatial and Quantitative Information in Unpaired Biomedical Image-to-Image Translation
 - [harry7557558/Graphics](https://github.com/harry7557558/Graphics) - Source files for my experiments not limited to computer graphics.
-- [nachifur/MulimgViewer](https://github.com/nachifur/MulimgViewer) - MulimgViewer is a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching.
 - [steq28/e2gan](https://github.com/steq28/e2gan) - E2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation
 - [snap-research/CAT](https://github.com/snap-research/CAT) - [CVPR 2021] Teachers Do More Than Teach: Compressing Image-to-Image Models (CAT)
 - [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
@@ -237,7 +231,6 @@
 - [Kaminyou/Kernelized-Instance-Normalization](https://github.com/Kaminyou/Kernelized-Instance-Normalization) - [ECCV 2022] Official implementation of "Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization"
 - [JarrentWu1031/CCPL](https://github.com/JarrentWu1031/CCPL) - [ECCV 2022 Oral] Official Pytorch implementation of CCPL and SCTNet
 - [Reyhanehne/CVF-SID_PyTorch](https://github.com/Reyhanehne/CVF-SID_PyTorch) - Official implementation of the paper "CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image" (CVPR 2022)
-- [alpc91/NICE-GAN-pytorch](https://github.com/alpc91/NICE-GAN-pytorch) - Official PyTorch implementation of NICE-GAN:  Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation
 - [ExplainableML/BayesCap](https://github.com/ExplainableML/BayesCap) - (ECCV 2022) BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen Neural Networks
 - [Royalvice/DocDiff](https://github.com/Royalvice/DocDiff) - ACM Multimedia 2023: DocDiff: Document Enhancement via Residual Diffusion Models. Also contains 1597 red seals in Chinese scenes, along with their corresponding binary masks.
 - [dali92002/DE-GAN](https://github.com/dali92002/DE-GAN) - Document Image Enhancement with GANs - TPAMI journal
@@ -1303,7 +1296,6 @@
 
 ## python3 
 
-- [nachifur/MulimgViewer](https://github.com/nachifur/MulimgViewer) - MulimgViewer is a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching.
 - [mzur/pyJBU](https://github.com/mzur/pyJBU) - A Python implementation of Joint Bilateral Upsampling
 - [m-tassano/dvdnet](https://github.com/m-tassano/dvdnet) - DVDnet: A Simple and Fast Network for Deep Video Denoising
 
@@ -1319,7 +1311,6 @@
 - [seanbenhur/siamese_net](https://github.com/seanbenhur/siamese_net) - Signature verification system using Siamese networks
 - [JarrentWu1031/CCPL](https://github.com/JarrentWu1031/CCPL) - [ECCV 2022 Oral] Official Pytorch implementation of CCPL and SCTNet
 - [Reyhanehne/CVF-SID_PyTorch](https://github.com/Reyhanehne/CVF-SID_PyTorch) - Official implementation of the paper "CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image" (CVPR 2022)
-- [alpc91/NICE-GAN-pytorch](https://github.com/alpc91/NICE-GAN-pytorch) - Official PyTorch implementation of NICE-GAN:  Reusing Discriminators for Encoding: Towards Unsupervised Image-to-Image Translation
 - [ExplainableML/UncertaintyAwareCycleConsistency](https://github.com/ExplainableML/UncertaintyAwareCycleConsistency) - Building blocks for uncertainty-aware cycle consistency presented at NeurIPS'21.
 - [dingkeyan93/DISTS](https://github.com/dingkeyan93/DISTS) - IQA: Deep Image Structure and Texture Similarity Metric
 - [Royalvice/DocDiff](https://github.com/Royalvice/DocDiff) - ACM Multimedia 2023: DocDiff: Document Enhancement via Residual Diffusion Models. Also contains 1597 red seals in Chinese scenes, along with their corresponding binary masks.
@@ -1460,10 +1451,6 @@
 - [frobertpixto/hand-drawn-shapes-dataset](https://github.com/frobertpixto/hand-drawn-shapes-dataset) - Hand-drawn Shapes (HDS) Dataset. Images like Rectangles, Ellipses and Triangles
 - [CGLab-GIST/RIDFnF](https://github.com/CGLab-GIST/RIDFnF) - An official source code of AAAI 2023 paper, "Robust Image Denoising of No-Flash Images Guided by Consistent Flash Images".
 - [YoungYoung619/Make-vehicles-see-in-the-dark](https://github.com/YoungYoung619/Make-vehicles-see-in-the-dark) - Low light enhance for driving scene
-
-## ubuntu 
-
-- [nachifur/MulimgViewer](https://github.com/nachifur/MulimgViewer) - MulimgViewer is a multi-image viewer that can open multiple images in one interface, which is convenient for image comparison and image stitching.
 
 ## video 
 
