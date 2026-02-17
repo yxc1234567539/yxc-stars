@@ -15,7 +15,6 @@
 - [awesome-list](#awesome-list)
 - [c-plus-plus](#c-plus-plus)
 - [computer-vision](#computer-vision)
-- [covid-19](#covid-19)
 - [cpp](#cpp)
 - [data](#data)
 - [data-analysis](#data-analysis)
@@ -42,7 +41,6 @@
 - [machine-learning](#machine-learning)
 - [matlab](#matlab)
 - [mobile](#mobile)
-- [natural-language-processing](#natural-language-processing)
 - [neural-network](#neural-network)
 - [nlp](#nlp)
 - [numpy](#numpy)
@@ -115,6 +113,7 @@
 
 ## computer-vision 
 
+- [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
 - [ZouShilong1024/CycleDiff](https://github.com/ZouShilong1024/CycleDiff) - Code for TIP2026 paper: CycleDiff: Cycle Diffusion Models for Unpaired Image-to-image Translation
 - [bupt-ai-cz/BCI](https://github.com/bupt-ai-cz/BCI) - BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix
 - [mikkoim/dinotool](https://github.com/mikkoim/dinotool) - Command-line tool for extracting DINOv3, CLIP, SigLIP2, RADIO, features for images and videos
@@ -122,12 +121,10 @@
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
 - [Kaminyou/Kernelized-Instance-Normalization](https://github.com/Kaminyou/Kernelized-Instance-Normalization) - [ECCV 2022] Official implementation of "Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization"
 - [Kaminyou/Dense-Normalization](https://github.com/Kaminyou/Dense-Normalization) - [ECCV 2024] Official implementation of "Every Pixel Has its Moments: Ultra-High-Resolution Unpaired Image-to-Image Translation via Dense Normalization"
-- [ExplainableML/BayesCap](https://github.com/ExplainableML/BayesCap) - (ECCV 2022) BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen Neural Networks
 - [sunsided/stroke-width-transform](https://github.com/sunsided/stroke-width-transform) - Python implementation of and experiments with the Stroke Width Transformation and connected components filtering.
 - [sparkfish/shabby-pages](https://github.com/sparkfish/shabby-pages) - ShabbyPages is a state-of-the-art corpus of born-digital document images with both ground truth and distorted versions appropriate for use in training models to reverse distortions and recover to orig
 - [kkanshul/finegan](https://github.com/kkanshul/finegan) - FineGAN: Unsupervised Hierarchical Disentanglement for Fine-grained Object Generation and Discovery
 - [compphoto/Intrinsic](https://github.com/compphoto/Intrinsic) - Repo for the papers "Intrinsic Image Decomposition via Ordinal Shading" (TOG 2023) and "Colorful Diffuse Intrinsic Image Decomposition in the Wild" (TOG 2024)
-- [JunlinHan/BID](https://github.com/JunlinHan/BID) - Code for Blind Image Decomposition (BID) and Blind Image Decomposition network (BIDeN). ECCV, 2022.
 - [SamPujade/image-colorization](https://github.com/SamPujade/image-colorization) - Landscape and face image colorization with Generative Adversarial Networks (GANs)
 - [10x-Engineers/Infinite-ISP_ReferenceModel](https://github.com/10x-Engineers/Infinite-ISP_ReferenceModel) - A Python based fixed-point implementation of the Infinite-ISP design for ASIC and FPGA design and verification.
 - [li-plus/seam-carving](https://github.com/li-plus/seam-carving) - A super-fast Python implementation of seam carving algorithm for intelligent image resizing.
@@ -140,48 +137,27 @@
 - [PITI-Synthesis/PITI](https://github.com/PITI-Synthesis/PITI) - PITI: Pretraining is All You Need for Image-to-Image Translation
 - [GaParmar/img2img-turbo](https://github.com/GaParmar/img2img-turbo) - One-step image-to-image with Stable Diffusion turbo: sketch2image, day2night, and more
 - [OpenStitching/stitching](https://github.com/OpenStitching/stitching) - A Python package for fast and robust Image Stitching
-- [ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-](https://github.com/ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-) - A. Moghimi, M. Welzel, T. Celik, and T. Schlurmann, "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Rem
 - [ohayonguy/PMRF](https://github.com/ohayonguy/PMRF) - [ICLR 2025] Official implementation of Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration
-- [JunlinHan/DCLGAN](https://github.com/JunlinHan/DCLGAN) - Code for Dual Contrastive Learning for Unsupervised Image-to-Image Translation, NTIRE, CVPRW 2021, oral.
 - [aiff22/PyNET-PyTorch](https://github.com/aiff22/PyNET-PyTorch) - Generating RGB photos from RAW image files with PyNET (PyTorch)
 - [mahmoudnafifi/SIIE](https://github.com/mahmoudnafifi/SIIE) - Sensor-Independent Illumination Estimation for DNN Models (BMVC 2019)
 - [Ha0Tang/AttentionGAN](https://github.com/Ha0Tang/AttentionGAN) - AttentionGAN for Unpaired Image-to-Image Translation & Multi-Domain Image-to-Image Translation
-- [nhauber99/degradr](https://github.com/nhauber99/degradr) - Python library for realistically degrading images.
 - [dailenson/One-DM](https://github.com/dailenson/One-DM) - Official Code for ECCV 2024 paper — One-Shot Diffusion Mimicker for Handwritten Text Generation
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
-- [Maclory/Deep-Iterative-Collaboration](https://github.com/Maclory/Deep-Iterative-Collaboration) - Pytorch implementation of Deep Face Super-Resolution with Iterative Collaboration between Attentive Recovery and Landmark Estimation (CVPR 2020)
-- [prasunroy/stefann](https://github.com/prasunroy/stefann) - :fire: [CVPR 2020] STEFANN: Scene Text Editor using Font Adaptive Neural Network (official code).
-- [mahmoudnafifi/WB_sRGB](https://github.com/mahmoudnafifi/WB_sRGB) - White balance camera-rendered sRGB images (CVPR 2019) [Matlab & Python]
-- [swz30/CycleISP](https://github.com/swz30/CycleISP) - [CVPR 2020--Oral] CycleISP: Real Image Restoration via Improved Data Synthesis
 - [Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision) - A Collection of Papers and Codes for CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision
-- [mhamilton723/STEGO](https://github.com/mhamilton723/STEGO) - Unsupervised Semantic Segmentation by Distilling Feature Correspondences
 - [frobertpixto/hand-drawn-shapes-dataset](https://github.com/frobertpixto/hand-drawn-shapes-dataset) - Hand-drawn Shapes (HDS) Dataset. Images like Rectangles, Ellipses and Triangles
-- [alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data](https://github.com/alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data) - Using synthetic data in combination with Deep Learning, to determine if a system can be made that will be able to recognise and classify correctly real traffic signs.
-- [alexppppp/synthetic-dataset-object-detection](https://github.com/alexppppp/synthetic-dataset-object-detection) - How to Create Synthetic Dataset for Computer Vision (Object Detection) (Article on Medium)
 - [taesungp/contrastive-unpaired-translation](https://github.com/taesungp/contrastive-unpaired-translation) - Contrastive unpaired image-to-image translation, faster and lighter training than cyclegan (ECCV 2020, in PyTorch)
 - [mv-lab/AISP](https://github.com/mv-lab/AISP) - AI Image Signal Processing and Computational Photography. Official library for NTIRE (CVPR) and AIM (ICCV/ECCV) Challenges. You will find Learned ISPs, RAW Restoration-Upsampling-Reconstruction, Image
-- [mahmoudnafifi/WB_color_augmenter](https://github.com/mahmoudnafifi/WB_color_augmenter) - WB color augmenter improves the accuracy of image classification and image semantic segmentation methods by emulating different WB effects  (ICCV 2019) [Python & Matlab].
 - [MarkMoHR/Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) - :books: A collection of Deep Learning based Image Colorization and Video Colorization papers.
-- [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
 - [MyNiuuu/VCSD](https://github.com/MyNiuuu/VCSD) - [CVPR 2023] Visibility Constrained Wide-band Illumination Spectrum Design for Seeing-in-the-Dark
-- [junyanz/interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization) - Deep learning software for colorizing black and white images with a few clicks.
 - [CGLab-GIST/RIDFnF](https://github.com/CGLab-GIST/RIDFnF) - An official source code of AAAI 2023 paper, "Robust Image Denoising of No-Flash Images Guided by Consistent Flash Images".
-- [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
 - [ishit/L1Stabilizer](https://github.com/ishit/L1Stabilizer) - :movie_camera: Video stabilization using L1-norm optimal camera paths.
 - [Lakshya-Kejriwal/Real-Time-Video-Stabilization](https://github.com/Lakshya-Kejriwal/Real-Time-Video-Stabilization) - real time video stabilization using Kalman Filter
 - [ElvinC/gyroflow](https://github.com/ElvinC/gyroflow) - [INACTIVE LEGACY VERSION, FIND THE PROJECT HERE: https://github.com/gyroflow/gyroflow] Video stabilization using IMU motion data from internal or external logs
 - [aiff22/PyNET-Bokeh](https://github.com/aiff22/PyNET-Bokeh) - Rendering Realistic Bokeh Images with PyNET
-- [sjmoran/low-light-video-enhancement](https://github.com/sjmoran/low-light-video-enhancement) - Repository for the ECCV 2020 paper: "Low Light Video Enhancement using Synthetic Data Produced with an Intermediate Domain Mapping"
-- [swz30/MIRNet](https://github.com/swz30/MIRNet) - [ECCV 2020] Learning Enriched Features for Real Image Restoration and Enhancement. SOTA results for image denoising, super-resolution, and image enhancement.
 - [swz30/MPRNet](https://github.com/swz30/MPRNet) - [CVPR 2021] Multi-Stage Progressive Image Restoration. SOTA results for Image deblurring, deraining, and denoising.
-- [KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN) - Image Deblurring using Generative Adversarial Networks
 - [richzhang/colorization-pytorch](https://github.com/richzhang/colorization-pytorch) - PyTorch reimplementation of Interactive Deep Colorization
 - [ufoym/recursive-bf](https://github.com/ufoym/recursive-bf) - A lightweight C++ library for recursive bilateral filtering [Yang, Qingxiong. "Recursive bilateral filtering". European Conference on Computer Vision, 2012].
 - [baidut/OpenCE](https://github.com/baidut/OpenCE) - Contrast Enhancement Techniques for low-light images
-
-## covid-19 
-
-- [cvlab-stonybrook/LSAE](https://github.com/cvlab-stonybrook/LSAE) - PyTorch Implementation of Lung Swapping Autoencoder
 
 ## cpp 
 
@@ -231,7 +207,6 @@
 - [Kaminyou/Kernelized-Instance-Normalization](https://github.com/Kaminyou/Kernelized-Instance-Normalization) - [ECCV 2022] Official implementation of "Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization"
 - [JarrentWu1031/CCPL](https://github.com/JarrentWu1031/CCPL) - [ECCV 2022 Oral] Official Pytorch implementation of CCPL and SCTNet
 - [Reyhanehne/CVF-SID_PyTorch](https://github.com/Reyhanehne/CVF-SID_PyTorch) - Official implementation of the paper "CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image" (CVPR 2022)
-- [ExplainableML/BayesCap](https://github.com/ExplainableML/BayesCap) - (ECCV 2022) BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen Neural Networks
 - [Royalvice/DocDiff](https://github.com/Royalvice/DocDiff) - ACM Multimedia 2023: DocDiff: Document Enhancement via Residual Diffusion Models. Also contains 1597 red seals in Chinese scenes, along with their corresponding binary masks.
 - [dali92002/DE-GAN](https://github.com/dali92002/DE-GAN) - Document Image Enhancement with GANs - TPAMI journal
 - [Jzy2017/TOPAL](https://github.com/Jzy2017/TOPAL) - TCSVT 2022 | Target Oriented Perceptual Adversarial Fusion Network for Underwater Image Enhancement.
@@ -253,7 +228,6 @@
 - [gunahn/StyleGAN2-ADA-pytorch-for-gray-images](https://github.com/gunahn/StyleGAN2-ADA-pytorch-for-gray-images) - This is my code for StlyeGAN2-ADA-PyTorch for gray images.
 - [GaParmar/img2img-turbo](https://github.com/GaParmar/img2img-turbo) - One-step image-to-image with Stable Diffusion turbo: sketch2image, day2night, and more
 - [ericsujw/InstColorization](https://github.com/ericsujw/InstColorization) - 
-- [ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-](https://github.com/ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-) - A. Moghimi, M. Welzel, T. Celik, and T. Schlurmann, "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Rem
 - [mahmoudnafifi/HistoGAN](https://github.com/mahmoudnafifi/HistoGAN) - Reference code for the paper HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms (CVPR 2021).
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [aiff22/PyNET-PyTorch](https://github.com/aiff22/PyNET-PyTorch) - Generating RGB photos from RAW image files with PyNET (PyTorch)
@@ -263,19 +237,14 @@
 - [dailenson/One-DM](https://github.com/dailenson/One-DM) - Official Code for ECCV 2024 paper — One-Shot Diffusion Mimicker for Handwritten Text Generation
 - [1adrianb/face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch
 - [Algolzw/daclip-uir](https://github.com/Algolzw/daclip-uir) - [ICLR 2024] Controlling Vision-Language Models for Universal Image Restoration. 5th place in the NTIRE 2024 Restore Any Image Model in the Wild Challenge.
-- [Maclory/Deep-Iterative-Collaboration](https://github.com/Maclory/Deep-Iterative-Collaboration) - Pytorch implementation of Deep Face Super-Resolution with Iterative Collaboration between Attentive Recovery and Landmark Estimation (CVPR 2020)
 - [xuxy09/RawSR](https://github.com/xuxy09/RawSR) - Exploiting raw images for real-scene super-resolution, TPAMI 2021
 - [jinyeying/RaindropClarity](https://github.com/jinyeying/RaindropClarity) - [ECCV2024] "Raindrop Clarity: A Dual-Focused Dataset for Day and Night Raindrop Removal", https://arxiv.org/abs/2407.16957
-- [prasunroy/stefann](https://github.com/prasunroy/stefann) - :fire: [CVPR 2020] STEFANN: Scene Text Editor using Font Adaptive Neural Network (official code).
 - [RQ-Wu/RIDCP_dehazing](https://github.com/RQ-Wu/RIDCP_dehazing) - [CVPR 2023] | RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors
 - [jinyeying/nighttime_dehaze](https://github.com/jinyeying/nighttime_dehaze) - [ACMMM2023] "Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution", https://arxiv.org/abs/2308.01738
 - [Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild. Our new online demo is also released at suppixel.ai.
-- [mhamilton723/STEGO](https://github.com/mhamilton723/STEGO) - Unsupervised Semantic Segmentation by Distilling Feature Correspondences
 - [frobertpixto/hand-drawn-shapes-dataset](https://github.com/frobertpixto/hand-drawn-shapes-dataset) - Hand-drawn Shapes (HDS) Dataset. Images like Rectangles, Ellipses and Triangles
-- [alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data](https://github.com/alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data) - Using synthetic data in combination with Deep Learning, to determine if a system can be made that will be able to recognise and classify correctly real traffic signs.
 - [mv-lab/AISP](https://github.com/mv-lab/AISP) - AI Image Signal Processing and Computational Photography. Official library for NTIRE (CVPR) and AIM (ICCV/ECCV) Challenges. You will find Learned ISPs, RAW Restoration-Upsampling-Reconstruction, Image
 - [adobe-research/beacon-aug](https://github.com/adobe-research/beacon-aug) - Cross-library augmentation toolbox supporting 300 operators over 8 libraries + AI transforms
-- [mahmoudnafifi/WB_color_augmenter](https://github.com/mahmoudnafifi/WB_color_augmenter) - WB color augmenter improves the accuracy of image classification and image semantic segmentation methods by emulating different WB effects  (ICCV 2019) [Python & Matlab].
 - [MarkMoHR/Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) - :books: A collection of Deep Learning based Image Colorization and Video Colorization papers.
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
@@ -287,11 +256,9 @@
 - [jakc4103/DFQ](https://github.com/jakc4103/DFQ) - PyTorch implementation of Data Free Quantization Through Weight Equalization and Bias Correction.
 - [WangQvQ/YOLOMagic](https://github.com/WangQvQ/YOLOMagic) - YOLO Magic🪄 is an extension based on Ultralytics' YOLOv5, designed to provide more powerful functionality and simpler operations for visual tasks.
 - [microsoft/VoTT](https://github.com/microsoft/VoTT) - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
-- [junyanz/interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization) - Deep learning software for colorizing black and white images with a few clicks.
 - [CGLab-GIST/RIDFnF](https://github.com/CGLab-GIST/RIDFnF) - An official source code of AAAI 2023 paper, "Robust Image Denoising of No-Flash Images Guided by Consistent Flash Images".
 - [jinyeying/night-enhancement](https://github.com/jinyeying/night-enhancement) - [ECCV2022] "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",  https://arxiv.org/abs/2207.10564
 - [hellloxiaotian/CFSRCNN](https://github.com/hellloxiaotian/CFSRCNN) - Coarse-to-Fine CNN for Image Super-Resolution (IEEE Transactions on Multimedia,2021)
-- [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
 - [NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP) - 此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
 - [codeslake/IFAN](https://github.com/codeslake/IFAN) - [CVPR 2021] Official PyTorch Implementation for "Iterative Filter Adaptive Network for Single Image Defocus Deblurring"
 - [m-tassano/dvdnet](https://github.com/m-tassano/dvdnet) - DVDnet: A Simple and Fast Network for Deep Video Denoising
@@ -301,7 +268,6 @@
 - [soumik12345/Zero-DCE](https://github.com/soumik12345/Zero-DCE) - Pytorch implementation of Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement
 - [pminhtam/MIRnet_SIDD](https://github.com/pminhtam/MIRnet_SIDD) - Pytorch implement "Learning Enriched Features for Real Image Restoration and Enhancement"
 - [zzh-tech/RSCD](https://github.com/zzh-tech/RSCD) - [CVPR2021] Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes
-- [KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN) - Image Deblurring using Generative Adversarial Networks
 - [hejingwenhejingwen/CResMD](https://github.com/hejingwenhejingwen/CResMD) - (ECCV 2020) Interactive Multi-Dimension Modulation with Dynamic Controllable Residual Learning for Image Restoration
 - [codeslake/DMENet](https://github.com/codeslake/DMENet) - [CVPR 2019] Official TensorFlow Implementation for "Deep Defocus Map Estimation using Domain Adaptation"
 - [ialhashim/DenseDepth](https://github.com/ialhashim/DenseDepth) - High Quality Monocular Depth Estimation via Transfer Learning
@@ -367,23 +333,19 @@
 - [CorentinBrtx/image-stitching](https://github.com/CorentinBrtx/image-stitching) - Image Stitching algorithm in Python from scratch with gain compensation and blending
 - [damianfral/colortransfer](https://github.com/damianfral/colortransfer) - A small tool to try to transfer colors between images.
 - [advimman/HiDT](https://github.com/advimman/HiDT) - Official repository for the paper "High-Resolution Daytime Translation Without Domain Labels" (CVPR2020, Oral)
-- [ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-](https://github.com/ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-) - A. Moghimi, M. Welzel, T. Celik, and T. Schlurmann, "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Rem
 - [ohayonguy/PMRF](https://github.com/ohayonguy/PMRF) - [ICLR 2025] Official implementation of Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [aiff22/PyNET-PyTorch](https://github.com/aiff22/PyNET-PyTorch) - Generating RGB photos from RAW image files with PyNET (PyTorch)
 - [mahmoudnafifi/SIIE](https://github.com/mahmoudnafifi/SIIE) - Sensor-Independent Illumination Estimation for DNN Models (BMVC 2019)
-- [nhauber99/degradr](https://github.com/nhauber99/degradr) - Python library for realistically degrading images.
 - [caiyuanhao1998/PNGAN](https://github.com/caiyuanhao1998/PNGAN) - "Learning to Generate Realistic Noisy Images via Pixel-level Noise-aware Adversarial Training" (NeurIPS 2021)
 - [FusionBrainLab/HairFastGAN](https://github.com/FusionBrainLab/HairFastGAN) - [NeurIPS 2024] The official implementation of HairFastGAN. A framework for virtual hairstyle fitting.
 - [dengyueyun666/Image-Contrast-Enhancement](https://github.com/dengyueyun666/Image-Contrast-Enhancement) - C++ implementation of several image contrast enhancement techniques.
-- [mahmoudnafifi/WB_sRGB](https://github.com/mahmoudnafifi/WB_sRGB) - White balance camera-rendered sRGB images (CVPR 2019) [Matlab & Python]
 - [mikeroyal/ISP-Guide](https://github.com/mikeroyal/ISP-Guide) - Image Signal Processing (ISP) Guide. Learn all about the process of converting an image/video into digital form by performing tasks like noise reduction, filtering, auto exposure, autofocus, HDR corre
 - [RQ-Wu/RIDCP_dehazing](https://github.com/RQ-Wu/RIDCP_dehazing) - [CVPR 2023] | RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors
 - [Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision) - A Collection of Papers and Codes for CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision
 - [Jamy-L/Handheld-Multi-Frame-Super-Resolution](https://github.com/Jamy-L/Handheld-Multi-Frame-Super-Resolution) - Handheld Multi-image Super-resolution [Wronski et al., SIGGRAPH19]. Non-official GPU-supported Python implementation.
 - [haoyuc/MaskedDenoising](https://github.com/haoyuc/MaskedDenoising) - [CVPR 2023] Masked Image Training for Generalizable Deep Image Denoising https://arxiv.org/abs/2303.13132
 - [balcilar/Color-Image-Segmentation-Using-Region-Growing-and-Region-Merging](https://github.com/balcilar/Color-Image-Segmentation-Using-Region-Growing-and-Region-Merging) - Unsupervised color image segmentation using Region Growing and Region Merging
-- [alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data](https://github.com/alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data) - Using synthetic data in combination with Deep Learning, to determine if a system can be made that will be able to recognise and classify correctly real traffic signs.
 - [mv-lab/AISP](https://github.com/mv-lab/AISP) - AI Image Signal Processing and Computational Photography. Official library for NTIRE (CVPR) and AIM (ICCV/ECCV) Challenges. You will find Learned ISPs, RAW Restoration-Upsampling-Reconstruction, Image
 - [octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color](https://github.com/octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color) - Project is an implementation of skin segmentation using OpenCV and dominant color extraction using SciKit-Learn
 - [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON for ARM.
@@ -395,7 +357,6 @@
 - [Lakshya-Kejriwal/Real-Time-Video-Stabilization](https://github.com/Lakshya-Kejriwal/Real-Time-Video-Stabilization) - real time video stabilization using Kalman Filter
 - [ElvinC/gyroflow](https://github.com/ElvinC/gyroflow) - [INACTIVE LEGACY VERSION, FIND THE PROJECT HERE: https://github.com/gyroflow/gyroflow] Video stabilization using IMU motion data from internal or external logs
 - [aiff22/PyNET-Bokeh](https://github.com/aiff22/PyNET-Bokeh) - Rendering Realistic Bokeh Images with PyNET
-- [KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN) - Image Deblurring using Generative Adversarial Networks
 - [cruxopen/openISP](https://github.com/cruxopen/openISP) - Image Signal Processor
 - [DasudaRunner/DeltaCV](https://github.com/DasudaRunner/DeltaCV) - A high performance library for image processing
 - [ufoym/recursive-bf](https://github.com/ufoym/recursive-bf) - A lightweight C++ library for recursive bilateral filtering [Yang, Qingxiong. "Recursive bilateral filtering". European Conference on Computer Vision, 2012].
@@ -434,23 +395,19 @@
 - [neosr-project/neosr](https://github.com/neosr-project/neosr) - neosr is an open-source framework for training super-resolution models.
 - [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
-- [ExplainableML/BayesCap](https://github.com/ExplainableML/BayesCap) - (ECCV 2022) BayesCap: Bayesian Identity Cap for Calibrated Uncertainty in Frozen Neural Networks
 - [Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization](https://github.com/Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization) - ”数学不难“  之  《线性代数不难》上下册，66话题完册；欢迎批评指正
 - [compphoto/Intrinsic](https://github.com/compphoto/Intrinsic) - Repo for the papers "Intrinsic Image Decomposition via Ordinal Shading" (TOG 2023) and "Colorful Diffuse Intrinsic Image Decomposition in the Wild" (TOG 2024)
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [AgaMiko/data-augmentation-review](https://github.com/AgaMiko/data-augmentation-review) - List of useful data augmentation resources. You will find here some not common techniques, libraries, links to GitHub repos, papers, and others.
 - [djosix/IconFlow](https://github.com/djosix/IconFlow) - Code for "Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization", CVPR 2022.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
-- [nhauber99/degradr](https://github.com/nhauber99/degradr) - Python library for realistically degrading images.
 - [SmirkCao/Lihang](https://github.com/SmirkCao/Lihang) - Statistical learning methods, 统计学习方法(第2版)[李航]  [笔记, 代码, notebook, 参考文献, Errata, lihang]
 - [frobertpixto/hand-drawn-shapes-dataset](https://github.com/frobertpixto/hand-drawn-shapes-dataset) - Hand-drawn Shapes (HDS) Dataset. Images like Rectangles, Ellipses and Triangles
-- [alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data](https://github.com/alexandrosstergiou/Traffic-Sign-Recognition-basd-on-Synthesised-Training-Data) - Using synthetic data in combination with Deep Learning, to determine if a system can be made that will be able to recognise and classify correctly real traffic signs.
 - [octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color](https://github.com/octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color) - Project is an implementation of skin segmentation using OpenCV and dominant color extraction using SciKit-Learn
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON for ARM.
 - [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
 - [WangQvQ/YOLOMagic](https://github.com/WangQvQ/YOLOMagic) - YOLO Magic🪄 is an extension based on Ultralytics' YOLOv5, designed to provide more powerful functionality and simpler operations for visual tasks.
-- [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
 - [NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP) - 此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
 
 ## matlab 
@@ -466,10 +423,6 @@
 - [aiff22/PyNET-Bokeh](https://github.com/aiff22/PyNET-Bokeh) - Rendering Realistic Bokeh Images with PyNET
 - [dong-x16/PortraitNet](https://github.com/dong-x16/PortraitNet) - Code for the paper "PortraitNet: Real-time portrait segmentation network for mobile device"  @ CAD&Graphics2019
 
-## natural-language-processing 
-
-- [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book) - 深度学习面试宝典（含数学、机器学习、深度学习、计算机视觉、自然语言处理和SLAM等方向）
-
 ## neural-network 
 
 - [divyanshu092/Photorealistic_Style_Transfer](https://github.com/divyanshu092/Photorealistic_Style_Transfer) - Deeper Understanding and Modifications proposed to the High-Resolution Network for Photorealistic Style Transfer
@@ -477,7 +430,6 @@
 - [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
 - [samuelyu2002/ImVisible](https://github.com/samuelyu2002/ImVisible) - ImVisible: Pedestrian Traffic Light (PTL) Dataset, Lightweight CNN (LytNet), and Mobile Application for the Visually Impaired (CAIP '19, ICCV Workshops '19)
 - [SuperbTUM/RAW-image-denoising](https://github.com/SuperbTUM/RAW-image-denoising) - Image denoising with Bayer augmentation and neural network
-- [KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN) - Image Deblurring using Generative Adversarial Networks
 - [kevinjoseph1995/Depth-from-Defocus-NN](https://github.com/kevinjoseph1995/Depth-from-Defocus-NN) - 
 
 ## nlp 
@@ -494,6 +446,7 @@
 
 ## opencv 
 
+- [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
 - [ZongXR/AI-training-contest](https://github.com/ZongXR/AI-training-contest) - 2024中国职业技能大赛人工智能训练赛项
 - [dyfcalid/CameraCalibration](https://github.com/dyfcalid/CameraCalibration) - Fisheye or Normal Camera Intrinsic and Extrinsic Calibration. Surround Camera Bird Eye View Generator.
 - [andrewdcampbell/seam-carving](https://github.com/andrewdcampbell/seam-carving) - A fast Python implementation of Seam Carving for Content-Aware Image Resizing.
@@ -501,7 +454,6 @@
 - [muziing/Traffic-Lights-Classification](https://github.com/muziing/Traffic-Lights-Classification) - HSV色彩空间下的交通灯识别
 - [octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color](https://github.com/octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color) - Project is an implementation of skin segmentation using OpenCV and dominant color extraction using SciKit-Learn
 - [BBuf/Image-processing-algorithm-Speed](https://github.com/BBuf/Image-processing-algorithm-Speed) - opencv
-- [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
 - [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
 - [BBuf/Image-processing-algorithm](https://github.com/BBuf/Image-processing-algorithm) - paper implement
 - [Lakshya-Kejriwal/Real-Time-Video-Stabilization](https://github.com/Lakshya-Kejriwal/Real-Time-Video-Stabilization) - real time video stabilization using Kalman Filter
@@ -1263,6 +1215,7 @@
 
 ## python 
 
+- [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
 - [elerac/structuredlight](https://github.com/elerac/structuredlight) - Generate and Decode structured light. Binary, Gray, XOR, Ramp, Phase-Shifting, Stripe.
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
 - [pengbo-learn/python-face-relighting](https://github.com/pengbo-learn/python-face-relighting) - A python implementation of portrait lighting transfer using a mass transport approach.
@@ -1277,15 +1230,12 @@
 - [andrewdcampbell/seam-carving](https://github.com/andrewdcampbell/seam-carving) - A fast Python implementation of Seam Carving for Content-Aware Image Resizing.
 - [OpenStitching/stitching](https://github.com/OpenStitching/stitching) - A Python package for fast and robust Image Stitching
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
-- [nhauber99/degradr](https://github.com/nhauber99/degradr) - Python library for realistically degrading images.
 - [1adrianb/face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch
 - [SmirkCao/Lihang](https://github.com/SmirkCao/Lihang) - Statistical learning methods, 统计学习方法(第2版)[李航]  [笔记, 代码, notebook, 参考文献, Errata, lihang]
 - [mikeroyal/ISP-Guide](https://github.com/mikeroyal/ISP-Guide) - Image Signal Processing (ISP) Guide. Learn all about the process of converting an image/video into digital form by performing tasks like noise reduction, filtering, auto exposure, autofocus, HDR corre
 - [chaofengc/IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) - 👁️ 🖼️ 🔥PyTorch Toolbox for Image Quality Assessment, including PSNR, SSIM, LPIPS, FID, NIQE, NRQM(Ma), MUSIQ, TOPIQ, NIMA, DBCNN, BRISQUE, PI and more...
-- [alexppppp/synthetic-dataset-object-detection](https://github.com/alexppppp/synthetic-dataset-object-detection) - How to Create Synthetic Dataset for Computer Vision (Object Detection) (Article on Medium)
 - [octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color](https://github.com/octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color) - Project is an implementation of skin segmentation using OpenCV and dominant color extraction using SciKit-Learn
 - [coderonion/cuda-beginner-course-cpp-version](https://github.com/coderonion/cuda-beginner-course-cpp-version) - bilibili视频【CUDA 12.x 并行编程入门(C++版)】配套代码
-- [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
 - [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
 - [samuelyu2002/ImVisible](https://github.com/samuelyu2002/ImVisible) - ImVisible: Pedestrian Traffic Light (PTL) Dataset, Lightweight CNN (LytNet), and Mobile Application for the Visually Impaired (CAIP '19, ICCV Workshops '19)
 - [weijie-chen/Linear-Algebra-With-Python](https://github.com/weijie-chen/Linear-Algebra-With-Python) - Lecture Notes for Linear Algebra Featuring Python. This series of lecture notes will walk you through all the must-know concepts that set the foundation of data science or advanced quantitative skills
@@ -1318,7 +1268,6 @@
 - [sonnguyen129/SANet-pytorch](https://github.com/sonnguyen129/SANet-pytorch) - Pytorch re-implementation of paper Arbitrary Style Transfer with Style-Attentional Networks
 - [kkanshul/finegan](https://github.com/kkanshul/finegan) - FineGAN: Unsupervised Hierarchical Disentanglement for Fine-grained Object Generation and Discovery
 - [wtjiang98/PSGAN](https://github.com/wtjiang98/PSGAN) - PyTorch code for "PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer" (CVPR 2020 Oral)
-- [JunlinHan/BID](https://github.com/JunlinHan/BID) - Code for Blind Image Decomposition (BID) and Blind Image Decomposition network (BIDeN). ECCV, 2022.
 - [FilippoBotti/Avoiding-Shortcuts-in-Unpaired-Image-to-Image-Translation](https://github.com/FilippoBotti/Avoiding-Shortcuts-in-Unpaired-Image-to-Image-Translation) - This repository contains the PyTorch code for our ICIAP 2021 paper “Avoiding Shortcuts in Unpaired Image-to-Image Translation”.
 - [SamPujade/image-colorization](https://github.com/SamPujade/image-colorization) - Landscape and face image colorization with Generative Adversarial Networks (GANs)
 - [hainuo-wang/XReflection](https://github.com/hainuo-wang/XReflection) - XReflection is a neat toolbox tailored for single-image reflection removal(SIRR). We offer state-of-the-art SIRR solutions for training and inference, with a high-performance data pipeline, multi-GPU/
@@ -1344,7 +1293,6 @@
 - [jiajunhe98/Landscape-StyleGAN](https://github.com/jiajunhe98/Landscape-StyleGAN) - This repository contains codes which re-implement StyleGAN in PyTorch and train StyleGAN for virtual landscape photographs.
 - [mit-han-lab/data-efficient-gans](https://github.com/mit-han-lab/data-efficient-gans) - [NeurIPS 2020] Differentiable Augmentation for Data-Efficient GAN Training
 - [taey16/pix2pixBEGAN.pytorch](https://github.com/taey16/pix2pixBEGAN.pytorch) - A pytorch implementation of pix2pix + BEGAN (Boundary Equilibrium Generative Adversarial Networks)
-- [JunlinHan/DCLGAN](https://github.com/JunlinHan/DCLGAN) - Code for Dual Contrastive Learning for Unsupervised Image-to-Image Translation, NTIRE, CVPRW 2021, oral.
 - [mahmoudnafifi/HistoGAN](https://github.com/mahmoudnafifi/HistoGAN) - Reference code for the paper HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms (CVPR 2021).
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [Ha0Tang/AttentionGAN](https://github.com/Ha0Tang/AttentionGAN) - AttentionGAN for Unpaired Image-to-Image Translation & Multi-Domain Image-to-Image Translation
@@ -1353,13 +1301,11 @@
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 - [Algolzw/daclip-uir](https://github.com/Algolzw/daclip-uir) - [ICLR 2024] Controlling Vision-Language Models for Universal Image Restoration. 5th place in the NTIRE 2024 Restore Any Image Model in the Wild Challenge.
 - [duxiangcheng/SAEN](https://github.com/duxiangcheng/SAEN) - Modeling Stroke Mask for End-to-End Text Erasing
-- [swz30/CycleISP](https://github.com/swz30/CycleISP) - [CVPR 2020--Oral] CycleISP: Real Image Restoration via Improved Data Synthesis
 - [cheind/pytorch-debayer](https://github.com/cheind/pytorch-debayer) - Convolutional PyTorch debayering / demosaicing layers
 - [chaofengc/IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) - 👁️ 🖼️ 🔥PyTorch Toolbox for Image Quality Assessment, including PSNR, SSIM, LPIPS, FID, NIQE, NRQM(Ma), MUSIQ, TOPIQ, NIMA, DBCNN, BRISQUE, PI and more...
 - [RQ-Wu/RIDCP_dehazing](https://github.com/RQ-Wu/RIDCP_dehazing) - [CVPR 2023] | RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors
 - [sczhou/CodeFormer](https://github.com/sczhou/CodeFormer) - [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
 - [Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR) - SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild. Our new online demo is also released at suppixel.ai.
-- [mhamilton723/STEGO](https://github.com/mhamilton723/STEGO) - Unsupervised Semantic Segmentation by Distilling Feature Correspondences
 - [taesungp/contrastive-unpaired-translation](https://github.com/taesungp/contrastive-unpaired-translation) - Contrastive unpaired image-to-image translation, faster and lighter training than cyclegan (ECCV 2020, in PyTorch)
 - [zllrunning/face-parsing.PyTorch](https://github.com/zllrunning/face-parsing.PyTorch) - Using modified BiSeNet for face parsing in PyTorch
 - [LIAGM/DAEFR](https://github.com/LIAGM/DAEFR) - [ICLR 2024] DAEFR: Dual Associated Encoder for Face Restoration
@@ -1395,9 +1341,7 @@
 - [Yang-Liu1082/InvDN](https://github.com/Yang-Liu1082/InvDN) - Implementation for the paper: Invertible Denoising Network: A Light Solution for Real Noise Removal (CVPR2021).
 - [arcchang1236/CA-NoiseGAN](https://github.com/arcchang1236/CA-NoiseGAN) - The official implementation of our ECCV 2020 paper "Learning Camera-Aware Noise Models".
 - [xinntao/EDVR](https://github.com/xinntao/EDVR) - Winning Solution in NTIRE19 Challenges on Video Restoration and Enhancement (CVPR19 Workshops) - Video Restoration with Enhanced Deformable Convolutional Networks. EDVR has been merged into BasicSR an
-- [swz30/MIRNet](https://github.com/swz30/MIRNet) - [ECCV 2020] Learning Enriched Features for Real Image Restoration and Enhancement. SOTA results for image denoising, super-resolution, and image enhancement.
 - [swz30/MPRNet](https://github.com/swz30/MPRNet) - [CVPR 2021] Multi-Stage Progressive Image Restoration. SOTA results for Image deblurring, deraining, and denoising.
-- [KupynOrest/DeblurGAN](https://github.com/KupynOrest/DeblurGAN) - Image Deblurring using Generative Adversarial Networks
 - [Raschka-research-group/coral-cnn](https://github.com/Raschka-research-group/coral-cnn) - Rank Consistent Ordinal Regression for Neural Networks with Application to Age Estimation
 - [ialhashim/DenseDepth](https://github.com/ialhashim/DenseDepth) - High Quality Monocular Depth Estimation via Transfer Learning
 - [richzhang/colorization-pytorch](https://github.com/richzhang/colorization-pytorch) - PyTorch reimplementation of Interactive Deep Colorization
