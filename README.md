@@ -35,27 +35,22 @@
 
 ## C 
 
+- [ANSANJAY/LinuxCoredumpValgrind](https://github.com/ANSANJAY/LinuxCoredumpValgrind) - A comprehensive guide to debugging in Linux with emphasis on core dumps and Valgrind. Dive into practical examples with source codes and documentation, aiding both beginners and professionals.
 - [NceBoy/NceAlg](https://github.com/NceBoy/NceAlg) - rv1126,rk1808,hisi3516dv300,hisi3559av100,mnn,nnie,npu,vfnet,retinaface,arcface,centernet,ttf,yolox,detect,alg. This is a cross-platform algorithm framework./跨平台异构算法推理框架
 - [immanuelsch/gegl-HDR-ColorMapper](https://github.com/immanuelsch/gegl-HDR-ColorMapper) - Algorithm for chromatic consistency during luminance re-mapping.
-- [cpuimage/LocalColorCorrection](https://github.com/cpuimage/LocalColorCorrection) - implmentation of 《Local Color Correction using Non-Linear Masking》
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [Dylanin1999/ISP_Algorithm](https://github.com/Dylanin1999/ISP_Algorithm) - 传统的图像处理相关算法的代码实现
 - [mbrossard/threadpool](https://github.com/mbrossard/threadpool) - A simple C Thread pool implementation
 - [Veinin/POSIX-threads-programming-tutorials](https://github.com/Veinin/POSIX-threads-programming-tutorials) - Summaries and notes on pthreads programming.
-- [jonhoo/pthread_pool](https://github.com/jonhoo/pthread_pool) - A simple implementation of thread pooling for C/C++ using POSIX threads
 - [sai-bi/ImageSmoothing](https://github.com/sai-bi/ImageSmoothing) - A collection of image smoothing algorithms.
 - [clibs/cmocka](https://github.com/clibs/cmocka) - An elegant unit testing framework for C with support for mock objects.
 - [LuisSR/RCD-Demosaicing](https://github.com/LuisSR/RCD-Demosaicing) - A Bayer demosaicing routine aimed to reduce pixel overshooting
 - [LibRaw/LibRaw-demosaic-pack-GPL2](https://github.com/LibRaw/LibRaw-demosaic-pack-GPL2) - Demosaic methods for LibRaw distributed under the terms of GPL2+
-- [ANSANJAY/LinuxCoredumpValgrind](https://github.com/ANSANJAY/LinuxCoredumpValgrind) - A comprehensive guide to debugging in Linux with emphasis on core dumps and Valgrind. Dive into practical examples with source codes and documentation, aiding both beginners and professionals.
 - [schoolpost/PiDNG](https://github.com/schoolpost/PiDNG) - Create Adobe DNG RAW files using Python. Works with any Bayer RAW Data including native support for Raspberry Pi cameras.
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) - 
 - [TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box) - A toolbox for deep learning model deployment using C++ YoloX | YoloV7 | YoloV8 | Gan | OCR | MobileVit | Scrfd | MobileSAM | StableDiffusion
 - [jhfmat/ISP-pipeline-hdrplus](https://github.com/jhfmat/ISP-pipeline-hdrplus) - Denoise,HDR,Isppipeline,Image-processing(图形处理),camera, Isp ,HDRplus
-- [hgpvision/darknet](https://github.com/hgpvision/darknet) - darknet深度学习框架源码分析：详细中文注释，涵盖框架原理与实现语法分析
-- [ArtyZe/yolo_quantization](https://github.com/ArtyZe/yolo_quantization) - Based of paper "Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference"
 - [centreborelli/mf2f](https://github.com/centreborelli/mf2f) - Self-supervised training for blind multi-frame video denoising
-- [tehret/blind-denoising](https://github.com/tehret/blind-denoising) - Model-Blind Video Denoising Via Frame-to-frame Training
 - [liuguoyou/HDR-Fast-Local-Laplacian](https://github.com/liuguoyou/HDR-Fast-Local-Laplacian) - HDR recovering and tonemapping using fast local laplacian approach
 - [tikroeger/OF_DIS](https://github.com/tikroeger/OF_DIS) - Fast Optical Flow using Dense Inverse Search (DIS)
 - [DanBloomberg/leptonica](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. The official github repository for Leptonica is: danbloomberg/lepto
