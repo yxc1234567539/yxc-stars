@@ -461,6 +461,7 @@
 
 ## others 
 
+- [ANSANJAY/LinuxCoredumpValgrind](https://github.com/ANSANJAY/LinuxCoredumpValgrind) - A comprehensive guide to debugging in Linux with emphasis on core dumps and Valgrind. Dive into practical examples with source codes and documentation, aiding both beginners and professionals.
 - [FlowAlign/FlowAlign](https://github.com/FlowAlign/FlowAlign) - Official repository of FlowAlign
 - [SintonZZ/Awesome-AI-ISP](https://github.com/SintonZZ/Awesome-AI-ISP) - A list of awesome AI-ISP works.
 - [VSehwag/minimal-diffusion](https://github.com/VSehwag/minimal-diffusion) - A minimal yet resourceful implementation of diffusion models (along with pretrained models + synthetic images for nine datasets)
@@ -679,7 +680,6 @@
 - [Tobyzai/EndoSRR](https://github.com/Tobyzai/EndoSRR) - Endoscopy Specular Reflection Removal
 - [sergeyk/rayleigh](https://github.com/sergeyk/rayleigh) - Search image collections by multiple color palettes or by image color similarity.
 - [xahidbuffon/FUnIE-GAN](https://github.com/xahidbuffon/FUnIE-GAN) - Fast underwater image enhancement for Improved Visual Perception. #TensorFlow #PyTorch #RAL2020
-- [cpuimage/LocalColorCorrection](https://github.com/cpuimage/LocalColorCorrection) - implmentation of 《Local Color Correction using Non-Linear Masking》
 - [FunmilayoUde/Skin-color-transferApp](https://github.com/FunmilayoUde/Skin-color-transferApp) - Source code for a skin color transfer web application
 - [PRAN20/Skin-Color-Transfer-3D](https://github.com/PRAN20/Skin-Color-Transfer-3D) - 
 - [pashango2/Image4Layer](https://github.com/pashango2/Image4Layer) - It is implemented by 'pillow' in blend mode of CSS3.
@@ -702,7 +702,6 @@
 - [dyh/unbox_yolov5_deepsort_counting](https://github.com/dyh/unbox_yolov5_deepsort_counting) - yolov5 deepsort 行人 车辆 跟踪 检测 计数
 - [mbrossard/threadpool](https://github.com/mbrossard/threadpool) - A simple C Thread pool implementation
 - [Veinin/POSIX-threads-programming-tutorials](https://github.com/Veinin/POSIX-threads-programming-tutorials) - Summaries and notes on pthreads programming.
-- [jonhoo/pthread_pool](https://github.com/jonhoo/pthread_pool) - A simple implementation of thread pooling for C/C++ using POSIX threads
 - [Maratyszcza/pthreadpool](https://github.com/Maratyszcza/pthreadpool) - Portable (POSIX/Windows/Emscripten) thread pool for C/C++
 - [JokerEyeAdas/LTM](https://github.com/JokerEyeAdas/LTM) - The local tone mapping algorithm based on histogram
 - [senlinzhan/dpool](https://github.com/senlinzhan/dpool) - 使用 C++11 实现的动态线程池
@@ -821,7 +820,6 @@
 - [cyj407/VQ-I2I](https://github.com/cyj407/VQ-I2I) - Vector Quantized Image-to-Image Translation (ECCV 2022)
 - [EndlessSora/TSIT](https://github.com/EndlessSora/TSIT) - [ECCV 2020 Spotlight] A Simple and Versatile Framework for Image-to-Image Translation
 - [HsinYingLee/DRIT](https://github.com/HsinYingLee/DRIT) - Learning diverse image-to-image translation from unpaired data
-- [ANSANJAY/LinuxCoredumpValgrind](https://github.com/ANSANJAY/LinuxCoredumpValgrind) - A comprehensive guide to debugging in Linux with emphasis on core dumps and Valgrind. Dive into practical examples with source codes and documentation, aiding both beginners and professionals.
 - [HDCVLab/EDFace-Celeb-1M](https://github.com/HDCVLab/EDFace-Celeb-1M) - 
 - [bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model](https://github.com/bitzpy/Blind-Face-Restoration-Benchmark-Datasets-and-a-Baseline-Model) - 
 - [burakunutmaz/Abstract-Art-Generator](https://github.com/burakunutmaz/Abstract-Art-Generator) - A python program that generates abstract art with variety of shapes, styles and randomization using pygame.
@@ -1034,8 +1032,6 @@
 - [yu-li/TCMonoDepth](https://github.com/yu-li/TCMonoDepth) - Enforcing Temporal Consistency in Video Depth Estimation, ICCV-W 2021.
 - [Zhengtq/ncnn_breakdown](https://github.com/Zhengtq/ncnn_breakdown) - A breakdown of NCNN
 - [BUPTLdy/Caffe_Code_Analysis](https://github.com/BUPTLdy/Caffe_Code_Analysis) - Caffe_Code_Analysis
-- [hgpvision/darknet](https://github.com/hgpvision/darknet) - darknet深度学习框架源码分析：详细中文注释，涵盖框架原理与实现语法分析
-- [ArtyZe/yolo_quantization](https://github.com/ArtyZe/yolo_quantization) - Based of paper "Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference"
 - [holy44162/surround-view-system-introduction-imported](https://github.com/holy44162/surround-view-system-introduction-imported) - 
 - [neozhaoliang/surround-view-system-introduction](https://github.com/neozhaoliang/surround-view-system-introduction) - A full Python implementation for real car surround view system
 - [aaaaangel/RRDNet](https://github.com/aaaaangel/RRDNet) - Implementation of "Zero-Shot Restoration of Underexposed Images via Robust Retinex Decomposition, International Conference on Multimedia and Expo, 2020"
@@ -1098,7 +1094,6 @@
 - [pminhtam/DeepBurstDenoising](https://github.com/pminhtam/DeepBurstDenoising) - Pytorch implement " Deep Burst Denoising  "
 - [zsyOAOA/DANet](https://github.com/zsyOAOA/DANet) - Dual Adversarial Network: Toward Real-world Noise Removal and Noise Generation (ECCV 2020) (Pytorch)
 - [pminhtam/NBNet](https://github.com/pminhtam/NBNet) - Pytorch UNOFFICIAL implement "NBNet: Noise Basis Learning for Image Denoising with Subspace Projection"
-- [tehret/blind-denoising](https://github.com/tehret/blind-denoising) - Model-Blind Video Denoising Via Frame-to-frame Training
 - [XHWXD/DBSN](https://github.com/XHWXD/DBSN) - Unpaired Learning of Deep Image Denoising
 - [happycaoyue/Pseudo-ISP](https://github.com/happycaoyue/Pseudo-ISP) - 
 - [anchen507/MMNet](https://github.com/anchen507/MMNet) - video denoising
