@@ -61,7 +61,6 @@
 - [harry7557558/Graphics](https://github.com/harry7557558/Graphics) - Source files for my experiments not limited to computer graphics.
 - [chenjunkai2018/Photoshop_algorithm](https://github.com/chenjunkai2018/Photoshop_algorithm) - the Photoshop algorithm
 - [yulinghan/ImageQualityEnhancement](https://github.com/yulinghan/ImageQualityEnhancement) - 
-- [pcb9382/PlateRecognition](https://github.com/pcb9382/PlateRecognition) - 高性能 高精度 大陆车牌、港澳车牌、台湾车牌 韩国车牌(South Korea LPR)识别  代码开源，方便移植嵌入式和安卓端使用，支持12种车牌识别，支持港澳车牌识别，支持大角度车牌识别，准确率高达99%+
 - [Hjincheng/auto-exposure](https://github.com/Hjincheng/auto-exposure) - Automatic exposure algorithm based on frame difference method
 - [intel/libxcam](https://github.com/intel/libxcam) - libXCam is a project for extended camera(not limited in camera) features and focus on image quality improvement and video analysis. There are lots features supported in image pre-processing, image pos
 - [littlebearsama/CalibrationTools](https://github.com/littlebearsama/CalibrationTools) - 1.相机模型标定（鱼眼相机，普通相机）；2.立体相机标定与极线矫正；3.RGB(/灰度)相机与深度相机（tof）标定，数据融合；4.外参标定
@@ -74,9 +73,7 @@
 - [ishaanmht/aer_auto_exposure_gradient](https://github.com/ishaanmht/aer_auto_exposure_gradient) - 
 - [np-csu/AlphaMatting](https://github.com/np-csu/AlphaMatting) - An OpenCV2 version for image matting algorithm described by papre - Shared Sample for Real-Time Alpha Matting
 - [flyeyesport/flicker_remover](https://github.com/flyeyesport/flicker_remover) - Source code for "Realtime flicker removal for fast video streaming" paper.
-- [Fanghc95/Plate-Landmarks-detection](https://github.com/Fanghc95/Plate-Landmarks-detection) - 使用retinaface完成车牌关键点检测，并在tensorRT下部署
 - [XiaZixun/Edit_Propagation_via_Color_Palettes](https://github.com/XiaZixun/Edit_Propagation_via_Color_Palettes) - 
-- [cucapra/approx-vision](https://github.com/cucapra/approx-vision) - Designing image processing hardware and software for computer vision
 - [dengyueyun666/Image-Contrast-Enhancement](https://github.com/dengyueyun666/Image-Contrast-Enhancement) - C++ implementation of several image contrast enhancement techniques.
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
 - [JokerEyeAdas/HDR-ISP](https://github.com/JokerEyeAdas/HDR-ISP) - An ISP Pipeline For  HDR CMOS Image Sensor
