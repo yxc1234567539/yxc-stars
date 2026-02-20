@@ -599,7 +599,6 @@
 - [wd1511/PDNLA-Net](https://github.com/wd1511/PDNLA-Net) - Unsupervised Deep Exemplar Colorization via Pyramid Dual Non-local Attention (TIP 2023)
 - [ErwannMillon/Color-diffusion](https://github.com/ErwannMillon/Color-diffusion) - A diffusion model to colorize black and white images
 - [Lhyejin/DG-Colorization](https://github.com/Lhyejin/DG-Colorization) - The official PyTorch implementation of "Bridging the Domain Gap towards Generalization in Automatic Colorization", [ECCV 2022].
-- [pcb9382/PlateRecognition](https://github.com/pcb9382/PlateRecognition) - 高性能 高精度 大陆车牌、港澳车牌、台湾车牌 韩国车牌(South Korea LPR)识别  代码开源，方便移植嵌入式和安卓端使用，支持12种车牌识别，支持港澳车牌识别，支持大角度车牌识别，准确率高达99%+
 - [jixiaozhong/ColorFormer](https://github.com/jixiaozhong/ColorFormer) - 
 - [ioannislivieris/Grad_CAM_Siamese](https://github.com/ioannislivieris/Grad_CAM_Siamese) - 
 - [we0091234/crnn_plate_recognition](https://github.com/we0091234/crnn_plate_recognition) - crnn chinese_plate_recognition
@@ -797,7 +796,6 @@
 - [cyclomon/UNSB](https://github.com/cyclomon/UNSB) - Official Repository of "Unpaired Image-to-Image Translation via Neural Schrödinger Bridge" (ICLR 2024)
 - [bes-dev/MobileStyleGAN.pytorch](https://github.com/bes-dev/MobileStyleGAN.pytorch) - An official implementation of MobileStyleGAN in PyTorch
 - [AIRI-Institute/HairFastGAN](https://github.com/AIRI-Institute/HairFastGAN) - [NeurIPS 2024] The official implementation of HairFastGAN. A framework for virtual hairstyle fitting.
-- [Fanghc95/Plate-Landmarks-detection](https://github.com/Fanghc95/Plate-Landmarks-detection) - 使用retinaface完成车牌关键点检测，并在tensorRT下部署
 - [qzpzd/license-plate-detect-recoginition](https://github.com/qzpzd/license-plate-detect-recoginition) - 车牌定位与关键点检测，以及车牌号码的识别
 - [XiaZixun/Edit_Propagation_via_Color_Palettes](https://github.com/XiaZixun/Edit_Propagation_via_Color_Palettes) - 
 - [skrmanne/3DLUT_sRGB_WB](https://github.com/skrmanne/3DLUT_sRGB_WB) - 3D LUTs for Real Time sRGB White-Balance Correction
@@ -871,7 +869,6 @@
 - [gosha20777/rawformer](https://github.com/gosha20777/rawformer) - Unpaired Raw-to-Raw Translation for Learnable Camera ISPs
 - [Stephen0808/ICELUT](https://github.com/Stephen0808/ICELUT) - [ECCV 2024] Taming Lookup Tables for Efficient Image Retouching
 - [liujikun/Densely-Self-guided-Wavelet-Network-for-Image-Denoising](https://github.com/liujikun/Densely-Self-guided-Wavelet-Network-for-Image-Denoising) - A  network for image denoising （A solution for NTIRE 2020）
-- [cucapra/approx-vision](https://github.com/cucapra/approx-vision) - Designing image processing hardware and software for computer vision
 - [ZYiJie/Simple-CLIP](https://github.com/ZYiJie/Simple-CLIP) - 基于开源预训练模型来实现一个简单的CLIP模型
 - [alexhe101/FourierISP](https://github.com/alexhe101/FourierISP) - Official implementation of AAAI-2024 paper "Enhancing RAW-to-sRGB with Decoupled Style Structure in Fourier Domain"
 - [TinyBeauty/TinyBeauty](https://github.com/TinyBeauty/TinyBeauty) - 
