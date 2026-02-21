@@ -13,10 +13,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
-- [Java](#java)
-- [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Lua](#lua)
 - [MATLAB](#matlab)
 - [Metal](#metal)
 - [OCaml](#ocaml)
@@ -81,44 +78,29 @@
 - [BBuf/Image-processing-algorithm-Speed](https://github.com/BBuf/Image-processing-algorithm-Speed) - opencv
 - [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON for ARM.
 - [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C++11
-- [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
-- [huangmingchuan/Cpp_Primer_Answers](https://github.com/huangmingchuan/Cpp_Primer_Answers) - 《C++ Primer》第五版中文版习题答案
 - [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
-- [Erkaman/vulkan_minimal_compute](https://github.com/Erkaman/vulkan_minimal_compute) - Minimal Example of Using Vulkan for Compute Operations. Only ~400LOC.
 - [Ldpe2G/ArmNeonOptimization](https://github.com/Ldpe2G/ArmNeonOptimization) - Arm neon optimization practice
 - [zchrissirhcz/neon_sim](https://github.com/zchrissirhcz/neon_sim) - Implement ARM NEON intrinsics in C++
 - [AngelMonica126/GraphicAlgorithm](https://github.com/AngelMonica126/GraphicAlgorithm) - :octopus: :octopus:图形学论文实现
 - [ethan-li-coding/StereoV3DCode](https://github.com/ethan-li-coding/StereoV3DCode) - 《立体视觉入门指南》 代码， c++ code for StereoV3D course
 - [me115/design_patterns](https://github.com/me115/design_patterns) - 图说设计模式
-- [joyDeng/Yangtze_AutoImageStitch](https://github.com/joyDeng/Yangtze_AutoImageStitch) - Panoramic image stitching
-- [BoyPao/ImageSignalProcessing-ISP](https://github.com/BoyPao/ImageSignalProcessing-ISP) - Implementation of ISP
 - [kosme/fix_fft](https://github.com/kosme/fix_fft) - Fix_fft library
 - [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
 - [yossato/virtualGimbal](https://github.com/yossato/virtualGimbal) - virtualGimbal is an electronic stabilize device for videos that were taken by hand held camera. (I.e. DSLR)
 - [yossato/virtualgimbal_ros](https://github.com/yossato/virtualgimbal_ros) - Video stabilization using IMU information. This package stabilizes a video taken with a camera on mobile robots.
 - [ryanfb/torch-warp](https://github.com/ryanfb/torch-warp) - Fully automatic optical flow based image morphing implemented in Torch
-- [Zhengtq/ncnn_breakdown](https://github.com/Zhengtq/ncnn_breakdown) - A breakdown of NCNN
-- [BUPTLdy/Caffe_Code_Analysis](https://github.com/BUPTLdy/Caffe_Code_Analysis) - Caffe_Code_Analysis
 - [BBuf/Image-processing-algorithm](https://github.com/BBuf/Image-processing-algorithm) - paper implement
-- [binzi56/AlgorithmicPractice](https://github.com/binzi56/AlgorithmicPractice) - 关于LeetCode算法的练习(主要包括剑指Offer题解, 算法概念, 高频题型几个部分)
-- [kasumi494/opencv_lucas-kanade](https://github.com/kasumi494/opencv_lucas-kanade) - Pyramidal Implementation of the Lucas Kanade Feature Tracker
 - [nejcgalof/Optical-Flow-using-Dense-Inverse-Search](https://github.com/nejcgalof/Optical-Flow-using-Dense-Inverse-Search) - 
 - [yu-li/FGI](https://github.com/yu-li/FGI) - Code of 'FGI: Fast Guided Global Interpolation for Depth and Motion' (ECCV 2016 spotlight)
-- [Lakshya-Kejriwal/Real-Time-Video-Stabilization](https://github.com/Lakshya-Kejriwal/Real-Time-Video-Stabilization) - real time video stabilization using Kalman Filter
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
 - [Erfan-Ahmadi/BokehDepthOfField](https://github.com/Erfan-Ahmadi/BokehDepthOfField) - Implementing Different Algorithms to mimic Bokeh Depth Of Field: A Physical Camera Effect created due to Focal Length, Aperture size, shape
 - [aditya9211/Tellmate](https://github.com/aditya9211/Tellmate) - Screen Flickering Detection
-- [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2) - edition 2 of the slambook
 - [chenghegao4556/megadepth](https://github.com/chenghegao4556/megadepth) - 
 - [sahmad98/Distance_measurement_using_single_camera](https://github.com/sahmad98/Distance_measurement_using_single_camera) - Distance Measurement system using single camera
 - [ethan-li-coding/SemiGlobalMatching](https://github.com/ethan-li-coding/SemiGlobalMatching) - SGM，立体匹配StereoMatching最经典应用最广泛算法，4000+引用，兼顾效率和效果。完整实现，代码规范，注释清晰，博客教学！
-- [CattleProdigy/image-blur-map](https://github.com/CattleProdigy/image-blur-map) - A reproduction of the results of 'Estimating Spatially Varying Defocus Blur From A Single Image' by Zhu et. al.
-- [davemers0160/Camera_Code](https://github.com/davemers0160/Camera_Code) - 
 - [davemers0160/dfd_gc](https://github.com/davemers0160/dfd_gc) - Depth from Defocus using Graph Cuts
 - [iSarmad/Depth-From-Defocus-Matlab](https://github.com/iSarmad/Depth-From-Defocus-Matlab) - This is a Matlab implementation of Depth from Defocus using your mobile phone. In addition I use a number of techniques such as graph cuts and matting laplacian to improve the results
 - [google/bgu](https://github.com/google/bgu) - 
-- [mbuckler/ReversiblePipeline](https://github.com/mbuckler/ReversiblePipeline) - This is an implementation of a forward and reverse computational photography pipeline
-- [DasudaRunner/DeltaCV](https://github.com/DasudaRunner/DeltaCV) - A high performance library for image processing
 - [ufoym/recursive-bf](https://github.com/ufoym/recursive-bf) - A lightweight C++ library for recursive bilateral filtering [Yang, Qingxiong. "Recursive bilateral filtering". European Conference on Computer Vision, 2012].
 - [CarVac/librtprocess](https://github.com/CarVac/librtprocess) - A project to make RawTherapee's processing algorithms more readily available.
 - [timothybrooks/hdr-plus](https://github.com/timothybrooks/hdr-plus) - HDR+ Implementation
@@ -139,23 +121,12 @@
 
 ## HTML 
 
-- [taey16/pix2pixBEGAN.pytorch](https://github.com/taey16/pix2pixBEGAN.pytorch) - A pytorch implementation of pix2pix + BEGAN (Boundary Equilibrium Generative Adversarial Networks)
 - [jinyeying/night-enhancement](https://github.com/jinyeying/night-enhancement) - [ECCV2022] "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",  https://arxiv.org/abs/2207.10564
 - [Krasjet/quaternion](https://github.com/Krasjet/quaternion) - A brief introduction to the quaternions and its applications in 3D geometry.
-- [shliang0603/Awesome-DeepLearning-500FAQ](https://github.com/shliang0603/Awesome-DeepLearning-500FAQ) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。声明：所有内容来自（仅供学习）：https://github.com/scutan90/DeepLearning-500-questions
 
 ## Haskell 
 
 - [damianfral/colortransfer](https://github.com/damianfral/colortransfer) - A small tool to try to transfer colors between images.
-
-## Java 
-
-- [CainKernel/CainCamera](https://github.com/CainKernel/CainCamera) - CainCamera is an Android Project to learn about development of beauty camera, image and short video
-- [binary-sky/ExtremeLowLight](https://github.com/binary-sky/ExtremeLowLight) - Code&Dataset : Learning an Adaptive Model for Extreme Low-light Raw Image Processing
-
-## JavaScript 
-
-- [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
 
 ## Jupyter Notebook 
 
@@ -174,8 +145,6 @@
 - [Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization](https://github.com/Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization) - ”数学不难“  之  《线性代数不难》上下册，66话题完册；欢迎批评指正
 - [divyanshu092/Photorealistic_Style_Transfer](https://github.com/divyanshu092/Photorealistic_Style_Transfer) - Deeper Understanding and Modifications proposed to the High-Resolution Network for Photorealistic Style Transfer
 - [Tobyzai/EndoSRR](https://github.com/Tobyzai/EndoSRR) - Endoscopy Specular Reflection Removal
-- [FunmilayoUde/Skin-color-transferApp](https://github.com/FunmilayoUde/Skin-color-transferApp) - Source code for a skin color transfer web application
-- [PRAN20/Skin-Color-Transfer-3D](https://github.com/PRAN20/Skin-Color-Transfer-3D) - 
 - [pashango2/Image4Layer](https://github.com/pashango2/Image4Layer) - It is implemented by 'pillow' in blend mode of CSS3.
 - [gdenes355/flicker_metric_ted](https://github.com/gdenes355/flicker_metric_ted) - Flicker metric reference implementation for the under-review paper "Estimates of Temporal Edge Detection Filters in Human Vision"
 - [mzhao98/laplacian_blend](https://github.com/mzhao98/laplacian_blend) - Tutorial on Laplacian Image Blending
@@ -186,56 +155,28 @@
 - [advimman/HiDT](https://github.com/advimman/HiDT) - Official repository for the paper "High-Resolution Daytime Translation Without Domain Labels" (CVPR2020, Oral)
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
 - [gunahn/StyleGAN2-ADA-pytorch-for-gray-images](https://github.com/gunahn/StyleGAN2-ADA-pytorch-for-gray-images) - This is my code for StlyeGAN2-ADA-PyTorch for gray images.
-- [jiajunhe98/Landscape-StyleGAN](https://github.com/jiajunhe98/Landscape-StyleGAN) - This repository contains codes which re-implement StyleGAN in PyTorch and train StyleGAN for virtual landscape photographs.
-- [aydao/stylegan2-surgery](https://github.com/aydao/stylegan2-surgery) - StyleGAN2 fork with scripts and convenience modifications for creative media synthesis
-- [happy-jihye/Cartoon-StyleGAN](https://github.com/happy-jihye/Cartoon-StyleGAN) - Fine-tuning StyleGAN2 for Cartoon Face Generation
 - [ericsujw/InstColorization](https://github.com/ericsujw/InstColorization) - 
 - [eladrich/pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel) - Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation" (CVPR 2021) presenting the pixel2style2pixel (pSp) framework
 - [masterAllen/LearnOpenCV](https://github.com/masterAllen/LearnOpenCV) - Learning OpenCV By Official Documents
-- [sagieppel/fine-tune-train_segment_anything_2_in_60_lines_of_code](https://github.com/sagieppel/fine-tune-train_segment_anything_2_in_60_lines_of_code) - The repository provides code for  training/fine tune the Meta Segment Anything Model 2 (SAM 2)
 - [mahmoudnafifi/HistoGAN](https://github.com/mahmoudnafifi/HistoGAN) - Reference code for the paper HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms (CVPR 2021).
-- [omertov/encoder4editing](https://github.com/omertov/encoder4editing) - Official implementation of "Designing an Encoder for StyleGAN Image Manipulation"  (SIGGRAPH 2021) https://arxiv.org/abs/2102.02766
-- [hamzapehlivan/StyleRes](https://github.com/hamzapehlivan/StyleRes) - 
 - [ttchengab/zest_code](https://github.com/ttchengab/zest_code) - [ECCV-2024] This is the official implementation of ZeST.
 - [cyj407/VQ-I2I](https://github.com/cyj407/VQ-I2I) - Vector Quantized Image-to-Image Translation (ECCV 2022)
 - [GarrickZ2/Image-Denoising](https://github.com/GarrickZ2/Image-Denoising) - 
-- [CyberAgentAILab/derendering-text](https://github.com/CyberAgentAILab/derendering-text) - 
 - [ZYiJie/Simple-CLIP](https://github.com/ZYiJie/Simple-CLIP) - 基于开源预训练模型来实现一个简单的CLIP模型
-- [vojirt/PixOOD](https://github.com/vojirt/PixOOD) - Official implementation of the "PixOOD: Pixel-Level Out-of-Distribution Detection"
 - [gosha20777/few-shot-isp-domain-adaptation](https://github.com/gosha20777/few-shot-isp-domain-adaptation) - A new method for few-shot domain adaptation of RAW-to-RGB neural image signal processing (ISP) pipelines.
 - [frobertpixto/hand-drawn-shapes-dataset](https://github.com/frobertpixto/hand-drawn-shapes-dataset) - Hand-drawn Shapes (HDS) Dataset. Images like Rectangles, Ellipses and Triangles
 - [mv-lab/AISP](https://github.com/mv-lab/AISP) - AI Image Signal Processing and Computational Photography. Official library for NTIRE (CVPR) and AIM (ICCV/ECCV) Challenges. You will find Learned ISPs, RAW Restoration-Upsampling-Reconstruction, Image
-- [adobe-research/beacon-aug](https://github.com/adobe-research/beacon-aug) - Cross-library augmentation toolbox supporting 300 operators over 8 libraries + AI transforms
-- [muziing/Traffic-Lights-Classification](https://github.com/muziing/Traffic-Lights-Classification) - HSV色彩空间下的交通灯识别
-- [octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color](https://github.com/octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color) - Project is an implementation of skin segmentation using OpenCV and dominant color extraction using SciKit-Learn
-- [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
-- [jizhishutong/YOLOU](https://github.com/jizhishutong/YOLOU) - YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6-v1、YOLOv6-v2、YOLOv7、YOLOX、YOLOX-Lite、PP-YOLOE、PP-PicoDet-Plus、YOLO-Fastest v2、FastestDet、YOLOv5-SPD、TensorRT、NCNN、Tengine、OpenVINO
 - [ykdai/Flare7K](https://github.com/ykdai/Flare7K) - Official Implementation of "Flare7K: A Phenomenological Nighttime Flare Removal Dataset"
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [YCL92/LowlightENR](https://github.com/YCL92/LowlightENR) - Progressive Joint Low-light Enhancement and Noise Removal for Raw Images
-- [NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP) - 此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
-- [coldlarry/YOLOv3-complete-pruning](https://github.com/coldlarry/YOLOv3-complete-pruning) - 提供对YOLOv3及Tiny的多种剪枝版本，以适应不同的需求。
-- [yangxy/GPEN](https://github.com/yangxy/GPEN) - 
-- [shawshany/traffic_light_classified](https://github.com/shawshany/traffic_light_classified) - Traffic light classify
 - [weijie-chen/Linear-Algebra-With-Python](https://github.com/weijie-chen/Linear-Algebra-With-Python) - Lecture Notes for Linear Algebra Featuring Python. This series of lecture notes will walk you through all the must-know concepts that set the foundation of data science or advanced quantitative skills
 - [soumik12345/Zero-DCE](https://github.com/soumik12345/Zero-DCE) - Pytorch implementation of Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement
-- [hoainamken/Burst-Denoising-of-Dark-Images](https://github.com/hoainamken/Burst-Denoising-of-Dark-Images) - 
-- [vijishmadhavan/Light-Up](https://github.com/vijishmadhavan/Light-Up) - Low-Light Image Enhancement
 - [zzh-tech/RSCD](https://github.com/zzh-tech/RSCD) - [CVPR2021] Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes
-- [rimchang/RealBlur](https://github.com/rimchang/RealBlur) - Repository for Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms
 - [spatialaudio/digital-signal-processing-lecture](https://github.com/spatialaudio/digital-signal-processing-lecture) - Digital Signal Processing - Theory and Computational Examples
 - [unpingco/Python-for-Signal-Processing](https://github.com/unpingco/Python-for-Signal-Processing) - Notebooks for "Python for Signal Processing" book
-- [ialhashim/DenseDepth](https://github.com/ialhashim/DenseDepth) - High Quality Monocular Depth Estimation via Transfer Learning
 - [sedara0218/camera_autofocus](https://github.com/sedara0218/camera_autofocus) - A machine learning approach for defining contrast for autofocus.
 - [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
-- [google/portrait-shadow-manipulation](https://github.com/google/portrait-shadow-manipulation) - 
-- [dong-x16/PortraitNet](https://github.com/dong-x16/PortraitNet) - Code for the paper "PortraitNet: Real-time portrait segmentation network for mobile device"  @ CAD&Graphics2019
-- [12dmodel/camera_sim](https://github.com/12dmodel/camera_sim) - 
 - [meisamrf/ivhc-estimator](https://github.com/meisamrf/ivhc-estimator) - Fast image noise estimation (Estimation of Gaussian, signal-dependent, and processed noise in Image and Video Signals)
-
-## Lua 
-
-- [SeungjunNah/DeepDeblur_release](https://github.com/SeungjunNah/DeepDeblur_release) - Deep Multi-scale CNN for Dynamic Scene Deblurring
 
 ## MATLAB 
 
