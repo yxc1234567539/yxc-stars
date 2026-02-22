@@ -19,7 +19,6 @@
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
-- [Processing](#processing)
 - [Python](#python)
 - [SWIG](#swig)
 - [Shell](#shell)
@@ -187,7 +186,6 @@
 - [bcmi/Image-Harmonization-Dataset-iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4) - [CVPR 2020] The first large-scale public benchmark dataset for image harmonization. The code used in our paper "DoveNet: Deep Image Harmonization via Domain Verification", CVPR2020. Useful for image h
 - [mahmoudnafifi/SIIE](https://github.com/mahmoudnafifi/SIIE) - Sensor-Independent Illumination Estimation for DNN Models (BMVC 2019)
 - [LZ-CH/Exposure_Correction-pytorch](https://github.com/LZ-CH/Exposure_Correction-pytorch) - CVPR2021 Learning Multi-Scale Photo Exposure Correction论文的非官方pytorch代码
-- [mss3331/AGCWD](https://github.com/mss3331/AGCWD) - Efficient Contrast Enhancement Using Adaptive Gamma Correction With Weighting Distribution
 - [balcilar/Color-Image-Segmentation-Using-Region-Growing-and-Region-Merging](https://github.com/balcilar/Color-Image-Segmentation-Using-Region-Growing-and-Region-Merging) - Unsupervised color image segmentation using Region Growing and Region Merging
 - [xiahaa/RS_IEKF](https://github.com/xiahaa/RS_IEKF) - Parameter estimation using IEKF for RS camera
 - [remicongee/Fourier-Burst-Accumulation](https://github.com/remicongee/Fourier-Burst-Accumulation) - Implemetation of "Removing Camera Shake via Weighted Fourier Burst Accumulation".
@@ -197,8 +195,6 @@
 - [bastamon/sound_signal_process-matlab-](https://github.com/bastamon/sound_signal_process-matlab-) - 语音信号处理实验教程（MATLAB源代码）
 - [codeslake/SYNDOF](https://github.com/codeslake/SYNDOF) - The official matlab implementation of SYNDOF generation used in the paper, 'Deep Defocus Map Estimation using Domain Adaptation', CVPR 2019
 - [roserustowicz/psf-estimation](https://github.com/roserustowicz/psf-estimation) - PSF Estimation in Matlab, from Mosleh Blur Estimation paper
-- [zhengshuiqin/Wavefront-Detection-Tutorial](https://github.com/zhengshuiqin/Wavefront-Detection-Tutorial) - Matlab simulation codes for some typical wavefront detection techniques
-- [fmannan/PSFEstimation](https://github.com/fmannan/PSFEstimation) - Point Spread Function Estimation from Images
 - [kevinjoseph1995/Depth-from-Defocus-NN](https://github.com/kevinjoseph1995/Depth-from-Defocus-NN) - 
 - [srdjankrstic/defocus](https://github.com/srdjankrstic/defocus) - Depth from defocus
 - [vllab/fast_defocus_map](https://github.com/vllab/fast_defocus_map) - Fast Defocus Map Estimation
@@ -230,6 +226,7 @@
 
 ## Others 
 
+- [ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 - [SintonZZ/Awesome-AI-ISP](https://github.com/SintonZZ/Awesome-AI-ISP) - A list of awesome AI-ISP works.
 - [XJTU-LHF/Awesome-Face-Restoration](https://github.com/XJTU-LHF/Awesome-Face-Restoration) - 
 - [megvii-research/megvii-tsinghua-dl-course](https://github.com/megvii-research/megvii-tsinghua-dl-course) - Slides with modifications for a course at Tsinghua University.
@@ -250,9 +247,7 @@
 - [subeeshvasu/Awesome-ImageHarmonization](https://github.com/subeeshvasu/Awesome-ImageHarmonization) - 
 - [ChunmingHe/awesome-diffusion-models-in-low-level-vision](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) - A Repository for Diffusion-Model-related Papers in Low-level Vision
 - [ofeeler/LPR](https://github.com/ofeeler/LPR) - pku lpr dataset
-- [AgaMiko/data-augmentation-review](https://github.com/AgaMiko/data-augmentation-review) - List of useful data augmentation resources. You will find here some not common techniques, libraries, links to GitHub repos, papers, and others.
 - [JianzeLi-114/FluxSR](https://github.com/JianzeLi-114/FluxSR) - 
-- [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
 - [yeungchenwa/Recommendations-Diffusion-Text-Image](https://github.com/yeungchenwa/Recommendations-Diffusion-Text-Image) - A paper collection of recent diffusion models for text-image generation tasks, e,g., visual text generation, font generation, text removal, text image super resolution, text editing, handwritten gener
 - [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 - [starkfan007/awesome-ISP](https://github.com/starkfan007/awesome-ISP) - A curated list of awesome ISP frameworks, papers, libraries, resources, and shiny things.
@@ -260,36 +255,21 @@
 - [HDCVLab/EDFace-Celeb-1M](https://github.com/HDCVLab/EDFace-Celeb-1M) - 
 - [happycaoyue/LLD](https://github.com/happycaoyue/LLD) - 
 - [24wenjie-li/Awesome-Face-Restoration](https://github.com/24wenjie-li/Awesome-Face-Restoration) - [ACM CSUR 2025] A comprehensive summary of deep face restoration methods.
-- [ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 - [lcybuzz/Low-Level-Vision-Paper-Record](https://github.com/lcybuzz/Low-Level-Vision-Paper-Record) - 记录近期的 1) 图像/视频的超分增强等low level vision任务; 2) 图像生成 等任务相关论文, 主要为18年以后的DL based方法.
-- [ZhaomingKong/Denoising-Comparison](https://github.com/ZhaomingKong/Denoising-Comparison) - 
 - [Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision) - A Collection of Papers and Codes for CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision
 - [MarkMoHR/Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) - :books: A collection of Deep Learning based Image Colorization and Video Colorization papers.
 - [youngyangyang04/TechCPP](https://github.com/youngyangyang04/TechCPP) - 【C++面试&C++学习指南】 这里整理了C++后端研发工程师面试和工作必备的知识点 。
 - [BBuf/how-to-learn-deep-learning-framework](https://github.com/BBuf/how-to-learn-deep-learning-framework) - how to learn PyTorch and OneFlow
 - [lynnboy/CppCoreGuidelines-zh-CN](https://github.com/lynnboy/CppCoreGuidelines-zh-CN) - Translation of C++ Core Guidelines [https://github.com/isocpp/CppCoreGuidelines] into Simplified Chinese.
 - [weaiken/ebook](https://github.com/weaiken/ebook) - classic books of computer science!
-- [DarrenPan/Awesome-ICCV2023-Low-Level-Vision](https://github.com/DarrenPan/Awesome-ICCV2023-Low-Level-Vision) - A Collection of Papers and Codes in ICCV2023/2021 about low level vision
 - [DAN-AND-DNA/learn-gdb-by-example-for-c](https://github.com/DAN-AND-DNA/learn-gdb-by-example-for-c) - learn gdb by example | gdb 教程 例子
-- [wyhuai/RND](https://github.com/wyhuai/RND) - [AAAI 2023 Oral] GAN Prior based Null-Space Learning for Consistent Super-Resolution
-- [PPshrimpGo/AIinterview](https://github.com/PPshrimpGo/AIinterview) - 算法工程师面试题整理
-- [code-wd/AI_offer](https://github.com/code-wd/AI_offer) - 这个项目主要用来总结算法工程师面试中常见的问题
-- [GYee/CV_interviews_Q-A](https://github.com/GYee/CV_interviews_Q-A) - CV算法岗知识点及面试问答汇总，主要分为计算机视觉、机器学习、图像处理和 C++基础四大块，一起努力向offers发起冲击！
 - [lucasjinreal/AI-Infer-Engine-From-Zero](https://github.com/lucasjinreal/AI-Infer-Engine-From-Zero) - 关于自建AI推理引擎的手册，从0开始你需要知道的所有事情
-- [jmluu/Awesome-Efficient-Training](https://github.com/jmluu/Awesome-Efficient-Training) - A collection of research papers on efficient training of DNNs
 - [alex-golts/Video-Stabilization](https://github.com/alex-golts/Video-Stabilization) - Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C++》- 完成翻译
-- [liuguoyou/EffectiveModernCppChinese](https://github.com/liuguoyou/EffectiveModernCppChinese) - 《Effective Modern C++》翻译 - 已完成
-- [cao-cong/SMID-pytorch](https://github.com/cao-cong/SMID-pytorch) - Unofficial pytorch code for Seeing-Motion in the Dark.
 - [elejke/awesome-defocus-detection](https://github.com/elejke/awesome-defocus-detection) - A curated list of defocus detection and image quality assessment papers and codes
 - [antonio490/Autofocus](https://github.com/antonio490/Autofocus) - Implementation of different autofocus functions using python. The main goal is to obtain efficiently the maximal contrast between pixels
-- [scott89/awesome-depth](https://github.com/scott89/awesome-depth) - A curated list of publication for depth estimation
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
 - [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn) - C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
-
-## Processing 
-
-- [Jpvmello/traffic-light-detection-synthetic-context](https://github.com/Jpvmello/traffic-light-detection-synthetic-context) - 
 
 ## Python 
 
