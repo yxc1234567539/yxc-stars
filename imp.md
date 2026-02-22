@@ -1,0 +1,4 @@
+- [ohayonguy/PMRF](https://github.com/ohayonguy/PMRF) - [ICLR 2025] Official implementation of Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration 人脸 新技术
+- [hanweikung/face_anon_simple](https://github.com/hanweikung/face_anon_simple) - [WACV 2025] Official implementation of "Face Anonymization Made Simple" 换脸 2025
+- [zhengchen1999/QuantDemoire](https://github.com/zhengchen1999/QuantDemoire) - PyTorch code for our paper "QuantDemoire: Quantization with Outlier Aware for Image Demoiréing" 去摩尔 量化
+- [JianzeLi-114/FluxSR](https://github.com/JianzeLi-114/FluxSR) - 
