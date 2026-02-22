@@ -13,16 +13,12 @@
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
-- [Java](#java)
-- [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Lua](#lua)
 - [MATLAB](#matlab)
 - [Metal](#metal)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
-- [Processing](#processing)
 - [Python](#python)
 - [SWIG](#swig)
 - [Shell](#shell)
@@ -35,27 +31,22 @@
 
 ## C 
 
+- [ANSANJAY/LinuxCoredumpValgrind](https://github.com/ANSANJAY/LinuxCoredumpValgrind) - A comprehensive guide to debugging in Linux with emphasis on core dumps and Valgrind. Dive into practical examples with source codes and documentation, aiding both beginners and professionals.
 - [NceBoy/NceAlg](https://github.com/NceBoy/NceAlg) - rv1126,rk1808,hisi3516dv300,hisi3559av100,mnn,nnie,npu,vfnet,retinaface,arcface,centernet,ttf,yolox,detect,alg. This is a cross-platform algorithm framework./跨平台异构算法推理框架
 - [immanuelsch/gegl-HDR-ColorMapper](https://github.com/immanuelsch/gegl-HDR-ColorMapper) - Algorithm for chromatic consistency during luminance re-mapping.
-- [cpuimage/LocalColorCorrection](https://github.com/cpuimage/LocalColorCorrection) - implmentation of 《Local Color Correction using Non-Linear Masking》
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [Dylanin1999/ISP_Algorithm](https://github.com/Dylanin1999/ISP_Algorithm) - 传统的图像处理相关算法的代码实现
 - [mbrossard/threadpool](https://github.com/mbrossard/threadpool) - A simple C Thread pool implementation
 - [Veinin/POSIX-threads-programming-tutorials](https://github.com/Veinin/POSIX-threads-programming-tutorials) - Summaries and notes on pthreads programming.
-- [jonhoo/pthread_pool](https://github.com/jonhoo/pthread_pool) - A simple implementation of thread pooling for C/C++ using POSIX threads
 - [sai-bi/ImageSmoothing](https://github.com/sai-bi/ImageSmoothing) - A collection of image smoothing algorithms.
 - [clibs/cmocka](https://github.com/clibs/cmocka) - An elegant unit testing framework for C with support for mock objects.
 - [LuisSR/RCD-Demosaicing](https://github.com/LuisSR/RCD-Demosaicing) - A Bayer demosaicing routine aimed to reduce pixel overshooting
 - [LibRaw/LibRaw-demosaic-pack-GPL2](https://github.com/LibRaw/LibRaw-demosaic-pack-GPL2) - Demosaic methods for LibRaw distributed under the terms of GPL2+
-- [ANSANJAY/LinuxCoredumpValgrind](https://github.com/ANSANJAY/LinuxCoredumpValgrind) - A comprehensive guide to debugging in Linux with emphasis on core dumps and Valgrind. Dive into practical examples with source codes and documentation, aiding both beginners and professionals.
 - [schoolpost/PiDNG](https://github.com/schoolpost/PiDNG) - Create Adobe DNG RAW files using Python. Works with any Bayer RAW Data including native support for Raspberry Pi cameras.
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) - 
 - [TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box) - A toolbox for deep learning model deployment using C++ YoloX | YoloV7 | YoloV8 | Gan | OCR | MobileVit | Scrfd | MobileSAM | StableDiffusion
 - [jhfmat/ISP-pipeline-hdrplus](https://github.com/jhfmat/ISP-pipeline-hdrplus) - Denoise,HDR,Isppipeline,Image-processing(图形处理),camera, Isp ,HDRplus
-- [hgpvision/darknet](https://github.com/hgpvision/darknet) - darknet深度学习框架源码分析：详细中文注释，涵盖框架原理与实现语法分析
-- [ArtyZe/yolo_quantization](https://github.com/ArtyZe/yolo_quantization) - Based of paper "Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference"
 - [centreborelli/mf2f](https://github.com/centreborelli/mf2f) - Self-supervised training for blind multi-frame video denoising
-- [tehret/blind-denoising](https://github.com/tehret/blind-denoising) - Model-Blind Video Denoising Via Frame-to-frame Training
 - [liuguoyou/HDR-Fast-Local-Laplacian](https://github.com/liuguoyou/HDR-Fast-Local-Laplacian) - HDR recovering and tonemapping using fast local laplacian approach
 - [tikroeger/OF_DIS](https://github.com/tikroeger/OF_DIS) - Fast Optical Flow using Dense Inverse Search (DIS)
 - [DanBloomberg/leptonica](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. The official github repository for Leptonica is: danbloomberg/lepto
@@ -66,7 +57,6 @@
 - [harry7557558/Graphics](https://github.com/harry7557558/Graphics) - Source files for my experiments not limited to computer graphics.
 - [chenjunkai2018/Photoshop_algorithm](https://github.com/chenjunkai2018/Photoshop_algorithm) - the Photoshop algorithm
 - [yulinghan/ImageQualityEnhancement](https://github.com/yulinghan/ImageQualityEnhancement) - 
-- [pcb9382/PlateRecognition](https://github.com/pcb9382/PlateRecognition) - 高性能 高精度 大陆车牌、港澳车牌、台湾车牌 韩国车牌(South Korea LPR)识别  代码开源，方便移植嵌入式和安卓端使用，支持12种车牌识别，支持港澳车牌识别，支持大角度车牌识别，准确率高达99%+
 - [Hjincheng/auto-exposure](https://github.com/Hjincheng/auto-exposure) - Automatic exposure algorithm based on frame difference method
 - [intel/libxcam](https://github.com/intel/libxcam) - libXCam is a project for extended camera(not limited in camera) features and focus on image quality improvement and video analysis. There are lots features supported in image pre-processing, image pos
 - [littlebearsama/CalibrationTools](https://github.com/littlebearsama/CalibrationTools) - 1.相机模型标定（鱼眼相机，普通相机）；2.立体相机标定与极线矫正；3.RGB(/灰度)相机与深度相机（tof）标定，数据融合；4.外参标定
@@ -79,9 +69,7 @@
 - [ishaanmht/aer_auto_exposure_gradient](https://github.com/ishaanmht/aer_auto_exposure_gradient) - 
 - [np-csu/AlphaMatting](https://github.com/np-csu/AlphaMatting) - An OpenCV2 version for image matting algorithm described by papre - Shared Sample for Real-Time Alpha Matting
 - [flyeyesport/flicker_remover](https://github.com/flyeyesport/flicker_remover) - Source code for "Realtime flicker removal for fast video streaming" paper.
-- [Fanghc95/Plate-Landmarks-detection](https://github.com/Fanghc95/Plate-Landmarks-detection) - 使用retinaface完成车牌关键点检测，并在tensorRT下部署
 - [XiaZixun/Edit_Propagation_via_Color_Palettes](https://github.com/XiaZixun/Edit_Propagation_via_Color_Palettes) - 
-- [cucapra/approx-vision](https://github.com/cucapra/approx-vision) - Designing image processing hardware and software for computer vision
 - [dengyueyun666/Image-Contrast-Enhancement](https://github.com/dengyueyun666/Image-Contrast-Enhancement) - C++ implementation of several image contrast enhancement techniques.
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
 - [JokerEyeAdas/HDR-ISP](https://github.com/JokerEyeAdas/HDR-ISP) - An ISP Pipeline For  HDR CMOS Image Sensor
@@ -89,44 +77,29 @@
 - [BBuf/Image-processing-algorithm-Speed](https://github.com/BBuf/Image-processing-algorithm-Speed) - opencv
 - [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON for ARM.
 - [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C++11
-- [Ewenwan/MVision](https://github.com/Ewenwan/MVision) - 机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶
-- [huangmingchuan/Cpp_Primer_Answers](https://github.com/huangmingchuan/Cpp_Primer_Answers) - 《C++ Primer》第五版中文版习题答案
 - [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
-- [Erkaman/vulkan_minimal_compute](https://github.com/Erkaman/vulkan_minimal_compute) - Minimal Example of Using Vulkan for Compute Operations. Only ~400LOC.
 - [Ldpe2G/ArmNeonOptimization](https://github.com/Ldpe2G/ArmNeonOptimization) - Arm neon optimization practice
 - [zchrissirhcz/neon_sim](https://github.com/zchrissirhcz/neon_sim) - Implement ARM NEON intrinsics in C++
 - [AngelMonica126/GraphicAlgorithm](https://github.com/AngelMonica126/GraphicAlgorithm) - :octopus: :octopus:图形学论文实现
 - [ethan-li-coding/StereoV3DCode](https://github.com/ethan-li-coding/StereoV3DCode) - 《立体视觉入门指南》 代码， c++ code for StereoV3D course
 - [me115/design_patterns](https://github.com/me115/design_patterns) - 图说设计模式
-- [joyDeng/Yangtze_AutoImageStitch](https://github.com/joyDeng/Yangtze_AutoImageStitch) - Panoramic image stitching
-- [BoyPao/ImageSignalProcessing-ISP](https://github.com/BoyPao/ImageSignalProcessing-ISP) - Implementation of ISP
 - [kosme/fix_fft](https://github.com/kosme/fix_fft) - Fix_fft library
 - [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial) - 中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)
 - [yossato/virtualGimbal](https://github.com/yossato/virtualGimbal) - virtualGimbal is an electronic stabilize device for videos that were taken by hand held camera. (I.e. DSLR)
 - [yossato/virtualgimbal_ros](https://github.com/yossato/virtualgimbal_ros) - Video stabilization using IMU information. This package stabilizes a video taken with a camera on mobile robots.
 - [ryanfb/torch-warp](https://github.com/ryanfb/torch-warp) - Fully automatic optical flow based image morphing implemented in Torch
-- [Zhengtq/ncnn_breakdown](https://github.com/Zhengtq/ncnn_breakdown) - A breakdown of NCNN
-- [BUPTLdy/Caffe_Code_Analysis](https://github.com/BUPTLdy/Caffe_Code_Analysis) - Caffe_Code_Analysis
 - [BBuf/Image-processing-algorithm](https://github.com/BBuf/Image-processing-algorithm) - paper implement
-- [binzi56/AlgorithmicPractice](https://github.com/binzi56/AlgorithmicPractice) - 关于LeetCode算法的练习(主要包括剑指Offer题解, 算法概念, 高频题型几个部分)
-- [kasumi494/opencv_lucas-kanade](https://github.com/kasumi494/opencv_lucas-kanade) - Pyramidal Implementation of the Lucas Kanade Feature Tracker
 - [nejcgalof/Optical-Flow-using-Dense-Inverse-Search](https://github.com/nejcgalof/Optical-Flow-using-Dense-Inverse-Search) - 
 - [yu-li/FGI](https://github.com/yu-li/FGI) - Code of 'FGI: Fast Guided Global Interpolation for Depth and Motion' (ECCV 2016 spotlight)
-- [Lakshya-Kejriwal/Real-Time-Video-Stabilization](https://github.com/Lakshya-Kejriwal/Real-Time-Video-Stabilization) - real time video stabilization using Kalman Filter
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
 - [Erfan-Ahmadi/BokehDepthOfField](https://github.com/Erfan-Ahmadi/BokehDepthOfField) - Implementing Different Algorithms to mimic Bokeh Depth Of Field: A Physical Camera Effect created due to Focal Length, Aperture size, shape
 - [aditya9211/Tellmate](https://github.com/aditya9211/Tellmate) - Screen Flickering Detection
-- [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2) - edition 2 of the slambook
 - [chenghegao4556/megadepth](https://github.com/chenghegao4556/megadepth) - 
 - [sahmad98/Distance_measurement_using_single_camera](https://github.com/sahmad98/Distance_measurement_using_single_camera) - Distance Measurement system using single camera
 - [ethan-li-coding/SemiGlobalMatching](https://github.com/ethan-li-coding/SemiGlobalMatching) - SGM，立体匹配StereoMatching最经典应用最广泛算法，4000+引用，兼顾效率和效果。完整实现，代码规范，注释清晰，博客教学！
-- [CattleProdigy/image-blur-map](https://github.com/CattleProdigy/image-blur-map) - A reproduction of the results of 'Estimating Spatially Varying Defocus Blur From A Single Image' by Zhu et. al.
-- [davemers0160/Camera_Code](https://github.com/davemers0160/Camera_Code) - 
 - [davemers0160/dfd_gc](https://github.com/davemers0160/dfd_gc) - Depth from Defocus using Graph Cuts
 - [iSarmad/Depth-From-Defocus-Matlab](https://github.com/iSarmad/Depth-From-Defocus-Matlab) - This is a Matlab implementation of Depth from Defocus using your mobile phone. In addition I use a number of techniques such as graph cuts and matting laplacian to improve the results
 - [google/bgu](https://github.com/google/bgu) - 
-- [mbuckler/ReversiblePipeline](https://github.com/mbuckler/ReversiblePipeline) - This is an implementation of a forward and reverse computational photography pipeline
-- [DasudaRunner/DeltaCV](https://github.com/DasudaRunner/DeltaCV) - A high performance library for image processing
 - [ufoym/recursive-bf](https://github.com/ufoym/recursive-bf) - A lightweight C++ library for recursive bilateral filtering [Yang, Qingxiong. "Recursive bilateral filtering". European Conference on Computer Vision, 2012].
 - [CarVac/librtprocess](https://github.com/CarVac/librtprocess) - A project to make RawTherapee's processing algorithms more readily available.
 - [timothybrooks/hdr-plus](https://github.com/timothybrooks/hdr-plus) - HDR+ Implementation
@@ -147,23 +120,12 @@
 
 ## HTML 
 
-- [taey16/pix2pixBEGAN.pytorch](https://github.com/taey16/pix2pixBEGAN.pytorch) - A pytorch implementation of pix2pix + BEGAN (Boundary Equilibrium Generative Adversarial Networks)
 - [jinyeying/night-enhancement](https://github.com/jinyeying/night-enhancement) - [ECCV2022] "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",  https://arxiv.org/abs/2207.10564
 - [Krasjet/quaternion](https://github.com/Krasjet/quaternion) - A brief introduction to the quaternions and its applications in 3D geometry.
-- [shliang0603/Awesome-DeepLearning-500FAQ](https://github.com/shliang0603/Awesome-DeepLearning-500FAQ) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。声明：所有内容来自（仅供学习）：https://github.com/scutan90/DeepLearning-500-questions
 
 ## Haskell 
 
 - [damianfral/colortransfer](https://github.com/damianfral/colortransfer) - A small tool to try to transfer colors between images.
-
-## Java 
-
-- [CainKernel/CainCamera](https://github.com/CainKernel/CainCamera) - CainCamera is an Android Project to learn about development of beauty camera, image and short video
-- [binary-sky/ExtremeLowLight](https://github.com/binary-sky/ExtremeLowLight) - Code&Dataset : Learning an Adaptive Model for Extreme Low-light Raw Image Processing
-
-## JavaScript 
-
-- [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) - 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.0
 
 ## Jupyter Notebook 
 
@@ -182,8 +144,6 @@
 - [Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization](https://github.com/Visualize-ML/Linear-Algebra-Made-Easy---Learn-with-Python-and-Visualization) - ”数学不难“  之  《线性代数不难》上下册，66话题完册；欢迎批评指正
 - [divyanshu092/Photorealistic_Style_Transfer](https://github.com/divyanshu092/Photorealistic_Style_Transfer) - Deeper Understanding and Modifications proposed to the High-Resolution Network for Photorealistic Style Transfer
 - [Tobyzai/EndoSRR](https://github.com/Tobyzai/EndoSRR) - Endoscopy Specular Reflection Removal
-- [FunmilayoUde/Skin-color-transferApp](https://github.com/FunmilayoUde/Skin-color-transferApp) - Source code for a skin color transfer web application
-- [PRAN20/Skin-Color-Transfer-3D](https://github.com/PRAN20/Skin-Color-Transfer-3D) - 
 - [pashango2/Image4Layer](https://github.com/pashango2/Image4Layer) - It is implemented by 'pillow' in blend mode of CSS3.
 - [gdenes355/flicker_metric_ted](https://github.com/gdenes355/flicker_metric_ted) - Flicker metric reference implementation for the under-review paper "Estimates of Temporal Edge Detection Filters in Human Vision"
 - [mzhao98/laplacian_blend](https://github.com/mzhao98/laplacian_blend) - Tutorial on Laplacian Image Blending
@@ -194,56 +154,28 @@
 - [advimman/HiDT](https://github.com/advimman/HiDT) - Official repository for the paper "High-Resolution Daytime Translation Without Domain Labels" (CVPR2020, Oral)
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
 - [gunahn/StyleGAN2-ADA-pytorch-for-gray-images](https://github.com/gunahn/StyleGAN2-ADA-pytorch-for-gray-images) - This is my code for StlyeGAN2-ADA-PyTorch for gray images.
-- [jiajunhe98/Landscape-StyleGAN](https://github.com/jiajunhe98/Landscape-StyleGAN) - This repository contains codes which re-implement StyleGAN in PyTorch and train StyleGAN for virtual landscape photographs.
-- [aydao/stylegan2-surgery](https://github.com/aydao/stylegan2-surgery) - StyleGAN2 fork with scripts and convenience modifications for creative media synthesis
-- [happy-jihye/Cartoon-StyleGAN](https://github.com/happy-jihye/Cartoon-StyleGAN) - Fine-tuning StyleGAN2 for Cartoon Face Generation
 - [ericsujw/InstColorization](https://github.com/ericsujw/InstColorization) - 
 - [eladrich/pixel2style2pixel](https://github.com/eladrich/pixel2style2pixel) - Official Implementation for "Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation" (CVPR 2021) presenting the pixel2style2pixel (pSp) framework
 - [masterAllen/LearnOpenCV](https://github.com/masterAllen/LearnOpenCV) - Learning OpenCV By Official Documents
-- [sagieppel/fine-tune-train_segment_anything_2_in_60_lines_of_code](https://github.com/sagieppel/fine-tune-train_segment_anything_2_in_60_lines_of_code) - The repository provides code for  training/fine tune the Meta Segment Anything Model 2 (SAM 2)
 - [mahmoudnafifi/HistoGAN](https://github.com/mahmoudnafifi/HistoGAN) - Reference code for the paper HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms (CVPR 2021).
-- [omertov/encoder4editing](https://github.com/omertov/encoder4editing) - Official implementation of "Designing an Encoder for StyleGAN Image Manipulation"  (SIGGRAPH 2021) https://arxiv.org/abs/2102.02766
-- [hamzapehlivan/StyleRes](https://github.com/hamzapehlivan/StyleRes) - 
 - [ttchengab/zest_code](https://github.com/ttchengab/zest_code) - [ECCV-2024] This is the official implementation of ZeST.
 - [cyj407/VQ-I2I](https://github.com/cyj407/VQ-I2I) - Vector Quantized Image-to-Image Translation (ECCV 2022)
 - [GarrickZ2/Image-Denoising](https://github.com/GarrickZ2/Image-Denoising) - 
-- [CyberAgentAILab/derendering-text](https://github.com/CyberAgentAILab/derendering-text) - 
 - [ZYiJie/Simple-CLIP](https://github.com/ZYiJie/Simple-CLIP) - 基于开源预训练模型来实现一个简单的CLIP模型
-- [vojirt/PixOOD](https://github.com/vojirt/PixOOD) - Official implementation of the "PixOOD: Pixel-Level Out-of-Distribution Detection"
 - [gosha20777/few-shot-isp-domain-adaptation](https://github.com/gosha20777/few-shot-isp-domain-adaptation) - A new method for few-shot domain adaptation of RAW-to-RGB neural image signal processing (ISP) pipelines.
 - [frobertpixto/hand-drawn-shapes-dataset](https://github.com/frobertpixto/hand-drawn-shapes-dataset) - Hand-drawn Shapes (HDS) Dataset. Images like Rectangles, Ellipses and Triangles
 - [mv-lab/AISP](https://github.com/mv-lab/AISP) - AI Image Signal Processing and Computational Photography. Official library for NTIRE (CVPR) and AIM (ICCV/ECCV) Challenges. You will find Learned ISPs, RAW Restoration-Upsampling-Reconstruction, Image
-- [adobe-research/beacon-aug](https://github.com/adobe-research/beacon-aug) - Cross-library augmentation toolbox supporting 300 operators over 8 libraries + AI transforms
-- [muziing/Traffic-Lights-Classification](https://github.com/muziing/Traffic-Lights-Classification) - HSV色彩空间下的交通灯识别
-- [octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color](https://github.com/octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color) - Project is an implementation of skin segmentation using OpenCV and dominant color extraction using SciKit-Learn
-- [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook) - pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
-- [jizhishutong/YOLOU](https://github.com/jizhishutong/YOLOU) - YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6-v1、YOLOv6-v2、YOLOv7、YOLOX、YOLOX-Lite、PP-YOLOE、PP-PicoDet-Plus、YOLO-Fastest v2、FastestDet、YOLOv5-SPD、TensorRT、NCNN、Tengine、OpenVINO
 - [ykdai/Flare7K](https://github.com/ykdai/Flare7K) - Official Implementation of "Flare7K: A Phenomenological Nighttime Flare Removal Dataset"
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [YCL92/LowlightENR](https://github.com/YCL92/LowlightENR) - Progressive Joint Low-light Enhancement and Noise Removal for Raw Images
-- [NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP) - 此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。
-- [coldlarry/YOLOv3-complete-pruning](https://github.com/coldlarry/YOLOv3-complete-pruning) - 提供对YOLOv3及Tiny的多种剪枝版本，以适应不同的需求。
-- [yangxy/GPEN](https://github.com/yangxy/GPEN) - 
-- [shawshany/traffic_light_classified](https://github.com/shawshany/traffic_light_classified) - Traffic light classify
 - [weijie-chen/Linear-Algebra-With-Python](https://github.com/weijie-chen/Linear-Algebra-With-Python) - Lecture Notes for Linear Algebra Featuring Python. This series of lecture notes will walk you through all the must-know concepts that set the foundation of data science or advanced quantitative skills
 - [soumik12345/Zero-DCE](https://github.com/soumik12345/Zero-DCE) - Pytorch implementation of Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement
-- [hoainamken/Burst-Denoising-of-Dark-Images](https://github.com/hoainamken/Burst-Denoising-of-Dark-Images) - 
-- [vijishmadhavan/Light-Up](https://github.com/vijishmadhavan/Light-Up) - Low-Light Image Enhancement
 - [zzh-tech/RSCD](https://github.com/zzh-tech/RSCD) - [CVPR2021] Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes
-- [rimchang/RealBlur](https://github.com/rimchang/RealBlur) - Repository for Real-World Blur Dataset for Learning and Benchmarking Deblurring Algorithms
 - [spatialaudio/digital-signal-processing-lecture](https://github.com/spatialaudio/digital-signal-processing-lecture) - Digital Signal Processing - Theory and Computational Examples
 - [unpingco/Python-for-Signal-Processing](https://github.com/unpingco/Python-for-Signal-Processing) - Notebooks for "Python for Signal Processing" book
-- [ialhashim/DenseDepth](https://github.com/ialhashim/DenseDepth) - High Quality Monocular Depth Estimation via Transfer Learning
 - [sedara0218/camera_autofocus](https://github.com/sedara0218/camera_autofocus) - A machine learning approach for defining contrast for autofocus.
 - [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
-- [google/portrait-shadow-manipulation](https://github.com/google/portrait-shadow-manipulation) - 
-- [dong-x16/PortraitNet](https://github.com/dong-x16/PortraitNet) - Code for the paper "PortraitNet: Real-time portrait segmentation network for mobile device"  @ CAD&Graphics2019
-- [12dmodel/camera_sim](https://github.com/12dmodel/camera_sim) - 
 - [meisamrf/ivhc-estimator](https://github.com/meisamrf/ivhc-estimator) - Fast image noise estimation (Estimation of Gaussian, signal-dependent, and processed noise in Image and Video Signals)
-
-## Lua 
-
-- [SeungjunNah/DeepDeblur_release](https://github.com/SeungjunNah/DeepDeblur_release) - Deep Multi-scale CNN for Dynamic Scene Deblurring
 
 ## MATLAB 
 
@@ -254,7 +186,6 @@
 - [bcmi/Image-Harmonization-Dataset-iHarmony4](https://github.com/bcmi/Image-Harmonization-Dataset-iHarmony4) - [CVPR 2020] The first large-scale public benchmark dataset for image harmonization. The code used in our paper "DoveNet: Deep Image Harmonization via Domain Verification", CVPR2020. Useful for image h
 - [mahmoudnafifi/SIIE](https://github.com/mahmoudnafifi/SIIE) - Sensor-Independent Illumination Estimation for DNN Models (BMVC 2019)
 - [LZ-CH/Exposure_Correction-pytorch](https://github.com/LZ-CH/Exposure_Correction-pytorch) - CVPR2021 Learning Multi-Scale Photo Exposure Correction论文的非官方pytorch代码
-- [mss3331/AGCWD](https://github.com/mss3331/AGCWD) - Efficient Contrast Enhancement Using Adaptive Gamma Correction With Weighting Distribution
 - [balcilar/Color-Image-Segmentation-Using-Region-Growing-and-Region-Merging](https://github.com/balcilar/Color-Image-Segmentation-Using-Region-Growing-and-Region-Merging) - Unsupervised color image segmentation using Region Growing and Region Merging
 - [xiahaa/RS_IEKF](https://github.com/xiahaa/RS_IEKF) - Parameter estimation using IEKF for RS camera
 - [remicongee/Fourier-Burst-Accumulation](https://github.com/remicongee/Fourier-Burst-Accumulation) - Implemetation of "Removing Camera Shake via Weighted Fourier Burst Accumulation".
@@ -264,8 +195,6 @@
 - [bastamon/sound_signal_process-matlab-](https://github.com/bastamon/sound_signal_process-matlab-) - 语音信号处理实验教程（MATLAB源代码）
 - [codeslake/SYNDOF](https://github.com/codeslake/SYNDOF) - The official matlab implementation of SYNDOF generation used in the paper, 'Deep Defocus Map Estimation using Domain Adaptation', CVPR 2019
 - [roserustowicz/psf-estimation](https://github.com/roserustowicz/psf-estimation) - PSF Estimation in Matlab, from Mosleh Blur Estimation paper
-- [zhengshuiqin/Wavefront-Detection-Tutorial](https://github.com/zhengshuiqin/Wavefront-Detection-Tutorial) - Matlab simulation codes for some typical wavefront detection techniques
-- [fmannan/PSFEstimation](https://github.com/fmannan/PSFEstimation) - Point Spread Function Estimation from Images
 - [kevinjoseph1995/Depth-from-Defocus-NN](https://github.com/kevinjoseph1995/Depth-from-Defocus-NN) - 
 - [srdjankrstic/defocus](https://github.com/srdjankrstic/defocus) - Depth from defocus
 - [vllab/fast_defocus_map](https://github.com/vllab/fast_defocus_map) - Fast Defocus Map Estimation
@@ -297,6 +226,7 @@
 
 ## Others 
 
+- [ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 - [SintonZZ/Awesome-AI-ISP](https://github.com/SintonZZ/Awesome-AI-ISP) - A list of awesome AI-ISP works.
 - [XJTU-LHF/Awesome-Face-Restoration](https://github.com/XJTU-LHF/Awesome-Face-Restoration) - 
 - [megvii-research/megvii-tsinghua-dl-course](https://github.com/megvii-research/megvii-tsinghua-dl-course) - Slides with modifications for a course at Tsinghua University.
@@ -317,9 +247,7 @@
 - [subeeshvasu/Awesome-ImageHarmonization](https://github.com/subeeshvasu/Awesome-ImageHarmonization) - 
 - [ChunmingHe/awesome-diffusion-models-in-low-level-vision](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) - A Repository for Diffusion-Model-related Papers in Low-level Vision
 - [ofeeler/LPR](https://github.com/ofeeler/LPR) - pku lpr dataset
-- [AgaMiko/data-augmentation-review](https://github.com/AgaMiko/data-augmentation-review) - List of useful data augmentation resources. You will find here some not common techniques, libraries, links to GitHub repos, papers, and others.
 - [JianzeLi-114/FluxSR](https://github.com/JianzeLi-114/FluxSR) - 
-- [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person
 - [yeungchenwa/Recommendations-Diffusion-Text-Image](https://github.com/yeungchenwa/Recommendations-Diffusion-Text-Image) - A paper collection of recent diffusion models for text-image generation tasks, e,g., visual text generation, font generation, text removal, text image super resolution, text editing, handwritten gener
 - [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 - [starkfan007/awesome-ISP](https://github.com/starkfan007/awesome-ISP) - A curated list of awesome ISP frameworks, papers, libraries, resources, and shiny things.
@@ -327,36 +255,21 @@
 - [HDCVLab/EDFace-Celeb-1M](https://github.com/HDCVLab/EDFace-Celeb-1M) - 
 - [happycaoyue/LLD](https://github.com/happycaoyue/LLD) - 
 - [24wenjie-li/Awesome-Face-Restoration](https://github.com/24wenjie-li/Awesome-Face-Restoration) - [ACM CSUR 2025] A comprehensive summary of deep face restoration methods.
-- [ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 - [lcybuzz/Low-Level-Vision-Paper-Record](https://github.com/lcybuzz/Low-Level-Vision-Paper-Record) - 记录近期的 1) 图像/视频的超分增强等low level vision任务; 2) 图像生成 等任务相关论文, 主要为18年以后的DL based方法.
-- [ZhaomingKong/Denoising-Comparison](https://github.com/ZhaomingKong/Denoising-Comparison) - 
 - [Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision) - A Collection of Papers and Codes for CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision
 - [MarkMoHR/Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) - :books: A collection of Deep Learning based Image Colorization and Video Colorization papers.
 - [youngyangyang04/TechCPP](https://github.com/youngyangyang04/TechCPP) - 【C++面试&C++学习指南】 这里整理了C++后端研发工程师面试和工作必备的知识点 。
 - [BBuf/how-to-learn-deep-learning-framework](https://github.com/BBuf/how-to-learn-deep-learning-framework) - how to learn PyTorch and OneFlow
 - [lynnboy/CppCoreGuidelines-zh-CN](https://github.com/lynnboy/CppCoreGuidelines-zh-CN) - Translation of C++ Core Guidelines [https://github.com/isocpp/CppCoreGuidelines] into Simplified Chinese.
 - [weaiken/ebook](https://github.com/weaiken/ebook) - classic books of computer science!
-- [DarrenPan/Awesome-ICCV2023-Low-Level-Vision](https://github.com/DarrenPan/Awesome-ICCV2023-Low-Level-Vision) - A Collection of Papers and Codes in ICCV2023/2021 about low level vision
 - [DAN-AND-DNA/learn-gdb-by-example-for-c](https://github.com/DAN-AND-DNA/learn-gdb-by-example-for-c) - learn gdb by example | gdb 教程 例子
-- [wyhuai/RND](https://github.com/wyhuai/RND) - [AAAI 2023 Oral] GAN Prior based Null-Space Learning for Consistent Super-Resolution
-- [PPshrimpGo/AIinterview](https://github.com/PPshrimpGo/AIinterview) - 算法工程师面试题整理
-- [code-wd/AI_offer](https://github.com/code-wd/AI_offer) - 这个项目主要用来总结算法工程师面试中常见的问题
-- [GYee/CV_interviews_Q-A](https://github.com/GYee/CV_interviews_Q-A) - CV算法岗知识点及面试问答汇总，主要分为计算机视觉、机器学习、图像处理和 C++基础四大块，一起努力向offers发起冲击！
 - [lucasjinreal/AI-Infer-Engine-From-Zero](https://github.com/lucasjinreal/AI-Infer-Engine-From-Zero) - 关于自建AI推理引擎的手册，从0开始你需要知道的所有事情
-- [jmluu/Awesome-Efficient-Training](https://github.com/jmluu/Awesome-Efficient-Training) - A collection of research papers on efficient training of DNNs
 - [alex-golts/Video-Stabilization](https://github.com/alex-golts/Video-Stabilization) - Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C++》- 完成翻译
-- [liuguoyou/EffectiveModernCppChinese](https://github.com/liuguoyou/EffectiveModernCppChinese) - 《Effective Modern C++》翻译 - 已完成
-- [cao-cong/SMID-pytorch](https://github.com/cao-cong/SMID-pytorch) - Unofficial pytorch code for Seeing-Motion in the Dark.
 - [elejke/awesome-defocus-detection](https://github.com/elejke/awesome-defocus-detection) - A curated list of defocus detection and image quality assessment papers and codes
 - [antonio490/Autofocus](https://github.com/antonio490/Autofocus) - Implementation of different autofocus functions using python. The main goal is to obtain efficiently the maximal contrast between pixels
-- [scott89/awesome-depth](https://github.com/scott89/awesome-depth) - A curated list of publication for depth estimation
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
 - [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn) - C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
-
-## Processing 
-
-- [Jpvmello/traffic-light-detection-synthetic-context](https://github.com/Jpvmello/traffic-light-detection-synthetic-context) - 
 
 ## Python 
 
