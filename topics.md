@@ -59,6 +59,7 @@
 - [stable-diffusion](#stable-diffusion)
 - [swift](#swift)
 - [tensorflow](#tensorflow)
+- [verilog](#verilog)
 - [video](#video)
 - [vim](#vim)
 - [visualization](#visualization)
@@ -660,7 +661,6 @@
 - [intel/libxcam](https://github.com/intel/libxcam) - libXCam is a project for extended camera(not limited in camera) features and focus on image quality improvement and video analysis. There are lots features supported in image pre-processing, image pos
 - [Dylanin1999/ISP_Algorithm](https://github.com/Dylanin1999/ISP_Algorithm) - 传统的图像处理相关算法的代码实现
 - [AomanHao/ISP_Infrared_Image_Process](https://github.com/AomanHao/ISP_Infrared_Image_Process) - 
-- [LeiWang1999/FPGA](https://github.com/LeiWang1999/FPGA) - 帮助大家进行FPGA的入门，分享FPGA相关的优秀文章，优秀项目
 - [FZWei-YYDS/ZhangZhengYou](https://github.com/FZWei-YYDS/ZhangZhengYou) - 张正友标定法的数学原理以及python源码实现（详细）
 - [littlebearsama/CalibrationTools](https://github.com/littlebearsama/CalibrationTools) - 1.相机模型标定（鱼眼相机，普通相机）；2.立体相机标定与极线矫正；3.RGB(/灰度)相机与深度相机（tof）标定，数据融合；4.外参标定
 - [libing64/camera_model](https://github.com/libing64/camera_model) - 相机内参标定和双目标定, 支持多种相机模型和多种标定板，
@@ -1299,6 +1299,10 @@
 - [frobertpixto/hand-drawn-shapes-dataset](https://github.com/frobertpixto/hand-drawn-shapes-dataset) - Hand-drawn Shapes (HDS) Dataset. Images like Rectangles, Ellipses and Triangles
 - [CGLab-GIST/RIDFnF](https://github.com/CGLab-GIST/RIDFnF) - An official source code of AAAI 2023 paper, "Robust Image Denoising of No-Flash Images Guided by Consistent Flash Images".
 - [YoungYoung619/Make-vehicles-see-in-the-dark](https://github.com/YoungYoung619/Make-vehicles-see-in-the-dark) - Low light enhance for driving scene
+
+## verilog 
+
+- [LeiWang1999/FPGA](https://github.com/LeiWang1999/FPGA) - 帮助大家进行FPGA的入门，分享FPGA相关的优秀文章，优秀项目
 
 ## video 
 
