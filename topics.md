@@ -139,7 +139,7 @@
 - [Ha0Tang/AttentionGAN](https://github.com/Ha0Tang/AttentionGAN) - AttentionGAN for Unpaired Image-to-Image Translation & Multi-Domain Image-to-Image Translation
 - [dailenson/One-DM](https://github.com/dailenson/One-DM) - Official Code for ECCV 2024 paper — One-Shot Diffusion Mimicker for Handwritten Text Generation
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
-- [Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision) - A Collection of Papers and Codes for CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision
+- [Kobaayyy/Awesome-CVPR2026-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2026-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision) - A Collection of Papers and Codes for CVPR2026/CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision
 - [frobertpixto/hand-drawn-shapes-dataset](https://github.com/frobertpixto/hand-drawn-shapes-dataset) - Hand-drawn Shapes (HDS) Dataset. Images like Rectangles, Ellipses and Triangles
 - [taesungp/contrastive-unpaired-translation](https://github.com/taesungp/contrastive-unpaired-translation) - Contrastive unpaired image-to-image translation, faster and lighter training than cyclegan (ECCV 2020, in PyTorch)
 - [mv-lab/AISP](https://github.com/mv-lab/AISP) - AI Image Signal Processing and Computational Photography. Official library for NTIRE (CVPR) and AIM (ICCV/ECCV) Challenges. You will find Learned ISPs, RAW Restoration-Upsampling-Reconstruction, Image
@@ -330,7 +330,7 @@
 - [dengyueyun666/Image-Contrast-Enhancement](https://github.com/dengyueyun666/Image-Contrast-Enhancement) - C++ implementation of several image contrast enhancement techniques.
 - [mikeroyal/ISP-Guide](https://github.com/mikeroyal/ISP-Guide) - Image Signal Processing (ISP) Guide. Learn all about the process of converting an image/video into digital form by performing tasks like noise reduction, filtering, auto exposure, autofocus, HDR corre
 - [RQ-Wu/RIDCP_dehazing](https://github.com/RQ-Wu/RIDCP_dehazing) - [CVPR 2023] | RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors
-- [Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision) - A Collection of Papers and Codes for CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision
+- [Kobaayyy/Awesome-CVPR2026-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2026-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision) - A Collection of Papers and Codes for CVPR2026/CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision
 - [Jamy-L/Handheld-Multi-Frame-Super-Resolution](https://github.com/Jamy-L/Handheld-Multi-Frame-Super-Resolution) - Handheld Multi-image Super-resolution [Wronski et al., SIGGRAPH19]. Non-official GPU-supported Python implementation.
 - [haoyuc/MaskedDenoising](https://github.com/haoyuc/MaskedDenoising) - [CVPR 2023] Masked Image Training for Generalizable Deep Image Denoising https://arxiv.org/abs/2303.13132
 - [balcilar/Color-Image-Segmentation-Using-Region-Growing-and-Region-Merging](https://github.com/balcilar/Color-Image-Segmentation-Using-Region-Growing-and-Region-Merging) - Unsupervised color image segmentation using Region Growing and Region Merging
