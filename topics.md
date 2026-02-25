@@ -752,7 +752,7 @@
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [ewrfcas/Face-Super-Resolution](https://github.com/ewrfcas/Face-Super-Resolution) - Face super resolution based on ESRGAN
 - [awesome-davian/Text2Colors](https://github.com/awesome-davian/Text2Colors) - Code for "Coloring with Words: Guiding Image Colorization through Text-based Palette Generation" - ECCV 2018
-- [hahnec/color-matcher](https://github.com/hahnec/color-matcher) - automatic color-grading
+- [hahnec/color-matcher](https://github.com/hahnec/color-matcher) - automatic color-grading and augmentation
 - [luca-medeiros/lightning-sam](https://github.com/luca-medeiros/lightning-sam) - Fine-tune Segment-Anything Model with Lightning Fabric.
 - [cameronfabbri/Underwater-Color-Correction](https://github.com/cameronfabbri/Underwater-Color-Correction) - Using GANs to correct color distortion in underwater images.
 - [brownvc/R3GAN](https://github.com/brownvc/R3GAN) - Code for NeurIPS 2024 paper - The GAN is dead; long live the GAN! A Modern Baseline GAN - by Huang et al.
