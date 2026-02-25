@@ -610,7 +610,7 @@
 - [ewrfcas/Face-Super-Resolution](https://github.com/ewrfcas/Face-Super-Resolution) - Face super resolution based on ESRGAN
 - [nick8592/text-guided-image-colorization](https://github.com/nick8592/text-guided-image-colorization) - This repository provides an interactive image colorization tool that leverages Stable Diffusion (SDXL) and BLIP for user-controlled color generation. With a retrained model using the ControlNet approa
 - [awesome-davian/Text2Colors](https://github.com/awesome-davian/Text2Colors) - Code for "Coloring with Words: Guiding Image Colorization through Text-based Palette Generation" - ECCV 2018
-- [hahnec/color-matcher](https://github.com/hahnec/color-matcher) - automatic color-grading
+- [hahnec/color-matcher](https://github.com/hahnec/color-matcher) - automatic color-grading and augmentation
 - [luca-medeiros/lightning-sam](https://github.com/luca-medeiros/lightning-sam) - Fine-tune Segment-Anything Model with Lightning Fabric.
 - [cameronfabbri/Underwater-Color-Correction](https://github.com/cameronfabbri/Underwater-Color-Correction) - Using GANs to correct color distortion in underwater images.
 - [ohayonguy/PMRF](https://github.com/ohayonguy/PMRF) - [ICLR 2025] Official implementation of Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration
