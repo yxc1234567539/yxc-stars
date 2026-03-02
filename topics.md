@@ -94,13 +94,13 @@
 
 ## awesome 
 
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [yeungchenwa/Recommendations-Diffusion-Text-Image](https://github.com/yeungchenwa/Recommendations-Diffusion-Text-Image) - A paper collection of recent diffusion models for text-image generation tasks, e,g., visual text generation, font generation, text removal, text image super resolution, text editing, handwritten gener
 - [mikeroyal/ISP-Guide](https://github.com/mikeroyal/ISP-Guide) - Image Signal Processing (ISP) Guide. Learn all about the process of converting an image/video into digital form by performing tasks like noise reduction, filtering, auto exposure, autofocus, HDR corre
 
 ## awesome-list 
 
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [G-U-N/Awesome-Consistency-Models](https://github.com/G-U-N/Awesome-Consistency-Models) - Awesome List of Consistency Models
 
 ## c-plus-plus 
