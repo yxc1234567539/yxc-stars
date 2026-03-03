@@ -539,7 +539,7 @@
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 - [ArchipLab-LinfengZhang/wkd-datasets](https://github.com/ArchipLab-LinfengZhang/wkd-datasets) - This repository provides the dataset used in our cvpr2022 paper - wavelet knowledge distillation
 - [zhengchen1999/QuantDemoire](https://github.com/zhengchen1999/QuantDemoire) - PyTorch code for our paper "QuantDemoire: Quantization with Outlier Aware for Image Demoiréing"
-- [VectorSpaceLab/EditScore](https://github.com/VectorSpaceLab/EditScore) - EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling
+- [VectorSpaceLab/EditScore](https://github.com/VectorSpaceLab/EditScore) - [ICLR 2026] EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling
 - [homm/color-filters-reconstruction](https://github.com/homm/color-filters-reconstruction) - Very accurate color filters reconstruction tools based on 3D color LUTs
 - [yulinghan/ImageQualityEnhancement](https://github.com/yulinghan/ImageQualityEnhancement) - 
 - [yz-wang/UCL-Dehaze](https://github.com/yz-wang/UCL-Dehaze) - Image dehazing
