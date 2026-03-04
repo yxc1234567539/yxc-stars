@@ -274,6 +274,7 @@
 
 ## Python 
 
+- [MarcelLeon/skills-zh](https://github.com/MarcelLeon/skills-zh) - agent-skills: Skills 中文本土化适配版
 - [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
 - [FlowAlign/FlowAlign](https://github.com/FlowAlign/FlowAlign) - Official repository of FlowAlign
 - [VSehwag/minimal-diffusion](https://github.com/VSehwag/minimal-diffusion) - A minimal yet resourceful implementation of diffusion models (along with pretrained models + synthetic images for nine datasets)
