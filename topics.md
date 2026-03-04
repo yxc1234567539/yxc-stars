@@ -432,6 +432,7 @@
 
 ## others 
 
+- [MarcelLeon/skills-zh](https://github.com/MarcelLeon/skills-zh) - agent-skills: Skills 中文本土化适配版
 - [ANSANJAY/LinuxCoredumpValgrind](https://github.com/ANSANJAY/LinuxCoredumpValgrind) - A comprehensive guide to debugging in Linux with emphasis on core dumps and Valgrind. Dive into practical examples with source codes and documentation, aiding both beginners and professionals.
 - [FlowAlign/FlowAlign](https://github.com/FlowAlign/FlowAlign) - Official repository of FlowAlign
 - [SintonZZ/Awesome-AI-ISP](https://github.com/SintonZZ/Awesome-AI-ISP) - A list of awesome AI-ISP works.
