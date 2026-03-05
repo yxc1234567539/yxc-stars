@@ -328,7 +328,7 @@
 - [alibaba-damo-academy/T2I-Distill](https://github.com/alibaba-damo-academy/T2I-Distill) - [Tutorial] Few-Step Distillation for Text-to-Image Generation: A Practical Guide
 - [thanhkaist/AttentionResnet](https://github.com/thanhkaist/AttentionResnet) - Classification with backbone Resnet and attentions: SE-Channel Attention, BAM - (Spatial Attention, Channel Attention, Joint Attention), CBAM - (Spatial Attention, Channel Attention, Joint Attention)
 - [changzheng123/L-CAD](https://github.com/changzheng123/L-CAD) - Implementation for "L-CAD: Language-based Colorization with Any-level Descriptions using Diffusion Priors"
-- [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 - [OmarSZamzam/PixelShuffler](https://github.com/OmarSZamzam/PixelShuffler) - 
 - [chrisway613/SDSB](https://github.com/chrisway613/SDSB) - Simplified Diffusion Schrödinger Bridge
 - [bupt-ai-cz/BCI](https://github.com/bupt-ai-cz/BCI) - BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix
