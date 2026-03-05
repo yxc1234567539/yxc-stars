@@ -1133,7 +1133,7 @@
 
 - [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
 - [elerac/structuredlight](https://github.com/elerac/structuredlight) - Generate and Decode structured light. Binary, Gray, XOR, Ramp, Phase-Shifting, Stripe.
-- [rendercv/rendercv](https://github.com/rendercv/rendercv) - CV/resume generator for academics and engineers, YAML to PDF
+- [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 - [pengbo-learn/python-face-relighting](https://github.com/pengbo-learn/python-face-relighting) - A python implementation of portrait lighting transfer using a mass transport approach.
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [flrs/blend_modes](https://github.com/flrs/blend_modes) - Python package that implements image blend modes
