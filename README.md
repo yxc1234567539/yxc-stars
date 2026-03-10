@@ -227,6 +227,7 @@
 
 ## Others 
 
+- [0voice/awesome_audio_video_learning](https://github.com/0voice/awesome_audio_video_learning) - 2025年音视频开发最新总结，提供全面的音视频开发学习资源，涵盖从基础知识到实战项目的资料、论文、书籍、项目和示例，帮助你快速热门并逐步进阶，持续更新维护中！
 - [ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 - [SintonZZ/Awesome-AI-ISP](https://github.com/SintonZZ/Awesome-AI-ISP) - A list of awesome AI-ISP works.
 - [XJTU-LHF/Awesome-Face-Restoration](https://github.com/XJTU-LHF/Awesome-Face-Restoration) - 
