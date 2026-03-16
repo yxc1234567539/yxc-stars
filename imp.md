@@ -2,3 +2,9 @@
 - [hanweikung/face_anon_simple](https://github.com/hanweikung/face_anon_simple) - [WACV 2025] Official implementation of "Face Anonymization Made Simple" 换脸 2025
 - [zhengchen1999/QuantDemoire](https://github.com/zhengchen1999/QuantDemoire) - PyTorch code for our paper "QuantDemoire: Quantization with Outlier Aware for Image Demoiréing" 去摩尔 量化
 - [JianzeLi-114/FluxSR](https://github.com/JianzeLi-114/FluxSR) - 
+- [NVlabs/FastGen](https://github.com/NVlabs/FastGen) - NVIDIA FastGen: Fast Generation from Diffusion Models one step 框架
+- [fudan-generative-vision/DicFace](https://github.com/fudan-generative-vision/DicFace) - [ICCV2025 Highlight] DicFace: Dirichlet-Constrained Variational Codebook Learning for Temporally Coherent Video Face Restoration
+- [SamsungLabs/DT-BFR](https://github.com/SamsungLabs/DT-BFR) - [WACV 2025 (Oral)] Towards Unsupervised Blind Face Restoration using Diffusion Prior face 蒸馏
+- [sen-mao/InterLCM](https://github.com/sen-mao/InterLCM) - [ICLR2025] Official Implementations "InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration"
+- [csslc/CCSR](https://github.com/csslc/CCSR) - [TIP2026] Official codes of CCSRv2 and CCSRv1: Improving the Stability and Efficiency of Diffusion Models for Content Consistent Super-Resolution 超分 controlnet 训练
+- [snap-research/InstantRestore](https://github.com/snap-research/InstantRestore) - Official Implementation for "InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention"  人脸 参考 带训练
