@@ -438,6 +438,7 @@
 
 ## others 
 
+- [SonyResearch/LineBufferNet](https://github.com/SonyResearch/LineBufferNet) - 
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [0voice/awesome_audio_video_learning](https://github.com/0voice/awesome_audio_video_learning) - 2025年音视频开发最新总结，提供全面的音视频开发学习资源，涵盖从基础知识到实战项目的资料、论文、书籍、项目和示例，帮助你快速热门并逐步进阶，持续更新维护中！
 - [MarcelLeon/skills-zh](https://github.com/MarcelLeon/skills-zh) - agent-skills: Skills 中文本土化适配版
@@ -957,7 +958,7 @@
 - [renyuehe/ai-lesson_Deeplearning_Face](https://github.com/renyuehe/ai-lesson_Deeplearning_Face) - 深度学习___面试
 - [yangzhaonan18/yolov3_trafficSign_pytorch](https://github.com/yangzhaonan18/yolov3_trafficSign_pytorch) - Traffic sign detection 交通标志、信号灯检测，请加Q群交流：904484709
 - [bubbliiiing/yolox-pytorch](https://github.com/bubbliiiing/yolox-pytorch) - 这是一个yolox-pytorch的源码，可以用于训练自己的模型。
-- [AngelMonica126/GraphicAlgorithm](https://github.com/AngelMonica126/GraphicAlgorithm) - :octopus: :octopus:图形学论文实现
+- [Veerzeng/GraphicAlgorithm](https://github.com/Veerzeng/GraphicAlgorithm) - :octopus: :octopus:图形学论文实现
 - [ethan-li-coding/StereoV3DCode](https://github.com/ethan-li-coding/StereoV3DCode) - 《立体视觉入门指南》 代码， c++ code for StereoV3D course
 - [amonod/hdrplus-python](https://github.com/amonod/hdrplus-python) - Open source Python implementation of the HDR+ photography pipeline
 - [me115/design_patterns](https://github.com/me115/design_patterns) - 图说设计模式
