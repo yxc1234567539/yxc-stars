@@ -80,7 +80,7 @@
 - [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
 - [Ldpe2G/ArmNeonOptimization](https://github.com/Ldpe2G/ArmNeonOptimization) - Arm neon optimization practice
 - [zchrissirhcz/neon_sim](https://github.com/zchrissirhcz/neon_sim) - Implement ARM NEON intrinsics in C++
-- [AngelMonica126/GraphicAlgorithm](https://github.com/AngelMonica126/GraphicAlgorithm) - :octopus: :octopus:图形学论文实现
+- [Veerzeng/GraphicAlgorithm](https://github.com/Veerzeng/GraphicAlgorithm) - :octopus: :octopus:图形学论文实现
 - [ethan-li-coding/StereoV3DCode](https://github.com/ethan-li-coding/StereoV3DCode) - 《立体视觉入门指南》 代码， c++ code for StereoV3D course
 - [me115/design_patterns](https://github.com/me115/design_patterns) - 图说设计模式
 - [kosme/fix_fft](https://github.com/kosme/fix_fft) - Fix_fft library
@@ -276,6 +276,7 @@
 
 ## Python 
 
+- [SonyResearch/LineBufferNet](https://github.com/SonyResearch/LineBufferNet) - 
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [MarcelLeon/skills-zh](https://github.com/MarcelLeon/skills-zh) - agent-skills: Skills 中文本土化适配版
