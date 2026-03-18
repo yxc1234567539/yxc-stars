@@ -276,6 +276,11 @@
 
 ## Python 
 
+- [lpiccinelli-eth/UniK3D](https://github.com/lpiccinelli-eth/UniK3D) - [CVPR 2025] UniK3D: Universal Camera Monocular 3D Estimation
+- [DY112/CCMNet](https://github.com/DY112/CCMNet) - [ICCV'25] CCMNet: Leveraging Calibrated Color Correction Matrices for Cross-Camera Color Constancy
+- [ant-research/edicho](https://github.com/ant-research/edicho) - [ICCV 2025] Edicho: Consistent Image Editing in the Wild
+- [LXDxmu/GRMP-IQA](https://github.com/LXDxmu/GRMP-IQA) - [ICCV 2025] Few-Shot Image Quality Assessment via Adaptation of Vision-Language Models
+- [oufuzhao/MR-FIQA](https://github.com/oufuzhao/MR-FIQA) - Code for MR-FIQA: Face Image Quality Assessment with Multi-Reference Representations from Synthetic Data Generation
 - [SonyResearch/LineBufferNet](https://github.com/SonyResearch/LineBufferNet) - 
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
@@ -330,7 +335,6 @@
 - [shenmintao/Raw-Alchemy](https://github.com/shenmintao/Raw-Alchemy) - Bridge the gap between photo and video color grading. Accurately apply any creative LUT to your RAW files with this tool.
 - [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation (AAAI 2025 Oral)
 - [alibaba-damo-academy/T2I-Distill](https://github.com/alibaba-damo-academy/T2I-Distill) - [Tutorial] Few-Step Distillation for Text-to-Image Generation: A Practical Guide
-- [thanhkaist/AttentionResnet](https://github.com/thanhkaist/AttentionResnet) - Classification with backbone Resnet and attentions: SE-Channel Attention, BAM - (Spatial Attention, Channel Attention, Joint Attention), CBAM - (Spatial Attention, Channel Attention, Joint Attention)
 - [changzheng123/L-CAD](https://github.com/changzheng123/L-CAD) - Implementation for "L-CAD: Language-based Colorization with Any-level Descriptions using Diffusion Priors"
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
 - [OmarSZamzam/PixelShuffler](https://github.com/OmarSZamzam/PixelShuffler) - 
