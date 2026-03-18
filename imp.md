@@ -8,3 +8,7 @@
 - [sen-mao/InterLCM](https://github.com/sen-mao/InterLCM) - [ICLR2025] Official Implementations "InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration"
 - [csslc/CCSR](https://github.com/csslc/CCSR) - [TIP2026] Official codes of CCSRv2 and CCSRv1: Improving the Stability and Efficiency of Diffusion Models for Content Consistent Super-Resolution 超分 controlnet 训练
 - [snap-research/InstantRestore](https://github.com/snap-research/InstantRestore) - Official Implementation for "InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention"  人脸 参考 带训练
+- [tianweiy/DMD2](https://github.com/tianweiy/DMD2) - (NeurIPS 2024 Oral 🔥) Improved Distribution Matching Distillation for Fast Image Synthesis 有训练
+- [1202kbs/GCTM](https://github.com/1202kbs/GCTM) - Official PyTorch implementation of "Generalized Consistency Trajectory Models for Image Manipulation" 一致性模型
+- [gosha20777/cmKAN](https://github.com/gosha20777/cmKAN) - Color Matching Using Hypernetwork-Based Kolmogorov-Arnold Networks 小网络
+- [ZhengPeng7/BiRefNet](https://github.com/ZhengPeng7/BiRefNet) - [CAAI AIR'24] Bilateral Reference for High-Resolution Dichotomous Image Segmentation 显著性 分割
