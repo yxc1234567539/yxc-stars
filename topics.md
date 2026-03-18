@@ -115,6 +115,8 @@
 
 ## computer-vision 
 
+- [lpiccinelli-eth/UniK3D](https://github.com/lpiccinelli-eth/UniK3D) - [CVPR 2025] UniK3D: Universal Camera Monocular 3D Estimation
+- [oufuzhao/MR-FIQA](https://github.com/oufuzhao/MR-FIQA) - Code for MR-FIQA: Face Image Quality Assessment with Multi-Reference Representations from Synthetic Data Generation
 - [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
 - [ZouShilong1024/CycleDiff](https://github.com/ZouShilong1024/CycleDiff) - Code for TIP2026 paper: CycleDiff: Cycle Diffusion Models for Unpaired Image-to-image Translation
 - [bupt-ai-cz/BCI](https://github.com/bupt-ai-cz/BCI) - BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix
@@ -311,6 +313,7 @@
 
 ## image-processing 
 
+- [oufuzhao/MR-FIQA](https://github.com/oufuzhao/MR-FIQA) - Code for MR-FIQA: Face Image Quality Assessment with Multi-Reference Representations from Synthetic Data Generation
 - [lixinustc/Awesome-diffusion-model-for-image-processing](https://github.com/lixinustc/Awesome-diffusion-model-for-image-processing) - one summary of diffusion-based image processing, including restoration, enhancement, coding, quality assessment
 - [vitorsr/exact-histogram-specification](https://github.com/vitorsr/exact-histogram-specification) - Fast implementation of "Exact Histogram Specification" by Coltuc et al.
 - [StefanoD/ExactHistogramSpecification](https://github.com/StefanoD/ExactHistogramSpecification) - Exact histogram matching implementation of Dinu Coltuc et al.
@@ -438,6 +441,9 @@
 
 ## others 
 
+- [DY112/CCMNet](https://github.com/DY112/CCMNet) - [ICCV'25] CCMNet: Leveraging Calibrated Color Correction Matrices for Cross-Camera Color Constancy
+- [ant-research/edicho](https://github.com/ant-research/edicho) - [ICCV 2025] Edicho: Consistent Image Editing in the Wild
+- [LXDxmu/GRMP-IQA](https://github.com/LXDxmu/GRMP-IQA) - [ICCV 2025] Few-Shot Image Quality Assessment via Adaptation of Vision-Language Models
 - [SonyResearch/LineBufferNet](https://github.com/SonyResearch/LineBufferNet) - 
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [0voice/awesome_audio_video_learning](https://github.com/0voice/awesome_audio_video_learning) - 2025年音视频开发最新总结，提供全面的音视频开发学习资源，涵盖从基础知识到实战项目的资料、论文、书籍、项目和示例，帮助你快速热门并逐步进阶，持续更新维护中！
@@ -500,7 +506,6 @@
 - [shenmintao/Raw-Alchemy](https://github.com/shenmintao/Raw-Alchemy) - Bridge the gap between photo and video color grading. Accurately apply any creative LUT to your RAW files with this tool.
 - [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation (AAAI 2025 Oral)
 - [alibaba-damo-academy/T2I-Distill](https://github.com/alibaba-damo-academy/T2I-Distill) - [Tutorial] Few-Step Distillation for Text-to-Image Generation: A Practical Guide
-- [thanhkaist/AttentionResnet](https://github.com/thanhkaist/AttentionResnet) - Classification with backbone Resnet and attentions: SE-Channel Attention, BAM - (Spatial Attention, Channel Attention, Joint Attention), CBAM - (Spatial Attention, Channel Attention, Joint Attention)
 - [changzheng123/L-CAD](https://github.com/changzheng123/L-CAD) - Implementation for "L-CAD: Language-based Colorization with Any-level Descriptions using Diffusion Priors"
 - [CyberAgentAILab/Palette2Image](https://github.com/CyberAgentAILab/Palette2Image) - Official implementation of Exploring Palette based Color Guidance in Diffusion Models, ACM MM 2025.
 - [OmarSZamzam/PixelShuffler](https://github.com/OmarSZamzam/PixelShuffler) - 
