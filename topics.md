@@ -441,6 +441,7 @@
 
 ## others 
 
+- [Q-Future/Co-Instruct](https://github.com/Q-Future/Co-Instruct) - ④[ECCV 2024 Oral, Comparison among Multiple Images!] A study on open-ended multi-image quality comparison: a dataset, a model and a benchmark.
 - [isl-org/PhotorealismEnhancement](https://github.com/isl-org/PhotorealismEnhancement) - Code & Data for Enhancing Photorealism Enhancement
 - [DY112/CCMNet](https://github.com/DY112/CCMNet) - [ICCV'25] CCMNet: Leveraging Calibrated Color Correction Matrices for Cross-Camera Color Constancy
 - [ant-research/edicho](https://github.com/ant-research/edicho) - [ICCV 2025] Edicho: Consistent Image Editing in the Wild
