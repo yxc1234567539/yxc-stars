@@ -34,6 +34,7 @@
 
 - [ANSANJAY/LinuxCoredumpValgrind](https://github.com/ANSANJAY/LinuxCoredumpValgrind) - A comprehensive guide to debugging in Linux with emphasis on core dumps and Valgrind. Dive into practical examples with source codes and documentation, aiding both beginners and professionals.
 - [NceBoy/NceAlg](https://github.com/NceBoy/NceAlg) - rv1126,rk1808,hisi3516dv300,hisi3559av100,mnn,nnie,npu,vfnet,retinaface,arcface,centernet,ttf,yolox,detect,alg. This is a cross-platform algorithm framework./跨平台异构算法推理框架
+- [Netflix/vmaf](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
 - [immanuelsch/gegl-HDR-ColorMapper](https://github.com/immanuelsch/gegl-HDR-ColorMapper) - Algorithm for chromatic consistency during luminance re-mapping.
 - [nothings/stb](https://github.com/nothings/stb) - stb single-file public domain libraries for C/C++
 - [Dylanin1999/ISP_Algorithm](https://github.com/Dylanin1999/ISP_Algorithm) - 传统的图像处理相关算法的代码实现
@@ -288,6 +289,7 @@
 - [SonyResearch/LineBufferNet](https://github.com/SonyResearch/LineBufferNet) - 
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
+- [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit
 - [MarcelLeon/skills-zh](https://github.com/MarcelLeon/skills-zh) - agent-skills: Skills 中文本土化适配版
 - [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
 - [FlowAlign/FlowAlign](https://github.com/FlowAlign/FlowAlign) - Official repository of FlowAlign
@@ -334,7 +336,6 @@
 - [showlab/OmniConsistency](https://github.com/showlab/OmniConsistency) - The official code implementation of the paper "OmniConsistency: Learning Style-Agnostic Consistency from Paired Stylization Data."
 - [prs-eth/Marigold](https://github.com/prs-eth/Marigold) - [CVPR 2024 - Oral, Best Paper Award Candidate] Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation
 - [gojasper/LBM](https://github.com/gojasper/LBM) - LBM: Latent Bridge Matching for Fast Image-to-Image Translation ✨ (ICCV 2025 Highlight)
-- [Netflix/vmaf](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
 - [elerac/structuredlight](https://github.com/elerac/structuredlight) - Generate and Decode structured light. Binary, Gray, XOR, Ramp, Phase-Shifting, Stripe.
 - [shenmintao/Raw-Alchemy](https://github.com/shenmintao/Raw-Alchemy) - Bridge the gap between photo and video color grading. Accurately apply any creative LUT to your RAW files with this tool.
 - [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation (AAAI 2025 Oral)
@@ -956,7 +957,6 @@
 
 ## TypeScript 
 
-- [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - Agent Skills 终极指南：快速入门、资源推荐、精选技能与工具组合 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit
 - [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - An app for managing github starred repositories.
 
 ## Typst 
