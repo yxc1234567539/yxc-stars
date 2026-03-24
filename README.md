@@ -131,6 +131,8 @@
 
 ## Jupyter Notebook 
 
+- [Liuziyu77/Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) - Official repository of 'Visual-RFT: Visual Reinforcement Fine-Tuning' & 'Visual-ARFT: Visual Agentic Reinforcement Fine-Tuning'’
+- [Q-Future/Q-Bench](https://github.com/Q-Future/Q-Bench) - ①[ICLR2024 Spotlight] (GPT-4V/Gemini-Pro/Qwen-VL-Plus+16 OS MLLMs) A benchmark for multi-modality LLMs (MLLMs) on low-level vision and visual quality assessment.
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
 - [tsmatz/diffusion-tutorials](https://github.com/tsmatz/diffusion-tutorials) - Theoretical introduction and examples for diffusion model algorithms
 - [Qualcomm-AI-research/clockwork-diffusion](https://github.com/Qualcomm-AI-research/clockwork-diffusion) - 
@@ -279,6 +281,9 @@
 
 ## Python 
 
+- [TianheWu/VisualQuality-R1](https://github.com/TianheWu/VisualQuality-R1) - [NeurIPS 2025 Spotlight] VisualQuality-R1 is the first open-sourced NR-IQA model can accurately describe and rate the image quality.
+- [CIawevy/TextPecker](https://github.com/CIawevy/TextPecker) - [CVPR2026] TextPecker: Rewarding Structural Anomaly Quantification for Enhancing Visual Text Rendering
+- [VamosC/CLIP4STR](https://github.com/VamosC/CLIP4STR) - An implementation of "CLIP4STR: A Simple Baseline for Scene Text Recognition with Pre-trained Vision-Language Model".
 - [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) - 入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.
 - [isl-org/PhotorealismEnhancement](https://github.com/isl-org/PhotorealismEnhancement) - Code & Data for Enhancing Photorealism Enhancement
 - [lpiccinelli-eth/UniK3D](https://github.com/lpiccinelli-eth/UniK3D) - [CVPR 2025] UniK3D: Universal Camera Monocular 3D Estimation
@@ -417,6 +422,7 @@
 - [wd1511/PDNLA-Net](https://github.com/wd1511/PDNLA-Net) - Unsupervised Deep Exemplar Colorization via Pyramid Dual Non-local Attention (TIP 2023)
 - [jixiaozhong/ColorFormer](https://github.com/jixiaozhong/ColorFormer) - 
 - [p16i/siamese-net-and-friends](https://github.com/p16i/siamese-net-and-friends) - 
+- [lucidrains/pixel-level-contrastive-learning](https://github.com/lucidrains/pixel-level-contrastive-learning) - Implementation of Pixel-level Contrastive Learning, proposed in the paper "Propagate Yourself", in Pytorch
 - [seanbenhur/siamese_net](https://github.com/seanbenhur/siamese_net) - Signature verification system using Siamese networks
 - [we0091234/crnn_plate_recognition](https://github.com/we0091234/crnn_plate_recognition) - crnn chinese_plate_recognition
 - [myscience/hierarchy-flow](https://github.com/myscience/hierarchy-flow) - Unofficial implementation of Hierarchical Flow (image-to-image) for didactic purposes
@@ -631,6 +637,7 @@
 - [zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis](https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis) - Pytorch implementation of paper "One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing"
 - [ZYM-PKU/UDiffText](https://github.com/ZYM-PKU/UDiffText) - [ECCV 2024] Official repo for UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models
 - [ronjonxu/NAID](https://github.com/ronjonxu/NAID) - [IEEE TMM 2024] NIR-Assisted Image Denoising: A Selective Fusion Approach and A Real-World Benchmark Dataset
+- [lucidrains/stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) - Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement
 - [NVlabs/stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch) - StyleGAN2-ADA - Official PyTorch implementation
 - [minnu03/human_face_restoration_using_GFPGAN](https://github.com/minnu03/human_face_restoration_using_GFPGAN) - Major Project in deep learning along with entire documentation
 - [caiyuanhao1998/PNGAN](https://github.com/caiyuanhao1998/PNGAN) - "Learning to Generate Realistic Noisy Images via Pixel-level Noise-aware Adversarial Training" (NeurIPS 2021)
