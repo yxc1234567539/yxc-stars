@@ -98,7 +98,9 @@
 
 ## artificial-intelligence 
 
+- [lucidrains/pixel-level-contrastive-learning](https://github.com/lucidrains/pixel-level-contrastive-learning) - Implementation of Pixel-level Contrastive Learning, proposed in the paper "Propagate Yourself", in Pytorch
 - [djosix/IconFlow](https://github.com/djosix/IconFlow) - Code for "Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization", CVPR 2022.
+- [lucidrains/stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) - Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement
 
 ## awesome 
 
@@ -210,6 +212,7 @@
 - [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
 - [Kaminyou/Kernelized-Instance-Normalization](https://github.com/Kaminyou/Kernelized-Instance-Normalization) - [ECCV 2022] Official implementation of "Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization"
+- [lucidrains/pixel-level-contrastive-learning](https://github.com/lucidrains/pixel-level-contrastive-learning) - Implementation of Pixel-level Contrastive Learning, proposed in the paper "Propagate Yourself", in Pytorch
 - [JarrentWu1031/CCPL](https://github.com/JarrentWu1031/CCPL) - [ECCV 2022 Oral] Official Pytorch implementation of CCPL and SCTNet
 - [Royalvice/DocDiff](https://github.com/Royalvice/DocDiff) - ACM Multimedia 2023: DocDiff: Document Enhancement via Residual Diffusion Models. Also contains 1597 red seals in Chinese scenes, along with their corresponding binary masks.
 - [dali92002/DE-GAN](https://github.com/dali92002/DE-GAN) - Document Image Enhancement with GANs - TPAMI journal
@@ -394,6 +397,7 @@
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [djosix/IconFlow](https://github.com/djosix/IconFlow) - Code for "Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization", CVPR 2022.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+- [lucidrains/stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) - Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement
 - [SmirkCao/Lihang](https://github.com/SmirkCao/Lihang) - Statistical learning methods, 统计学习方法(第2版)[李航]  [笔记, 代码, notebook, 参考文献, Errata, lihang]
 - [frobertpixto/hand-drawn-shapes-dataset](https://github.com/frobertpixto/hand-drawn-shapes-dataset) - Hand-drawn Shapes (HDS) Dataset. Images like Rectangles, Ellipses and Triangles
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
@@ -441,6 +445,11 @@
 
 ## others 
 
+- [TianheWu/VisualQuality-R1](https://github.com/TianheWu/VisualQuality-R1) - [NeurIPS 2025 Spotlight] VisualQuality-R1 is the first open-sourced NR-IQA model can accurately describe and rate the image quality.
+- [Liuziyu77/Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) - Official repository of 'Visual-RFT: Visual Reinforcement Fine-Tuning' & 'Visual-ARFT: Visual Agentic Reinforcement Fine-Tuning'’
+- [CIawevy/TextPecker](https://github.com/CIawevy/TextPecker) - [CVPR2026] TextPecker: Rewarding Structural Anomaly Quantification for Enhancing Visual Text Rendering
+- [Q-Future/Q-Bench](https://github.com/Q-Future/Q-Bench) - ①[ICLR2024 Spotlight] (GPT-4V/Gemini-Pro/Qwen-VL-Plus+16 OS MLLMs) A benchmark for multi-modality LLMs (MLLMs) on low-level vision and visual quality assessment.
+- [VamosC/CLIP4STR](https://github.com/VamosC/CLIP4STR) - An implementation of "CLIP4STR: A Simple Baseline for Scene Text Recognition with Pre-trained Vision-Language Model".
 - [Q-Future/Co-Instruct](https://github.com/Q-Future/Co-Instruct) - ④[ECCV 2024 Oral, Comparison among Multiple Images!] A study on open-ended multi-image quality comparison: a dataset, a model and a benchmark.
 - [isl-org/PhotorealismEnhancement](https://github.com/isl-org/PhotorealismEnhancement) - Code & Data for Enhancing Photorealism Enhancement
 - [DY112/CCMNet](https://github.com/DY112/CCMNet) - [ICCV'25] CCMNet: Leveraging Calibrated Color Correction Matrices for Cross-Camera Color Constancy
@@ -1184,6 +1193,7 @@
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [Ha0Tang/AttentionGAN](https://github.com/Ha0Tang/AttentionGAN) - AttentionGAN for Unpaired Image-to-Image Translation & Multi-Domain Image-to-Image Translation
 - [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
+- [lucidrains/stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) - Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement
 - [1adrianb/face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 - [Algolzw/daclip-uir](https://github.com/Algolzw/daclip-uir) - [ICLR 2024] Controlling Vision-Language Models for Universal Image Restoration. 5th place in the NTIRE 2024 Restore Any Image Model in the Wild Challenge.
