@@ -51,3 +51,9 @@
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
 - [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn) - C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
 - [woodx9/minimal-embedding-server](https://github.com/woodx9/minimal-embedding-server) - a embedding infer server faster than vllm and sglang gpu llm 学习
+
+
+- [AomanHao/ImageProcessing100Wen](https://github.com/AomanHao/ImageProcessing100Wen) - 「画像処理100本ノック」中文版本！为图像处理初学者设计的 100 个问题。
+- [coolxv/knowledge](https://github.com/coolxv/knowledge) - 
+- [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
+- [parallel101/cppguidebook](https://github.com/parallel101/cppguidebook) - 小彭老师领衔编写，现代C++的中文百科全书
