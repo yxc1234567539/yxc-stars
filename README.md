@@ -13,6 +13,7 @@
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [MATLAB](#matlab)
 - [Metal](#metal)
@@ -28,6 +29,7 @@
 
 ## Assembly 
 
+- [espressif/esp-dl](https://github.com/espressif/esp-dl) - Espressif deep-learning library for AIoT applications
 - [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points
 
 ## C 
@@ -55,6 +57,7 @@
 
 ## C++ 
 
+- [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
 - [mcpp-community/d2mcpp](https://github.com/mcpp-community/d2mcpp) - D2X | Modern C++ Core Language Features - "A C++ tutorial project focused on practical"
 - [harry7557558/Graphics](https://github.com/harry7557558/Graphics) - Source files for my experiments not limited to computer graphics.
 - [chenjunkai2018/Photoshop_algorithm](https://github.com/chenjunkai2018/Photoshop_algorithm) - the Photoshop algorithm
@@ -128,6 +131,10 @@
 ## Haskell 
 
 - [damianfral/colortransfer](https://github.com/damianfral/colortransfer) - A small tool to try to transfer colors between images.
+
+## JavaScript 
+
+- [mohitmishra786/low-level-dev-skills](https://github.com/mohitmishra786/low-level-dev-skills) - A curated suite of AI agent skills for systems and low-level programming with C/C++, Rust, and Zig toolchains, covering compilers, debuggers, profilers, build systems, sanitizers, and binary analysis
 
 ## Jupyter Notebook 
 
@@ -281,6 +288,10 @@
 
 ## Python 
 
+- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+- [AMAP-ML/Q-Hawkeye](https://github.com/AMAP-ML/Q-Hawkeye) - 
+- [LongYu-LY/CD-Reasoning](https://github.com/LongYu-LY/CD-Reasoning) - CD-Reasoning code
+- [francof2a/fxpmath](https://github.com/francof2a/fxpmath) - A python library for fractional fixed-point (base 2) arithmetic and binary manipulation with Numpy compatibility.
 - [TianheWu/VisualQuality-R1](https://github.com/TianheWu/VisualQuality-R1) - [NeurIPS 2025 Spotlight] VisualQuality-R1 is the first open-sourced NR-IQA model can accurately describe and rate the image quality.
 - [CIawevy/TextPecker](https://github.com/CIawevy/TextPecker) - [CVPR2026] TextPecker: Rewarding Structural Anomaly Quantification for Enhancing Visual Text Rendering
 - [VamosC/CLIP4STR](https://github.com/VamosC/CLIP4STR) - An implementation of "CLIP4STR: A Simple Baseline for Scene Text Recognition with Pre-trained Vision-Language Model".
@@ -383,7 +394,7 @@
 - [n-kubiak/S3R-Net](https://github.com/n-kubiak/S3R-Net) - Code repo for "S3R-Net: A Single-Stage Approach to Self-Supervised Shadow Removal" (NTIRE workshop @ CVPR 2024)
 - [suhas-srinath/undive](https://github.com/suhas-srinath/undive) - Official repository for our paper titled "UnDIVE: Generalized Underwater Video Enhancement Using Generative Priors"
 - [zzr-idam/4KDehazing](https://github.com/zzr-idam/4KDehazing) - 
-- [CVL-UESTC/BPAM](https://github.com/CVL-UESTC/BPAM) - ICCV2025-Learning Pixel-adaptive Multi-layer Perceptrons for Real-time Image
+- [CVL-UESTC/BPAM](https://github.com/CVL-UESTC/BPAM) - ICCV2025-Learning Pixel-adaptive Multi-layer Perceptrons for Real-time Image Enhancement
 - [AFeng-x/PixWizard](https://github.com/AFeng-x/PixWizard) - [ICLR2025] A versatile image-to-image visual assistant, designed for image generation, manipulation, and translation based on free-from user instructions.
 - [sevenHsu/FaceMask_CelebA](https://github.com/sevenHsu/FaceMask_CelebA) - Simulated masked face with dataset CelebA
 - [flrs/blend_modes](https://github.com/flrs/blend_modes) - Python package that implements image blend modes
