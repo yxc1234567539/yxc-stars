@@ -23,9 +23,10 @@
 - [data-visualization](#data-visualization)
 - [deep-learning](#deep-learning)
 - [docker](#docker)
+- [embedded](#embedded)
+- [finance](#finance)
 - [font](#font)
 - [framework](#framework)
-- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -52,6 +53,7 @@
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
+- [quantitative-finance](#quantitative-finance)
 - [react](#react)
 - [react-native](#react-native)
 - [rust](#rust)
@@ -60,12 +62,14 @@
 - [stable-diffusion](#stable-diffusion)
 - [swift](#swift)
 - [tensorflow](#tensorflow)
+- [trading](#trading)
 - [verilog](#verilog)
 - [video](#video)
 - [vim](#vim)
 - [visualization](#visualization)
 - [vue](#vue)
 - [youtube](#youtube)
+- [zig](#zig)
 
 ## 3d 
 
@@ -73,7 +77,8 @@
 
 ## agent 
 
-- [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - Agent Skills 终极指南：快速入门、资源推荐、精选技能与工具组合 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit
+- [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) - 入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.
+- [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit
 
 ## ai 
 
@@ -95,10 +100,13 @@
 
 ## artificial-intelligence 
 
+- [lucidrains/pixel-level-contrastive-learning](https://github.com/lucidrains/pixel-level-contrastive-learning) - Implementation of Pixel-level Contrastive Learning, proposed in the paper "Propagate Yourself", in Pytorch
 - [djosix/IconFlow](https://github.com/djosix/IconFlow) - Code for "Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization", CVPR 2022.
+- [lucidrains/stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) - Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement
 
 ## awesome 
 
+- [chaofengc/Awesome-Image-Quality-Assessment](https://github.com/chaofengc/Awesome-Image-Quality-Assessment) - A comprehensive collection of IQA papers
 - [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the communit
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [yeungchenwa/Recommendations-Diffusion-Text-Image](https://github.com/yeungchenwa/Recommendations-Diffusion-Text-Image) - A paper collection of recent diffusion models for text-image generation tasks, e,g., visual text generation, font generation, text removal, text image super resolution, text editing, handwritten gener
@@ -106,6 +114,7 @@
 
 ## awesome-list 
 
+- [chaofengc/Awesome-Image-Quality-Assessment](https://github.com/chaofengc/Awesome-Image-Quality-Assessment) - A comprehensive collection of IQA papers
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [G-U-N/Awesome-Consistency-Models](https://github.com/G-U-N/Awesome-Consistency-Models) - Awesome List of Consistency Models
 
@@ -201,16 +210,14 @@
 - [NWPU-LHH/WFLM-GAN](https://github.com/NWPU-LHH/WFLM-GAN) - WFLM-GAN：Multiscale Generative Adversarial Network Based on Wavelet Feature Learning for SAR-to-Optical Image Translation
 - [NICALab/STABLE](https://github.com/NICALab/STABLE) - Preserving Spatial and Quantitative Information in Unpaired Biomedical Image-to-Image Translation
 - [harry7557558/Graphics](https://github.com/harry7557558/Graphics) - Source files for my experiments not limited to computer graphics.
-- [steq28/e2gan](https://github.com/steq28/e2gan) - E2GAN: Efficient Training of Efficient GANs for Image-to-Image Translation
 - [snap-research/CAT](https://github.com/snap-research/CAT) - [CVPR 2021] Teachers Do More Than Teach: Compressing Image-to-Image Models (CAT)
 - [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
 - [Kaminyou/Kernelized-Instance-Normalization](https://github.com/Kaminyou/Kernelized-Instance-Normalization) - [ECCV 2022] Official implementation of "Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization"
+- [lucidrains/pixel-level-contrastive-learning](https://github.com/lucidrains/pixel-level-contrastive-learning) - Implementation of Pixel-level Contrastive Learning, proposed in the paper "Propagate Yourself", in Pytorch
 - [JarrentWu1031/CCPL](https://github.com/JarrentWu1031/CCPL) - [ECCV 2022 Oral] Official Pytorch implementation of CCPL and SCTNet
-- [Reyhanehne/CVF-SID_PyTorch](https://github.com/Reyhanehne/CVF-SID_PyTorch) - Official implementation of the paper "CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image" (CVPR 2022)
 - [Royalvice/DocDiff](https://github.com/Royalvice/DocDiff) - ACM Multimedia 2023: DocDiff: Document Enhancement via Residual Diffusion Models. Also contains 1597 red seals in Chinese scenes, along with their corresponding binary masks.
 - [dali92002/DE-GAN](https://github.com/dali92002/DE-GAN) - Document Image Enhancement with GANs - TPAMI journal
-- [Jzy2017/TOPAL](https://github.com/Jzy2017/TOPAL) - TCSVT 2022 | Target Oriented Perceptual Adversarial Fusion Network for Underwater Image Enhancement.
 - [kkanshul/finegan](https://github.com/kkanshul/finegan) - FineGAN: Unsupervised Hierarchical Disentanglement for Fine-grained Object Generation and Discovery
 - [FilippoBotti/Avoiding-Shortcuts-in-Unpaired-Image-to-Image-Translation](https://github.com/FilippoBotti/Avoiding-Shortcuts-in-Unpaired-Image-to-Image-Translation) - This repository contains the PyTorch code for our ICIAP 2021 paper “Avoiding Shortcuts in Unpaired Image-to-Image Translation”.
 - [SamPujade/image-colorization](https://github.com/SamPujade/image-colorization) - Landscape and face image colorization with Generative Adversarial Networks (GANs)
@@ -253,7 +260,6 @@
 - [cszn/KAIR](https://github.com/cszn/KAIR) - Image Restoration Toolbox (PyTorch). Training and testing codes for DPIR, USRNet, DnCNN, FFDNet, SRMD, DPSR, BSRGAN, SwinIR
 - [jakc4103/DFQ](https://github.com/jakc4103/DFQ) - PyTorch implementation of Data Free Quantization Through Weight Equalization and Bias Correction.
 - [WangQvQ/YOLOMagic](https://github.com/WangQvQ/YOLOMagic) - YOLO Magic🪄 is an extension based on Ultralytics' YOLOv5, designed to provide more powerful functionality and simpler operations for visual tasks.
-- [microsoft/VoTT](https://github.com/microsoft/VoTT) - Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.
 - [CGLab-GIST/RIDFnF](https://github.com/CGLab-GIST/RIDFnF) - An official source code of AAAI 2023 paper, "Robust Image Denoising of No-Flash Images Guided by Consistent Flash Images".
 - [jinyeying/night-enhancement](https://github.com/jinyeying/night-enhancement) - [ECCV2022] "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",  https://arxiv.org/abs/2207.10564
 - [hellloxiaotian/CFSRCNN](https://github.com/hellloxiaotian/CFSRCNN) - Coarse-to-Fine CNN for Image Super-Resolution (IEEE Transactions on Multimedia,2021)
@@ -267,13 +273,20 @@
 - [zzh-tech/RSCD](https://github.com/zzh-tech/RSCD) - [CVPR2021] Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes
 - [hejingwenhejingwen/CResMD](https://github.com/hejingwenhejingwen/CResMD) - (ECCV 2020) Interactive Multi-Dimension Modulation with Dynamic Controllable Residual Learning for Image Restoration
 - [codeslake/DMENet](https://github.com/codeslake/DMENet) - [CVPR 2019] Official TensorFlow Implementation for "Deep Defocus Map Estimation using Domain Adaptation"
-- [nianticlabs/stereo-from-mono](https://github.com/nianticlabs/stereo-from-mono) - [ECCV 2020] Learning stereo from single images using monocular depth estimation networks
 - [richzhang/colorization-pytorch](https://github.com/richzhang/colorization-pytorch) - PyTorch reimplementation of Interactive Deep Colorization
 
 ## docker 
 
 - [a-nau/synthetic-dataset-generation](https://github.com/a-nau/synthetic-dataset-generation) - Easily create an instance segmentation dataset from an existing pool of objects of interest, distractor objects and background images. Easy configuration, diverse image compositions, multiple blending
 - [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
+
+## embedded 
+
+- [mohitmishra786/low-level-dev-skills](https://github.com/mohitmishra786/low-level-dev-skills) - A curated suite of AI agent skills for systems and low-level programming with C/C++, Rust, and Zig toolchains, covering compilers, debuggers, profilers, build systems, sanitizers, and binary analysis
+
+## finance 
+
+- [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) - 入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.
 
 ## font 
 
@@ -282,10 +295,6 @@
 ## framework 
 
 - [modelbox-ai/modelbox](https://github.com/modelbox-ai/modelbox) - A high performance, high expansion, easy to use framework for AI application. 为AI应用的开发者提供一套统一的高性能、易用的编程框架，快速基于AI全栈服务、开发跨端边云的AI行业应用，支持GPU，NPU加速。
-
-## generative-ai 
-
-- [huggingface/instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) - Code for instruction-tuning Stable Diffusion.
 
 ## git 
 
@@ -319,7 +328,6 @@
 - [StefanoD/ExactHistogramSpecification](https://github.com/StefanoD/ExactHistogramSpecification) - Exact histogram matching implementation of Dinu Coltuc et al.
 - [elimkwan/Bilateral-Guided-Upsampling](https://github.com/elimkwan/Bilateral-Guided-Upsampling) - A python implementation of Bilateral Guided Upsampling for accelerating image processing
 - [mzur/pyJBU](https://github.com/mzur/pyJBU) - A Python implementation of Joint Bilateral Upsampling
-- [setanarut/decompose](https://github.com/setanarut/decompose) - Decompose image into layers (Fast Soft Color Segmentation)
 - [freedomofme/SampleRecolor](https://github.com/freedomofme/SampleRecolor) - 基于线性映射模板的色彩转移(Based on Image recoloring using linear template mapping)
 - [sunsided/stroke-width-transform](https://github.com/sunsided/stroke-width-transform) - Python implementation of and experiments with the Stroke Width Transformation and connected components filtering.
 - [Fediory/HVI-CIDNet](https://github.com/Fediory/HVI-CIDNet) - [CVPR2025 && NTIRE2025] HVI: A New Color Space for Low-light Image Enhancement (Official Implementation)
@@ -381,6 +389,7 @@
 
 ## llm 
 
+- [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) - 入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
@@ -394,6 +403,7 @@
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [djosix/IconFlow](https://github.com/djosix/IconFlow) - Code for "Style-Structure Disentangled Features and Normalizing Flows for Diverse Icon Colorization", CVPR 2022.
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+- [lucidrains/stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) - Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement
 - [SmirkCao/Lihang](https://github.com/SmirkCao/Lihang) - Statistical learning methods, 统计学习方法(第2版)[李航]  [笔记, 代码, notebook, 参考文献, Errata, lihang]
 - [frobertpixto/hand-drawn-shapes-dataset](https://github.com/frobertpixto/hand-drawn-shapes-dataset) - Hand-drawn Shapes (HDS) Dataset. Images like Rectangles, Ellipses and Triangles
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
@@ -441,6 +451,18 @@
 
 ## others 
 
+- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+- [AMAP-ML/Q-Hawkeye](https://github.com/AMAP-ML/Q-Hawkeye) - 
+- [LongYu-LY/CD-Reasoning](https://github.com/LongYu-LY/CD-Reasoning) - CD-Reasoning code
+- [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
+- [espressif/esp-dl](https://github.com/espressif/esp-dl) - Espressif deep-learning library for AIoT applications
+- [TianheWu/VisualQuality-R1](https://github.com/TianheWu/VisualQuality-R1) - [NeurIPS 2025 Spotlight] VisualQuality-R1 is the first open-sourced NR-IQA model can accurately describe and rate the image quality.
+- [Liuziyu77/Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) - Official repository of 'Visual-RFT: Visual Reinforcement Fine-Tuning' & 'Visual-ARFT: Visual Agentic Reinforcement Fine-Tuning'’
+- [CIawevy/TextPecker](https://github.com/CIawevy/TextPecker) - [CVPR2026] TextPecker: Rewarding Structural Anomaly Quantification for Enhancing Visual Text Rendering
+- [Q-Future/Q-Bench](https://github.com/Q-Future/Q-Bench) - ①[ICLR2024 Spotlight] (GPT-4V/Gemini-Pro/Qwen-VL-Plus+16 OS MLLMs) A benchmark for multi-modality LLMs (MLLMs) on low-level vision and visual quality assessment.
+- [VamosC/CLIP4STR](https://github.com/VamosC/CLIP4STR) - An implementation of "CLIP4STR: A Simple Baseline for Scene Text Recognition with Pre-trained Vision-Language Model".
+- [Q-Future/Co-Instruct](https://github.com/Q-Future/Co-Instruct) - ④[ECCV 2024 Oral, Comparison among Multiple Images!] A study on open-ended multi-image quality comparison: a dataset, a model and a benchmark.
+- [isl-org/PhotorealismEnhancement](https://github.com/isl-org/PhotorealismEnhancement) - Code & Data for Enhancing Photorealism Enhancement
 - [DY112/CCMNet](https://github.com/DY112/CCMNet) - [ICCV'25] CCMNet: Leveraging Calibrated Color Correction Matrices for Cross-Camera Color Constancy
 - [ant-research/edicho](https://github.com/ant-research/edicho) - [ICCV 2025] Edicho: Consistent Image Editing in the Wild
 - [LXDxmu/GRMP-IQA](https://github.com/LXDxmu/GRMP-IQA) - [ICCV 2025] Few-Shot Image Quality Assessment via Adaptation of Vision-Language Models
@@ -523,9 +545,6 @@
 - [gosha20777/cmKAN](https://github.com/gosha20777/cmKAN) - Color Matching Using Hypernetwork-Based Kolmogorov-Arnold Networks
 - [THUSIGSICLAB/HQG-Net](https://github.com/THUSIGSICLAB/HQG-Net) - 
 - [iMED-Lab/StillGAN](https://github.com/iMED-Lab/StillGAN) - Structure and Illumination Constrained GAN forMedical Image Quality Enhancement
-- [mummmml/Cycle-Retinex](https://github.com/mummmml/Cycle-Retinex) - The source code for "Cycle-Retinex: Unpaired Low-light Image Enhancement via Retinex-inline CycleGAN".
-- [YaoxinHuang/WTUNet](https://github.com/YaoxinHuang/WTUNet) - First  fully Wavelet Transformation-based U-Net.
-- [GeorgeEskandar/USIS-Unsupervised-Semantic-Image-Synthesis](https://github.com/GeorgeEskandar/USIS-Unsupervised-Semantic-Image-Synthesis) - 
 - [xiaoyu258/DocProj](https://github.com/xiaoyu258/DocProj) - Document Rectification and Illumination Correction using a Patch-based CNN
 - [eezkni/FDL](https://github.com/eezkni/FDL) - [CVPR-2024] Official Pytorch implementation of "Misalignment-Robust Frequency Distribution Loss for Image Transformation"
 - [BurguerJohn/global_perceptual_similarity_loss](https://github.com/BurguerJohn/global_perceptual_similarity_loss) - 
@@ -538,17 +557,13 @@
 - [chandrasekaraditya/PhISH-Net](https://github.com/chandrasekaraditya/PhISH-Net) - Official Implementation for "PhISH-Net: Physics Inspired System for High Resolution Underwater Image Enhancement"
 - [wwxb2012/digital_staining_knowledge_distillation](https://github.com/wwxb2012/digital_staining_knowledge_distillation) - 
 - [Kid-Liet/Reg-GAN](https://github.com/Kid-Liet/Reg-GAN) - 
-- [zhu-xlab/UCDFormer](https://github.com/zhu-xlab/UCDFormer) - Code for TGRS paper "UCDFormer: Unsupervised Change Detection Using a Transformer-driven Image Translation"
 - [n-kubiak/S3R-Net](https://github.com/n-kubiak/S3R-Net) - Code repo for "S3R-Net: A Single-Stage Approach to Self-Supervised Shadow Removal" (NTIRE workshop @ CVPR 2024)
 - [suhas-srinath/undive](https://github.com/suhas-srinath/undive) - Official repository for our paper titled "UnDIVE: Generalized Underwater Video Enhancement Using Generative Priors"
 - [zzr-idam/4KDehazing](https://github.com/zzr-idam/4KDehazing) - 
-- [SystemErrorWang/Joint-Bilateral-Photorealistic-Style-Transfer](https://github.com/SystemErrorWang/Joint-Bilateral-Photorealistic-Style-Transfer) - An unofficial implementation of paper "Joint Bilateral Learning for Real-time Universal Photorealistic Style Transfer"
-- [CVL-UESTC/BPAM](https://github.com/CVL-UESTC/BPAM) - ICCV2025-Learning Pixel-adaptive Multi-layer Perceptrons for Real-time Image
+- [CVL-UESTC/BPAM](https://github.com/CVL-UESTC/BPAM) - ICCV2025-Learning Pixel-adaptive Multi-layer Perceptrons for Real-time Image Enhancement
 - [AFeng-x/PixWizard](https://github.com/AFeng-x/PixWizard) - [ICLR2025] A versatile image-to-image visual assistant, designed for image generation, manipulation, and translation based on free-from user instructions.
 - [sevenHsu/FaceMask_CelebA](https://github.com/sevenHsu/FaceMask_CelebA) - Simulated masked face with dataset CelebA
 - [chenjunkai2018/Photoshop_algorithm](https://github.com/chenjunkai2018/Photoshop_algorithm) - the Photoshop algorithm
-- [SJLeo/DMAD](https://github.com/SJLeo/DMAD) - Pytorch implementation of our paper accepted by IEEE TMM, 2022 --Learning Efficient GANs for Image Translation via Differentiable Masks and co-Attention Distillation
-- [bytedance/OMGD](https://github.com/bytedance/OMGD) - Online Multi-Granularity Distillation for GAN Compression (ICCV2021)
 - [NVlabs/RADIO](https://github.com/NVlabs/RADIO) - Official repository for "AM-RADIO: Reduce All Domains Into One"
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 - [ArchipLab-LinfengZhang/wkd-datasets](https://github.com/ArchipLab-LinfengZhang/wkd-datasets) - This repository provides the dataset used in our cvpr2022 paper - wavelet knowledge distillation
@@ -561,7 +576,6 @@
 - [autonomousvision/projected-gan](https://github.com/autonomousvision/projected-gan) - [NeurIPS'21] Projected GANs Converge Faster
 - [little-misfit/GRAG-Image-Editing](https://github.com/little-misfit/GRAG-Image-Editing) - https://little-misfit.github.io/GRAG-Image-Editing/
 - [Mid-Push/santa](https://github.com/Mid-Push/santa) - Unpaired Image-to-Image Translation with Shortest Path Regularization
-- [FuyaLuo/PearlGAN](https://github.com/FuyaLuo/PearlGAN) - Image translation from Nighttime thermal infrared images to Daytime color images.
 - [alexandonian/contrastive-feature-loss](https://github.com/alexandonian/contrastive-feature-loss) - PyTorch implementation of Contrastive Feature Loss for Image Prediction (AIM Workshop at ICCV 2021)
 - [fnzhan/MoNCE](https://github.com/fnzhan/MoNCE) - [CVPR 2022] Modulated Contrast for Versatile Image Synthesis
 - [modelscope/modelscope-classroom](https://github.com/modelscope/modelscope-classroom) - 
@@ -576,29 +590,20 @@
 - [suxuann/ddib](https://github.com/suxuann/ddib) - Dual Diffusion Implicit Bridges for Image-to-Image Translation. ICLR 2023.
 - [Yuxinn-J/Scenimefy](https://github.com/Yuxinn-J/Scenimefy) - [ICCV 2023] Scenimefy: Learning to Craft Anime Scene via Semi-Supervised Image-to-Image Translation
 - [imlixinyang/HiSD](https://github.com/imlixinyang/HiSD) - Code for "Image-to-image Translation via Hierarchical Style Disentanglement" (CVPR 2021 Oral).
-- [zhaoyuzhi/Reference-Based-Sketch-Image-Colorization-ImageNet](https://github.com/zhaoyuzhi/Reference-Based-Sketch-Image-Colorization-ImageNet) - PyTorch implementation of CVPR 2020 paper (Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence) and pre-trained model on ImageNet dataset
 - [csguoh/ReFIR](https://github.com/csguoh/ReFIR) - [NeurIPS2024] Overcome hallucination of diffusion restoration models.
 - [ZhengPeng7/BiRefNet](https://github.com/ZhengPeng7/BiRefNet) - [CAAI AIR'24] Bilateral Reference for High-Resolution Dichotomous Image Segmentation
 - [odiofan/L1L0_TM-CVPR2018](https://github.com/odiofan/L1L0_TM-CVPR2018) - A Hybrid L1-L0 Layer Decomposition Model for Tone Mapping, CVPR 2018.
 - [xuzhongyou/Colorization](https://github.com/xuzhongyou/Colorization) - deep exemplar colorization
 - [wd1511/PDNLA-Net](https://github.com/wd1511/PDNLA-Net) - Unsupervised Deep Exemplar Colorization via Pyramid Dual Non-local Attention (TIP 2023)
-- [ErwannMillon/Color-diffusion](https://github.com/ErwannMillon/Color-diffusion) - A diffusion model to colorize black and white images
-- [Lhyejin/DG-Colorization](https://github.com/Lhyejin/DG-Colorization) - The official PyTorch implementation of "Bridging the Domain Gap towards Generalization in Automatic Colorization", [ECCV 2022].
 - [jixiaozhong/ColorFormer](https://github.com/jixiaozhong/ColorFormer) - 
 - [ioannislivieris/Grad_CAM_Siamese](https://github.com/ioannislivieris/Grad_CAM_Siamese) - 
 - [we0091234/crnn_plate_recognition](https://github.com/we0091234/crnn_plate_recognition) - crnn chinese_plate_recognition
-- [sapphire497/query-selected-attention](https://github.com/sapphire497/query-selected-attention) - Official implementation for "QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation" (CVPR 2022)
-- [PatrickHua/SimSiam](https://github.com/PatrickHua/SimSiam) - A pytorch implementation for paper 'Exploring Simple Siamese Representation Learning'
-- [BonifazStuhr/feamgan](https://github.com/BonifazStuhr/feamgan) - This is the original implementation of the paper “Masked Discriminators for Content-Consistent Unpaired Image-to-Image Translation” in PyTorch 1.10.0.
 - [myscience/hierarchy-flow](https://github.com/myscience/hierarchy-flow) - Unofficial implementation of Hierarchical Flow (image-to-image) for didactic purposes
 - [zhaohengyuan1/Color2Embed](https://github.com/zhaohengyuan1/Color2Embed) - Color2Embed: Fast Exemplar-Based Image Colorization using Color Embeddings.
-- [CR-Gjx/SCC](https://github.com/CR-Gjx/SCC) - Pytorch implementation of "Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image Translation via Structure Consistency Constraint." (CVPR 2022).
 - [WeichenFan/HierarchyFlow](https://github.com/WeichenFan/HierarchyFlow) - 
-- [isl-org/PhotorealismEnhancement](https://github.com/isl-org/PhotorealismEnhancement) - Code & Data for Enhancing Photorealism Enhancement
 - [weepiess/StyleFlow-Content-Fixed-I2I](https://github.com/weepiess/StyleFlow-Content-Fixed-I2I) - 
 - [lyndonzheng/F-LSeSim](https://github.com/lyndonzheng/F-LSeSim) - [CVPR 2021]: The Spatially-Correlative Loss for Various Image Translation Tasks
 - [facebookresearch/vsait](https://github.com/facebookresearch/vsait) - Unpaired Image Translation via Vector Symbolic Architectures (ECCV 2022)
-- [SeanJia/SRUNIT](https://github.com/SeanJia/SRUNIT) - Code for Semantically Robust Unpaired Image Translation for Data with Unmatched Semantics Statistics (SRUNIT), ICCV 2021
 - [XiudingCai/EnCo-pytorch](https://github.com/XiudingCai/EnCo-pytorch) - Rethinking the Paradigm of Content Constraints in Unpaired Image-to-Image Translation (AAAI'24)
 - [XiudingCai/PyTorch-EnCo](https://github.com/XiudingCai/PyTorch-EnCo) - Constraining Multi-scale Pairwise Features between Encoder and Decoder Using Contrastive Learning for Unpaired Image-to-Image Translation
 - [sian-wusidi/StegoGAN](https://github.com/sian-wusidi/StegoGAN) - Official code for StegoGAN: Leveraging Steganography for Non-bijective Image-to-Image Translation
@@ -608,10 +613,6 @@
 - [jingxiLiao/GT-mean-loss](https://github.com/jingxiLiao/GT-mean-loss) - 
 - [Abir1803/EHDI](https://github.com/Abir1803/EHDI) - EHDI: Enhancement of Historical Document Images via Generative Adversarial Network
 - [lukun199/MonoPix](https://github.com/lukun199/MonoPix) - Official implementation of MonoPix - Contrastive Monotonic Pixel-Level Modulation (ECCV'2022 Oral)
-- [KarelZhang/CSDNet-CSDGAN](https://github.com/KarelZhang/CSDNet-CSDGAN) - [TNNLS 2021] The official code for the paper "Learning Deep Context-Sensitive Decomposition for Low-Light Image Enhancement"
-- [Jumponthemoon/AllWeatherNet](https://github.com/Jumponthemoon/AllWeatherNet) - [ICPR 2024 Best Paper]:"AllWeatherNet:Unified Image enhancement for autonomous driving under adverse weather and lowlight-conditions"
-- [qqqyd/MOSTEL](https://github.com/qqqyd/MOSTEL) - 
-- [wm-bupt/STSN](https://github.com/wm-bupt/STSN) - 
 - [grenlayk/deep-text-edit](https://github.com/grenlayk/deep-text-edit) - Our implementation of Text Style Brush architecture.
 - [alfinnurhalim/StyleTransferDehaze](https://github.com/alfinnurhalim/StyleTransferDehaze) - 
 - [UMich-CURLY/Debias_IMU](https://github.com/UMich-CURLY/Debias_IMU) - 
@@ -1074,23 +1075,13 @@
 - [YvanYin/DiverseDepth](https://github.com/YvanYin/DiverseDepth) - The code and data of DiverseDepth
 - [roserustowicz/psf-estimation](https://github.com/roserustowicz/psf-estimation) - PSF Estimation in Matlab, from Mosleh Blur Estimation paper
 - [ShawnIL/DefocusBlurRemoving](https://github.com/ShawnIL/DefocusBlurRemoving) - 
-- [marcelampc/d3net_depth_estimation](https://github.com/marcelampc/d3net_depth_estimation) - Dense Deep Depth Estimation Network (D3-Net) in PyTorch.
 - [dvl-tum/defocus-net](https://github.com/dvl-tum/defocus-net) - Official PyTorch implementation of "Focus on Defocus" paper.
 - [LeighAH/blender_autofocus](https://github.com/LeighAH/blender_autofocus) - Per camera auto focus for Blender. Camera will auto focus on the nearest surface within the specified range.
 - [StudentCV/PiAutofocusCV](https://github.com/StudentCV/PiAutofocusCV) - 
 - [idiap/deepfocus](https://github.com/idiap/deepfocus) - Pytorch implementation of "DeepFocus: a Few-Shot Microscope Slide Auto-Focus using a Sample Invariant CNN-based Sharpness Function"
-- [EEEGUI/DenseDepth-pytorch](https://github.com/EEEGUI/DenseDepth-pytorch) - pytorch implement of [High Quality Monocular Depth Estimation via Transfer Learning]
-- [LouisFoucard/DepthMap_dataset](https://github.com/LouisFoucard/DepthMap_dataset) - Python Blender script to generate random scene, depth map and corresponding Stereo images for machine learning.
 - [chenghegao4556/megadepth](https://github.com/chenghegao4556/megadepth) - 
-- [JiawangBian/SC-SfMLearner-Release](https://github.com/JiawangBian/SC-SfMLearner-Release) - Unsupervised Scale-consistent Depth Learning from Video (IJCV2021 & NeurIPS 2019)
 - [ethan-li-coding/SemiGlobalMatching](https://github.com/ethan-li-coding/SemiGlobalMatching) - SGM，立体匹配StereoMatching最经典应用最广泛算法，4000+引用，兼顾效率和效果。完整实现，代码规范，注释清晰，博客教学！
 - [lasinger/3DVideos2Stereo](https://github.com/lasinger/3DVideos2Stereo) - Code to extract stereo frame pairs from 3D videos, as used in "Ranftl et. al., Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer, arXiv:1907.01341"
-- [isl-org/MiDaS](https://github.com/isl-org/MiDaS) - Code for robust monocular depth estimation described in "Ranftl et. al., Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer, TPAMI 2022"
-- [TRI-ML/packnet-sfm](https://github.com/TRI-ML/packnet-sfm) - TRI-ML Monocular Depth Estimation Repository
-- [kujason/ip_basic](https://github.com/kujason/ip_basic) - Image Processing for Basic Depth Completion
-- [yzcjtr/GeoNet](https://github.com/yzcjtr/GeoNet) - Code for GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose (CVPR 2018)
-- [mrharicot/monodepth](https://github.com/mrharicot/monodepth) - Unsupervised single image depth prediction with CNNs
-- [facebookresearch/consistent_depth](https://github.com/facebookresearch/consistent_depth) - We estimate dense, flicker-free, geometrically consistent depth from monocular video, for example hand-held cell phone video.
 - [sedara0218/camera_autofocus](https://github.com/sedara0218/camera_autofocus) - A machine learning approach for defining contrast for autofocus.
 - [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
@@ -1102,26 +1093,21 @@
 - [vinthony/depth-distillation](https://github.com/vinthony/depth-distillation) - [ECCV 2020] Defocus Blur Detection via Depth Distillation
 - [fmannan/DFDFD](https://github.com/fmannan/DFDFD) - Discriminative Filters for Depth from Defocus
 - [AlbertHuyb/DepthNet](https://github.com/AlbertHuyb/DepthNet) - An attempt to estimate depth information of pictures captured by certain aperture.
-- [YudeWang/deeplabv3plus-pytorch](https://github.com/YudeWang/deeplabv3plus-pytorch) - Here is a pytorch implementation of deeplabv3+ supporting ResNet(79.155%) and Xception(79.945%). Multi-scale & flip test and COCO dataset interface has been finished.
 - [cgearhart/DepthFromDefocus](https://github.com/cgearhart/DepthFromDefocus) - Interpolated depth from defocus using graph cut optimization
 - [buridiaditya/DepthFromDefocus](https://github.com/buridiaditya/DepthFromDefocus) - 
 - [davemers0160/dfd_gc](https://github.com/davemers0160/dfd_gc) - Depth from Defocus using Graph Cuts
 - [iSarmad/Depth-From-Defocus-Matlab](https://github.com/iSarmad/Depth-From-Defocus-Matlab) - This is a Matlab implementation of Depth from Defocus using your mobile phone. In addition I use a number of techniques such as graph cuts and matting laplacian to improve the results
 - [rzel/depth-from-defocus](https://github.com/rzel/depth-from-defocus) - 
-- [clovaai/ext_portrait_segmentation](https://github.com/clovaai/ext_portrait_segmentation) - 
 - [AomanHao/ImageProcessing100Wen](https://github.com/AomanHao/ImageProcessing100Wen) - 「画像処理100本ノック」中文版本！为图像处理初学者设计的 100 个问题。
 - [google/bgu](https://github.com/google/bgu) - 
 - [tlliao/Perception-based-seam-cutting](https://github.com/tlliao/Perception-based-seam-cutting) - [SIViP 2018] Official code for perception-based seam cutting for image stitching
 - [CVHj/Fast-and-robust-seam-estimation](https://github.com/CVHj/Fast-and-robust-seam-estimation) - Fast and robust seam estimation to seamless image stitching
-- [majedelhelou/SFM](https://github.com/majedelhelou/SFM) - (ECCV 2020) Stochastic Frequency Masking to Improve Super-Resolution and Denoising Networks
 - [leenham/palette-based-recoloring](https://github.com/leenham/palette-based-recoloring) - 
 - [YuanhaoGong/SideWindowFilter](https://github.com/YuanhaoGong/SideWindowFilter) - Side window is better than Full window
 - [jiayi-ma/GTF](https://github.com/jiayi-ma/GTF) - Infrared and visible image fusion via gradient transfer and total variation minimization
 - [tkd1088/multi-exposure-image-fusion](https://github.com/tkd1088/multi-exposure-image-fusion) - 
 - [leVirve/Tone-Enhancement](https://github.com/leVirve/Tone-Enhancement) - An implementation of tone enhancement. May refer to "Two-scale Tone Management for Photographic Look", SIGGRAPH 2006.
-- [pengyan510/glcae](https://github.com/pengyan510/glcae) - Global and Local Contrast Adaptive Enhancement for Non-uniform Illumination Color Images
 - [whdcumt/exposure_correction](https://github.com/whdcumt/exposure_correction) - Implements the exposure correction algorithms presented in Yuan et al's "Automatic Exposure Correction of Consumer Photographs".
-- [aasharma90/UnprocessDenoising_PyTorch](https://github.com/aasharma90/UnprocessDenoising_PyTorch) - Unofficial PyTorch code for the paper - Unprocessing Images for Learned Raw Denoising, CVPR'19
 - [CarVac/librtprocess](https://github.com/CarVac/librtprocess) - A project to make RawTherapee's processing algorithms more readily available.
 - [liuguoyou/HDR-Fast-Local-Laplacian](https://github.com/liuguoyou/HDR-Fast-Local-Laplacian) - HDR recovering and tonemapping using fast local laplacian approach
 - [timothybrooks/hdr-plus](https://github.com/timothybrooks/hdr-plus) - HDR+ Implementation
@@ -1130,7 +1116,6 @@
 - [AlbusPeter/MeshFlow_Video_Denoising](https://github.com/AlbusPeter/MeshFlow_Video_Denoising) - Source Code for MeshFlow Video Denoising
 - [sergiogenilson/STMKF](https://github.com/sergiogenilson/STMKF) - A Real-Time Spatio-Temporal Vídeo Denoising Method with Kalman-based and Bilateral Filters Fusion
 - [xyang35/BurstImageDenoising](https://github.com/xyang35/BurstImageDenoising) - Fast burst images denoising project
-- [AbdoKamel/simple-camera-pipeline](https://github.com/AbdoKamel/simple-camera-pipeline) - A simple and light-weight camera image processing pipeline
 - [DanBloomberg/leptonica](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. The official github repository for Leptonica is: danbloomberg/lepto
 - [jobbole/awesome-c-cn](https://github.com/jobbole/awesome-c-cn) - C 资源大全中文版，包括了：构建系统、编译器、数据库、加密、初中高的教程/指南、书籍、库等。
 
@@ -1144,6 +1129,7 @@
 
 ## python 
 
+- [francof2a/fxpmath](https://github.com/francof2a/fxpmath) - A python library for fractional fixed-point (base 2) arithmetic and binary manipulation with Numpy compatibility.
 - [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
 - [elerac/structuredlight](https://github.com/elerac/structuredlight) - Generate and Decode structured light. Binary, Gray, XOR, Ramp, Phase-Shifting, Stripe.
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
@@ -1180,7 +1166,6 @@
 
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.
 - [bupt-ai-cz/BCI](https://github.com/bupt-ai-cz/BCI) - BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix
-- [neuralchen/SimSwap](https://github.com/neuralchen/SimSwap) - An arbitrary face-swapping framework on images and videos with one single trained model!
 - [NWPU-LHH/WFLM-GAN](https://github.com/NWPU-LHH/WFLM-GAN) - WFLM-GAN：Multiscale Generative Adversarial Network Based on Wavelet Feature Learning for SAR-to-Optical Image Translation
 - [snap-research/CAT](https://github.com/snap-research/CAT) - [CVPR 2021] Teachers Do More Than Teach: Compressing Image-to-Image Models (CAT)
 - [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
@@ -1188,11 +1173,8 @@
 - [p16i/siamese-net-and-friends](https://github.com/p16i/siamese-net-and-friends) - 
 - [seanbenhur/siamese_net](https://github.com/seanbenhur/siamese_net) - Signature verification system using Siamese networks
 - [JarrentWu1031/CCPL](https://github.com/JarrentWu1031/CCPL) - [ECCV 2022 Oral] Official Pytorch implementation of CCPL and SCTNet
-- [Reyhanehne/CVF-SID_PyTorch](https://github.com/Reyhanehne/CVF-SID_PyTorch) - Official implementation of the paper "CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image" (CVPR 2022)
-- [ExplainableML/UncertaintyAwareCycleConsistency](https://github.com/ExplainableML/UncertaintyAwareCycleConsistency) - Building blocks for uncertainty-aware cycle consistency presented at NeurIPS'21.
 - [dingkeyan93/DISTS](https://github.com/dingkeyan93/DISTS) - IQA: Deep Image Structure and Texture Similarity Metric
 - [Royalvice/DocDiff](https://github.com/Royalvice/DocDiff) - ACM Multimedia 2023: DocDiff: Document Enhancement via Residual Diffusion Models. Also contains 1597 red seals in Chinese scenes, along with their corresponding binary masks.
-- [Jzy2017/TOPAL](https://github.com/Jzy2017/TOPAL) - TCSVT 2022 | Target Oriented Perceptual Adversarial Fusion Network for Underwater Image Enhancement.
 - [sonnguyen129/SANet-pytorch](https://github.com/sonnguyen129/SANet-pytorch) - Pytorch re-implementation of paper Arbitrary Style Transfer with Style-Attentional Networks
 - [kkanshul/finegan](https://github.com/kkanshul/finegan) - FineGAN: Unsupervised Hierarchical Disentanglement for Fine-grained Object Generation and Discovery
 - [wtjiang98/PSGAN](https://github.com/wtjiang98/PSGAN) - PyTorch code for "PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer" (CVPR 2020 Oral)
@@ -1223,6 +1205,7 @@
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
 - [Ha0Tang/AttentionGAN](https://github.com/Ha0Tang/AttentionGAN) - AttentionGAN for Unpaired Image-to-Image Translation & Multi-Domain Image-to-Image Translation
 - [microsoft/Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
+- [lucidrains/stylegan2-pytorch](https://github.com/lucidrains/stylegan2-pytorch) - Simplest working implementation of Stylegan2, state of the art generative adversarial network, in Pytorch. Enabling everyone to experience disentanglement
 - [1adrianb/face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 - [Algolzw/daclip-uir](https://github.com/Algolzw/daclip-uir) - [ICLR 2024] Controlling Vision-Language Models for Universal Image Restoration. 5th place in the NTIRE 2024 Restore Any Image Model in the Wild Challenge.
@@ -1270,6 +1253,10 @@
 - [Raschka-research-group/coral-cnn](https://github.com/Raschka-research-group/coral-cnn) - Rank Consistent Ordinal Regression for Neural Networks with Application to Age Estimation
 - [richzhang/colorization-pytorch](https://github.com/richzhang/colorization-pytorch) - PyTorch reimplementation of Interactive Deep Colorization
 
+## quantitative-finance 
+
+- [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) - 入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.
+
 ## react 
 
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
@@ -1280,6 +1267,7 @@
 
 ## rust 
 
+- [mohitmishra786/low-level-dev-skills](https://github.com/mohitmishra786/low-level-dev-skills) - A curated suite of AI agent skills for systems and low-level programming with C/C++, Rust, and Zig toolchains, covering compilers, debuggers, profilers, build systems, sanitizers, and binary analysis
 - [coderonion/cuda-beginner-course-cpp-version](https://github.com/coderonion/cuda-beginner-course-cpp-version) - bilibili视频【CUDA 12.x 并行编程入门(C++版)】配套代码
 
 ## shell 
@@ -1295,7 +1283,6 @@
 - [ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 - [sooyeon-go/eye_for_an_eye](https://github.com/sooyeon-go/eye_for_an_eye) - Eye-for-an-eye: Appearance Transfer with Semantic Correspondence in Diffusion Models
 - [garibida/cross-image-attention](https://github.com/garibida/cross-image-attention) - Officail Implementation for "Cross-Image Attention for Zero-Shot Appearance Transfer"
-- [huggingface/instruction-tuned-sd](https://github.com/huggingface/instruction-tuned-sd) - Code for instruction-tuning Stable Diffusion.
 - [djbielejeski/a-person-mask-generator](https://github.com/djbielejeski/a-person-mask-generator) - Extension for Automatic1111 and ComfyUI to automatically create masks for Background/Hair/Body/Face/Clothes in Img2Img
 - [GaParmar/img2img-turbo](https://github.com/GaParmar/img2img-turbo) - One-step image-to-image with Stable Diffusion turbo: sketch2image, day2night, and more
 - [nick8592/text-guided-image-colorization](https://github.com/nick8592/text-guided-image-colorization) - This repository provides an interactive image colorization tool that leverages Stable Diffusion (SDXL) and BLIP for user-controlled color generation. With a retrained model using the ControlNet approa
@@ -1316,13 +1303,16 @@
 - [CGLab-GIST/RIDFnF](https://github.com/CGLab-GIST/RIDFnF) - An official source code of AAAI 2023 paper, "Robust Image Denoising of No-Flash Images Guided by Consistent Flash Images".
 - [YoungYoung619/Make-vehicles-see-in-the-dark](https://github.com/YoungYoung619/Make-vehicles-see-in-the-dark) - Low light enhance for driving scene
 
+## trading 
+
+- [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) - 入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.
+
 ## verilog 
 
 - [LeiWang1999/FPGA](https://github.com/LeiWang1999/FPGA) - 帮助大家进行FPGA的入门，分享FPGA相关的优秀文章，优秀项目
 
 ## video 
 
-- [neuralchen/SimSwap](https://github.com/neuralchen/SimSwap) - An arbitrary face-swapping framework on images and videos with one single trained model!
 - [mcpp-community/d2mcpp](https://github.com/mcpp-community/d2mcpp) - D2X | Modern C++ Core Language Features - "A C++ tutorial project focused on practical"
 - [yangKJ/Harbeth](https://github.com/yangKJ/Harbeth) - 🎨 GPU accelerated image / video and camera filter library based on Metal. Support macOS & iOS. 图像、视频、相机滤镜框架
 - [m-tassano/dvdnet](https://github.com/m-tassano/dvdnet) - DVDnet: A Simple and Fast Network for Deep Video Denoising
@@ -1343,6 +1333,10 @@
 ## youtube 
 
 - [VAIBHAV-2303/VideoStabilization](https://github.com/VAIBHAV-2303/VideoStabilization) - Python implementation of the video stabilizing algorithm used in YouTube
+
+## zig 
+
+- [mohitmishra786/low-level-dev-skills](https://github.com/mohitmishra786/low-level-dev-skills) - A curated suite of AI agent skills for systems and low-level programming with C/C++, Rust, and Zig toolchains, covering compilers, debuggers, profilers, build systems, sanitizers, and binary analysis
 
 
 ## License
