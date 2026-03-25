@@ -23,6 +23,7 @@
 - [data-visualization](#data-visualization)
 - [deep-learning](#deep-learning)
 - [docker](#docker)
+- [embedded](#embedded)
 - [finance](#finance)
 - [font](#font)
 - [framework](#framework)
@@ -68,6 +69,7 @@
 - [visualization](#visualization)
 - [vue](#vue)
 - [youtube](#youtube)
+- [zig](#zig)
 
 ## 3d 
 
@@ -278,6 +280,10 @@
 - [a-nau/synthetic-dataset-generation](https://github.com/a-nau/synthetic-dataset-generation) - Easily create an instance segmentation dataset from an existing pool of objects of interest, distractor objects and background images. Easy configuration, diverse image compositions, multiple blending
 - [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
 
+## embedded 
+
+- [mohitmishra786/low-level-dev-skills](https://github.com/mohitmishra786/low-level-dev-skills) - A curated suite of AI agent skills for systems and low-level programming with C/C++, Rust, and Zig toolchains, covering compilers, debuggers, profilers, build systems, sanitizers, and binary analysis
+
 ## finance 
 
 - [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) - 入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.
@@ -445,6 +451,11 @@
 
 ## others 
 
+- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+- [AMAP-ML/Q-Hawkeye](https://github.com/AMAP-ML/Q-Hawkeye) - 
+- [LongYu-LY/CD-Reasoning](https://github.com/LongYu-LY/CD-Reasoning) - CD-Reasoning code
+- [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
+- [espressif/esp-dl](https://github.com/espressif/esp-dl) - Espressif deep-learning library for AIoT applications
 - [TianheWu/VisualQuality-R1](https://github.com/TianheWu/VisualQuality-R1) - [NeurIPS 2025 Spotlight] VisualQuality-R1 is the first open-sourced NR-IQA model can accurately describe and rate the image quality.
 - [Liuziyu77/Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) - Official repository of 'Visual-RFT: Visual Reinforcement Fine-Tuning' & 'Visual-ARFT: Visual Agentic Reinforcement Fine-Tuning'’
 - [CIawevy/TextPecker](https://github.com/CIawevy/TextPecker) - [CVPR2026] TextPecker: Rewarding Structural Anomaly Quantification for Enhancing Visual Text Rendering
@@ -549,7 +560,7 @@
 - [n-kubiak/S3R-Net](https://github.com/n-kubiak/S3R-Net) - Code repo for "S3R-Net: A Single-Stage Approach to Self-Supervised Shadow Removal" (NTIRE workshop @ CVPR 2024)
 - [suhas-srinath/undive](https://github.com/suhas-srinath/undive) - Official repository for our paper titled "UnDIVE: Generalized Underwater Video Enhancement Using Generative Priors"
 - [zzr-idam/4KDehazing](https://github.com/zzr-idam/4KDehazing) - 
-- [CVL-UESTC/BPAM](https://github.com/CVL-UESTC/BPAM) - ICCV2025-Learning Pixel-adaptive Multi-layer Perceptrons for Real-time Image
+- [CVL-UESTC/BPAM](https://github.com/CVL-UESTC/BPAM) - ICCV2025-Learning Pixel-adaptive Multi-layer Perceptrons for Real-time Image Enhancement
 - [AFeng-x/PixWizard](https://github.com/AFeng-x/PixWizard) - [ICLR2025] A versatile image-to-image visual assistant, designed for image generation, manipulation, and translation based on free-from user instructions.
 - [sevenHsu/FaceMask_CelebA](https://github.com/sevenHsu/FaceMask_CelebA) - Simulated masked face with dataset CelebA
 - [chenjunkai2018/Photoshop_algorithm](https://github.com/chenjunkai2018/Photoshop_algorithm) - the Photoshop algorithm
@@ -1118,6 +1129,7 @@
 
 ## python 
 
+- [francof2a/fxpmath](https://github.com/francof2a/fxpmath) - A python library for fractional fixed-point (base 2) arithmetic and binary manipulation with Numpy compatibility.
 - [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
 - [elerac/structuredlight](https://github.com/elerac/structuredlight) - Generate and Decode structured light. Binary, Gray, XOR, Ramp, Phase-Shifting, Stripe.
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
@@ -1255,6 +1267,7 @@
 
 ## rust 
 
+- [mohitmishra786/low-level-dev-skills](https://github.com/mohitmishra786/low-level-dev-skills) - A curated suite of AI agent skills for systems and low-level programming with C/C++, Rust, and Zig toolchains, covering compilers, debuggers, profilers, build systems, sanitizers, and binary analysis
 - [coderonion/cuda-beginner-course-cpp-version](https://github.com/coderonion/cuda-beginner-course-cpp-version) - bilibili视频【CUDA 12.x 并行编程入门(C++版)】配套代码
 
 ## shell 
@@ -1320,6 +1333,10 @@
 ## youtube 
 
 - [VAIBHAV-2303/VideoStabilization](https://github.com/VAIBHAV-2303/VideoStabilization) - Python implementation of the video stabilizing algorithm used in YouTube
+
+## zig 
+
+- [mohitmishra786/low-level-dev-skills](https://github.com/mohitmishra786/low-level-dev-skills) - A curated suite of AI agent skills for systems and low-level programming with C/C++, Rust, and Zig toolchains, covering compilers, debuggers, profilers, build systems, sanitizers, and binary analysis
 
 
 ## License
