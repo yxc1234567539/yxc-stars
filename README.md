@@ -21,6 +21,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [Python](#python)
+- [Rust](#rust)
 - [SWIG](#swig)
 - [Shell](#shell)
 - [TeX](#tex)
@@ -138,6 +139,8 @@
 
 ## Jupyter Notebook 
 
+- [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
+- [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Easily compute clip embeddings and build a clip retrieval system with them
 - [Liuziyu77/Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) - Official repository of 'Visual-RFT: Visual Reinforcement Fine-Tuning' & 'Visual-ARFT: Visual Agentic Reinforcement Fine-Tuning'’
 - [Q-Future/Q-Bench](https://github.com/Q-Future/Q-Bench) - ①[ICLR2024 Spotlight] (GPT-4V/Gemini-Pro/Qwen-VL-Plus+16 OS MLLMs) A benchmark for multi-modality LLMs (MLLMs) on low-level vision and visual quality assessment.
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
@@ -238,6 +241,7 @@
 
 ## Others 
 
+- [Becomebright/MTV](https://github.com/Becomebright/MTV) - Revisiting Multi-Task Visual Representation Learning
 - [Q-Future/Co-Instruct](https://github.com/Q-Future/Co-Instruct) - ④[ECCV 2024 Oral, Comparison among Multiple Images!] A study on open-ended multi-image quality comparison: a dataset, a model and a benchmark.
 - [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the communit
 - [0voice/awesome_audio_video_learning](https://github.com/0voice/awesome_audio_video_learning) - 2025年音视频开发最新总结，提供全面的音视频开发学习资源，涵盖从基础知识到实战项目的资料、论文、书籍、项目和示例，帮助你快速热门并逐步进阶，持续更新维护中！
@@ -288,6 +292,8 @@
 
 ## Python 
 
+- [miccunifi/ARNIQA](https://github.com/miccunifi/ARNIQA) - [WACV 2024 Oral] - ARNIQA: Learning Distortion Manifold for Image Quality Assessment
+- [miccunifi/QualiCLIP](https://github.com/miccunifi/QualiCLIP) - Quality-Aware Image-Text Alignment for Opinion-Unaware Image Quality Assessment
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 - [AMAP-ML/Q-Hawkeye](https://github.com/AMAP-ML/Q-Hawkeye) - 
 - [LongYu-LY/CD-Reasoning](https://github.com/LongYu-LY/CD-Reasoning) - CD-Reasoning code
@@ -960,6 +966,10 @@
 - [whdcumt/exposure_correction](https://github.com/whdcumt/exposure_correction) - Implements the exposure correction algorithms presented in Yuan et al's "Automatic Exposure Correction of Consumer Photographs".
 - [russwong89/sharpness_detection_autofocus](https://github.com/russwong89/sharpness_detection_autofocus) - A contrast-based autofocusing algorithm using sample images to determine the optimal focal distance for DSLR cameras
 - [AndyHuang1995/Image-Contrast-Enhancement](https://github.com/AndyHuang1995/Image-Contrast-Enhancement) - Python implementation of "A New Image Contrast Enhancement Algorithm Using Exposure Fusion Framework", CAIP2017
+
+## Rust 
+
+- [osmarks/meme-search-engine](https://github.com/osmarks/meme-search-engine) - Large-scale CLIP image search
 
 ## SWIG 
 
