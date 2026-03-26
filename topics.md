@@ -44,6 +44,7 @@
 - [matlab](#matlab)
 - [mobile](#mobile)
 - [neural-network](#neural-network)
+- [nlp](#nlp)
 - [numpy](#numpy)
 - [open-source](#open-source)
 - [opencv](#opencv)
@@ -54,6 +55,7 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [quantitative-finance](#quantitative-finance)
+- [rag](#rag)
 - [react](#react)
 - [react-native](#react-native)
 - [rust](#rust)
@@ -82,6 +84,7 @@
 
 ## ai 
 
+- [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Easily compute clip embeddings and build a clip retrieval system with them
 - [modelbox-ai/modelbox](https://github.com/modelbox-ai/modelbox) - A high performance, high expansion, easy to use framework for AI application. 为AI应用的开发者提供一套统一的高性能、易用的编程框架，快速基于AI全栈服务、开发跨端边云的AI行业应用，支持GPU，NPU加速。
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
@@ -124,6 +127,8 @@
 
 ## computer-vision 
 
+- [miccunifi/ARNIQA](https://github.com/miccunifi/ARNIQA) - [WACV 2024 Oral] - ARNIQA: Learning Distortion Manifold for Image Quality Assessment
+- [miccunifi/QualiCLIP](https://github.com/miccunifi/QualiCLIP) - Quality-Aware Image-Text Alignment for Opinion-Unaware Image Quality Assessment
 - [lpiccinelli-eth/UniK3D](https://github.com/lpiccinelli-eth/UniK3D) - [CVPR 2025] UniK3D: Universal Camera Monocular 3D Estimation
 - [oufuzhao/MR-FIQA](https://github.com/oufuzhao/MR-FIQA) - Code for MR-FIQA: Face Image Quality Assessment with Multi-Reference Representations from Synthetic Data Generation
 - [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
@@ -202,6 +207,10 @@
 
 ## deep-learning 
 
+- [miccunifi/ARNIQA](https://github.com/miccunifi/ARNIQA) - [WACV 2024 Oral] - ARNIQA: Learning Distortion Manifold for Image Quality Assessment
+- [miccunifi/QualiCLIP](https://github.com/miccunifi/QualiCLIP) - Quality-Aware Image-Text Alignment for Opinion-Unaware Image Quality Assessment
+- [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
+- [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Easily compute clip embeddings and build a clip retrieval system with them
 - [megvii-research/megvii-tsinghua-dl-course](https://github.com/megvii-research/megvii-tsinghua-dl-course) - Slides with modifications for a course at Tsinghua University.
 - [jinyeying/DC-ShadowNet-Hard-and-Soft-Shadow-Removal](https://github.com/jinyeying/DC-ShadowNet-Hard-and-Soft-Shadow-Removal) - [ICCV2021]"DC-ShadowNet: Single-Image Hard and Soft Shadow Removal Using Unsupervised Domain-Classifier Guided Network", https://arxiv.org/abs/2207.10434
 - [ZouShilong1024/CycleDiff](https://github.com/ZouShilong1024/CycleDiff) - Code for TIP2026 paper: CycleDiff: Cycle Diffusion Models for Unpaired Image-to-image Translation
@@ -322,6 +331,8 @@
 
 ## image-processing 
 
+- [miccunifi/ARNIQA](https://github.com/miccunifi/ARNIQA) - [WACV 2024 Oral] - ARNIQA: Learning Distortion Manifold for Image Quality Assessment
+- [miccunifi/QualiCLIP](https://github.com/miccunifi/QualiCLIP) - Quality-Aware Image-Text Alignment for Opinion-Unaware Image Quality Assessment
 - [oufuzhao/MR-FIQA](https://github.com/oufuzhao/MR-FIQA) - Code for MR-FIQA: Face Image Quality Assessment with Multi-Reference Representations from Synthetic Data Generation
 - [lixinustc/Awesome-diffusion-model-for-image-processing](https://github.com/lixinustc/Awesome-diffusion-model-for-image-processing) - one summary of diffusion-based image processing, including restoration, enhancement, coding, quality assessment
 - [vitorsr/exact-histogram-specification](https://github.com/vitorsr/exact-histogram-specification) - Fast implementation of "Exact Histogram Specification" by Coltuc et al.
@@ -389,6 +400,7 @@
 
 ## llm 
 
+- [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
 - [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) - 入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -430,6 +442,10 @@
 - [SuperbTUM/RAW-image-denoising](https://github.com/SuperbTUM/RAW-image-denoising) - Image denoising with Bayer augmentation and neural network
 - [kevinjoseph1995/Depth-from-Defocus-NN](https://github.com/kevinjoseph1995/Depth-from-Defocus-NN) - 
 
+## nlp 
+
+- [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
+
 ## numpy 
 
 - [teboli/polyblur](https://github.com/teboli/polyblur) - An unofficial Python (Numpy and Pytorch) implementation of "Polyblur:  Removing  mild blur by polynomial reblurring" by Mauricio Delbracio and collaborators.
@@ -451,6 +467,8 @@
 
 ## others 
 
+- [Becomebright/MTV](https://github.com/Becomebright/MTV) - Revisiting Multi-Task Visual Representation Learning
+- [osmarks/meme-search-engine](https://github.com/osmarks/meme-search-engine) - Large-scale CLIP image search
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 - [AMAP-ML/Q-Hawkeye](https://github.com/AMAP-ML/Q-Hawkeye) - 
 - [LongYu-LY/CD-Reasoning](https://github.com/LongYu-LY/CD-Reasoning) - CD-Reasoning code
@@ -1129,6 +1147,7 @@
 
 ## python 
 
+- [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
 - [francof2a/fxpmath](https://github.com/francof2a/fxpmath) - A python library for fractional fixed-point (base 2) arithmetic and binary manipulation with Numpy compatibility.
 - [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
 - [elerac/structuredlight](https://github.com/elerac/structuredlight) - Generate and Decode structured light. Binary, Gray, XOR, Ramp, Phase-Shifting, Stripe.
@@ -1256,6 +1275,10 @@
 ## quantitative-finance 
 
 - [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) - 入门资料整理：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.
+
+## rag 
+
+- [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
 
 ## react 
 
