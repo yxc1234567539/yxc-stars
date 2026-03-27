@@ -127,6 +127,7 @@
 
 ## computer-vision 
 
+- [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [miccunifi/ARNIQA](https://github.com/miccunifi/ARNIQA) - [WACV 2024 Oral] - ARNIQA: Learning Distortion Manifold for Image Quality Assessment
 - [miccunifi/QualiCLIP](https://github.com/miccunifi/QualiCLIP) - Quality-Aware Image-Text Alignment for Opinion-Unaware Image Quality Assessment
 - [lpiccinelli-eth/UniK3D](https://github.com/lpiccinelli-eth/UniK3D) - [CVPR 2025] UniK3D: Universal Camera Monocular 3D Estimation
@@ -207,6 +208,7 @@
 
 ## deep-learning 
 
+- [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [miccunifi/ARNIQA](https://github.com/miccunifi/ARNIQA) - [WACV 2024 Oral] - ARNIQA: Learning Distortion Manifold for Image Quality Assessment
 - [miccunifi/QualiCLIP](https://github.com/miccunifi/QualiCLIP) - Quality-Aware Image-Text Alignment for Opinion-Unaware Image Quality Assessment
 - [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
@@ -1147,6 +1149,7 @@
 
 ## python 
 
+- [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
 - [francof2a/fxpmath](https://github.com/francof2a/fxpmath) - A python library for fractional fixed-point (base 2) arithmetic and binary manipulation with Numpy compatibility.
 - [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
@@ -1178,11 +1181,13 @@
 
 ## python3 
 
+- [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [mzur/pyJBU](https://github.com/mzur/pyJBU) - A Python implementation of Joint Bilateral Upsampling
 - [m-tassano/dvdnet](https://github.com/m-tassano/dvdnet) - DVDnet: A Simple and Fast Network for Deep Video Denoising
 
 ## pytorch 
 
+- [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.
 - [bupt-ai-cz/BCI](https://github.com/bupt-ai-cz/BCI) - BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix
 - [NWPU-LHH/WFLM-GAN](https://github.com/NWPU-LHH/WFLM-GAN) - WFLM-GAN：Multiscale Generative Adversarial Network Based on Wavelet Feature Learning for SAR-to-Optical Image Translation
@@ -1303,6 +1308,7 @@
 
 ## stable-diffusion 
 
+- [wangkai930418/awesome-diffusion-categorized](https://github.com/wangkai930418/awesome-diffusion-categorized) - collection of diffusion model papers categorized by their subareas
 - [ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 - [sooyeon-go/eye_for_an_eye](https://github.com/sooyeon-go/eye_for_an_eye) - Eye-for-an-eye: Appearance Transfer with Semantic Correspondence in Diffusion Models
 - [garibida/cross-image-attention](https://github.com/garibida/cross-image-attention) - Officail Implementation for "Cross-Image Attention for Zero-Shot Appearance Transfer"
