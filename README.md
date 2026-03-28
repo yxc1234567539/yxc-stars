@@ -139,6 +139,7 @@
 
 ## Jupyter Notebook 
 
+- [magic-research/piecewise-rectified-flow](https://github.com/magic-research/piecewise-rectified-flow) - PeRFlow: Piecewise Rectified Flow as Universal Plug-and-Play Accelerator (NeurIPS 2024)
 - [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
 - [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Easily compute clip embeddings and build a clip retrieval system with them
 - [Liuziyu77/Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) - Official repository of 'Visual-RFT: Visual Reinforcement Fine-Tuning' & 'Visual-ARFT: Visual Agentic Reinforcement Fine-Tuning'’
@@ -293,6 +294,10 @@
 
 ## Python 
 
+- [Researcher-1042/TuLaBM](https://github.com/Researcher-1042/TuLaBM) - Official Pytorch Implementation of "TuLaBM: Tumor-Biased Latent Bridge Matching for Contrast-Enhanced MRI Synthesis"
+- [PixArt-alpha/PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) - PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+- [fast-codi/CoDi](https://github.com/fast-codi/CoDi) - [CVPR24] CoDi: Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation
 - [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [miccunifi/ARNIQA](https://github.com/miccunifi/ARNIQA) - [WACV 2024 Oral] - ARNIQA: Learning Distortion Manifold for Image Quality Assessment
 - [miccunifi/QualiCLIP](https://github.com/miccunifi/QualiCLIP) - Quality-Aware Image-Text Alignment for Opinion-Unaware Image Quality Assessment
