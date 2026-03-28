@@ -469,6 +469,10 @@
 
 ## others 
 
+- [Researcher-1042/TuLaBM](https://github.com/Researcher-1042/TuLaBM) - Official Pytorch Implementation of "TuLaBM: Tumor-Biased Latent Bridge Matching for Contrast-Enhanced MRI Synthesis"
+- [PixArt-alpha/PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) - PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
+- [magic-research/piecewise-rectified-flow](https://github.com/magic-research/piecewise-rectified-flow) - PeRFlow: Piecewise Rectified Flow as Universal Plug-and-Play Accelerator (NeurIPS 2024)
+- [fast-codi/CoDi](https://github.com/fast-codi/CoDi) - [CVPR24] CoDi: Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation
 - [Becomebright/MTV](https://github.com/Becomebright/MTV) - Revisiting Multi-Task Visual Representation Learning
 - [osmarks/meme-search-engine](https://github.com/osmarks/meme-search-engine) - Large-scale CLIP image search
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
@@ -1187,6 +1191,7 @@
 
 ## pytorch 
 
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
 - [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.
 - [bupt-ai-cz/BCI](https://github.com/bupt-ai-cz/BCI) - BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix
