@@ -139,6 +139,7 @@
 
 ## Jupyter Notebook 
 
+- [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始构建大模型
 - [magic-research/piecewise-rectified-flow](https://github.com/magic-research/piecewise-rectified-flow) - PeRFlow: Piecewise Rectified Flow as Universal Plug-and-Play Accelerator (NeurIPS 2024)
 - [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
 - [rom1504/clip-retrieval](https://github.com/rom1504/clip-retrieval) - Easily compute clip embeddings and build a clip retrieval system with them
