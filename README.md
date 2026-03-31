@@ -287,7 +287,6 @@
 - [DAN-AND-DNA/learn-gdb-by-example-for-c](https://github.com/DAN-AND-DNA/learn-gdb-by-example-for-c) - learn gdb by example | gdb 教程 例子
 - [lucasjinreal/AI-Infer-Engine-From-Zero](https://github.com/lucasjinreal/AI-Infer-Engine-From-Zero) - 关于自建AI推理引擎的手册，从0开始你需要知道的所有事情
 - [alex-golts/Video-Stabilization](https://github.com/alex-golts/Video-Stabilization) - Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes
-- [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C++》- 完成翻译
 - [elejke/awesome-defocus-detection](https://github.com/elejke/awesome-defocus-detection) - A curated list of defocus detection and image quality assessment papers and codes
 - [antonio490/Autofocus](https://github.com/antonio490/Autofocus) - Implementation of different autofocus functions using python. The main goal is to obtain efficiently the maximal contrast between pixels
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
