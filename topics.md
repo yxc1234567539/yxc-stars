@@ -1032,7 +1032,6 @@
 - [vccimaging/Deep-Red-Flash](https://github.com/vccimaging/Deep-Red-Flash) - Source code for 2021 CVPR paper "Seeing in Extra Darkness Using a Deep-red Flash"
 - [yhjo09/SR-LUT](https://github.com/yhjo09/SR-LUT) - 
 - [zhetongliang/BDNet](https://github.com/zhetongliang/BDNet) - 
-- [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C++》- 完成翻译
 - [NJU-Jet/SR_Mobile_Quantization](https://github.com/NJU-Jet/SR_Mobile_Quantization) - Winner solution of mobile AI (CVPRW 2021).
 - [sxpro/ImageEnhance_cGAN](https://github.com/sxpro/ImageEnhance_cGAN) - Pytorch implementation of "Enhance Image as You Like with Unpaired Learning" (IJCAI 2021)
 - [goutamgmb/NTIRE21_BURSTSR](https://github.com/goutamgmb/NTIRE21_BURSTSR) - 
