@@ -190,7 +190,7 @@
 - [zzh-tech/RSCD](https://github.com/zzh-tech/RSCD) - [CVPR2021] Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes
 - [spatialaudio/digital-signal-processing-lecture](https://github.com/spatialaudio/digital-signal-processing-lecture) - Digital Signal Processing - Theory and Computational Examples
 - [unpingco/Python-for-Signal-Processing](https://github.com/unpingco/Python-for-Signal-Processing) - Notebooks for "Python for Signal Processing" book
-- [sedara0218/camera_autofocus](https://github.com/sedara0218/camera_autofocus) - A machine learning approach for defining contrast for autofocus.
+- [sedara-3om/camera_autofocus](https://github.com/sedara-3om/camera_autofocus) - A machine learning approach for defining contrast for autofocus.
 - [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
 - [meisamrf/ivhc-estimator](https://github.com/meisamrf/ivhc-estimator) - Fast image noise estimation (Estimation of Gaussian, signal-dependent, and processed noise in Image and Video Signals)
 
@@ -294,6 +294,7 @@
 
 ## Python 
 
+- [eladc-git/ELIR](https://github.com/eladc-git/ELIR) - Efficient Latent Image Restoration
 - [Researcher-1042/TuLaBM](https://github.com/Researcher-1042/TuLaBM) - Official Pytorch Implementation of "TuLaBM: Tumor-Biased Latent Bridge Matching for Contrast-Enhanced MRI Synthesis"
 - [PixArt-alpha/PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) - PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
 - [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
