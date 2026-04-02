@@ -471,6 +471,7 @@
 
 ## others 
 
+- [eladc-git/ELIR](https://github.com/eladc-git/ELIR) - Efficient Latent Image Restoration
 - [Researcher-1042/TuLaBM](https://github.com/Researcher-1042/TuLaBM) - Official Pytorch Implementation of "TuLaBM: Tumor-Biased Latent Bridge Matching for Contrast-Enhanced MRI Synthesis"
 - [PixArt-alpha/PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) - PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
 - [magic-research/piecewise-rectified-flow](https://github.com/magic-research/piecewise-rectified-flow) - PeRFlow: Piecewise Rectified Flow as Universal Plug-and-Play Accelerator (NeurIPS 2024)
@@ -1107,7 +1108,7 @@
 - [chenghegao4556/megadepth](https://github.com/chenghegao4556/megadepth) - 
 - [ethan-li-coding/SemiGlobalMatching](https://github.com/ethan-li-coding/SemiGlobalMatching) - SGM，立体匹配StereoMatching最经典应用最广泛算法，4000+引用，兼顾效率和效果。完整实现，代码规范，注释清晰，博客教学！
 - [lasinger/3DVideos2Stereo](https://github.com/lasinger/3DVideos2Stereo) - Code to extract stereo frame pairs from 3D videos, as used in "Ranftl et. al., Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer, arXiv:1907.01341"
-- [sedara0218/camera_autofocus](https://github.com/sedara0218/camera_autofocus) - A machine learning approach for defining contrast for autofocus.
+- [sedara-3om/camera_autofocus](https://github.com/sedara-3om/camera_autofocus) - A machine learning approach for defining contrast for autofocus.
 - [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
 - [chaehonglee/Joint_Depth_Esimation_and_Deblur](https://github.com/chaehonglee/Joint_Depth_Esimation_and_Deblur) - Python+Matlab Implementation of Joint Depth Estimation and Camera Shake Removal from Single Blurry Image
