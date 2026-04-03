@@ -735,7 +735,7 @@
 - [602387193c/ComfyUI-wiki](https://github.com/602387193c/ComfyUI-wiki) - Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
 - [createcolor/nightimaging24](https://github.com/createcolor/nightimaging24) - Repo with code for NIR'24 challange
 - [HUST-IAL/CoTF](https://github.com/HUST-IAL/CoTF) - The code of paper "Real-Time Exposure Correction via Collaborative Transformations and Adaptive Sampling" (CVPR 2024)
-- [chaofengc/IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) - 👁️ 🖼️ 🔥PyTorch Toolbox for Image Quality Assessment, including PSNR, SSIM, LPIPS, FID, NIQE, NRQM(Ma), MUSIQ, TOPIQ, NIMA, DBCNN, BRISQUE, PI and more...
+- [chaofengc/IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) - 🔎 🖼️ 🔥PyTorch Toolbox for Image Quality Assessment, including PSNR, SSIM, LPIPS, FID, NIQE, NRQM(Ma), MUSIQ, TOPIQ, NIMA, DBCNN, BRISQUE, PI and more...
 - [q935970314/Deep-FlexISP](https://github.com/q935970314/Deep-FlexISP) - This is the official implementation of "Deep-FlexISP: A Three-Stage Framework for Night Photography Rendering"
 - [YuZheng9/C2PNet](https://github.com/YuZheng9/C2PNet) - [CVPR 2023] Curricular Contrastive Regularization for Physics-aware Single Image Dehazing
 - [RQ-Wu/RIDCP_dehazing](https://github.com/RQ-Wu/RIDCP_dehazing) - [CVPR 2023] | RIDCP: Revitalizing Real Image Dehazing via High-Quality Codebook Priors
