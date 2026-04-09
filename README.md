@@ -294,6 +294,7 @@
 
 ## Python 
 
+- [facebookresearch/EUPE](https://github.com/facebookresearch/EUPE) - Efficient Universal Perception Encoder: a single on-device vision encoder with versatile representations that match or exceed specialized experts across multiple task domains.
 - [eladc-git/ELIR](https://github.com/eladc-git/ELIR) - Efficient Latent Image Restoration
 - [Researcher-1042/TuLaBM](https://github.com/Researcher-1042/TuLaBM) - Official Pytorch Implementation of "TuLaBM: Tumor-Biased Latent Bridge Matching for Contrast-Enhanced MRI Synthesis"
 - [PixArt-alpha/PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) - PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
