@@ -480,7 +480,7 @@
 - [Becomebright/MTV](https://github.com/Becomebright/MTV) - Revisiting Multi-Task Visual Representation Learning
 - [osmarks/meme-search-engine](https://github.com/osmarks/meme-search-engine) - Large-scale CLIP image search
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-- [AMAP-ML/Q-Hawkeye](https://github.com/AMAP-ML/Q-Hawkeye) - 
+- [aba122/Q-Hawkeye](https://github.com/aba122/Q-Hawkeye) - 
 - [LongYu-LY/CD-Reasoning](https://github.com/LongYu-LY/CD-Reasoning) - CD-Reasoning code
 - [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
 - [espressif/esp-dl](https://github.com/espressif/esp-dl) - Espressif deep-learning library for AIoT applications
@@ -1112,7 +1112,7 @@
 - [sedara-3om/camera_autofocus](https://github.com/sedara-3om/camera_autofocus) - A machine learning approach for defining contrast for autofocus.
 - [fengdu78/lihang-code](https://github.com/fengdu78/lihang-code) - 《统计学习方法》的代码实现
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
-- [chaehonglee/Joint_Depth_Esimation_and_Deblur](https://github.com/chaehonglee/Joint_Depth_Esimation_and_Deblur) - Python+Matlab Implementation of Joint Depth Estimation and Camera Shake Removal from Single Blurry Image
+- [chaehomie/Joint_Depth_Esimation_and_Deblur](https://github.com/chaehomie/Joint_Depth_Esimation_and_Deblur) - Python+Matlab Implementation of Joint Depth Estimation and Camera Shake Removal from Single Blurry Image
 - [changhuanyang/DefocusCameraCalibration](https://github.com/changhuanyang/DefocusCameraCalibration) - Defocus Camera calibration
 - [srdjankrstic/defocus](https://github.com/srdjankrstic/defocus) - Depth from defocus
 - [vllab/fast_defocus_map](https://github.com/vllab/fast_defocus_map) - Fast Defocus Map Estimation
