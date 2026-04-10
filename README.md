@@ -304,7 +304,7 @@
 - [miccunifi/ARNIQA](https://github.com/miccunifi/ARNIQA) - [WACV 2024 Oral] - ARNIQA: Learning Distortion Manifold for Image Quality Assessment
 - [miccunifi/QualiCLIP](https://github.com/miccunifi/QualiCLIP) - Quality-Aware Image-Text Alignment for Opinion-Unaware Image Quality Assessment
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-- [AMAP-ML/Q-Hawkeye](https://github.com/AMAP-ML/Q-Hawkeye) - 
+- [aba122/Q-Hawkeye](https://github.com/aba122/Q-Hawkeye) - 
 - [LongYu-LY/CD-Reasoning](https://github.com/LongYu-LY/CD-Reasoning) - CD-Reasoning code
 - [francof2a/fxpmath](https://github.com/francof2a/fxpmath) - A python library for fractional fixed-point (base 2) arithmetic and binary manipulation with Numpy compatibility.
 - [TianheWu/VisualQuality-R1](https://github.com/TianheWu/VisualQuality-R1) - [NeurIPS 2025 Spotlight] VisualQuality-R1 is the first open-sourced NR-IQA model can accurately describe and rate the image quality.
@@ -964,7 +964,7 @@
 - [idiap/deepfocus](https://github.com/idiap/deepfocus) - Pytorch implementation of "DeepFocus: a Few-Shot Microscope Slide Auto-Focus using a Sample Invariant CNN-based Sharpness Function"
 - [Asadullah-Dal17/Distance_measurement_using_single_camera](https://github.com/Asadullah-Dal17/Distance_measurement_using_single_camera) - using single camera to measure the distance opencv python,
 - [lasinger/3DVideos2Stereo](https://github.com/lasinger/3DVideos2Stereo) - Code to extract stereo frame pairs from 3D videos, as used in "Ranftl et. al., Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer, arXiv:1907.01341"
-- [chaehonglee/Joint_Depth_Esimation_and_Deblur](https://github.com/chaehonglee/Joint_Depth_Esimation_and_Deblur) - Python+Matlab Implementation of Joint Depth Estimation and Camera Shake Removal from Single Blurry Image
+- [chaehomie/Joint_Depth_Esimation_and_Deblur](https://github.com/chaehomie/Joint_Depth_Esimation_and_Deblur) - Python+Matlab Implementation of Joint Depth Estimation and Camera Shake Removal from Single Blurry Image
 - [changhuanyang/DefocusCameraCalibration](https://github.com/changhuanyang/DefocusCameraCalibration) - Defocus Camera calibration
 - [vinthony/depth-distillation](https://github.com/vinthony/depth-distillation) - [ECCV 2020] Defocus Blur Detection via Depth Distillation
 - [cgearhart/DepthFromDefocus](https://github.com/cgearhart/DepthFromDefocus) - Interpolated depth from defocus using graph cut optimization
