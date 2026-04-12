@@ -31,7 +31,6 @@
 - [github](#github)
 - [go](#go)
 - [golang](#golang)
-- [google](#google)
 - [haskell](#haskell)
 - [image-processing](#image-processing)
 - [ios](#ios)
@@ -172,7 +171,6 @@
 - [CGLab-GIST/RIDFnF](https://github.com/CGLab-GIST/RIDFnF) - An official source code of AAAI 2023 paper, "Robust Image Denoising of No-Flash Images Guided by Consistent Flash Images".
 - [ishit/L1Stabilizer](https://github.com/ishit/L1Stabilizer) - :movie_camera: Video stabilization using L1-norm optimal camera paths.
 - [ElvinC/gyroflow](https://github.com/ElvinC/gyroflow) - [INACTIVE LEGACY VERSION, FIND THE PROJECT HERE: https://github.com/gyroflow/gyroflow] Video stabilization using IMU motion data from internal or external logs
-- [aiff22/PyNET-Bokeh](https://github.com/aiff22/PyNET-Bokeh) - Rendering Realistic Bokeh Images with PyNET
 - [richzhang/colorization-pytorch](https://github.com/richzhang/colorization-pytorch) - PyTorch reimplementation of Interactive Deep Colorization
 - [ufoym/recursive-bf](https://github.com/ufoym/recursive-bf) - A lightweight C++ library for recursive bilateral filtering [Yang, Qingxiong. "Recursive bilateral filtering". European Conference on Computer Vision, 2012].
 - [baidut/OpenCE](https://github.com/baidut/OpenCE) - Contrast Enhancement Techniques for low-light images
@@ -275,12 +273,8 @@
 - [jinyeying/night-enhancement](https://github.com/jinyeying/night-enhancement) - [ECCV2022] "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",  https://arxiv.org/abs/2207.10564
 - [hellloxiaotian/CFSRCNN](https://github.com/hellloxiaotian/CFSRCNN) - Coarse-to-Fine CNN for Image Super-Resolution (IEEE Transactions on Multimedia,2021)
 - [codeslake/IFAN](https://github.com/codeslake/IFAN) - [CVPR 2021] Official PyTorch Implementation for "Iterative Filter Adaptive Network for Single Image Defocus Deblurring"
-- [m-tassano/dvdnet](https://github.com/m-tassano/dvdnet) - DVDnet: A Simple and Fast Network for Deep Video Denoising
-- [aiff22/PyNET-Bokeh](https://github.com/aiff22/PyNET-Bokeh) - Rendering Realistic Bokeh Images with PyNET
-- [cydonia999/Learning_to_See_in_the_Dark_PyTorch](https://github.com/cydonia999/Learning_to_See_in_the_Dark_PyTorch) - Learning to See in the Dark in PyTorch
 - [centreborelli/mf2f](https://github.com/centreborelli/mf2f) - Self-supervised training for blind multi-frame video denoising
 - [soumik12345/Zero-DCE](https://github.com/soumik12345/Zero-DCE) - Pytorch implementation of Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement
-- [pminhtam/MIRnet_SIDD](https://github.com/pminhtam/MIRnet_SIDD) - Pytorch implement "Learning Enriched Features for Real Image Restoration and Enhancement"
 - [zzh-tech/RSCD](https://github.com/zzh-tech/RSCD) - [CVPR2021] Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes
 - [codeslake/DMENet](https://github.com/codeslake/DMENet) - [CVPR 2019] Official TensorFlow Implementation for "Deep Defocus Map Estimation using Domain Adaptation"
 - [richzhang/colorization-pytorch](https://github.com/richzhang/colorization-pytorch) - PyTorch reimplementation of Interactive Deep Colorization
@@ -321,10 +315,6 @@
 ## golang 
 
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-
-## google 
-
-- [sukkritsharmaofficial/SeeInDark](https://github.com/sukkritsharmaofficial/SeeInDark) - Learning to See in the Dark using pytorch
 
 ## haskell 
 
@@ -371,7 +361,6 @@
 - [HuiZeng/Image-Adaptive-3DLUT](https://github.com/HuiZeng/Image-Adaptive-3DLUT) - Learning Image-adaptive 3D Lookup Tables for High Performance Photo Enhancement in Real-time
 - [ishit/L1Stabilizer](https://github.com/ishit/L1Stabilizer) - :movie_camera: Video stabilization using L1-norm optimal camera paths.
 - [ElvinC/gyroflow](https://github.com/ElvinC/gyroflow) - [INACTIVE LEGACY VERSION, FIND THE PROJECT HERE: https://github.com/gyroflow/gyroflow] Video stabilization using IMU motion data from internal or external logs
-- [aiff22/PyNET-Bokeh](https://github.com/aiff22/PyNET-Bokeh) - Rendering Realistic Bokeh Images with PyNET
 - [ufoym/recursive-bf](https://github.com/ufoym/recursive-bf) - A lightweight C++ library for recursive bilateral filtering [Yang, Qingxiong. "Recursive bilateral filtering". European Conference on Computer Vision, 2012].
 - [meisamrf/ivhc-estimator](https://github.com/meisamrf/ivhc-estimator) - Fast image noise estimation (Estimation of Gaussian, signal-dependent, and processed noise in Image and Video Signals)
 - [baidut/OpenCE](https://github.com/baidut/OpenCE) - Contrast Enhancement Techniques for low-light images
@@ -433,7 +422,6 @@
 ## mobile 
 
 - [aiff22/PyNET-PyTorch](https://github.com/aiff22/PyNET-PyTorch) - Generating RGB photos from RAW image files with PyNET (PyTorch)
-- [aiff22/PyNET-Bokeh](https://github.com/aiff22/PyNET-Bokeh) - Rendering Realistic Bokeh Images with PyNET
 
 ## neural-network 
 
@@ -468,6 +456,8 @@
 
 ## others 
 
+- [yyyyyxie/textflux](https://github.com/yyyyyxie/textflux) - TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis
+- [360CVGroup/RelaCtrl](https://github.com/360CVGroup/RelaCtrl) - Efficient controlnet for DiTs
 - [facebookresearch/EUPE](https://github.com/facebookresearch/EUPE) - Efficient Universal Perception Encoder: a single on-device vision encoder with versatile representations that match or exceed specialized experts across multiple task domains.
 - [eladc-git/ELIR](https://github.com/eladc-git/ELIR) - Efficient Latent Image Restoration
 - [Researcher-1042/TuLaBM](https://github.com/Researcher-1042/TuLaBM) - Official Pytorch Implementation of "TuLaBM: Tumor-Biased Latent Bridge Matching for Contrast-Enhanced MRI Synthesis"
@@ -1035,28 +1025,11 @@
 - [sxpro/ImageEnhance_cGAN](https://github.com/sxpro/ImageEnhance_cGAN) - Pytorch implementation of "Enhance Image as You Like with Unpaired Learning" (IJCAI 2021)
 - [goutamgmb/NTIRE21_BURSTSR](https://github.com/goutamgmb/NTIRE21_BURSTSR) - 
 - [Erfan-Ahmadi/BokehDepthOfField](https://github.com/Erfan-Ahmadi/BokehDepthOfField) - Implementing Different Algorithms to mimic Bokeh Depth Of Field: A Physical Camera Effect created due to Focal Length, Aperture size, shape
-- [ChengyuWang1007/Deep-Learning-for-Camera-Autofocus](https://github.com/ChengyuWang1007/Deep-Learning-for-Camera-Autofocus) - 
 - [csm9493/FBI-Denoiser](https://github.com/csm9493/FBI-Denoiser) - Official Code of FBI-Denoiser (Oral, CVPR 2021)
-- [zsyOAOA/noise_est_ICCV2015](https://github.com/zsyOAOA/noise_est_ICCV2015) - An Efficient Statistical Method for Image Noise Level Estimation, ICCV 2015, Python
 - [Jiaming-Liu/BayerUnifyAug](https://github.com/Jiaming-Liu/BayerUnifyAug) - Python toolbox for Bayer Raw image unification and augmentation
-- [jannemus/LSD2](https://github.com/jannemus/LSD2) - Joint Denoising and Deblurring of Short and Long Exposure Images with CNNs
-- [SheepHow/Learning-to-See-in-the-Dark-Pytorch](https://github.com/SheepHow/Learning-to-See-in-the-Dark-Pytorch) - 
-- [MichaelHYJiang/Learning-to-See-Moving-Objects-in-the-Dark](https://github.com/MichaelHYJiang/Learning-to-See-Moving-Objects-in-the-Dark) - Learning to See Moving Objects in the Dark. ICCV 2019
-- [yzxing87/pytorch-deep-video-prior](https://github.com/yzxing87/pytorch-deep-video-prior) - [NeurIPS 2020] Blind Video Temporal Consistency via Deep Video Prior
-- [WangLiwen1994/DLN](https://github.com/WangLiwen1994/DLN) - low-light image enhancement
-- [Marinyyt/noise-modeling-for-extreme-low-light-condition](https://github.com/Marinyyt/noise-modeling-for-extreme-low-light-condition) - 
-- [JaChouSSS/the-pytorch-implementation-of-Kindling-the-Darkness-A-Practical-Low-light-Image-Enhancer-](https://github.com/JaChouSSS/the-pytorch-implementation-of-Kindling-the-Darkness-A-Practical-Low-light-Image-Enhancer-) - 
 - [JimmyChame/LSFNet](https://github.com/JimmyChame/LSFNet) - Pytorch code for "Low-light Image Restoration with Short- and Long-exposure Raw Pairs"
-- [zhangyhuaee/KinD](https://github.com/zhangyhuaee/KinD) - Kindling the Darkness: a Practical Low-light Image Enhancer
-- [z-bingo/Recurrent-Fully-Convolutional-Networks](https://github.com/z-bingo/Recurrent-Fully-Convolutional-Networks) - Reimplement of paper End-to-End Denoising of Dark Burst Images Using Recurrent Fully Convolutional Networks
-- [parasmaharjan/DeepImageDenoising](https://github.com/parasmaharjan/DeepImageDenoising) - 
-- [gmengusthk/Seeing-Motion-in-the-Dark-Pytorch](https://github.com/gmengusthk/Seeing-Motion-in-the-Dark-Pytorch) - A pytorch implementation of Seeing-Motion in the Dark.
-- [flyywh/CVPR-2020-Semi-Low-Light](https://github.com/flyywh/CVPR-2020-Semi-Low-Light) - 
 - [constantine7cd/burst_enhancement](https://github.com/constantine7cd/burst_enhancement) - Bachelor's Degree Final Project. Project related to computer vision and computational photography, the algorithm purpose to process burst of raw Bayer images shot in scenes with low light to get image
-- [computational-imaging/neural-holography](https://github.com/computational-imaging/neural-holography) - Code and data for Neural Holography
-- [Apathetically/ProxyOpt](https://github.com/Apathetically/ProxyOpt) - Unofficial implement of denoising SIDD dataset reference the article Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies
 - [h4nwei/SPAQ](https://github.com/h4nwei/SPAQ) - [CVPR'20] Official SPAQ & Implementation
-- [laulampaul/sgnet](https://github.com/laulampaul/sgnet) - joint demosaicing and denoising with self guidance, cvpr20
 - [yanconglin/Deep-Hough-Transform-Line-Priors](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors) - Official implementation for Deep-Hough-Transform-Line-Priors (ECCV 2020)
 - [zkawfanx/StableLLVE](https://github.com/zkawfanx/StableLLVE) - Learning Temporal Consistency for Low Light Video Enhancement from Single Images (CVPR2021)
 - [hucvl/dark-burst-photography](https://github.com/hucvl/dark-burst-photography) - Official Tensorflow Implementation for "Burst Denoising of Dark Images", IEEE Transactions on Image Processing, November 2021
@@ -1158,7 +1131,6 @@
 
 - [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [mzur/pyJBU](https://github.com/mzur/pyJBU) - A Python implementation of Joint Bilateral Upsampling
-- [m-tassano/dvdnet](https://github.com/m-tassano/dvdnet) - DVDnet: A Simple and Fast Network for Deep Video Denoising
 
 ## pytorch 
 
@@ -1239,12 +1211,8 @@
 - [666DZY666/micronet](https://github.com/666DZY666/micronet) - micronet, a model compression and deploy lib. compression: 1、quantization: quantization-aware-training(QAT), High-Bit(&gt;2b)(DoReFa/Quantization and Training of Neural Networks for Efficient Integer-
 - [codeslake/IFAN](https://github.com/codeslake/IFAN) - [CVPR 2021] Official PyTorch Implementation for "Iterative Filter Adaptive Network for Single Image Defocus Deblurring"
 - [SeokjaeLIM/DSLR-release](https://github.com/SeokjaeLIM/DSLR-release) - Deep Stacked Laplacian Restorer for Low-light Image Enhancement
-- [m-tassano/dvdnet](https://github.com/m-tassano/dvdnet) - DVDnet: A Simple and Fast Network for Deep Video Denoising
-- [cydonia999/Learning_to_See_in_the_Dark_PyTorch](https://github.com/cydonia999/Learning_to_See_in_the_Dark_PyTorch) - Learning to See in the Dark in PyTorch
-- [sukkritsharmaofficial/SeeInDark](https://github.com/sukkritsharmaofficial/SeeInDark) - Learning to See in the Dark using pytorch
 - [Developer-Zer0/ZeroDCE](https://github.com/Developer-Zer0/ZeroDCE) - PyTorch implementation of Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement Chongyi Li et al.
 - [soumik12345/Zero-DCE](https://github.com/soumik12345/Zero-DCE) - Pytorch implementation of Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement
-- [lllllllllllll-llll/SPAQ](https://github.com/lllllllllllll-llll/SPAQ) - Pytorch Code for the CVPR2020 paper: "Perceptual Quality Assessment of Smartphone Photography."
 - [VITA-Group/EnlightenGAN](https://github.com/VITA-Group/EnlightenGAN) - [IEEE TIP] "EnlightenGAN: Deep Light Enhancement without Paired Supervision" by Yifan Jiang, Xinyu Gong, Ding Liu, Yu Cheng, Chen Fang, Xiaohui Shen, Jianchao Yang, Pan Zhou, Zhangyang Wang
 - [Yang-Liu1082/InvDN](https://github.com/Yang-Liu1082/InvDN) - Implementation for the paper: Invertible Denoising Network: A Light Solution for Real Noise Removal (CVPR2021).
 - [Raschka-research-group/coral-cnn](https://github.com/Raschka-research-group/coral-cnn) - Rank Consistent Ordinal Regression for Neural Networks with Application to Age Estimation
@@ -1304,7 +1272,6 @@
 - [mit-han-lab/data-efficient-gans](https://github.com/mit-han-lab/data-efficient-gans) - [NeurIPS 2020] Differentiable Augmentation for Data-Efficient GAN Training
 - [frobertpixto/hand-drawn-shapes-dataset](https://github.com/frobertpixto/hand-drawn-shapes-dataset) - Hand-drawn Shapes (HDS) Dataset. Images like Rectangles, Ellipses and Triangles
 - [CGLab-GIST/RIDFnF](https://github.com/CGLab-GIST/RIDFnF) - An official source code of AAAI 2023 paper, "Robust Image Denoising of No-Flash Images Guided by Consistent Flash Images".
-- [YoungYoung619/Make-vehicles-see-in-the-dark](https://github.com/YoungYoung619/Make-vehicles-see-in-the-dark) - Low light enhance for driving scene
 
 ## trading 
 
@@ -1318,7 +1285,6 @@
 
 - [mcpp-community/d2mcpp](https://github.com/mcpp-community/d2mcpp) - D2X | Modern C++ Core Language Features - "A C++ tutorial project focused on practical"
 - [yangKJ/Harbeth](https://github.com/yangKJ/Harbeth) - 🎨 GPU accelerated image / video and camera filter library based on Metal. Support macOS & iOS. 图像、视频、相机滤镜框架
-- [m-tassano/dvdnet](https://github.com/m-tassano/dvdnet) - DVDnet: A Simple and Fast Network for Deep Video Denoising
 
 ## vim 
 
