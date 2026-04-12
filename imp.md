@@ -12,3 +12,4 @@
 - [1202kbs/GCTM](https://github.com/1202kbs/GCTM) - Official PyTorch implementation of "Generalized Consistency Trajectory Models for Image Manipulation" 一致性模型
 - [gosha20777/cmKAN](https://github.com/gosha20777/cmKAN) - Color Matching Using Hypernetwork-Based Kolmogorov-Arnold Networks 小网络
 - [ZhengPeng7/BiRefNet](https://github.com/ZhengPeng7/BiRefNet) - [CAAI AIR'24] Bilateral Reference for High-Resolution Dichotomous Image Segmentation 显著性 分割
+- [h4nwei/SPAQ](https://github.com/h4nwei/SPAQ) - [CVPR'20] Official SPAQ & Implementation 似乎是带了场景识别，如果好用再去搜索一下
