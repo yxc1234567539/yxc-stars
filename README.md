@@ -139,6 +139,7 @@
 
 ## Jupyter Notebook 
 
+- [hugo2046/QuantsPlaybook](https://github.com/hugo2046/QuantsPlaybook) - 量化研究-券商金工研报复现
 - [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始构建大模型
 - [magic-research/piecewise-rectified-flow](https://github.com/magic-research/piecewise-rectified-flow) - PeRFlow: Piecewise Rectified Flow as Universal Plug-and-Play Accelerator (NeurIPS 2024)
 - [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
@@ -294,6 +295,7 @@
 
 ## Python 
 
+- [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - [yyyyyxie/textflux](https://github.com/yyyyyxie/textflux) - TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis
 - [360CVGroup/RelaCtrl](https://github.com/360CVGroup/RelaCtrl) - Efficient controlnet for DiTs
 - [facebookresearch/EUPE](https://github.com/facebookresearch/EUPE) - Efficient Universal Perception Encoder: a single on-device vision encoder with versatile representations that match or exceed specialized experts across multiple task domains.
