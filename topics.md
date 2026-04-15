@@ -23,6 +23,7 @@
 - [data-visualization](#data-visualization)
 - [deep-learning](#deep-learning)
 - [docker](#docker)
+- [electron](#electron)
 - [embedded](#embedded)
 - [finance](#finance)
 - [font](#font)
@@ -57,6 +58,7 @@
 - [rag](#rag)
 - [react](#react)
 - [react-native](#react-native)
+- [reinforcement-learning](#reinforcement-learning)
 - [rust](#rust)
 - [shell](#shell)
 - [sketch](#sketch)
@@ -285,6 +287,10 @@
 - [a-nau/synthetic-dataset-generation](https://github.com/a-nau/synthetic-dataset-generation) - Easily create an instance segmentation dataset from an existing pool of objects of interest, distractor objects and background images. Easy configuration, diverse image compositions, multiple blending
 - [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
 
+## electron 
+
+- [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
+
 ## embedded 
 
 - [mohitmishra786/low-level-dev-skills](https://github.com/mohitmishra786/low-level-dev-skills) - A curated suite of AI agent skills for systems and low-level programming with C/C++, Rust, and Zig toolchains, covering compilers, debuggers, profilers, build systems, sanitizers, and binary analysis
@@ -458,6 +464,9 @@
 
 ## others 
 
+- [YangLing0818/consistency_flow_matching](https://github.com/YangLing0818/consistency_flow_matching) - Official Implementation for "Consistency Flow Matching: Defining Straight Flows with Velocity Consistency"
+- [stepfun-ai/Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) - A SOTA open-source image editing model, which aims to provide comparable performance against the closed-source models like GPT-4o and Gemini 2 Flash.
+- [Mob-FGSR/mob-ss](https://github.com/Mob-FGSR/mob-ss) - [SIGGRAPH Asia 2025] Lightweight, Edge-Aware, and Temporally Consistent Supersampling for Mobile Real-Time Rendering
 - [yyyyyxie/textflux](https://github.com/yyyyyxie/textflux) - TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis
 - [360CVGroup/RelaCtrl](https://github.com/360CVGroup/RelaCtrl) - Efficient controlnet for DiTs
 - [facebookresearch/EUPE](https://github.com/facebookresearch/EUPE) - Efficient Universal Perception Encoder: a single on-device vision encoder with versatile representations that match or exceed specialized experts across multiple task domains.
@@ -1238,6 +1247,10 @@
 ## react-native 
 
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+## reinforcement-learning 
+
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
 
 ## rust 
 
