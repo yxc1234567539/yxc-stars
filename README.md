@@ -58,6 +58,7 @@
 
 ## C++ 
 
+- [Mob-FGSR/mob-ss](https://github.com/Mob-FGSR/mob-ss) - [SIGGRAPH Asia 2025] Lightweight, Edge-Aware, and Temporally Consistent Supersampling for Mobile Real-Time Rendering
 - [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
 - [mcpp-community/d2mcpp](https://github.com/mcpp-community/d2mcpp) - D2X | Modern C++ Core Language Features - "A C++ tutorial project focused on practical"
 - [harry7557558/Graphics](https://github.com/harry7557558/Graphics) - Source files for my experiments not limited to computer graphics.
@@ -135,6 +136,7 @@
 
 ## JavaScript 
 
+- [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 - [mohitmishra786/low-level-dev-skills](https://github.com/mohitmishra786/low-level-dev-skills) - A curated suite of AI agent skills for systems and low-level programming with C/C++, Rust, and Zig toolchains, covering compilers, debuggers, profilers, build systems, sanitizers, and binary analysis
 
 ## Jupyter Notebook 
@@ -295,6 +297,8 @@
 
 ## Python 
 
+- [YangLing0818/consistency_flow_matching](https://github.com/YangLing0818/consistency_flow_matching) - Official Implementation for "Consistency Flow Matching: Defining Straight Flows with Velocity Consistency"
+- [stepfun-ai/Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) - A SOTA open-source image editing model, which aims to provide comparable performance against the closed-source models like GPT-4o and Gemini 2 Flash.
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - [yyyyyxie/textflux](https://github.com/yyyyyxie/textflux) - TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis
 - [360CVGroup/RelaCtrl](https://github.com/360CVGroup/RelaCtrl) - Efficient controlnet for DiTs
