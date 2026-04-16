@@ -534,7 +534,7 @@
 - [snap-research/InstantRestore](https://github.com/snap-research/InstantRestore) - Official Implementation for "InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention"
 - [NceBoy/NceAlg](https://github.com/NceBoy/NceAlg) - rv1126,rk1808,hisi3516dv300,hisi3559av100,mnn,nnie,npu,vfnet,retinaface,arcface,centernet,ttf,yolox,detect,alg. This is a cross-platform algorithm framework./跨平台异构算法推理框架
 - [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - An app for managing github starred repositories.
-- [NVIDIA/tao_tutorials](https://github.com/NVIDIA/tao_tutorials) - Quick start scripts and tutorial notebooks to get started with TAO Toolkit
+- [NVIDIA/tao-tutorials](https://github.com/NVIDIA/tao-tutorials) - Quick start scripts and tutorial notebooks to get started with TAO Toolkit
 - [ZhexinLiang/CLIP-LIT](https://github.com/ZhexinLiang/CLIP-LIT) - [ICCV 2023, Oral] Iterative Prompt Learning for Unsupervised Backlit Image Enhancement
 - [FreeButUselessSoul/bokehdiff](https://github.com/FreeButUselessSoul/bokehdiff) - This is the official repository for "BokehDiff: Neural Lens Blur with One-Step Diffusion" (ICCV'25).
 - [Retinal-Research/CUNSB-RFIE](https://github.com/Retinal-Research/CUNSB-RFIE) - (WACV 2024) Code for paper:  CUNSB-RFIE: Context-aware Unpaired Neural Schr¨odinger Bridge in Retinal Fundus Image Enhancement
