@@ -152,7 +152,7 @@
 - [tsmatz/diffusion-tutorials](https://github.com/tsmatz/diffusion-tutorials) - Theoretical introduction and examples for diffusion model algorithms
 - [Qualcomm-AI-research/clockwork-diffusion](https://github.com/Qualcomm-AI-research/clockwork-diffusion) - 
 - [FLClab/TA-GAN](https://github.com/FLClab/TA-GAN) - Repository for "Task-Assisted GAN for Resolution Enhancement and Modality Translation in Fluorescence Microscopy"
-- [NVIDIA/tao-tutorials](https://github.com/NVIDIA/tao-tutorials) - Quick start scripts and tutorial notebooks to get started with TAO Toolkit
+- [NVIDIA-TAO/tao-tutorials](https://github.com/NVIDIA-TAO/tao-tutorials) - Quick start scripts and tutorial notebooks to get started with TAO Toolkit
 - [sooyeon-go/eye_for_an_eye](https://github.com/sooyeon-go/eye_for_an_eye) - Eye-for-an-eye: Appearance Transfer with Semantic Correspondence in Diffusion Models
 - [CyberAgentAILab/Palette2Image](https://github.com/CyberAgentAILab/Palette2Image) - Official implementation of Exploring Palette based Color Guidance in Diffusion Models, ACM MM 2025.
 - [devrimcavusoglu/dmd](https://github.com/devrimcavusoglu/dmd) - PyTorch implementation of One-step Diffusion with Distribution Matching Distillation
