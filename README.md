@@ -246,6 +246,7 @@
 
 ## Others 
 
+- [bcmi/Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition) - A curated list of papers, code and resources pertaining to image composition/compositing or object insertion/addition/compositing, which aims to generate realistic composite image.
 - [wangkai930418/awesome-diffusion-categorized](https://github.com/wangkai930418/awesome-diffusion-categorized) - collection of diffusion model papers categorized by their subareas
 - [Becomebright/MTV](https://github.com/Becomebright/MTV) - Revisiting Multi-Task Visual Representation Learning
 - [Q-Future/Co-Instruct](https://github.com/Q-Future/Co-Instruct) - ④[ECCV 2024 Oral, Comparison among Multiple Images!] A study on open-ended multi-image quality comparison: a dataset, a model and a benchmark.
@@ -269,7 +270,6 @@
 - [nucbaixu/AutoExposure](https://github.com/nucbaixu/AutoExposure) - 自动曝光的开源代码
 - [LeiWang1999/FPGA](https://github.com/LeiWang1999/FPGA) - 帮助大家进行FPGA的入门，分享FPGA相关的优秀文章，优秀项目
 - [bcmi/Awesome-Image-Blending](https://github.com/bcmi/Awesome-Image-Blending) - A curated list of papers, code and resources pertaining to image blending.
-- [subeeshvasu/Awesome-ImageHarmonization](https://github.com/subeeshvasu/Awesome-ImageHarmonization) - 
 - [ChunmingHe/awesome-diffusion-models-in-low-level-vision](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) - A Repository for Diffusion-Model-related Papers in Low-level Vision
 - [ofeeler/LPR](https://github.com/ofeeler/LPR) - pku lpr dataset
 - [JianzeLi-114/FluxSR](https://github.com/JianzeLi-114/FluxSR) - 
