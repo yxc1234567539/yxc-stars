@@ -257,7 +257,6 @@
 - [XJTU-LHF/Awesome-Face-Restoration](https://github.com/XJTU-LHF/Awesome-Face-Restoration) - 
 - [megvii-research/megvii-tsinghua-dl-course](https://github.com/megvii-research/megvii-tsinghua-dl-course) - Slides with modifications for a course at Tsinghua University.
 - [jkwang28/HonestFace](https://github.com/jkwang28/HonestFace) - 
-- [gobunu/OSDHuman](https://github.com/gobunu/OSDHuman) - 
 - [Moongod-Love/WTDiff](https://github.com/Moongod-Love/WTDiff) - Official implementation of the paper "WTDiff: High-Fidelity Weather Translation with One-Step Diffusion"
 - [Westlake-AGI-Lab/Awesome-Style-Transfer-with-Diffusion-Models](https://github.com/Westlake-AGI-Lab/Awesome-Style-Transfer-with-Diffusion-Models) - A curated list of recent style transfer methods with diffusion models
 - [shenmintao/V-Log-Alchemy](https://github.com/shenmintao/V-Log-Alchemy) - Turn your Panasonic Lumix camera into a Fujifilm GFX, Leica, ARRI, and more using precise ACES inverse engineering
@@ -344,6 +343,7 @@
 - [sen-mao/InterLCM](https://github.com/sen-mao/InterLCM) - [ICLR2025] Official Implementations "InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration"
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [woodx9/minimal-embedding-server](https://github.com/woodx9/minimal-embedding-server) - a embedding infer server faster than vllm and sglang
+- [gobunu/OSDHuman](https://github.com/gobunu/OSDHuman) - 
 - [Qualcomm-AI-research/SwiftEdit](https://github.com/Qualcomm-AI-research/SwiftEdit) - Official PyTorch implementation of our CVPR 2025 paper: "SwiftEdit: Lightning Fast Text-guided Image Editing via One-step Diffusion"
 - [AMAP-ML/RealQA](https://github.com/AMAP-ML/RealQA) - Next Token Is Enough: Realistic Image Quality and Aesthetic Scoring with Multimodal Large Language Model.
 - [thunderbolt215/UniPercept](https://github.com/thunderbolt215/UniPercept) - UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
