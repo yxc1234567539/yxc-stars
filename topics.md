@@ -464,6 +464,7 @@
 
 ## others 
 
+- [NVlabs/PixelDiT](https://github.com/NVlabs/PixelDiT) - [CVPR 2026 Oral] Pixel Diffusion Transformers for Image Generation
 - [bcmi/Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition) - A curated list of papers, code and resources pertaining to image composition/compositing or object insertion/addition/compositing, which aims to generate realistic composite image.
 - [YangLing0818/consistency_flow_matching](https://github.com/YangLing0818/consistency_flow_matching) - Official Implementation for "Consistency Flow Matching: Defining Straight Flows with Velocity Consistency"
 - [stepfun-ai/Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) - A SOTA open-source image editing model, which aims to provide comparable performance against the closed-source models like GPT-4o and Gemini 2 Flash.
