@@ -296,6 +296,7 @@
 
 ## Python 
 
+- [NVlabs/PixelDiT](https://github.com/NVlabs/PixelDiT) - [CVPR 2026 Oral] Pixel Diffusion Transformers for Image Generation
 - [YangLing0818/consistency_flow_matching](https://github.com/YangLing0818/consistency_flow_matching) - Official Implementation for "Consistency Flow Matching: Defining Straight Flows with Velocity Consistency"
 - [stepfun-ai/Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) - A SOTA open-source image editing model, which aims to provide comparable performance against the closed-source models like GPT-4o and Gemini 2 Flash.
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
