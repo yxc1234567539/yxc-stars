@@ -141,6 +141,7 @@
 
 ## Jupyter Notebook 
 
+- [CalvinXKY/InfraTech](https://github.com/CalvinXKY/InfraTech) - 分享AI Infra知识&代码练习：PyTorch/vLLM/SGLang框架入门⚡️、性能加速🚀、大模型基础🧠、AI软硬件🔧等
 - [hugo2046/QuantsPlaybook](https://github.com/hugo2046/QuantsPlaybook) - 量化研究-券商金工研报复现
 - [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始构建大模型
 - [magic-research/piecewise-rectified-flow](https://github.com/magic-research/piecewise-rectified-flow) - PeRFlow: Piecewise Rectified Flow as Universal Plug-and-Play Accelerator (NeurIPS 2024)
