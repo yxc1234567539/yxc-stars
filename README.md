@@ -298,6 +298,8 @@
 
 ## Python 
 
+- [coolsyn2000/ISP-AutoTuning](https://github.com/coolsyn2000/ISP-AutoTuning) - Image signal process (ISP) parameters auto-tuning program based on Black-Box hyperparameter optimization
+- [coolsyn2000/Open-AISP](https://github.com/coolsyn2000/Open-AISP) - Open-AISP is a toy-level, and open-source AI-ISP (Artificial Intelligence Image Signal Process) pipeline framework for beginners.
 - [EadCat/APAP-Image-Stitching](https://github.com/EadCat/APAP-Image-Stitching) - As-Projective-As-Possible (APAP) Image Stitching with Moving DLT (CVPR 2013) - Python Implementation
 - [Avinash793/panoramic-image-stitching](https://github.com/Avinash793/panoramic-image-stitching) - Create panorama image using invariant features from given set of overlapping images.
 - [labsyspharm/ashlar](https://github.com/labsyspharm/ashlar) - ASHLAR: Alignment by Simultaneous Harmonization of Layer/Adjacency Registration
