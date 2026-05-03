@@ -467,6 +467,7 @@
 
 ## others 
 
+- [dhryougit/Beyond-the-Ground-Truth](https://github.com/dhryougit/Beyond-the-Ground-Truth) - 
 - [fanzh03/IR-Flow](https://github.com/fanzh03/IR-Flow) - IR-Flow: Bridging Discriminative and Generative Image Restoration via Rectified Flow
 - [coolsyn2000/ISP-AutoTuning](https://github.com/coolsyn2000/ISP-AutoTuning) - Image signal process (ISP) parameters auto-tuning program based on Black-Box hyperparameter optimization
 - [coolsyn2000/Open-AISP](https://github.com/coolsyn2000/Open-AISP) - Open-AISP is a toy-level, and open-source AI-ISP (Artificial Intelligence Image Signal Process) pipeline framework for beginners.
@@ -474,7 +475,7 @@
 - [visionxiang/awesome-computational-photography](https://github.com/visionxiang/awesome-computational-photography) - A curated list of awesome resources for topics related to computational photography via deep learning, which mainly focuses on image alignment and stitching.
 - [labsyspharm/ashlar](https://github.com/labsyspharm/ashlar) - ASHLAR: Alignment by Simultaneous Harmonization of Layer/Adjacency Registration
 - [NVlabs/PixelDiT](https://github.com/NVlabs/PixelDiT) - [CVPR 2026 Oral] Pixel Diffusion Transformers for Image Generation
-- [bcmi/Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition) - A curated list of papers, code and resources pertaining to image composition/compositing or object insertion/addition/compositing, which aims to generate realistic composite image.
+- [bcmi/Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition) - A curated list of papers, code and resources pertaining to image composition/compositing or object/subject insertion/addition/compositing, which aims to generate realistic composite image.
 - [YangLing0818/consistency_flow_matching](https://github.com/YangLing0818/consistency_flow_matching) - Official Implementation for "Consistency Flow Matching: Defining Straight Flows with Velocity Consistency"
 - [stepfun-ai/Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) - A SOTA open-source image editing model, which aims to provide comparable performance against the closed-source models like GPT-4o and Gemini 2 Flash.
 - [Mob-FGSR/mob-ss](https://github.com/Mob-FGSR/mob-ss) - [SIGGRAPH Asia 2025] Lightweight, Edge-Aware, and Temporally Consistent Supersampling for Mobile Real-Time Rendering
@@ -528,7 +529,7 @@
 - [Qualcomm-AI-research/SwiftEdit](https://github.com/Qualcomm-AI-research/SwiftEdit) - Official PyTorch implementation of our CVPR 2025 paper: "SwiftEdit: Lightning Fast Text-guided Image Editing via One-step Diffusion"
 - [Qualcomm-AI-research/clockwork-diffusion](https://github.com/Qualcomm-AI-research/clockwork-diffusion) - 
 - [AMAP-ML/RealQA](https://github.com/AMAP-ML/RealQA) - Next Token Is Enough: Realistic Image Quality and Aesthetic Scoring with Multimodal Large Language Model.
-- [thunderbolt215/UniPercept](https://github.com/thunderbolt215/UniPercept) - UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
+- [thunderbolt215/UniPercept](https://github.com/thunderbolt215/UniPercept) - [ICML26 Spotlight] UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
 - [bytedance/Q-Insight](https://github.com/bytedance/Q-Insight) - Q-Insight Family: Q-Insight, VQ-Insight and RALI (NeurIPS 2025 Spotlight, AAAI 2026 Oral, and ICLR 2026 Oral)
 - [Huang-ShiRui/Semi-UIR](https://github.com/Huang-ShiRui/Semi-UIR) - Official code for "Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank" (2023 CVPR)
 - [Jiayi-Fu/IPC-Dehaze](https://github.com/Jiayi-Fu/IPC-Dehaze) - [CVPR2025] Iterative Predictor-Critic Code Decoding for Real-World Image Dehazing
