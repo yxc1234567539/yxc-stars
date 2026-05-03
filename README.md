@@ -248,7 +248,7 @@
 ## Others 
 
 - [visionxiang/awesome-computational-photography](https://github.com/visionxiang/awesome-computational-photography) - A curated list of awesome resources for topics related to computational photography via deep learning, which mainly focuses on image alignment and stitching.
-- [bcmi/Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition) - A curated list of papers, code and resources pertaining to image composition/compositing or object insertion/addition/compositing, which aims to generate realistic composite image.
+- [bcmi/Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition) - A curated list of papers, code and resources pertaining to image composition/compositing or object/subject insertion/addition/compositing, which aims to generate realistic composite image.
 - [wangkai930418/awesome-diffusion-categorized](https://github.com/wangkai930418/awesome-diffusion-categorized) - collection of diffusion model papers categorized by their subareas
 - [Becomebright/MTV](https://github.com/Becomebright/MTV) - Revisiting Multi-Task Visual Representation Learning
 - [Q-Future/Co-Instruct](https://github.com/Q-Future/Co-Instruct) - ④[ECCV 2024 Oral, Comparison among Multiple Images!] A study on open-ended multi-image quality comparison: a dataset, a model and a benchmark.
@@ -298,6 +298,7 @@
 
 ## Python 
 
+- [dhryougit/Beyond-the-Ground-Truth](https://github.com/dhryougit/Beyond-the-Ground-Truth) - 
 - [fanzh03/IR-Flow](https://github.com/fanzh03/IR-Flow) - IR-Flow: Bridging Discriminative and Generative Image Restoration via Rectified Flow
 - [coolsyn2000/ISP-AutoTuning](https://github.com/coolsyn2000/ISP-AutoTuning) - Image signal process (ISP) parameters auto-tuning program based on Black-Box hyperparameter optimization
 - [coolsyn2000/Open-AISP](https://github.com/coolsyn2000/Open-AISP) - Open-AISP is a toy-level, and open-source AI-ISP (Artificial Intelligence Image Signal Process) pipeline framework for beginners.
@@ -355,7 +356,7 @@
 - [gobunu/OSDHuman](https://github.com/gobunu/OSDHuman) - 
 - [Qualcomm-AI-research/SwiftEdit](https://github.com/Qualcomm-AI-research/SwiftEdit) - Official PyTorch implementation of our CVPR 2025 paper: "SwiftEdit: Lightning Fast Text-guided Image Editing via One-step Diffusion"
 - [AMAP-ML/RealQA](https://github.com/AMAP-ML/RealQA) - Next Token Is Enough: Realistic Image Quality and Aesthetic Scoring with Multimodal Large Language Model.
-- [thunderbolt215/UniPercept](https://github.com/thunderbolt215/UniPercept) - UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
+- [thunderbolt215/UniPercept](https://github.com/thunderbolt215/UniPercept) - [ICML26 Spotlight] UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
 - [bytedance/Q-Insight](https://github.com/bytedance/Q-Insight) - Q-Insight Family: Q-Insight, VQ-Insight and RALI (NeurIPS 2025 Spotlight, AAAI 2026 Oral, and ICLR 2026 Oral)
 - [Huang-ShiRui/Semi-UIR](https://github.com/Huang-ShiRui/Semi-UIR) - Official code for "Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank" (2023 CVPR)
 - [Jiayi-Fu/IPC-Dehaze](https://github.com/Jiayi-Fu/IPC-Dehaze) - [CVPR2025] Iterative Predictor-Critic Code Decoding for Real-World Image Dehazing
