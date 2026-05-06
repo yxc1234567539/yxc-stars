@@ -82,7 +82,7 @@
 - [JokerEyeAdas/HDR-ISP](https://github.com/JokerEyeAdas/HDR-ISP) - An ISP Pipeline For  HDR CMOS Image Sensor
 - [ChunelFeng/CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的，跨平台的C++线程池。欢迎 star & fork
 - [BBuf/Image-processing-algorithm-Speed](https://github.com/BBuf/Image-processing-algorithm-Speed) - opencv
-- [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON for ARM, HVX for Hexagon
+- [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON, SVE for ARM, HVX for Hexagon
 - [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C++11
 - [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
 - [Ldpe2G/ArmNeonOptimization](https://github.com/Ldpe2G/ArmNeonOptimization) - Arm neon optimization practice
@@ -396,7 +396,7 @@
 - [bupt-ai-cz/BCI](https://github.com/bupt-ai-cz/BCI) - BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix
 - [goldbema/WeightedLeastSquaresFilter](https://github.com/goldbema/WeightedLeastSquaresFilter) - Implementation of Z. Farbman, R. Fattal, D. Lischinski, and R. Szeliski, 'Edge-Preserving Decompositions for Multi-Scale Tone and Detail Manipulation' (2008)
 - [pengbo-learn/python-face-relighting](https://github.com/pengbo-learn/python-face-relighting) - A python implementation of portrait lighting transfer using a mass transport approach.
-- [peacewang017/shortcut-models-torch](https://github.com/peacewang017/shortcut-models-torch) - Pytorch version implementation of “ICLR '25: One Step Diffusion via Shortcut Models”
+- [peacewang017/shortcut-models-torch](https://github.com/peacewang017/shortcut-models-torch) - Implementation of "One Step Diffusion via Shortcut Models” (ICLR '25)
 - [amilbhagat/Conditional-Consistency-Models](https://github.com/amilbhagat/Conditional-Consistency-Models) - This repository contains the official implementation and supplementary materials for the research paper "Conditional Consistency Guided Image Translation and Enhancement". It explores advanced consist
 - [Coordi777/ACD_S2ODPM](https://github.com/Coordi777/ACD_S2ODPM) - The official implementation of the paper Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation.
 - [yukara-ikemiya/modified-shortcut-models-pytorch](https://github.com/yukara-ikemiya/modified-shortcut-models-pytorch) - PyTorch implementation of Shortcut Models [Frans, 2025] with little modification
