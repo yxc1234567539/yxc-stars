@@ -298,6 +298,8 @@
 
 ## Python 
 
+- [Tr1stesse/DirectEdit](https://github.com/Tr1stesse/DirectEdit) - [ICML 2026] Official implementation for "DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing".
+- [vivoCameraResearch/SmartPhotoCrafter](https://github.com/vivoCameraResearch/SmartPhotoCrafter) - official github code for "SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing"
 - [dhryougit/Beyond-the-Ground-Truth](https://github.com/dhryougit/Beyond-the-Ground-Truth) - 
 - [fanzh03/IR-Flow](https://github.com/fanzh03/IR-Flow) - IR-Flow: Bridging Discriminative and Generative Image Restoration via Rectified Flow
 - [coolsyn2000/ISP-AutoTuning](https://github.com/coolsyn2000/ISP-AutoTuning) - Image signal process (ISP) parameters auto-tuning program based on Black-Box hyperparameter optimization
