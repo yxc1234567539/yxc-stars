@@ -298,6 +298,7 @@
 
 ## Python 
 
+- [649453932/Bert-Chinese-Text-Classification-Pytorch](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch) - 使用Bert，ERNIE，进行中文文本分类
 - [Tr1stesse/DirectEdit](https://github.com/Tr1stesse/DirectEdit) - [ICML 2026] Official implementation for "DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing".
 - [vivoCameraResearch/SmartPhotoCrafter](https://github.com/vivoCameraResearch/SmartPhotoCrafter) - official github code for "SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing"
 - [dhryougit/Beyond-the-Ground-Truth](https://github.com/dhryougit/Beyond-the-Ground-Truth) - 
