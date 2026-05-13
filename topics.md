@@ -467,6 +467,9 @@
 
 ## others 
 
+- [Boffin-Dharshan/line-follower-with-camera-and-opencv](https://github.com/Boffin-Dharshan/line-follower-with-camera-and-opencv) - A camera-based line follower robot built with ROS2, Gazebo, and OpenCV. Instead of IR sensors, the robot uses a camera to detect and follow a track. Includes a 4-wheel differential drive, a custom Gaz
+- [Real-J/Line-Follower-Robot-using-OpenCV-PID-Control](https://github.com/Real-J/Line-Follower-Robot-using-OpenCV-PID-Control) - 
+- [duzekang/XiaoMi-Cup](https://github.com/duzekang/XiaoMi-Cup) - 
 - [dut-media-lab/Image-Stitching](https://github.com/dut-media-lab/Image-Stitching) - Leveraging Line-point Consistence to Preserve Structures for Wide Parallax Image Stitching
 - [649453932/Bert-Chinese-Text-Classification-Pytorch](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch) - 使用Bert，ERNIE，进行中文文本分类
 - [Tr1stesse/DirectEdit](https://github.com/Tr1stesse/DirectEdit) - [ICML 2026] Official implementation for "DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing".
