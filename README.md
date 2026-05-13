@@ -59,6 +59,7 @@
 
 ## C++ 
 
+- [duzekang/XiaoMi-Cup](https://github.com/duzekang/XiaoMi-Cup) - 
 - [Mob-FGSR/mob-ss](https://github.com/Mob-FGSR/mob-ss) - [SIGGRAPH Asia 2025] Lightweight, Edge-Aware, and Temporally Consistent Supersampling for Mobile Real-Time Rendering
 - [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
 - [mcpp-community/d2mcpp](https://github.com/mcpp-community/d2mcpp) - D2X | Modern C++ Core Language Features - "A C++ tutorial project focused on practical"
@@ -299,6 +300,8 @@
 
 ## Python 
 
+- [Boffin-Dharshan/line-follower-with-camera-and-opencv](https://github.com/Boffin-Dharshan/line-follower-with-camera-and-opencv) - A camera-based line follower robot built with ROS2, Gazebo, and OpenCV. Instead of IR sensors, the robot uses a camera to detect and follow a track. Includes a 4-wheel differential drive, a custom Gaz
+- [Real-J/Line-Follower-Robot-using-OpenCV-PID-Control](https://github.com/Real-J/Line-Follower-Robot-using-OpenCV-PID-Control) - 
 - [649453932/Bert-Chinese-Text-Classification-Pytorch](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch) - 使用Bert，ERNIE，进行中文文本分类
 - [Tr1stesse/DirectEdit](https://github.com/Tr1stesse/DirectEdit) - [ICML 2026] Official implementation for "DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing".
 - [vivoCameraResearch/SmartPhotoCrafter](https://github.com/vivoCameraResearch/SmartPhotoCrafter) - official github code for "SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing"
