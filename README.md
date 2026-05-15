@@ -768,7 +768,7 @@
 - [csjliang/LDL](https://github.com/csjliang/LDL) - Official implementation of the paper 'Details or Artifacts: A Locally Discriminative Learning Approach to Realistic Image Super-Resolution' in CVPR 2022
 - [Li-Tong-621/DMID](https://github.com/Li-Tong-621/DMID) - [TPAMI 2024] The offical code for DMID ( Stimulating the Diffusion Model for Image Denoising via Adaptive Embedding and Ensembling ).
 - [jinlong17/LightDiff](https://github.com/jinlong17/LightDiff) - About [CVPR 2024] The official implementation of paper " Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving"
-- [EternalEvan/FlowIE](https://github.com/EternalEvan/FlowIE) - This repository contains the official implementation of "FlowIE: Efficient Image Enhancement via Rectified Flow"
+- [EternalEvan/FlowIE](https://github.com/EternalEvan/FlowIE) - [CVPR 2024 oral]This repository contains the official implementation of "FlowIE: Efficient Image Enhancement via Rectified Flow"
 - [ZcsrenlongZ/ZoomGS](https://github.com/ZcsrenlongZ/ZoomGS) - [ECCV 2024] Dual-Camera Smoooth Zoom on Mobile Phones
 - [dhryougit/AFM](https://github.com/dhryougit/AFM) - 
 - [rflepp/SplitterNet-Efficient-Mobile-Denoising-Models-CVPR2024](https://github.com/rflepp/SplitterNet-Efficient-Mobile-Denoising-Models-CVPR2024) - This framework includes the loading of different datasets as well as several denoising models. Several of the models are optimized for mobile usage. Those models include a simple U-Net, the winning mo
