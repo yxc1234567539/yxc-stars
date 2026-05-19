@@ -391,10 +391,10 @@
 - [showlab/PhotoDoodle](https://github.com/showlab/PhotoDoodle) - [ICCV 2025] Code Implementation of  "ArtEditor: Learning Customized Instructional Image Editor from Few-Shot Examples"
 - [showlab/OmniConsistency](https://github.com/showlab/OmniConsistency) - The official code implementation of the paper "OmniConsistency: Learning Style-Agnostic Consistency from Paired Stylization Data."
 - [prs-eth/Marigold](https://github.com/prs-eth/Marigold) - [CVPR 2024 - Oral, Best Paper Award Candidate] Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation
-- [gojasper/LBM](https://github.com/gojasper/LBM) - LBM: Latent Bridge Matching for Fast Image-to-Image Translation ✨ (ICCV 2025 Highlight)
+- [gojasper/LBM](https://github.com/gojasper/LBM) - Latent Bridge Matching for Fast Image-to-Image Translation (ICCV 2025 Highlight)
 - [elerac/structuredlight](https://github.com/elerac/structuredlight) - Generate and Decode structured light. Binary, Gray, XOR, Ramp, Phase-Shifting, Stripe.
 - [shenmintao/Raw-Alchemy](https://github.com/shenmintao/Raw-Alchemy) - Bridge the gap between photo and video color grading. Accurately apply any creative LUT to your RAW files with this tool.
-- [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - ⚡ Flash Diffusion ⚡: Accelerating Any Conditional Diffusion Model for Few Steps Image Generation (AAAI 2025 Oral)
+- [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - Flash Diffusion — accelerating conditional diffusion models (AAAI 2025 Oral)
 - [alibaba-damo-academy/T2I-Distill](https://github.com/alibaba-damo-academy/T2I-Distill) - [Tutorial] Few-Step Distillation for Text-to-Image Generation: A Practical Guide
 - [changzheng123/L-CAD](https://github.com/changzheng123/L-CAD) - Implementation for "L-CAD: Language-based Colorization with Any-level Descriptions using Diffusion Priors"
 - [rendercv/rendercv](https://github.com/rendercv/rendercv) - Resume builder for academics and engineers
