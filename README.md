@@ -7,6 +7,7 @@
 
 - [Assembly](#assembly)
 - [C](#c)
+- [C#](#c#)
 - [C++](#c++)
 - [Cuda](#cuda)
 - [GLSL](#glsl)
@@ -56,6 +57,10 @@
 - [liuguoyou/HDR-Fast-Local-Laplacian](https://github.com/liuguoyou/HDR-Fast-Local-Laplacian) - HDR recovering and tonemapping using fast local laplacian approach
 - [tikroeger/OF_DIS](https://github.com/tikroeger/OF_DIS) - Fast Optical Flow using Dense Inverse Search (DIS)
 - [DanBloomberg/leptonica](https://github.com/DanBloomberg/leptonica) - Leptonica is an open source library containing software that is broadly useful for image processing and image analysis applications. The official github repository for Leptonica is: danbloomberg/lepto
+
+## C# # 
+
+- [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 
 ## C++ 
 
@@ -143,6 +148,8 @@
 
 ## Jupyter Notebook 
 
+- [AkexStar/LearnPython](https://github.com/AkexStar/LearnPython) - python大数据分析课程代码
+- [dhairyashilRG/tiny_MNIST](https://github.com/dhairyashilRG/tiny_MNIST) - High Accuracy with Very Small Model
 - [CalvinXKY/InfraTech](https://github.com/CalvinXKY/InfraTech) - 分享AI Infra知识&代码练习：PyTorch/vLLM/SGLang框架入门⚡️、性能加速🚀、大模型基础🧠、AI软硬件🔧等
 - [hugo2046/QuantsPlaybook](https://github.com/hugo2046/QuantsPlaybook) - 量化研究-券商金工研报复现
 - [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始构建大模型
@@ -300,6 +307,7 @@
 
 ## Python 
 
+- [catsirl/mnist_99.7_pytorch](https://github.com/catsirl/mnist_99.7_pytorch) - MNIST classification in Pytorch, the accuracy of the test set is 99.7%
 - [Boffin-Dharshan/line-follower-with-camera-and-opencv](https://github.com/Boffin-Dharshan/line-follower-with-camera-and-opencv) - A camera-based line follower robot built with ROS2, Gazebo, and OpenCV. Instead of IR sensors, the robot uses a camera to detect and follow a track. Includes a 4-wheel differential drive, a custom Gaz
 - [Real-J/Line-Follower-Robot-using-OpenCV-PID-Control](https://github.com/Real-J/Line-Follower-Robot-using-OpenCV-PID-Control) - 
 - [649453932/Bert-Chinese-Text-Classification-Pytorch](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch) - 使用Bert，ERNIE，进行中文文本分类
