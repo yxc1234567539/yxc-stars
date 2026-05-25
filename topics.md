@@ -678,7 +678,7 @@
 - [AndersonYong/URetinex-Net](https://github.com/AndersonYong/URetinex-Net) - Code Released for URetinex-Net
 - [zhenqifu/PairLIE](https://github.com/zhenqifu/PairLIE) - 
 - [langmanbusi/Semantic-Aware-Low-Light-Image-Enhancement](https://github.com/langmanbusi/Semantic-Aware-Low-Light-Image-Enhancement) - Semantic-Aware LLIE. CVPR 2023 TPAMI 2024
-- [caiyuanhao1998/Retinexformer](https://github.com/caiyuanhao1998/Retinexformer) - "Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement" (ICCV 2023) & (NTIRE 2024 Runner-Up 🏆) & (NTIRE 2025 Winner 🏆) & (NTIRE 2026 Winner 🏆)
+- [caiyuanhao1998/Retinexformer](https://github.com/caiyuanhao1998/Retinexformer) - "Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement" (ICCV 2023 Top-10 Cited 🏆) & (NTIRE 2024 Runner-Up 🏆) & (NTIRE 2025 Winner 🏆) & (NTIRE 2026 Winner 🏆)
 - [ChunmingHe/Reti-Diff](https://github.com/ChunmingHe/Reti-Diff) - Official Code for "Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model". A SOTA algorithm in low-light image enhancement, underwater image enhancement, and 
 - [XPixelGroup/HYPIR](https://github.com/XPixelGroup/HYPIR) - Official implementation of HYPIR: Harnessing Diffusion-Yielded Score Priors for Image Restoration (SIGGRAPH 2025)
 - [osmosis-diffusion/osmosis-diffusion-code](https://github.com/osmosis-diffusion/osmosis-diffusion-code) - official implementation of Osmosis - RGBD Diffusion Prior for Underwater Image Restoration
