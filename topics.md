@@ -1068,7 +1068,6 @@
 - [csm9493/FBI-Denoiser](https://github.com/csm9493/FBI-Denoiser) - Official Code of FBI-Denoiser (Oral, CVPR 2021)
 - [Jiaming-Liu/BayerUnifyAug](https://github.com/Jiaming-Liu/BayerUnifyAug) - Python toolbox for Bayer Raw image unification and augmentation
 - [JimmyChame/LSFNet](https://github.com/JimmyChame/LSFNet) - Pytorch code for "Low-light Image Restoration with Short- and Long-exposure Raw Pairs"
-- [constantine7cd/burst_enhancement](https://github.com/constantine7cd/burst_enhancement) - Bachelor's Degree Final Project. Project related to computer vision and computational photography, the algorithm purpose to process burst of raw Bayer images shot in scenes with low light to get image
 - [h4nwei/SPAQ](https://github.com/h4nwei/SPAQ) - [CVPR'20] Official SPAQ & Implementation
 - [yanconglin/Deep-Hough-Transform-Line-Priors](https://github.com/yanconglin/Deep-Hough-Transform-Line-Priors) - Official implementation for Deep-Hough-Transform-Line-Priors (ECCV 2020)
 - [zkawfanx/StableLLVE](https://github.com/zkawfanx/StableLLVE) - Learning Temporal Consistency for Low Light Video Enhancement from Single Images (CVPR2021)
