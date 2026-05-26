@@ -925,7 +925,6 @@
 - [Jiaming-Liu/BayerUnifyAug](https://github.com/Jiaming-Liu/BayerUnifyAug) - Python toolbox for Bayer Raw image unification and augmentation
 - [Developer-Zer0/ZeroDCE](https://github.com/Developer-Zer0/ZeroDCE) - PyTorch implementation of Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement Chongyi Li et al.
 - [JimmyChame/LSFNet](https://github.com/JimmyChame/LSFNet) - Pytorch code for "Low-light Image Restoration with Short- and Long-exposure Raw Pairs"
-- [constantine7cd/burst_enhancement](https://github.com/constantine7cd/burst_enhancement) - Bachelor's Degree Final Project. Project related to computer vision and computational photography, the algorithm purpose to process burst of raw Bayer images shot in scenes with low light to get image
 - [h4nwei/SPAQ](https://github.com/h4nwei/SPAQ) - [CVPR'20] Official SPAQ & Implementation
 - [VITA-Group/EnlightenGAN](https://github.com/VITA-Group/EnlightenGAN) - [IEEE TIP] "EnlightenGAN: Deep Light Enhancement without Paired Supervision" by Yifan Jiang, Xinyu Gong, Ding Liu, Yu Cheng, Chen Fang, Xiaohui Shen, Jianchao Yang, Pan Zhou, Zhangyang Wang
 - [Yang-Liu1082/InvDN](https://github.com/Yang-Liu1082/InvDN) - Implementation for the paper: Invertible Denoising Network: A Light Solution for Real Noise Removal (CVPR2021).
