@@ -707,7 +707,7 @@
 - [vonJJ/DemosaickingNestUnet](https://github.com/vonJJ/DemosaickingNestUnet) - a image demosaicking neural network based on UNet++
 - [zhaoyuzhi/RAW2RGB-GAN](https://github.com/zhaoyuzhi/RAW2RGB-GAN) - PyTorch implementation of saliency map-aided GAN for Auto-demosaic+denosing
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
-- [XPixelGroup/DepictQA](https://github.com/XPixelGroup/DepictQA) - DepictQA: Depicted Image Quality Assessment with Vision Language Models
+- [XPixelGroup/DepictQA](https://github.com/XPixelGroup/DepictQA) - [ECCV 2024 & TIP] DepictQA: Depicted Image Quality Assessment with Vision Language Models
 - [AIM-SKKU/IFQA](https://github.com/AIM-SKKU/IFQA) - IFQA: Interpretable Face Quality Assessment - Official Pytorch Implementation (WACV 2023)
 - [YaN9-Y/lafin](https://github.com/YaN9-Y/lafin) - LaFIn: Generative Landmark Guided Face Inpainting
 - [labhai/ffhq-wrinkle-dataset](https://github.com/labhai/ffhq-wrinkle-dataset) - 
