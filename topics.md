@@ -864,7 +864,7 @@
 - [csxmli2016/textbsr](https://github.com/csxmli2016/textbsr) - This is a simple text image blind super-resolution model, using BSRGAN
 - [vonJJ/DemosaickingNestUnet](https://github.com/vonJJ/DemosaickingNestUnet) - a image demosaicking neural network based on UNet++
 - [zhaoyuzhi/RAW2RGB-GAN](https://github.com/zhaoyuzhi/RAW2RGB-GAN) - PyTorch implementation of saliency map-aided GAN for Auto-demosaic+denosing
-- [XPixelGroup/DepictQA](https://github.com/XPixelGroup/DepictQA) - DepictQA: Depicted Image Quality Assessment with Vision Language Models
+- [XPixelGroup/DepictQA](https://github.com/XPixelGroup/DepictQA) - [ECCV 2024 & TIP] DepictQA: Depicted Image Quality Assessment with Vision Language Models
 - [AIM-SKKU/IFQA](https://github.com/AIM-SKKU/IFQA) - IFQA: Interpretable Face Quality Assessment - Official Pytorch Implementation (WACV 2023)
 - [YaN9-Y/lafin](https://github.com/YaN9-Y/lafin) - LaFIn: Generative Landmark Guided Face Inpainting
 - [labhai/ffhq-wrinkle-dataset](https://github.com/labhai/ffhq-wrinkle-dataset) - 
