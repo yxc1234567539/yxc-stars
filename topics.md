@@ -744,7 +744,7 @@
 - [Maratyszcza/pthreadpool](https://github.com/Maratyszcza/pthreadpool) - Portable (POSIX/Windows/Emscripten) thread pool for C/C++
 - [JokerEyeAdas/LTM](https://github.com/JokerEyeAdas/LTM) - The local tone mapping algorithm based on histogram
 - [senlinzhan/dpool](https://github.com/senlinzhan/dpool) - 使用 C++11 实现的动态线程池
-- [wzxzhuxi/rknn-3588-npu-yolo-accelerate-saturated](https://github.com/wzxzhuxi/rknn-3588-npu-yolo-accelerate-saturated) - 推理 FPS 180 , 全链路 FPS 175 , rknn-3588部署yolov5，利用线程池实现npu推理加速；Deploying YOLOv5 on RKNN-3588, utilizing a thread pool to achieve NPU inference acceleration.
+- [wzxzhuxi/rknn-3588-npu-yolo-accelerate-saturated](https://github.com/wzxzhuxi/rknn-3588-npu-yolo-accelerate-saturated) - 推理 180 FPS , 全链路 175 FPS , rk3588部署yolov5，利用线程池实现npu推理加速；Deploying YOLOv5 on RKNN-3588, utilizing a thread pool to achieve NPU inference acceleration.
 - [Xiaojiu-z/EasyControl](https://github.com/Xiaojiu-z/EasyControl) - Implementation of "EasyControl: Adding Efficient and Flexible Control for Diffusion Transformer"(ICCV2025)
 - [gdenes355/flicker_metric_ted](https://github.com/gdenes355/flicker_metric_ted) - Flicker metric reference implementation for the under-review paper "Estimates of Temporal Edge Detection Filters in Human Vision"
 - [CompVis/adaptive-style-transfer](https://github.com/CompVis/adaptive-style-transfer) - source code for the ECCV18 paper A Style-Aware Content Loss for Real-time HD Style Transfer
