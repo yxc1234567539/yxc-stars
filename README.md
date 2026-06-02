@@ -80,7 +80,7 @@
 - [JokerEyeAdas/LTM](https://github.com/JokerEyeAdas/LTM) - The local tone mapping algorithm based on histogram
 - [senlinzhan/dpool](https://github.com/senlinzhan/dpool) - 使用 C++11 实现的动态线程池
 - [modelbox-ai/modelbox](https://github.com/modelbox-ai/modelbox) - A high performance, high expansion, easy to use framework for AI application. 为AI应用的开发者提供一套统一的高性能、易用的编程框架，快速基于AI全栈服务、开发跨端边云的AI行业应用，支持GPU，NPU加速。
-- [wzxzhuxi/rknn-3588-npu-yolo-accelerate-saturated](https://github.com/wzxzhuxi/rknn-3588-npu-yolo-accelerate-saturated) - 推理 FPS 180 , 全链路 FPS 175 , rknn-3588部署yolov5，利用线程池实现npu推理加速；Deploying YOLOv5 on RKNN-3588, utilizing a thread pool to achieve NPU inference acceleration.
+- [wzxzhuxi/rknn-3588-npu-yolo-accelerate-saturated](https://github.com/wzxzhuxi/rknn-3588-npu-yolo-accelerate-saturated) - 推理 180 FPS , 全链路 175 FPS , rk3588部署yolov5，利用线程池实现npu推理加速；Deploying YOLOv5 on RKNN-3588, utilizing a thread pool to achieve NPU inference acceleration.
 - [ishaanmht/aer_auto_exposure_gradient](https://github.com/ishaanmht/aer_auto_exposure_gradient) - 
 - [np-csu/AlphaMatting](https://github.com/np-csu/AlphaMatting) - An OpenCV2 version for image matting algorithm described by papre - Shared Sample for Real-Time Alpha Matting
 - [flyeyesport/flicker_remover](https://github.com/flyeyesport/flicker_remover) - Source code for "Realtime flicker removal for fast video streaming" paper.
