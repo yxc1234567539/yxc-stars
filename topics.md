@@ -473,6 +473,8 @@
 
 ## others 
 
+- [sunxiaohui12/SCFlowFR](https://github.com/sunxiaohui12/SCFlowFR) - SCFlowFR is a novel FM-based one-step model tailored for face restoration tasks
+- [xhb-61/Face-Restoration-Image-Super-Resolution-](https://github.com/xhb-61/Face-Restoration-Image-Super-Resolution-) - Papers and analysis
 - [nv-tlabs/PiD](https://github.com/nv-tlabs/PiD) - PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion
 - [gergelyhornyak/VehicleImageStitching](https://github.com/gergelyhornyak/VehicleImageStitching) - Application to stitch vehicles from side view road camera
 - [drabastomek/practicalDataAnalysisCookbook](https://github.com/drabastomek/practicalDataAnalysisCookbook) - A collection of data and codes to supplement the practicalDataAnalysisCookbook (in preparation)
@@ -1177,6 +1179,8 @@
 
 ## pytorch 
 
+- [cosmicrealm/IConFace](https://github.com/cosmicrealm/IConFace) - IConFace: Identity-Structure Asymmetric Conditioning for Unified Reference-Aware Face Restoration
+- [StaryMoon/OSDFace-Unofficial](https://github.com/StaryMoon/OSDFace-Unofficial) - Unofficial PyTorch starter for CVPR 2025 OSDFace: One-Step Diffusion Model for Face Restoration.
 - [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
 - [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.
