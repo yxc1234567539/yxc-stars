@@ -310,6 +310,7 @@
 
 ## Python 
 
+- [Chuancy-TJU/SpiralDiff](https://github.com/Chuancy-TJU/SpiralDiff) - 
 - [cosmicrealm/IConFace](https://github.com/cosmicrealm/IConFace) - IConFace: Identity-Structure Asymmetric Conditioning for Unified Reference-Aware Face Restoration
 - [StaryMoon/OSDFace-Unofficial](https://github.com/StaryMoon/OSDFace-Unofficial) - Unofficial PyTorch starter for CVPR 2025 OSDFace: One-Step Diffusion Model for Face Restoration.
 - [nv-tlabs/PiD](https://github.com/nv-tlabs/PiD) - PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion
