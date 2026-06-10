@@ -473,6 +473,7 @@
 
 ## others 
 
+- [Chuancy-TJU/SpiralDiff](https://github.com/Chuancy-TJU/SpiralDiff) - 
 - [sunxiaohui12/SCFlowFR](https://github.com/sunxiaohui12/SCFlowFR) - SCFlowFR is a novel FM-based one-step model tailored for face restoration tasks
 - [xhb-61/Face-Restoration-Image-Super-Resolution-](https://github.com/xhb-61/Face-Restoration-Image-Super-Resolution-) - Papers and analysis
 - [nv-tlabs/PiD](https://github.com/nv-tlabs/PiD) - PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion
