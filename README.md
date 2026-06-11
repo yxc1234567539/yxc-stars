@@ -312,7 +312,7 @@
 
 - [Chuancy-TJU/SpiralDiff](https://github.com/Chuancy-TJU/SpiralDiff) - 
 - [cosmicrealm/IConFace](https://github.com/cosmicrealm/IConFace) - IConFace: Identity-Structure Asymmetric Conditioning for Unified Reference-Aware Face Restoration
-- [StaryMoon/OSDFace-Unofficial](https://github.com/StaryMoon/OSDFace-Unofficial) - Unofficial PyTorch starter for CVPR 2025 OSDFace: One-Step Diffusion Model for Face Restoration.
+- [StaryMoon/OSDFace-Unofficial](https://github.com/StaryMoon/OSDFace-Unofficial) - Unofficial PyTorch reproduction for OSDFace: One-Step Diffusion Model for Face Restoration.
 - [nv-tlabs/PiD](https://github.com/nv-tlabs/PiD) - PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion
 - [drabastomek/practicalDataAnalysisCookbook](https://github.com/drabastomek/practicalDataAnalysisCookbook) - A collection of data and codes to supplement the practicalDataAnalysisCookbook (in preparation)
 - [davidhallac/NetworkLasso](https://github.com/davidhallac/NetworkLasso) - 
@@ -329,7 +329,7 @@
 - [EadCat/APAP-Image-Stitching](https://github.com/EadCat/APAP-Image-Stitching) - As-Projective-As-Possible (APAP) Image Stitching with Moving DLT (CVPR 2013) - Python Implementation
 - [Avinash793/panoramic-image-stitching](https://github.com/Avinash793/panoramic-image-stitching) - Create panorama image using invariant features from given set of overlapping images.
 - [labsyspharm/ashlar](https://github.com/labsyspharm/ashlar) - ASHLAR: Alignment by Simultaneous Harmonization of Layer/Adjacency Registration
-- [NVlabs/PixelDiT](https://github.com/NVlabs/PixelDiT) - [CVPR 2026 Oral] Pixel Diffusion Transformers for Image Generation
+- [NVlabs/PixelDiT](https://github.com/NVlabs/PixelDiT) - [CVPR 2026 Best Paper Finalist] Pixel Diffusion Transformers for Image Generation
 - [YangLing0818/consistency_flow_matching](https://github.com/YangLing0818/consistency_flow_matching) - Official Implementation for "Consistency Flow Matching: Defining Straight Flows with Velocity Consistency"
 - [stepfun-ai/Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) - A SOTA open-source image editing model, which aims to provide comparable performance against the closed-source models like GPT-4o and Gemini 2 Flash.
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
