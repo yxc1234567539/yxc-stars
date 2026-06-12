@@ -188,7 +188,6 @@
 - [coderonion/cuda-beginner-course-cpp-version](https://github.com/coderonion/cuda-beginner-course-cpp-version) - bilibili视频【CUDA 12.x 并行编程入门(C++版)】配套代码
 - [ChunelFeng/CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的，跨平台的C++线程池。欢迎 star & fork
 - [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL) - Achieve a tiny STL in C++11
-- [TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box) - A toolbox for deep learning model deployment using C++ YoloX | YoloV7 | YoloV8 | Gan | OCR | MobileVit | Scrfd | MobileSAM | StableDiffusion
 - [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
 
@@ -474,6 +473,7 @@
 
 ## others 
 
+- [Tan-Junwen/VDE](https://github.com/Tan-Junwen/VDE) - [CVPR 2026] VDE: Training-Free Accelerating Rectified Flow Model via Velocity Decomposition and Estimation
 - [Chuancy-TJU/SpiralDiff](https://github.com/Chuancy-TJU/SpiralDiff) - 
 - [sunxiaohui12/SCFlowFR](https://github.com/sunxiaohui12/SCFlowFR) - SCFlowFR is a novel FM-based one-step model tailored for face restoration tasks
 - [xhb-61/Face-Restoration-Image-Super-Resolution-](https://github.com/xhb-61/Face-Restoration-Image-Super-Resolution-) - Papers and analysis
