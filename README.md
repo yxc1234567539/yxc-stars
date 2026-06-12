@@ -51,7 +51,6 @@
 - [LibRaw/LibRaw-demosaic-pack-GPL2](https://github.com/LibRaw/LibRaw-demosaic-pack-GPL2) - Demosaic methods for LibRaw distributed under the terms of GPL2+
 - [schoolpost/PiDNG](https://github.com/schoolpost/PiDNG) - Create Adobe DNG RAW files using Python. Works with any Bayer RAW Data including native support for Raspberry Pi cameras.
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) - 
-- [TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box) - A toolbox for deep learning model deployment using C++ YoloX | YoloV7 | YoloV8 | Gan | OCR | MobileVit | Scrfd | MobileSAM | StableDiffusion
 - [jhfmat/ISP-pipeline-hdrplus](https://github.com/jhfmat/ISP-pipeline-hdrplus) - Denoise,HDR,Isppipeline,Image-processing(图形处理),camera, Isp ,HDRplus
 - [centreborelli/mf2f](https://github.com/centreborelli/mf2f) - Self-supervised training for blind multi-frame video denoising
 - [liuguoyou/HDR-Fast-Local-Laplacian](https://github.com/liuguoyou/HDR-Fast-Local-Laplacian) - HDR recovering and tonemapping using fast local laplacian approach
@@ -310,6 +309,7 @@
 
 ## Python 
 
+- [Tan-Junwen/VDE](https://github.com/Tan-Junwen/VDE) - [CVPR 2026] VDE: Training-Free Accelerating Rectified Flow Model via Velocity Decomposition and Estimation
 - [Chuancy-TJU/SpiralDiff](https://github.com/Chuancy-TJU/SpiralDiff) - 
 - [cosmicrealm/IConFace](https://github.com/cosmicrealm/IConFace) - IConFace: Identity-Structure Asymmetric Conditioning for Unified Reference-Aware Face Restoration
 - [StaryMoon/OSDFace-Unofficial](https://github.com/StaryMoon/OSDFace-Unofficial) - Unofficial PyTorch reproduction for OSDFace: One-Step Diffusion Model for Face Restoration.
