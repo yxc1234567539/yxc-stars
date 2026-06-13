@@ -438,7 +438,7 @@
 - [eezkni/FDL](https://github.com/eezkni/FDL) - [CVPR-2024] Official Pytorch implementation of "Misalignment-Robust Frequency Distribution Loss for Image Transformation"
 - [BurguerJohn/global_perceptual_similarity_loss](https://github.com/BurguerJohn/global_perceptual_similarity_loss) - 
 - [little51/dinov3-samples](https://github.com/little51/dinov3-samples) - dinov3例子
-- [mikkoim/dinotool](https://github.com/mikkoim/dinotool) - Command-line tool for extracting DINOv3, CLIP, SigLIP2, RADIO, features for images and videos
+- [mikkoim/dinotool](https://github.com/mikkoim/dinotool) - Command-line tool for extracting DINO, CLIP, SigLIP2, TIPSv2, RADIO, features for images and videos
 - [harrytea/UDoc-GAN](https://github.com/harrytea/UDoc-GAN) - Official PyTorch implementation for ACM MM22 "UDoc-GAN: Unpaired Document Illumination Correction with Background Light Prior"
 - [fh2019ustc/DocTr](https://github.com/fh2019ustc/DocTr) - The official code for “DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction”, ACM MM, Oral Paper, 2021.
 - [mazurowski-lab/ContourDiff](https://github.com/mazurowski-lab/ContourDiff) - Contour-Guided Diffusion Models for Unpaired Image-to-Image Translation
