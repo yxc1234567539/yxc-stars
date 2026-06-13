@@ -142,7 +142,7 @@
 - [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
 - [ZouShilong1024/CycleDiff](https://github.com/ZouShilong1024/CycleDiff) - Code for TIP2026 paper: CycleDiff: Cycle Diffusion Models for Unpaired Image-to-image Translation
 - [bupt-ai-cz/BCI](https://github.com/bupt-ai-cz/BCI) - BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix
-- [mikkoim/dinotool](https://github.com/mikkoim/dinotool) - Command-line tool for extracting DINOv3, CLIP, SigLIP2, RADIO, features for images and videos
+- [mikkoim/dinotool](https://github.com/mikkoim/dinotool) - Command-line tool for extracting DINO, CLIP, SigLIP2, TIPSv2, RADIO, features for images and videos
 - [lightly-ai/lightly-train](https://github.com/lightly-ai/lightly-train) - All-in-one training for vision models (YOLO, ViTs, RT-DETR, DINOv3): pretraining, fine-tuning, distillation.
 - [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
 - [Kaminyou/Kernelized-Instance-Normalization](https://github.com/Kaminyou/Kernelized-Instance-Normalization) - [ECCV 2022] Official implementation of "Ultra-high-resolution unpaired stain transformation via Kernelized Instance Normalization"
