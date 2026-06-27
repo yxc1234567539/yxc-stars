@@ -18,6 +18,7 @@
 - [chatgpt](#chatgpt)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
+- [css](#css)
 - [data](#data)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
@@ -36,6 +37,7 @@
 - [go](#go)
 - [golang](#golang)
 - [haskell](#haskell)
+- [html](#html)
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [javascript](#javascript)
@@ -203,6 +205,10 @@
 - [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features) - 2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
 
+## css 
+
+- [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
+
 ## data 
 
 - [Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator) - A synthetic data generator for text recognition
@@ -350,6 +356,10 @@
 
 - [damianfral/colortransfer](https://github.com/damianfral/colortransfer) - A small tool to try to transfer colors between images.
 
+## html 
+
+- [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
+
 ## image-processing 
 
 - [Avinash793/panoramic-image-stitching](https://github.com/Avinash793/panoramic-image-stitching) - Create panorama image using invariant features from given set of overlapping images.
@@ -402,6 +412,7 @@
 
 ## javascript 
 
+- [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 ## kotlin 
