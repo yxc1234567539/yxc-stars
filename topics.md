@@ -530,7 +530,7 @@
 - [fanzh03/IR-Flow](https://github.com/fanzh03/IR-Flow) - IR-Flow: Bridging Discriminative and Generative Image Restoration via Rectified Flow
 - [coolsyn2000/ISP-AutoTuning](https://github.com/coolsyn2000/ISP-AutoTuning) - Image signal process (ISP) parameters auto-tuning program based on Black-Box hyperparameter optimization
 - [coolsyn2000/Open-AISP](https://github.com/coolsyn2000/Open-AISP) - Open-AISP is a toy-level, and open-source AI-ISP (Artificial Intelligence Image Signal Process) pipeline framework for beginners.
-- [CalvinXKY/InfraTech](https://github.com/CalvinXKY/InfraTech) - 分享AI Infra知识&代码练习：PyTorch/vLLM/SGLang框架入门⚡️、性能加速🚀、大模型基础🧠、AI软硬件🔧等
+- [CalvinXKY/InfraTech](https://github.com/CalvinXKY/InfraTech) - 分享AI Infra知识&代码练习：PyTorch、vLLM/SGLang、slime/vime框架入门⚡️、性能加速🚀、大模型基础🧠、AI软硬件🔧等
 - [visionxiang/awesome-computational-photography](https://github.com/visionxiang/awesome-computational-photography) - A curated list of awesome resources for topics related to computational photography via deep learning, which mainly focuses on image alignment and stitching.
 - [labsyspharm/ashlar](https://github.com/labsyspharm/ashlar) - ASHLAR: Alignment by Simultaneous Harmonization of Layer/Adjacency Registration
 - [NVlabs/PixelDiT](https://github.com/NVlabs/PixelDiT) - [CVPR 2026 Best Paper Finalist] Pixel Diffusion Transformers for Image Generation
