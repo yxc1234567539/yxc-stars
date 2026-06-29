@@ -273,7 +273,6 @@
 - [jkwang28/HonestFace](https://github.com/jkwang28/HonestFace) - 
 - [Moongod-Love/WTDiff](https://github.com/Moongod-Love/WTDiff) - Official implementation of the paper "WTDiff: High-Fidelity Weather Translation with One-Step Diffusion"
 - [Westlake-AGI-Lab/Awesome-Style-Transfer-with-Diffusion-Models](https://github.com/Westlake-AGI-Lab/Awesome-Style-Transfer-with-Diffusion-Models) - A curated list of recent style transfer methods with diffusion models
-- [shenmintao/V-Log-Alchemy](https://github.com/shenmintao/V-Log-Alchemy) - Turn your Panasonic Lumix camera into a Fujifilm GFX, Leica, ARRI, and more using precise ACES inverse engineering
 - [G-U-N/Awesome-Consistency-Models](https://github.com/G-U-N/Awesome-Consistency-Models) - Awesome List of Consistency Models
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [lixinustc/Awesome-diffusion-model-for-image-processing](https://github.com/lixinustc/Awesome-diffusion-model-for-image-processing) - one summary of diffusion-based image processing, including restoration, enhancement, coding, quality assessment
@@ -412,6 +411,7 @@
 - [prs-eth/Marigold](https://github.com/prs-eth/Marigold) - [CVPR 2024 - Oral, Best Paper Award Candidate] Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation
 - [gojasper/LBM](https://github.com/gojasper/LBM) - Latent Bridge Matching for Fast Image-to-Image Translation (ICCV 2025 Highlight)
 - [elerac/structuredlight](https://github.com/elerac/structuredlight) - Generate and Decode structured light. Binary, Gray, XOR, Ramp, Phase-Shifting, Stripe.
+- [shenmintao/V-Log-Alchemy](https://github.com/shenmintao/V-Log-Alchemy) - Turn your Panasonic Lumix camera into a Fujifilm GFX, Leica, ARRI, and more using precise ACES inverse engineering
 - [shenmintao/Raw-Alchemy](https://github.com/shenmintao/Raw-Alchemy) - Bridge the gap between photo and video color grading. Accurately apply any creative LUT to your RAW files with this tool.
 - [gojasper/flash-diffusion](https://github.com/gojasper/flash-diffusion) - Flash Diffusion — accelerating conditional diffusion models (AAAI 2025 Oral)
 - [alibaba-damo-academy/T2I-Distill](https://github.com/alibaba-damo-academy/T2I-Distill) - [Tutorial] Few-Step Distillation for Text-to-Image Generation: A Practical Guide
