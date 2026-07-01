@@ -508,6 +508,7 @@
 
 ## others 
 
+- [YlNi26/PASDiff](https://github.com/YlNi26/PASDiff) - [ECCV 2026] PASDiff: Physics-Aware Semantic Guidance for Joint Real-World Low-Light Face Enhancement and Restoration
 - [Tan-Junwen/VDE](https://github.com/Tan-Junwen/VDE) - [CVPR 2026] VDE: Training-Free Accelerating Rectified Flow Model via Velocity Decomposition and Estimation
 - [Chuancy-TJU/SpiralDiff](https://github.com/Chuancy-TJU/SpiralDiff) - 
 - [sunxiaohui12/SCFlowFR](https://github.com/sunxiaohui12/SCFlowFR) - SCFlowFR is a novel FM-based one-step model tailored for face restoration tasks
