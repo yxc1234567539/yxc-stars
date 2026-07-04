@@ -9,6 +9,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CSS](#css)
 - [Cuda](#cuda)
 - [GLSL](#glsl)
 - [Go](#go)
@@ -119,6 +120,10 @@
 - [timothybrooks/hdr-plus](https://github.com/timothybrooks/hdr-plus) - HDR+ Implementation
 - [AlbusPeter/MeshFlow_Video_Denoising](https://github.com/AlbusPeter/MeshFlow_Video_Denoising) - Source Code for MeshFlow Video Denoising
 - [sergiogenilson/STMKF](https://github.com/sergiogenilson/STMKF) - A Real-Time Spatio-Temporal Vídeo Denoising Method with Kalman-based and Bilateral Filters Fusion
+
+## CSS 
+
+- [facebookresearch/meta-seal](https://github.com/facebookresearch/meta-seal) - Meta Seal is an open-source suite of watermarking models, code, and research developed by Meta to advance the state of content authenticity and attribution across multiple modalities.
 
 ## Cuda 
 
