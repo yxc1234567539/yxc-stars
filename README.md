@@ -9,7 +9,6 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
-- [CSS](#css)
 - [Cuda](#cuda)
 - [GLSL](#glsl)
 - [Go](#go)
@@ -121,10 +120,6 @@
 - [AlbusPeter/MeshFlow_Video_Denoising](https://github.com/AlbusPeter/MeshFlow_Video_Denoising) - Source Code for MeshFlow Video Denoising
 - [sergiogenilson/STMKF](https://github.com/sergiogenilson/STMKF) - A Real-Time Spatio-Temporal Vídeo Denoising Method with Kalman-based and Bilateral Filters Fusion
 
-## CSS 
-
-- [facebookresearch/meta-seal](https://github.com/facebookresearch/meta-seal) - Meta Seal is an open-source suite of watermarking models, code, and research developed by Meta to advance the state of content authenticity and attribution across multiple modalities.
-
 ## Cuda 
 
 - [coderonion/cuda-beginner-course-cpp-version](https://github.com/coderonion/cuda-beginner-course-cpp-version) - bilibili视频【CUDA 12.x 并行编程入门(C++版)】配套代码
@@ -139,6 +134,7 @@
 
 ## HTML 
 
+- [facebookresearch/meta-seal](https://github.com/facebookresearch/meta-seal) - Meta Seal is an open-source suite of watermarking models, code, and research developed by Meta to advance the state of content authenticity and attribution across multiple modalities.
 - [jinyeying/night-enhancement](https://github.com/jinyeying/night-enhancement) - [ECCV2022] "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",  https://arxiv.org/abs/2207.10564
 - [Krasjet/quaternion](https://github.com/Krasjet/quaternion) - A brief introduction to the quaternions and its applications in 3D geometry.
 
