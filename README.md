@@ -134,7 +134,7 @@
 
 ## HTML 
 
-- [facebookresearch/meta-seal](https://github.com/facebookresearch/meta-seal) - Meta Seal is an open-source suite of watermarking models, code, and research developed by Meta to advance the state of content authenticity and attribution across multiple modalities.
+- [facebookresearch/content-seal](https://github.com/facebookresearch/content-seal) - Content Seal is a state-of-the-art framework for invisible, robust watermarking across all modalities audio, image, video, and text. This suite spans the entire generative lifecycle, from training dat
 - [jinyeying/night-enhancement](https://github.com/jinyeying/night-enhancement) - [ECCV2022] "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",  https://arxiv.org/abs/2207.10564
 - [Krasjet/quaternion](https://github.com/Krasjet/quaternion) - A brief introduction to the quaternions and its applications in 3D geometry.
 
@@ -521,7 +521,6 @@
 - [Abir1803/EHDI](https://github.com/Abir1803/EHDI) - EHDI: Enhancement of Historical Document Images via Generative Adversarial Network
 - [lukun199/MonoPix](https://github.com/lukun199/MonoPix) - Official implementation of MonoPix - Contrastive Monotonic Pixel-Level Modulation (ECCV'2022 Oral)
 - [grenlayk/deep-text-edit](https://github.com/grenlayk/deep-text-edit) - Our implementation of Text Style Brush architecture.
-- [alfinnurhalim/StyleTransferDehaze](https://github.com/alfinnurhalim/StyleTransferDehaze) - 
 - [UMich-CURLY/Debias_IMU](https://github.com/UMich-CURLY/Debias_IMU) - 
 - [hitzhangyu/Self-supervised-Image-Enhancement-Network-Training-With-Low-Light-Images-Only](https://github.com/hitzhangyu/Self-supervised-Image-Enhancement-Network-Training-With-Low-Light-Images-Only) - Self-supervised Image Enhancement Network: Training With Low Light Images Only
 - [KarelZhang/RUAS](https://github.com/KarelZhang/RUAS) - [CVPR 2021] This is the official code for the paper "Retinex-inspired Unrolling with Cooperative Prior Architecture Search for Low-light Image Enhancement"
