@@ -498,7 +498,7 @@
 
 - [EadCat/APAP-Image-Stitching](https://github.com/EadCat/APAP-Image-Stitching) - As-Projective-As-Possible (APAP) Image Stitching with Moving DLT (CVPR 2013) - Python Implementation
 - [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
-- [ZongXR/AI-training-contest](https://github.com/ZongXR/AI-training-contest) - 2024中国职业技能大赛人工智能训练赛项
+- [ZongXR/2024HHGJ-AItraining](https://github.com/ZongXR/2024HHGJ-AItraining) - 2024中国职业技能大赛人工智能训练赛项
 - [dyfcalid/CameraCalibration](https://github.com/dyfcalid/CameraCalibration) - Fisheye or Normal Camera Intrinsic and Extrinsic Calibration. Surround Camera Bird Eye View Generator.
 - [andrewdcampbell/seam-carving](https://github.com/andrewdcampbell/seam-carving) - A fast Python implementation of Seam Carving for Content-Aware Image Resizing.
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
