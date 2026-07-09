@@ -555,7 +555,7 @@
 - [zsyOAOA/ResShift](https://github.com/zsyOAOA/ResShift) - ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting (NeurIPS@2023 Spotlight, TPAMI@2024)
 - [haoyGONG/LP-Diff](https://github.com/haoyGONG/LP-Diff) - Code of paper "LP-Diff: Towards Improved Restoration of Real-World Degraded License Plate"
 - [compphoto/Intrinsic](https://github.com/compphoto/Intrinsic) - Repo for the papers "Intrinsic Image Decomposition via Ordinal Shading" (TOG 2023) and "Colorful Diffuse Intrinsic Image Decomposition in the Wild" (TOG 2024)
-- [ZongXR/AI-training-contest](https://github.com/ZongXR/AI-training-contest) - 2024中国职业技能大赛人工智能训练赛项
+- [ZongXR/2024HHGJ-AItraining](https://github.com/ZongXR/2024HHGJ-AItraining) - 2024中国职业技能大赛人工智能训练赛项
 - [RobbeNooyens/ann-scene-classifier](https://github.com/RobbeNooyens/ann-scene-classifier) - [UAntwerpen Ma Datascience and AI] Project for the course Artificial Neural Networks
 - [FilippoBotti/Avoiding-Shortcuts-in-Unpaired-Image-to-Image-Translation](https://github.com/FilippoBotti/Avoiding-Shortcuts-in-Unpaired-Image-to-Image-Translation) - This repository contains the PyTorch code for our ICIAP 2021 paper “Avoiding Shortcuts in Unpaired Image-to-Image Translation”.
 - [majita06/Relighting_in_the_Wild](https://github.com/majita06/Relighting_in_the_Wild) - 
