@@ -722,7 +722,7 @@
 - [XPixelGroup/DepictQA](https://github.com/XPixelGroup/DepictQA) - [ECCV 2024 & TIP] DepictQA: Depicted Image Quality Assessment with Vision Language Models
 - [AIM-SKKU/IFQA](https://github.com/AIM-SKKU/IFQA) - IFQA: Interpretable Face Quality Assessment - Official Pytorch Implementation (WACV 2023)
 - [YaN9-Y/lafin](https://github.com/YaN9-Y/lafin) - LaFIn: Generative Landmark Guided Face Inpainting
-- [labhai/ffhq-wrinkle-dataset](https://github.com/labhai/ffhq-wrinkle-dataset) - 
+- [labhai/ffhq-wrinkle-dataset](https://github.com/labhai/ffhq-wrinkle-dataset) - [ICPR 2024] Official dataset repository for the paper "Facial Wrinkle Segmentation for Cosmetic Dermatology: Pretraining with Texture Map-Based Weak Supervision"
 - [hhj1897/face_pose_augmentation](https://github.com/hhj1897/face_pose_augmentation) - 
 - [wang-zidu/3DDFA-V3](https://github.com/wang-zidu/3DDFA-V3) - The official implementation of 3DDFA_V3 in CVPR2024 (Highlight).
 - [Algolzw/daclip-uir](https://github.com/Algolzw/daclip-uir) - [ICLR 2024] Controlling Vision-Language Models for Universal Image Restoration. 5th place in the NTIRE 2024 Restore Any Image Model in the Wild Challenge.
