@@ -508,6 +508,7 @@
 
 ## others 
 
+- [WontaeaeKim/LUTwithBGrid](https://github.com/WontaeaeKim/LUTwithBGrid) - The official PyTorch implementation for the paper "Image-adaptive 3D Lookup Tables for Real-time Image Enhancement with Bilateral Grids" (accepted by ECCV 2024)
 - [OpenImagingLab/InstantRetouch](https://github.com/OpenImagingLab/InstantRetouch) - [CVPR 2026] InstantRetouch: Efficient and High-Fidelity Instruction-Guided Image Retouching with Bilateral Space
 - [Morefre/Decoupled-Data-Consistency-with-Diffusion-Purification-for-Image-Restoration](https://github.com/Morefre/Decoupled-Data-Consistency-with-Diffusion-Purification-for-Image-Restoration) - 
 - [facebookresearch/content-seal](https://github.com/facebookresearch/content-seal) - Content Seal is a state-of-the-art framework for invisible, robust watermarking across all modalities audio, image, video, and text. This suite spans the entire generative lifecycle, from training dat
