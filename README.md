@@ -982,7 +982,7 @@
 
 ## TypeScript 
 
-- [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - An app for managing github starred repositories.
+- [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 
 ## Typst 
 
