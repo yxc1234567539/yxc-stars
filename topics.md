@@ -34,6 +34,7 @@
 - [framework](#framework)
 - [git](#git)
 - [github](#github)
+- [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
 - [haskell](#haskell)
@@ -315,6 +316,7 @@
 ## electron 
 
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
+- [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 
 ## emacs 
 
@@ -343,6 +345,10 @@
 ## github 
 
 - [feng2208/github-hosts](https://github.com/feng2208/github-hosts) - 加速 github。
+
+## github-api 
+
+- [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 
 ## go 
 
@@ -609,7 +615,6 @@
 - [sony/ctm](https://github.com/sony/ctm) - 
 - [snap-research/InstantRestore](https://github.com/snap-research/InstantRestore) - Official Implementation for "InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention"
 - [NceBoy/NceAlg](https://github.com/NceBoy/NceAlg) - rv1126,rk1808,hisi3516dv300,hisi3559av100,mnn,nnie,npu,vfnet,retinaface,arcface,centernet,ttf,yolox,detect,alg. This is a cross-platform algorithm framework./跨平台异构算法推理框架
-- [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - An app for managing github starred repositories.
 - [NVIDIA-TAO/tao-tutorials](https://github.com/NVIDIA-TAO/tao-tutorials) - Quick start scripts and tutorial notebooks to get started with TAO Toolkit
 - [ZhexinLiang/CLIP-LIT](https://github.com/ZhexinLiang/CLIP-LIT) - [ICCV 2023, Oral] Iterative Prompt Learning for Unsupervised Backlit Image Enhancement
 - [FreeButUselessSoul/bokehdiff](https://github.com/FreeButUselessSoul/bokehdiff) - This is the official repository for "BokehDiff: Neural Lens Blur with One-Step Diffusion" (ICCV'25).
@@ -1178,6 +1183,7 @@
 ## productivity 
 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
+- [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 
 ## programming 
 
