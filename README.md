@@ -130,7 +130,7 @@
 
 ## Go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## HTML 
 
@@ -313,6 +313,11 @@
 
 ## Python 
 
+- [xg-chu/GAGAvatar](https://github.com/xg-chu/GAGAvatar) - [NeurIPS 2024] Generalizable and Animatable Gaussian Head Avatar
+- [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
+- [Chanson94/CODSR](https://github.com/Chanson94/CODSR) - [CVPR 2026]
+- [JyChen9811/FaithDiff](https://github.com/JyChen9811/FaithDiff) - [CVPR 2025] FaithDiff for Classic Film Rejuvenation, Old Photo Revival, Social Media Restoration, Image Enhancement and AIGC Enhancement.
+- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [zjYao36/Pref_Restore](https://github.com/zjYao36/Pref_Restore) - 
 - [fengyang1399-pixel/IQPIR](https://github.com/fengyang1399-pixel/IQPIR) - IQPIR Code
 - [WontaeaeKim/LUTwithBGrid](https://github.com/WontaeaeKim/LUTwithBGrid) - The official PyTorch implementation for the paper "Image-adaptive 3D Lookup Tables for Real-time Image Enhancement with Bilateral Grids" (accepted by ECCV 2024)
