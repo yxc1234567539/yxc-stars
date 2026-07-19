@@ -514,6 +514,7 @@
 
 ## others 
 
+- [wuer5/OMGSR](https://github.com/wuer5/OMGSR) - Offical repo for "OMGSR: You Only Need One Mid-timestep Guidance for Real-World Image Super-Resolution"
 - [xg-chu/GAGAvatar](https://github.com/xg-chu/GAGAvatar) - [NeurIPS 2024] Generalizable and Animatable Gaussian Head Avatar
 - [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
 - [Chanson94/CODSR](https://github.com/Chanson94/CODSR) - [CVPR 2026]
@@ -1053,7 +1054,7 @@
 - [jiayi-ma/FusionGAN](https://github.com/jiayi-ma/FusionGAN) - FusionGAN: A generative adversarial network for infrared and visible image fusion
 - [jiayi-ma/ResNetFusion](https://github.com/jiayi-ma/ResNetFusion) - Infrared and visible image fusion via detail preserving adversarial learning
 - [hanna-xu/U2Fusion](https://github.com/hanna-xu/U2Fusion) - Code of U2Fusion: a unified unsupervised image fusion network for multiple image fusion tasks, including multi-modal, multi-exposure and multi-focus image fusion.
-- [Linfeng-Tang/SeAFusion](https://github.com/Linfeng-Tang/SeAFusion) - The code of " Image fusion in the loop of high-level vision tasks: A semantic-aware real-time infrared and visible image fusion network"
+- [Linfeng-Tang/SeAFusion](https://github.com/Linfeng-Tang/SeAFusion) - Official code for “Image Fusion in the Loop of High-level Vision Tasks: A Semantic-aware Real-time Infrared and Visible Image Fusion Network”. Information Fusion, 2022 · 🔥 ESI Hot Paper · 🏆 ESI Highly
 - [ykdai/Flare7K](https://github.com/ykdai/Flare7K) - Official Implementation of "Flare7K: A Phenomenological Nighttime Flare Removal Dataset"
 - [IDEA-Research/Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything) - Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
 - [wyf0912/R2LCM](https://github.com/wyf0912/R2LCM) - [CVPR'23/IJCV'24] Raw Image Reconstruction with Learned Compact Metadata
