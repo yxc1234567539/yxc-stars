@@ -31,7 +31,6 @@
 
 ## Assembly 
 
-- [espressif/esp-dl](https://github.com/espressif/esp-dl) - Espressif deep-learning library for AIoT applications
 - [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points
 
 ## C 
@@ -313,6 +312,7 @@
 
 ## Python 
 
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [wuer5/OMGSR](https://github.com/wuer5/OMGSR) - Offical repo for "OMGSR: You Only Need One Mid-timestep Guidance for Real-World Image Super-Resolution"
 - [xg-chu/GAGAvatar](https://github.com/xg-chu/GAGAvatar) - [NeurIPS 2024] Generalizable and Animatable Gaussian Head Avatar
 - [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
