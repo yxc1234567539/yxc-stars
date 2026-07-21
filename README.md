@@ -259,7 +259,6 @@
 ## Others 
 
 - [gityihang/LearnIR](https://github.com/gityihang/LearnIR) - Official PyTorch implementation of “LearnIR: Learnable Posterior Sampling for Real-World Image Restoration” (ICLR 2026).
-- [YlNi26/PASDiff](https://github.com/YlNi26/PASDiff) - [ECCV 2026] PASDiff: Physics-Aware Semantic Guidance for Joint Real-World Low-Light Face Enhancement and Restoration
 - [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 - [xhb-61/Face-Restoration-Image-Super-Resolution-](https://github.com/xhb-61/Face-Restoration-Image-Super-Resolution-) - Papers and analysis
 - [visionxiang/awesome-computational-photography](https://github.com/visionxiang/awesome-computational-photography) - A curated list of awesome resources for topics related to computational photography via deep learning, which mainly focuses on image alignment and stitching.
@@ -273,7 +272,7 @@
 - [SintonZZ/Awesome-AI-ISP](https://github.com/SintonZZ/Awesome-AI-ISP) - A list of awesome AI-ISP works.
 - [XJTU-LHF/Awesome-Face-Restoration](https://github.com/XJTU-LHF/Awesome-Face-Restoration) - 
 - [megvii-research/megvii-tsinghua-dl-course](https://github.com/megvii-research/megvii-tsinghua-dl-course) - Slides with modifications for a course at Tsinghua University.
-- [jkwang28/HonestFace](https://github.com/jkwang28/HonestFace) - 
+- [jkwang28/HonestFace](https://github.com/jkwang28/HonestFace) - Official Repo for ACM MM 2026 paper "HonestFace: Towards Honest Face Restoration with One-Step Diffusion Model"
 - [Moongod-Love/WTDiff](https://github.com/Moongod-Love/WTDiff) - Official implementation of the paper "WTDiff: High-Fidelity Weather Translation with One-Step Diffusion"
 - [Westlake-AGI-Lab/Awesome-Style-Transfer-with-Diffusion-Models](https://github.com/Westlake-AGI-Lab/Awesome-Style-Transfer-with-Diffusion-Models) - A curated list of recent style transfer methods with diffusion models
 - [G-U-N/Awesome-Consistency-Models](https://github.com/G-U-N/Awesome-Consistency-Models) - Awesome List of Consistency Models
@@ -323,6 +322,7 @@
 - [fengyang1399-pixel/IQPIR](https://github.com/fengyang1399-pixel/IQPIR) - IQPIR Code
 - [WontaeaeKim/LUTwithBGrid](https://github.com/WontaeaeKim/LUTwithBGrid) - The official PyTorch implementation for the paper "Image-adaptive 3D Lookup Tables for Real-time Image Enhancement with Bilateral Grids" (accepted by ECCV 2024)
 - [Morefre/Decoupled-Data-Consistency-with-Diffusion-Purification-for-Image-Restoration](https://github.com/Morefre/Decoupled-Data-Consistency-with-Diffusion-Purification-for-Image-Restoration) - 
+- [YlNi26/PASDiff](https://github.com/YlNi26/PASDiff) - [ECCV 2026] PASDiff: Physics-Aware Semantic Guidance for Joint Real-World Low-Light Face Enhancement and Restoration
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [Tan-Junwen/VDE](https://github.com/Tan-Junwen/VDE) - [CVPR 2026] VDE: Training-Free Accelerating Rectified Flow Model via Velocity Decomposition and Estimation
 - [Chuancy-TJU/SpiralDiff](https://github.com/Chuancy-TJU/SpiralDiff) - 
