@@ -608,7 +608,7 @@
 - [sen-mao/InterLCM](https://github.com/sen-mao/InterLCM) - [ICLR2025] Official Implementations "InterLCM: Low-Quality Images as Intermediate States of Latent Consistency Models for Effective Blind Face Restoration"
 - [XJTU-LHF/Awesome-Face-Restoration](https://github.com/XJTU-LHF/Awesome-Face-Restoration) - 
 - [woodx9/minimal-embedding-server](https://github.com/woodx9/minimal-embedding-server) - a embedding infer server faster than vllm and sglang
-- [jkwang28/HonestFace](https://github.com/jkwang28/HonestFace) - 
+- [jkwang28/HonestFace](https://github.com/jkwang28/HonestFace) - Official Repo for ACM MM 2026 paper "HonestFace: Towards Honest Face Restoration with One-Step Diffusion Model"
 - [gobunu/OSDHuman](https://github.com/gobunu/OSDHuman) - 
 - [Qualcomm-AI-research/SwiftEdit](https://github.com/Qualcomm-AI-research/SwiftEdit) - Official PyTorch implementation of our CVPR 2025 paper: "SwiftEdit: Lightning Fast Text-guided Image Editing via One-step Diffusion"
 - [Qualcomm-AI-research/clockwork-diffusion](https://github.com/Qualcomm-AI-research/clockwork-diffusion) - 
