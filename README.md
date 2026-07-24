@@ -311,6 +311,7 @@
 
 ## Python 
 
+- [IVRL/NoiseDiff](https://github.com/IVRL/NoiseDiff) - Official code of Dark Noise Diffusion: Noise Synthesis for Low-Light Image Denoising (TPAMI2025)
 - [rflepp/Efficient-Image-Denoising-Pytorch](https://github.com/rflepp/Efficient-Image-Denoising-Pytorch) - This is a PyTorch implementation of a highly efficient image denoising model, which was originally developed in TensorFlow.
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [wuer5/OMGSR](https://github.com/wuer5/OMGSR) - Offical repo for "OMGSR: You Only Need One Mid-timestep Guidance for Real-World Image Super-Resolution"
