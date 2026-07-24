@@ -521,6 +521,7 @@
 
 ## others 
 
+- [IVRL/NoiseDiff](https://github.com/IVRL/NoiseDiff) - Official code of Dark Noise Diffusion: Noise Synthesis for Low-Light Image Denoising (TPAMI2025)
 - [rflepp/Efficient-Image-Denoising-Pytorch](https://github.com/rflepp/Efficient-Image-Denoising-Pytorch) - This is a PyTorch implementation of a highly efficient image denoising model, which was originally developed in TensorFlow.
 - [wuer5/OMGSR](https://github.com/wuer5/OMGSR) - Offical repo for "OMGSR: You Only Need One Mid-timestep Guidance for Real-World Image Super-Resolution"
 - [xg-chu/GAGAvatar](https://github.com/xg-chu/GAGAvatar) - [NeurIPS 2024] Generalizable and Animatable Gaussian Head Avatar
