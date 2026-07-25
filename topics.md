@@ -25,7 +25,6 @@
 - [data-visualization](#data-visualization)
 - [deep-learning](#deep-learning)
 - [docker](#docker)
-- [dotnet](#dotnet)
 - [electron](#electron)
 - [emacs](#emacs)
 - [embedded](#embedded)
@@ -82,7 +81,6 @@
 - [vim](#vim)
 - [visualization](#visualization)
 - [vue](#vue)
-- [windows](#windows)
 - [youtube](#youtube)
 - [zig](#zig)
 
@@ -311,10 +309,6 @@
 - [a-nau/synthetic-dataset-generation](https://github.com/a-nau/synthetic-dataset-generation) - Easily create an instance segmentation dataset from an existing pool of objects of interest, distractor objects and background images. Easy configuration, diverse image compositions, multiple blending
 - [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
 
-## dotnet 
-
-- [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
-
 ## electron 
 
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
@@ -542,13 +536,7 @@
 - [xhb-61/Face-Restoration-Image-Super-Resolution-](https://github.com/xhb-61/Face-Restoration-Image-Super-Resolution-) - Papers and analysis
 - [nv-tlabs/PiD](https://github.com/nv-tlabs/PiD) - PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion
 - [gergelyhornyak/VehicleImageStitching](https://github.com/gergelyhornyak/VehicleImageStitching) - Application to stitch vehicles from side view road camera
-- [drabastomek/practicalDataAnalysisCookbook](https://github.com/drabastomek/practicalDataAnalysisCookbook) - A collection of data and codes to supplement the practicalDataAnalysisCookbook (in preparation)
-- [davidhallac/NetworkLasso](https://github.com/davidhallac/NetworkLasso) - 
 - [AkexStar/LearnPython](https://github.com/AkexStar/LearnPython) - python大数据分析课程代码
-- [catsirl/mnist_99.7_pytorch](https://github.com/catsirl/mnist_99.7_pytorch) - MNIST classification in Pytorch, the accuracy of the test set is 99.7%
-- [dhairyashilRG/tiny_MNIST](https://github.com/dhairyashilRG/tiny_MNIST) - High Accuracy with Very Small Model
-- [Boffin-Dharshan/line-follower-with-camera-and-opencv](https://github.com/Boffin-Dharshan/line-follower-with-camera-and-opencv) - A camera-based line follower robot built with ROS2, Gazebo, and OpenCV. Instead of IR sensors, the robot uses a camera to detect and follow a track. Includes a 4-wheel differential drive, a custom Gaz
-- [Real-J/Line-Follower-Robot-using-OpenCV-PID-Control](https://github.com/Real-J/Line-Follower-Robot-using-OpenCV-PID-Control) - 
 - [duzekang/XiaoMi-Cup](https://github.com/duzekang/XiaoMi-Cup) - 
 - [dut-media-lab/Image-Stitching](https://github.com/dut-media-lab/Image-Stitching) - Leveraging Line-point Consistence to Preserve Structures for Wide Parallax Image Stitching
 - [649453932/Bert-Chinese-Text-Classification-Pytorch](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch) - 使用Bert，ERNIE，进行中文文本分类
@@ -1425,10 +1413,6 @@
 ## vue 
 
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-
-## windows 
-
-- [MathewSachin/Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 
 ## youtube 
 
