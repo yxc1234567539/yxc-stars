@@ -515,6 +515,7 @@
 
 ## others 
 
+- [01NeuralNinja/BFR_RL](https://github.com/01NeuralNinja/BFR_RL) - Official implementation of the ECCV 2026 paper "Beyond the Boundary: RL-Driven Solution Space Exploration for Blind Face Restoration"
 - [IVRL/NoiseDiff](https://github.com/IVRL/NoiseDiff) - Official code of Dark Noise Diffusion: Noise Synthesis for Low-Light Image Denoising (TPAMI2025)
 - [rflepp/Efficient-Image-Denoising-Pytorch](https://github.com/rflepp/Efficient-Image-Denoising-Pytorch) - This is a PyTorch implementation of a highly efficient image denoising model, which was originally developed in TensorFlow.
 - [wuer5/OMGSR](https://github.com/wuer5/OMGSR) - Offical repo for "OMGSR: You Only Need One Mid-timestep Guidance for Real-World Image Super-Resolution"
