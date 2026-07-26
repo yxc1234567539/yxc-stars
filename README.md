@@ -252,6 +252,7 @@
 
 ## Others 
 
+- [01NeuralNinja/BFR_RL](https://github.com/01NeuralNinja/BFR_RL) - Official implementation of the ECCV 2026 paper "Beyond the Boundary: RL-Driven Solution Space Exploration for Blind Face Restoration"
 - [gityihang/LearnIR](https://github.com/gityihang/LearnIR) - Official PyTorch implementation of “LearnIR: Learnable Posterior Sampling for Real-World Image Restoration” (ICLR 2026).
 - [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 - [xhb-61/Face-Restoration-Image-Super-Resolution-](https://github.com/xhb-61/Face-Restoration-Image-Super-Resolution-) - Papers and analysis
