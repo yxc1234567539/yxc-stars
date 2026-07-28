@@ -63,6 +63,7 @@
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
+- [quant](#quant)
 - [quantitative-finance](#quantitative-finance)
 - [rag](#rag)
 - [react](#react)
@@ -1319,6 +1320,11 @@
 - [Yang-Liu1082/InvDN](https://github.com/Yang-Liu1082/InvDN) - Implementation for the paper: Invertible Denoising Network: A Light Solution for Real Noise Removal (CVPR2021).
 - [Raschka-research-group/coral-cnn](https://github.com/Raschka-research-group/coral-cnn) - Rank Consistent Ordinal Regression for Neural Networks with Application to Age Estimation
 - [richzhang/colorization-pytorch](https://github.com/richzhang/colorization-pytorch) - PyTorch reimplementation of Interactive Deep Colorization
+
+## quant 
+
+- [hugo2046/QuantsPlaybook](https://github.com/hugo2046/QuantsPlaybook) - 量化研究-券商金工研报复现
+- [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) - AI+金融（量化）：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.
 
 ## quantitative-finance 
 
