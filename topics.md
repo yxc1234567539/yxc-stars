@@ -516,6 +516,11 @@
 
 ## others 
 
+- [Microtreei/TSD-SR](https://github.com/Microtreei/TSD-SR) - [CVPR 2025] Official implementation of the paper "TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution".
+- [yinzhicun/RefSTAR](https://github.com/yinzhicun/RefSTAR) - RefSTAR: Blind Facial Image Restoration with Reference Selection, Transfer, and Reconstruction (AAAI 2026)
+- [wyf0912/SinSR](https://github.com/wyf0912/SinSR) - [CVPR 2024] SinSR: Diffusion-Based Image Super-Resolution in a Single Step
+- [yuanzhi-zhu/OFTSR](https://github.com/yuanzhi-zhu/OFTSR) - [ICLR2026] "OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs"
+- [CVL-UESTC/CTMSR](https://github.com/CVL-UESTC/CTMSR) - ICCV 2025-CTMSR:Consistency Trajectory Matching for One-Step Generative Super-Resolution
 - [01NeuralNinja/BFR_RL](https://github.com/01NeuralNinja/BFR_RL) - Official implementation of the ECCV 2026 paper "Beyond the Boundary: RL-Driven Solution Space Exploration for Blind Face Restoration"
 - [IVRL/NoiseDiff](https://github.com/IVRL/NoiseDiff) - Official code of Dark Noise Diffusion: Noise Synthesis for Low-Light Image Denoising (TPAMI2025)
 - [rflepp/Efficient-Image-Denoising-Pytorch](https://github.com/rflepp/Efficient-Image-Denoising-Pytorch) - This is a PyTorch implementation of a highly efficient image denoising model, which was originally developed in TensorFlow.
@@ -539,9 +544,7 @@
 - [nv-tlabs/PiD](https://github.com/nv-tlabs/PiD) - PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion
 - [gergelyhornyak/VehicleImageStitching](https://github.com/gergelyhornyak/VehicleImageStitching) - Application to stitch vehicles from side view road camera
 - [AkexStar/LearnPython](https://github.com/AkexStar/LearnPython) - python大数据分析课程代码
-- [duzekang/XiaoMi-Cup](https://github.com/duzekang/XiaoMi-Cup) - 
 - [dut-media-lab/Image-Stitching](https://github.com/dut-media-lab/Image-Stitching) - Leveraging Line-point Consistence to Preserve Structures for Wide Parallax Image Stitching
-- [649453932/Bert-Chinese-Text-Classification-Pytorch](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch) - 使用Bert，ERNIE，进行中文文本分类
 - [Tr1stesse/DirectEdit](https://github.com/Tr1stesse/DirectEdit) - [ICML 2026] Official implementation for "DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing".
 - [vivoCameraResearch/SmartPhotoCrafter](https://github.com/vivoCameraResearch/SmartPhotoCrafter) - official github code for "SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing"
 - [dhryougit/Beyond-the-Ground-Truth](https://github.com/dhryougit/Beyond-the-Ground-Truth) - 
@@ -581,7 +584,6 @@
 - [ant-research/edicho](https://github.com/ant-research/edicho) - [ICCV 2025] Edicho: Consistent Image Editing in the Wild
 - [LXDxmu/GRMP-IQA](https://github.com/LXDxmu/GRMP-IQA) - [ICCV 2025] Few-Shot Image Quality Assessment via Adaptation of Vision-Language Models
 - [SonyResearch/LineBufferNet](https://github.com/SonyResearch/LineBufferNet) - 
-- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [0voice/awesome_audio_video_learning](https://github.com/0voice/awesome_audio_video_learning) - 2025年音视频开发最新总结，提供全面的音视频开发学习资源，涵盖从基础知识到实战项目的资料、论文、书籍、项目和示例，帮助你快速热门并逐步进阶，持续更新维护中！
 - [MarcelLeon/skills-zh](https://github.com/MarcelLeon/skills-zh) - agent-skills: Skills 中文本土化适配版
 - [ANSANJAY/LinuxCoredumpValgrind](https://github.com/ANSANJAY/LinuxCoredumpValgrind) - A comprehensive guide to debugging in Linux with emphasis on core dumps and Valgrind. Dive into practical examples with source codes and documentation, aiding both beginners and professionals.
