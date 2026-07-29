@@ -58,7 +58,6 @@
 ## C++ 
 
 - [gergelyhornyak/VehicleImageStitching](https://github.com/gergelyhornyak/VehicleImageStitching) - Application to stitch vehicles from side view road camera
-- [duzekang/XiaoMi-Cup](https://github.com/duzekang/XiaoMi-Cup) - 
 - [Mob-FGSR/mob-ss](https://github.com/Mob-FGSR/mob-ss) - [SIGGRAPH Asia 2025] Lightweight, Edge-Aware, and Temporally Consistent Supersampling for Mobile Real-Time Rendering
 - [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
 - [mcpp-community/d2mcpp](https://github.com/mcpp-community/d2mcpp) - D2X | Modern C++ Core Language Features - "A C++ tutorial project focused on practical"
@@ -306,6 +305,11 @@
 
 ## Python 
 
+- [Microtreei/TSD-SR](https://github.com/Microtreei/TSD-SR) - [CVPR 2025] Official implementation of the paper "TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution".
+- [yinzhicun/RefSTAR](https://github.com/yinzhicun/RefSTAR) - RefSTAR: Blind Facial Image Restoration with Reference Selection, Transfer, and Reconstruction (AAAI 2026)
+- [wyf0912/SinSR](https://github.com/wyf0912/SinSR) - [CVPR 2024] SinSR: Diffusion-Based Image Super-Resolution in a Single Step
+- [yuanzhi-zhu/OFTSR](https://github.com/yuanzhi-zhu/OFTSR) - [ICLR2026] "OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs"
+- [CVL-UESTC/CTMSR](https://github.com/CVL-UESTC/CTMSR) - ICCV 2025-CTMSR:Consistency Trajectory Matching for One-Step Generative Super-Resolution
 - [IVRL/NoiseDiff](https://github.com/IVRL/NoiseDiff) - Official code of Dark Noise Diffusion: Noise Synthesis for Low-Light Image Denoising (TPAMI2025)
 - [rflepp/Efficient-Image-Denoising-Pytorch](https://github.com/rflepp/Efficient-Image-Denoising-Pytorch) - This is a PyTorch implementation of a highly efficient image denoising model, which was originally developed in TensorFlow.
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
@@ -325,7 +329,6 @@
 - [Chuancy-TJU/SpiralDiff](https://github.com/Chuancy-TJU/SpiralDiff) - 
 - [StaryMoon/OSDFace-Unofficial](https://github.com/StaryMoon/OSDFace-Unofficial) - Unofficial PyTorch reproduction for OSDFace: One-Step Diffusion Model for Face Restoration.
 - [nv-tlabs/PiD](https://github.com/nv-tlabs/PiD) - PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion
-- [649453932/Bert-Chinese-Text-Classification-Pytorch](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch) - 使用Bert，ERNIE，进行中文文本分类
 - [Tr1stesse/DirectEdit](https://github.com/Tr1stesse/DirectEdit) - [ICML 2026] Official implementation for "DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing".
 - [vivoCameraResearch/SmartPhotoCrafter](https://github.com/vivoCameraResearch/SmartPhotoCrafter) - official github code for "SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing"
 - [dhryougit/Beyond-the-Ground-Truth](https://github.com/dhryougit/Beyond-the-Ground-Truth) - 
@@ -366,7 +369,6 @@
 - [oufuzhao/MR-FIQA](https://github.com/oufuzhao/MR-FIQA) - Code for MR-FIQA: Face Image Quality Assessment with Multi-Reference Representations from Synthetic Data Generation
 - [SonyResearch/LineBufferNet](https://github.com/SonyResearch/LineBufferNet) - 
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.
-- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit
 - [MarcelLeon/skills-zh](https://github.com/MarcelLeon/skills-zh) - agent-skills: Skills 中文本土化适配版
 - [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
