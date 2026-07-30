@@ -148,9 +148,9 @@
 
 ## computer-vision 
 
+- [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [StaryMoon/OSDFace-Unofficial](https://github.com/StaryMoon/OSDFace-Unofficial) - Unofficial PyTorch reproduction for OSDFace: One-Step Diffusion Model for Face Restoration.
 - [Avinash793/panoramic-image-stitching](https://github.com/Avinash793/panoramic-image-stitching) - Create panorama image using invariant features from given set of overlapping images.
-- [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [miccunifi/ARNIQA](https://github.com/miccunifi/ARNIQA) - [WACV 2024 Oral] - ARNIQA: Learning Distortion Manifold for Image Quality Assessment
 - [miccunifi/QualiCLIP](https://github.com/miccunifi/QualiCLIP) - Quality-Aware Image-Text Alignment for Opinion-Unaware Image Quality Assessment
 - [lpiccinelli-eth/UniK3D](https://github.com/lpiccinelli-eth/UniK3D) - [CVPR 2025] UniK3D: Universal Camera Monocular 3D Estimation
@@ -516,6 +516,7 @@
 
 ## others 
 
+- [Daniil-Selikhanovych/RSD](https://github.com/Daniil-Selikhanovych/RSD) - PyTorch implementation of "One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation"
 - [Microtreei/TSD-SR](https://github.com/Microtreei/TSD-SR) - [CVPR 2025] Official implementation of the paper "TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution".
 - [yinzhicun/RefSTAR](https://github.com/yinzhicun/RefSTAR) - RefSTAR: Blind Facial Image Restoration with Reference Selection, Transfer, and Reconstruction (AAAI 2026)
 - [wyf0912/SinSR](https://github.com/wyf0912/SinSR) - [CVPR 2024] SinSR: Diffusion-Based Image Super-Resolution in a Single Step
@@ -1231,16 +1232,16 @@
 
 ## python3 
 
+- [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [EadCat/APAP-Image-Stitching](https://github.com/EadCat/APAP-Image-Stitching) - As-Projective-As-Possible (APAP) Image Stitching with Moving DLT (CVPR 2013) - Python Implementation
 - [Avinash793/panoramic-image-stitching](https://github.com/Avinash793/panoramic-image-stitching) - Create panorama image using invariant features from given set of overlapping images.
-- [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [mzur/pyJBU](https://github.com/mzur/pyJBU) - A Python implementation of Joint Bilateral Upsampling
 
 ## pytorch 
 
+- [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [StaryMoon/OSDFace-Unofficial](https://github.com/StaryMoon/OSDFace-Unofficial) - Unofficial PyTorch reproduction for OSDFace: One-Step Diffusion Model for Face Restoration.
 - [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
-- [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.
 - [bupt-ai-cz/BCI](https://github.com/bupt-ai-cz/BCI) - BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix
 - [NWPU-LHH/WFLM-GAN](https://github.com/NWPU-LHH/WFLM-GAN) - WFLM-GAN：Multiscale Generative Adversarial Network Based on Wavelet Feature Learning for SAR-to-Optical Image Translation
