@@ -305,6 +305,7 @@
 
 ## Python 
 
+- [EthanLiang99/AuthFace](https://github.com/EthanLiang99/AuthFace) - AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior (ACM MM 2025 Oral)
 - [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [Daniil-Selikhanovych/RSD](https://github.com/Daniil-Selikhanovych/RSD) - PyTorch implementation of "One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation"
 - [Microtreei/TSD-SR](https://github.com/Microtreei/TSD-SR) - [CVPR 2025] Official implementation of the paper "TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution".
