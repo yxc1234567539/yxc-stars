@@ -516,6 +516,8 @@
 
 ## others 
 
+- [gobunu/HAODiff](https://github.com/gobunu/HAODiff) - 
+- [W2GenAI-Lab/LucidFlux](https://github.com/W2GenAI-Lab/LucidFlux) - LucidFlux: Caption-Free Photo-Realistic Image Restoration via a Large-Scale Diffusion Transformer, ICLR 2026
 - [EthanLiang99/AuthFace](https://github.com/EthanLiang99/AuthFace) - AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior (ACM MM 2025 Oral)
 - [Daniil-Selikhanovych/RSD](https://github.com/Daniil-Selikhanovych/RSD) - PyTorch implementation of "One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation"
 - [Microtreei/TSD-SR](https://github.com/Microtreei/TSD-SR) - [CVPR 2025] Official implementation of the paper "TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution".
