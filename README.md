@@ -306,6 +306,8 @@
 
 ## Python 
 
+- [Blazedengcy/GTASR](https://github.com/Blazedengcy/GTASR) - ICML 2026 - Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution (GTASR)
+- [csslc/PiSA-SR](https://github.com/csslc/PiSA-SR) - [CVPR 2025] Official code repository for "Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach"
 - [gobunu/HAODiff](https://github.com/gobunu/HAODiff) - 
 - [W2GenAI-Lab/LucidFlux](https://github.com/W2GenAI-Lab/LucidFlux) - LucidFlux: Caption-Free Photo-Realistic Image Restoration via a Large-Scale Diffusion Transformer, ICLR 2026
 - [EthanLiang99/AuthFace](https://github.com/EthanLiang99/AuthFace) - AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior (ACM MM 2025 Oral)
