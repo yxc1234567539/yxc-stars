@@ -143,6 +143,8 @@
 
 ## Jupyter Notebook 
 
+- [cloneofsimo/vqgan-training](https://github.com/cloneofsimo/vqgan-training) - Train VAE like a boss
+- [madebyollin/seraena](https://github.com/madebyollin/seraena) - WIP Pytorch code for stably training single-step, mode-dropping, deterministic autoencoders
 - [sunxiaohui12/SCFlowFR](https://github.com/sunxiaohui12/SCFlowFR) - SCFlowFR is a novel FM-based one-step model tailored for face restoration tasks
 - [AkexStar/LearnPython](https://github.com/AkexStar/LearnPython) - python大数据分析课程代码
 - [CalvinXKY/InfraTech](https://github.com/CalvinXKY/InfraTech) - 分享AI Infra知识&代码练习：PyTorch、vLLM/SGLang、slime/vime框架入门⚡️、性能加速🚀、大模型基础🧠、AI软硬件🔧等
@@ -251,6 +253,8 @@
 
 ## Others 
 
+- [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
+- [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 - [01NeuralNinja/BFR_RL](https://github.com/01NeuralNinja/BFR_RL) - Official implementation of the ECCV 2026 paper "Beyond the Boundary: RL-Driven Solution Space Exploration for Blind Face Restoration"
 - [gityihang/LearnIR](https://github.com/gityihang/LearnIR) - Official PyTorch implementation of “LearnIR: Learnable Posterior Sampling for Real-World Image Restoration” (ICLR 2026).
 - [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
@@ -306,6 +310,12 @@
 
 ## Python 
 
+- [lavinal712/AutoencoderKL](https://github.com/lavinal712/AutoencoderKL) - A research-friendly PyTorch Lightning toolkit for training, fine-tuning, and evaluating AutoencoderKL for Stable Diffusion and FLUX.
+- [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
+- [mosaicml/diffusion](https://github.com/mosaicml/diffusion) - 
+- [jiatongli2024/NTIRE2026_Mobile_RealWorld_ImageSR](https://github.com/jiatongli2024/NTIRE2026_Mobile_RealWorld_ImageSR) - 
+- [BUG1989/sd1.5-lcm.axera](https://github.com/BUG1989/sd1.5-lcm.axera) - StableDiffusion 1.5 LCM on Axera
+- [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
 - [Blazedengcy/GTASR](https://github.com/Blazedengcy/GTASR) - ICML 2026 - Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution (GTASR)
 - [csslc/PiSA-SR](https://github.com/csslc/PiSA-SR) - [CVPR 2025] Official code repository for "Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach"
 - [gobunu/HAODiff](https://github.com/gobunu/HAODiff) - 
