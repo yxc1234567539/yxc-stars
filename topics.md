@@ -16,6 +16,7 @@
 - [awesome-list](#awesome-list)
 - [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
+- [claude-code](#claude-code)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
 - [css](#css)
@@ -24,6 +25,7 @@
 - [data-science](#data-science)
 - [data-visualization](#data-visualization)
 - [deep-learning](#deep-learning)
+- [developer-tools](#developer-tools)
 - [docker](#docker)
 - [electron](#electron)
 - [emacs](#emacs)
@@ -60,6 +62,7 @@
 - [pixel-art](#pixel-art)
 - [productivity](#productivity)
 - [programming](#programming)
+- [prompt-engineering](#prompt-engineering)
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
@@ -144,7 +147,12 @@
 
 ## chatgpt 
 
+- [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
+
+## claude-code 
+
+- [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
 
 ## computer-vision 
 
@@ -304,6 +312,10 @@
 - [zzh-tech/RSCD](https://github.com/zzh-tech/RSCD) - [CVPR2021] Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes
 - [codeslake/DMENet](https://github.com/codeslake/DMENet) - [CVPR 2019] Official TensorFlow Implementation for "Deep Defocus Map Estimation using Domain Adaptation"
 - [richzhang/colorization-pytorch](https://github.com/richzhang/colorization-pytorch) - PyTorch reimplementation of Interactive Deep Colorization
+
+## developer-tools 
+
+- [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
 
 ## docker 
 
@@ -516,6 +528,17 @@
 
 ## others 
 
+- [cloneofsimo/vqgan-training](https://github.com/cloneofsimo/vqgan-training) - Train VAE like a boss
+- [lavinal712/AutoencoderKL](https://github.com/lavinal712/AutoencoderKL) - A research-friendly PyTorch Lightning toolkit for training, fine-tuning, and evaluating AutoencoderKL for Stable Diffusion and FLUX.
+- [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
+- [mosaicml/diffusion](https://github.com/mosaicml/diffusion) - 
+- [madebyollin/seraena](https://github.com/madebyollin/seraena) - WIP Pytorch code for stably training single-step, mode-dropping, deterministic autoencoders
+- [jiatongli2024/NTIRE2026_Mobile_RealWorld_ImageSR](https://github.com/jiatongli2024/NTIRE2026_Mobile_RealWorld_ImageSR) - 
+- [BUG1989/sd1.5-lcm.axera](https://github.com/BUG1989/sd1.5-lcm.axera) - StableDiffusion 1.5 LCM on Axera
+- [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
+- [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
+- [Blazedengcy/GTASR](https://github.com/Blazedengcy/GTASR) - ICML 2026 - Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution (GTASR)
+- [csslc/PiSA-SR](https://github.com/csslc/PiSA-SR) - [CVPR 2025] Official code repository for "Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach"
 - [gobunu/HAODiff](https://github.com/gobunu/HAODiff) - 
 - [W2GenAI-Lab/LucidFlux](https://github.com/W2GenAI-Lab/LucidFlux) - LucidFlux: Caption-Free Photo-Realistic Image Restoration via a Large-Scale Diffusion Transformer, ICLR 2026
 - [EthanLiang99/AuthFace](https://github.com/EthanLiang99/AuthFace) - AuthFace: Towards Authentic Blind Face Restoration with Face-oriented Generative Diffusion Prior (ACM MM 2025 Oral)
@@ -1200,6 +1223,10 @@
 ## programming 
 
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+## prompt-engineering 
+
+- [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
 
 ## python 
 
