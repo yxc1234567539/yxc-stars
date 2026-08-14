@@ -310,6 +310,8 @@
 
 ## Python 
 
+- [Nota-NetsPresso/BK-SDM](https://github.com/Nota-NetsPresso/BK-SDM) - A Compressed Stable Diffusion for Efficient Text-to-Image Generation [ECCV'24]
+- [VainF/TinyFusion](https://github.com/VainF/TinyFusion) - [CVPR 2025 Highlight] TinyFusion: Diffusion Transformers Learned Shallow
 - [lavinal712/AutoencoderKL](https://github.com/lavinal712/AutoencoderKL) - A research-friendly PyTorch Lightning toolkit for training, fine-tuning, and evaluating AutoencoderKL for Stable Diffusion and FLUX.
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [mosaicml/diffusion](https://github.com/mosaicml/diffusion) - 
