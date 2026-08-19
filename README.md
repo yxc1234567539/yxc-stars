@@ -310,6 +310,7 @@
 
 ## Python 
 
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [cswry/DP2O-SR](https://github.com/cswry/DP2O-SR) - [NeurIPS 2025] DP²O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution
 - [PolyU-VCLab/GGT-100K](https://github.com/PolyU-VCLab/GGT-100K) - GGT-100K: Generative Ground Truth for Generalizable Real-World Image Restoration
 - [ArcticHare105/S3Diff](https://github.com/ArcticHare105/S3Diff) - Official implementation of S3Diff
