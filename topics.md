@@ -16,7 +16,9 @@
 - [awesome-list](#awesome-list)
 - [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
+- [claude](#claude)
 - [claude-code](#claude-code)
+- [command-line](#command-line)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
 - [css](#css)
@@ -40,6 +42,7 @@
 - [golang](#golang)
 - [haskell](#haskell)
 - [html](#html)
+- [html5](#html5)
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [javascript](#javascript)
@@ -78,8 +81,10 @@
 - [sketch](#sketch)
 - [stable-diffusion](#stable-diffusion)
 - [swift](#swift)
+- [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
 - [trading](#trading)
+- [ui-design](#ui-design)
 - [verilog](#verilog)
 - [video](#video)
 - [vim](#vim)
@@ -150,9 +155,18 @@
 - [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
+## claude 
+
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
+
 ## claude-code 
 
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
+
+## command-line 
+
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 
 ## computer-vision 
 
@@ -374,6 +388,10 @@
 ## html 
 
 - [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
+
+## html5 
+
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 
 ## image-processing 
 
@@ -1379,6 +1397,7 @@
 
 ## react 
 
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 ## react-native 
@@ -1427,6 +1446,10 @@
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [samuelyu2002/ImVisible](https://github.com/samuelyu2002/ImVisible) - ImVisible: Pedestrian Traffic Light (PTL) Dataset, Lightweight CNN (LytNet), and Mobile Application for the Visually Impaired (CAIP '19, ICCV Workshops '19)
 
+## tailwindcss 
+
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
+
 ## tensorflow 
 
 - [modelbox-ai/modelbox](https://github.com/modelbox-ai/modelbox) - A high performance, high expansion, easy to use framework for AI application. 为AI应用的开发者提供一套统一的高性能、易用的编程框架，快速基于AI全栈服务、开发跨端边云的AI行业应用，支持GPU，NPU加速。
@@ -1437,6 +1460,10 @@
 ## trading 
 
 - [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) - AI+金融（量化）：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.
+
+## ui-design 
+
+- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 
 ## verilog 
 
