@@ -255,7 +255,6 @@
 
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
-- [01NeuralNinja/BFR_RL](https://github.com/01NeuralNinja/BFR_RL) - Official implementation of the ECCV 2026 paper "Beyond the Boundary: RL-Driven Solution Space Exploration for Blind Face Restoration"
 - [gityihang/LearnIR](https://github.com/gityihang/LearnIR) - Official PyTorch implementation of “LearnIR: Learnable Posterior Sampling for Real-World Image Restoration” (ICLR 2026).
 - [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 - [xhb-61/Face-Restoration-Image-Super-Resolution-](https://github.com/xhb-61/Face-Restoration-Image-Super-Resolution-) - Papers and analysis
@@ -294,6 +293,7 @@
 - [happycaoyue/LLD](https://github.com/happycaoyue/LLD) - 
 - [24wenjie-li/Awesome-Face-Restoration](https://github.com/24wenjie-li/Awesome-Face-Restoration) - [ACM CSUR 2025] A comprehensive summary of deep face restoration methods.
 - [lcybuzz/Low-Level-Vision-Paper-Record](https://github.com/lcybuzz/Low-Level-Vision-Paper-Record) - 记录近期的 1) 图像/视频的超分增强等low level vision任务; 2) 图像生成 等任务相关论文, 主要为18年以后的DL based方法.
+- [602387193c/ComfyUI-wiki](https://github.com/602387193c/ComfyUI-wiki) - Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
 - [Kobaayyy/Awesome-CVPR2026-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2026-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision) - A Collection of Papers and Codes for CVPR2026/CVPR2025/CVPR2024/CVPR2021/CVPR2020 Low Level Vision
 - [MarkMoHR/Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) - :books: A collection of Deep Learning based Image Colorization and Video Colorization papers.
 - [youngyangyang04/TechCPP](https://github.com/youngyangyang04/TechCPP) - 【C++面试&C++学习指南】 这里整理了C++后端研发工程师面试和工作必备的知识点 。
@@ -310,6 +310,8 @@
 
 ## Python 
 
+- [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - Efficient vision foundation models for high-resolution generation and perception.
+- [Joyies/GDPO](https://github.com/Joyies/GDPO) - Official code for GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [cswry/DP2O-SR](https://github.com/cswry/DP2O-SR) - [NeurIPS 2025] DP²O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution
 - [PolyU-VCLab/GGT-100K](https://github.com/PolyU-VCLab/GGT-100K) - GGT-100K: Generative Ground Truth for Generalizable Real-World Image Restoration
@@ -334,6 +336,7 @@
 - [wyf0912/SinSR](https://github.com/wyf0912/SinSR) - [CVPR 2024] SinSR: Diffusion-Based Image Super-Resolution in a Single Step
 - [yuanzhi-zhu/OFTSR](https://github.com/yuanzhi-zhu/OFTSR) - [ICLR2026] "OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs"
 - [CVL-UESTC/CTMSR](https://github.com/CVL-UESTC/CTMSR) - ICCV 2025-CTMSR:Consistency Trajectory Matching for One-Step Generative Super-Resolution
+- [01NeuralNinja/BFR_RL](https://github.com/01NeuralNinja/BFR_RL) - Official implementation of the ECCV 2026 paper "Beyond the Boundary: RL-Driven Solution Space Exploration for Blind Face Restoration"
 - [IVRL/NoiseDiff](https://github.com/IVRL/NoiseDiff) - Official code of Dark Noise Diffusion: Noise Synthesis for Low-Light Image Denoising (TPAMI2025)
 - [rflepp/Efficient-Image-Denoising-Pytorch](https://github.com/rflepp/Efficient-Image-Denoising-Pytorch) - This is a PyTorch implementation of a highly efficient image denoising model, which was originally developed in TensorFlow.
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
@@ -805,7 +808,6 @@
 - [fengzhang427/LRD](https://github.com/fengzhang427/LRD) - Official implementation for our ICCV 2023 paper “Towards General Low-Light Raw Noise Synthesis and Modeling”
 - [VinAIResearch/single_image_hdr](https://github.com/VinAIResearch/single_image_hdr) - Single-Image HDR Reconstruction by Multi-Exposure Generation (WACV 2023)
 - [p1y2z3/SDAP](https://github.com/p1y2z3/SDAP) - Random Sub-Samples Generation for Self-Supervised Real Image Denoising (ICCV 2023)
-- [602387193c/ComfyUI-wiki](https://github.com/602387193c/ComfyUI-wiki) - Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
 - [createcolor/nightimaging24](https://github.com/createcolor/nightimaging24) - Repo with code for NIR'24 challange
 - [HUST-IAL/CoTF](https://github.com/HUST-IAL/CoTF) - The code of paper "Real-Time Exposure Correction via Collaborative Transformations and Adaptive Sampling" (CVPR 2024)
 - [chaofengc/IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) - 🔎 🖼️ 🔥PyTorch Toolbox for Image Quality Assessment, including PSNR, SSIM, LPIPS, FID, NIQE, NRQM(Ma), MUSIQ, TOPIQ, NIMA, DBCNN, BRISQUE, PI and more...
