@@ -546,6 +546,7 @@
 
 ## others 
 
+- [Faze-Hsw/RFMSR](https://github.com/Faze-Hsw/RFMSR) - Pure visual image super-resolution framework based on residual flow matching.
 - [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - Efficient vision foundation models for high-resolution generation and perception.
 - [Joyies/GDPO](https://github.com/Joyies/GDPO) - Official code for GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution
 - [cswry/DP2O-SR](https://github.com/cswry/DP2O-SR) - [NeurIPS 2025] DP²O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution
