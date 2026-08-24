@@ -546,6 +546,8 @@
 
 ## others 
 
+- [Hyun-s/LIFT_PLACE](https://github.com/Hyun-s/LIFT_PLACE) - [CVPR 2026] LIFT and PLACE: A Simple, Stable, and Effective Knowledge Distillation Framework for Lightweight Diffusion Models
+- [cswry/VOSR](https://github.com/cswry/VOSR) - [CVPR2026] VOSR: A Vision-Only Generative Model for Image Super-Resolution
 - [Faze-Hsw/RFMSR](https://github.com/Faze-Hsw/RFMSR) - Pure visual image super-resolution framework based on residual flow matching.
 - [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - Efficient vision foundation models for high-resolution generation and perception.
 - [Joyies/GDPO](https://github.com/Joyies/GDPO) - Official code for GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution
