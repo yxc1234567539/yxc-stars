@@ -313,7 +313,7 @@
 - [JaehaKim97/NOLA-IR](https://github.com/JaehaKim97/NOLA-IR) - Official implementation of "Noise-Free One-Step LoRA for Task-Driven Image Restoration"
 - [Hyun-s/LIFT_PLACE](https://github.com/Hyun-s/LIFT_PLACE) - [CVPR 2026] LIFT and PLACE: A Simple, Stable, and Effective Knowledge Distillation Framework for Lightweight Diffusion Models
 - [cswry/VOSR](https://github.com/cswry/VOSR) - [CVPR2026] VOSR: A Vision-Only Generative Model for Image Super-Resolution
-- [Faze-Hsw/RFMSR](https://github.com/Faze-Hsw/RFMSR) - Pure visual image super-resolution framework based on residual flow matching.
+- [Faze-Hsw/RFMSR](https://github.com/Faze-Hsw/RFMSR) - RFMSR: Residual Flow Matching for Image Super-Resolution
 - [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - Efficient vision foundation models for high-resolution generation and perception.
 - [Joyies/GDPO](https://github.com/Joyies/GDPO) - Official code for GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
