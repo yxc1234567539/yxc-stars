@@ -253,6 +253,7 @@
 
 ## Others 
 
+- [JianzeLi-114/D3SR](https://github.com/JianzeLi-114/D3SR) - 
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 - [gityihang/LearnIR](https://github.com/gityihang/LearnIR) - Official PyTorch implementation of “LearnIR: Learnable Posterior Sampling for Real-World Image Restoration” (ICLR 2026).
@@ -310,6 +311,9 @@
 
 ## Python 
 
+- [jiyang0315/DASP-SR](https://github.com/jiyang0315/DASP-SR) - DASP-SR is a method for real-world image super-resolution that integrates degradation-aware and structure-preserving diffusion techniques to enhance image quality. This repository contains the impleme
+- [Microtreei/TinySR](https://github.com/Microtreei/TinySR) - [CVPR 2026 Findings] Official implementation of the paper "TinySR: Pruning Diffusion for Real-World Image Super-Resolution".
+- [LuizScarlet/AEIC](https://github.com/LuizScarlet/AEIC) - [CVPR 2026] Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder
 - [JaehaKim97/NOLA-IR](https://github.com/JaehaKim97/NOLA-IR) - Official implementation of "Noise-Free One-Step LoRA for Task-Driven Image Restoration"
 - [Hyun-s/LIFT_PLACE](https://github.com/Hyun-s/LIFT_PLACE) - [CVPR 2026] LIFT and PLACE: A Simple, Stable, and Effective Knowledge Distillation Framework for Lightweight Diffusion Models
 - [cswry/VOSR](https://github.com/cswry/VOSR) - [CVPR2026] VOSR: A Vision-Only Generative Model for Image Super-Resolution
