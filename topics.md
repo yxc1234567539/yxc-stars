@@ -546,6 +546,9 @@
 
 ## others 
 
+- [jiyang0315/DASP-SR](https://github.com/jiyang0315/DASP-SR) - DASP-SR is a method for real-world image super-resolution that integrates degradation-aware and structure-preserving diffusion techniques to enhance image quality. This repository contains the impleme
+- [JianzeLi-114/D3SR](https://github.com/JianzeLi-114/D3SR) - 
+- [Microtreei/TinySR](https://github.com/Microtreei/TinySR) - [CVPR 2026 Findings] Official implementation of the paper "TinySR: Pruning Diffusion for Real-World Image Super-Resolution".
 - [JaehaKim97/NOLA-IR](https://github.com/JaehaKim97/NOLA-IR) - Official implementation of "Noise-Free One-Step LoRA for Task-Driven Image Restoration"
 - [Hyun-s/LIFT_PLACE](https://github.com/Hyun-s/LIFT_PLACE) - [CVPR 2026] LIFT and PLACE: A Simple, Stable, and Effective Knowledge Distillation Framework for Lightweight Diffusion Models
 - [cswry/VOSR](https://github.com/cswry/VOSR) - [CVPR2026] VOSR: A Vision-Only Generative Model for Image Super-Resolution
@@ -1258,6 +1261,7 @@
 
 ## python 
 
+- [LuizScarlet/AEIC](https://github.com/LuizScarlet/AEIC) - [CVPR 2026] Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder
 - [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
 - [francof2a/fxpmath](https://github.com/francof2a/fxpmath) - A python library for fractional fixed-point (base 2) arithmetic and binary manipulation with Numpy compatibility.
@@ -1297,6 +1301,7 @@
 
 ## pytorch 
 
+- [LuizScarlet/AEIC](https://github.com/LuizScarlet/AEIC) - [CVPR 2026] Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder
 - [Nota-NetsPresso/BK-SDM](https://github.com/Nota-NetsPresso/BK-SDM) - A Compressed Stable Diffusion for Efficient Text-to-Image Generation [ECCV'24]
 - [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [StaryMoon/OSDFace-Unofficial](https://github.com/StaryMoon/OSDFace-Unofficial) - Unofficial PyTorch reproduction for OSDFace: One-Step Diffusion Model for Face Restoration.
