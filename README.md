@@ -133,7 +133,7 @@
 
 ## Haskell 
 
-- [damianfral/colortransfer](https://github.com/damianfral/colortransfer) - A small tool to try to transfer colors between images.
+- [damianfral/colortransfer](https://github.com/damianfral/colortransfer) - A small tool to transfer colors between images.
 
 ## JavaScript 
 
@@ -311,6 +311,12 @@
 
 ## Python 
 
+- [qulishen/Flickerformer](https://github.com/qulishen/Flickerformer) - The official code for the paper "It Takes Two: A Duet of Periodicity and Directionality for Burst Flicker Removal".
+- [LucaCogo/Mobile-Spectral-CC](https://github.com/LucaCogo/Mobile-Spectral-CC) - [CVPR 2026] Leveraging Multispectral Sensors for Color Correction in Mobile Cameras
+- [Ar0Kim/FiDeSR](https://github.com/Ar0Kim/FiDeSR) - FiDeSR: High-Fidelity and Detail-Preserving One-Step Diffusion Super-Resolution
+- [cszn/ColorFM](https://github.com/cszn/ColorFM) - ECCV 2026
+- [aiimaginglab/PCFlow](https://github.com/aiimaginglab/PCFlow) - [ECCV 2026] Official repository for "Flow Straight to Reality: Perceptually Consistent Flow Matching for Efficient Image Restoration"
+- [filippawlicki/nanovsr](https://github.com/filippawlicki/nanovsr) - [ECCV 2026] NanoVSR: Real-time video super-resolution on edge devices - official PyTorch implementation
 - [jiyang0315/DASP-SR](https://github.com/jiyang0315/DASP-SR) - DASP-SR is a method for real-world image super-resolution that integrates degradation-aware and structure-preserving diffusion techniques to enhance image quality. This repository contains the impleme
 - [Microtreei/TinySR](https://github.com/Microtreei/TinySR) - [CVPR 2026 Findings] Official implementation of the paper "TinySR: Pruning Diffusion for Real-World Image Super-Resolution".
 - [LuizScarlet/AEIC](https://github.com/LuizScarlet/AEIC) - [CVPR 2026] Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder
