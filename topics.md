@@ -383,7 +383,7 @@
 
 ## haskell 
 
-- [damianfral/colortransfer](https://github.com/damianfral/colortransfer) - A small tool to try to transfer colors between images.
+- [damianfral/colortransfer](https://github.com/damianfral/colortransfer) - A small tool to transfer colors between images.
 
 ## html 
 
@@ -412,7 +412,7 @@
 - [10x-Engineers/Infinite-ISP_ReferenceModel](https://github.com/10x-Engineers/Infinite-ISP_ReferenceModel) - A Python based fixed-point implementation of the Infinite-ISP design for ASIC and FPGA design and verification.
 - [li-plus/seam-carving](https://github.com/li-plus/seam-carving) - A super-fast Python implementation of seam carving algorithm for intelligent image resizing.
 - [CorentinBrtx/image-stitching](https://github.com/CorentinBrtx/image-stitching) - Image Stitching algorithm in Python from scratch with gain compensation and blending
-- [damianfral/colortransfer](https://github.com/damianfral/colortransfer) - A small tool to try to transfer colors between images.
+- [damianfral/colortransfer](https://github.com/damianfral/colortransfer) - A small tool to transfer colors between images.
 - [advimman/HiDT](https://github.com/advimman/HiDT) - Official repository for the paper "High-Resolution Daytime Translation Without Domain Labels" (CVPR2020, Oral)
 - [ohayonguy/PMRF](https://github.com/ohayonguy/PMRF) - [ICLR 2025] Official implementation of Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
@@ -546,6 +546,12 @@
 
 ## others 
 
+- [qulishen/Flickerformer](https://github.com/qulishen/Flickerformer) - The official code for the paper "It Takes Two: A Duet of Periodicity and Directionality for Burst Flicker Removal".
+- [LucaCogo/Mobile-Spectral-CC](https://github.com/LucaCogo/Mobile-Spectral-CC) - [CVPR 2026] Leveraging Multispectral Sensors for Color Correction in Mobile Cameras
+- [Ar0Kim/FiDeSR](https://github.com/Ar0Kim/FiDeSR) - FiDeSR: High-Fidelity and Detail-Preserving One-Step Diffusion Super-Resolution
+- [cszn/ColorFM](https://github.com/cszn/ColorFM) - ECCV 2026
+- [aiimaginglab/PCFlow](https://github.com/aiimaginglab/PCFlow) - [ECCV 2026] Official repository for "Flow Straight to Reality: Perceptually Consistent Flow Matching for Efficient Image Restoration"
+- [filippawlicki/nanovsr](https://github.com/filippawlicki/nanovsr) - [ECCV 2026] NanoVSR: Real-time video super-resolution on edge devices - official PyTorch implementation
 - [jiyang0315/DASP-SR](https://github.com/jiyang0315/DASP-SR) - DASP-SR is a method for real-world image super-resolution that integrates degradation-aware and structure-preserving diffusion techniques to enhance image quality. This repository contains the impleme
 - [JianzeLi-114/D3SR](https://github.com/JianzeLi-114/D3SR) - 
 - [Microtreei/TinySR](https://github.com/Microtreei/TinySR) - [CVPR 2026 Findings] Official implementation of the paper "TinySR: Pruning Diffusion for Real-World Image Super-Resolution".
