@@ -311,6 +311,8 @@
 
 ## Python 
 
+- [sanechips-multimedia/syenet](https://github.com/sanechips-multimedia/syenet) - SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-Time Performance on Mobile Device, in ICCV 2023
+- [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
 - [qulishen/Flickerformer](https://github.com/qulishen/Flickerformer) - The official code for the paper "It Takes Two: A Duet of Periodicity and Directionality for Burst Flicker Removal".
 - [LucaCogo/Mobile-Spectral-CC](https://github.com/LucaCogo/Mobile-Spectral-CC) - [CVPR 2026] Leveraging Multispectral Sensors for Color Correction in Mobile Cameras
 - [Ar0Kim/FiDeSR](https://github.com/Ar0Kim/FiDeSR) - FiDeSR: High-Fidelity and Detail-Preserving One-Step Diffusion Super-Resolution
