@@ -143,6 +143,7 @@
 
 ## Jupyter Notebook 
 
+- [keshik6/grafting](https://github.com/keshik6/grafting) - [NeurIPS 2025 Oral] Official Code for Exploring Diffusion Transformer Designs via Grafting
 - [cloneofsimo/vqgan-training](https://github.com/cloneofsimo/vqgan-training) - Train VAE like a boss
 - [madebyollin/seraena](https://github.com/madebyollin/seraena) - WIP Pytorch code for stably training single-step, mode-dropping, deterministic autoencoders
 - [sunxiaohui12/SCFlowFR](https://github.com/sunxiaohui12/SCFlowFR) - SCFlowFR is a novel FM-based one-step model tailored for face restoration tasks
@@ -253,6 +254,7 @@
 
 ## Others 
 
+- [XiayanZhou/Papers-on-Efficient-Diffusion-Models](https://github.com/XiayanZhou/Papers-on-Efficient-Diffusion-Models) - Papers on Efficient Diffusion Models
 - [JianzeLi-114/D3SR](https://github.com/JianzeLi-114/D3SR) - 
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
 - [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
@@ -311,6 +313,12 @@
 
 ## Python 
 
+- [wwangcece/SlimDiffSR](https://github.com/wwangcece/SlimDiffSR) - [Arxiv 2026] SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation
+- [dohyun-as/Random-Conditioning](https://github.com/dohyun-as/Random-Conditioning) - Official Implementation of CVPR 2025 paper "Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression"
+- [EvelynZhang-epiclab/SiTo](https://github.com/EvelynZhang-epiclab/SiTo) - [AAAI-2025] The offical code for SiTo （Similarity-based Token Pruning for Stable Diffusion Models）
+- [neonforestmist/Clover-Image-Tiny](https://github.com/neonforestmist/Clover-Image-Tiny) - Run Clover Image Tiny locally with Diffusers or Gradio; links to the model, demo, iPhone app, Core ML release, LoRA trainer, styles, and datasets.
+- [GianSegugio/flicker_suppressor](https://github.com/GianSegugio/flicker_suppressor) - Single-image/batch restoration for rolling-shutter flicker/banding under temporally modulated artificial lighting
+- [AVC2-UESTC/MobileIE](https://github.com/AVC2-UESTC/MobileIE) - [ICCV2025] Implementation of "MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices"
 - [sanechips-multimedia/syenet](https://github.com/sanechips-multimedia/syenet) - SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-Time Performance on Mobile Device, in ICCV 2023
 - [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
 - [qulishen/Flickerformer](https://github.com/qulishen/Flickerformer) - The official code for the paper "It Takes Two: A Duet of Periodicity and Directionality for Burst Flicker Removal".
