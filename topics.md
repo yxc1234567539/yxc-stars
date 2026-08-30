@@ -447,6 +447,7 @@
 
 ## ios 
 
+- [neonforestmist/Clover-Image-Tiny](https://github.com/neonforestmist/Clover-Image-Tiny) - Run Clover Image Tiny locally with Diffusers or Gradio; links to the model, demo, iPhone app, Core ML release, LoRA trainer, styles, and datasets.
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 ## javascript 
@@ -552,6 +553,13 @@
 
 ## others 
 
+- [wwangcece/SlimDiffSR](https://github.com/wwangcece/SlimDiffSR) - [Arxiv 2026] SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation
+- [dohyun-as/Random-Conditioning](https://github.com/dohyun-as/Random-Conditioning) - Official Implementation of CVPR 2025 paper "Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression"
+- [EvelynZhang-epiclab/SiTo](https://github.com/EvelynZhang-epiclab/SiTo) - [AAAI-2025] The offical code for SiTo （Similarity-based Token Pruning for Stable Diffusion Models）
+- [keshik6/grafting](https://github.com/keshik6/grafting) - [NeurIPS 2025 Oral] Official Code for Exploring Diffusion Transformer Designs via Grafting
+- [XiayanZhou/Papers-on-Efficient-Diffusion-Models](https://github.com/XiayanZhou/Papers-on-Efficient-Diffusion-Models) - Papers on Efficient Diffusion Models
+- [GianSegugio/flicker_suppressor](https://github.com/GianSegugio/flicker_suppressor) - Single-image/batch restoration for rolling-shutter flicker/banding under temporally modulated artificial lighting
+- [AVC2-UESTC/MobileIE](https://github.com/AVC2-UESTC/MobileIE) - [ICCV2025] Implementation of "MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices"
 - [qulishen/Flickerformer](https://github.com/qulishen/Flickerformer) - The official code for the paper "It Takes Two: A Duet of Periodicity and Directionality for Burst Flicker Removal".
 - [LucaCogo/Mobile-Spectral-CC](https://github.com/LucaCogo/Mobile-Spectral-CC) - [CVPR 2026] Leveraging Multispectral Sensors for Color Correction in Mobile Cameras
 - [Ar0Kim/FiDeSR](https://github.com/Ar0Kim/FiDeSR) - FiDeSR: High-Fidelity and Detail-Preserving One-Step Diffusion Super-Resolution
@@ -1451,6 +1459,7 @@
 
 ## stable-diffusion 
 
+- [neonforestmist/Clover-Image-Tiny](https://github.com/neonforestmist/Clover-Image-Tiny) - Run Clover Image Tiny locally with Diffusers or Gradio; links to the model, demo, iPhone app, Core ML release, LoRA trainer, styles, and datasets.
 - [Nota-NetsPresso/BK-SDM](https://github.com/Nota-NetsPresso/BK-SDM) - A Compressed Stable Diffusion for Efficient Text-to-Image Generation [ECCV'24]
 - [JyChen9811/FaithDiff](https://github.com/JyChen9811/FaithDiff) - [CVPR 2025] FaithDiff for Classic Film Rejuvenation, Old Photo Revival, Social Media Restoration, Image Enhancement and AIGC Enhancement.
 - [wangkai930418/awesome-diffusion-categorized](https://github.com/wangkai930418/awesome-diffusion-categorized) - collection of diffusion model papers categorized by their subareas
