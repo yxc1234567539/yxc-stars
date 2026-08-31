@@ -17,9 +17,7 @@
 - [awesome-list](#awesome-list)
 - [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
-- [claude](#claude)
 - [claude-code](#claude-code)
-- [command-line](#command-line)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
 - [css](#css)
@@ -39,11 +37,8 @@
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
-- [go](#go)
-- [golang](#golang)
 - [haskell](#haskell)
 - [html](#html)
-- [html5](#html5)
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [javascript](#javascript)
@@ -82,10 +77,8 @@
 - [sketch](#sketch)
 - [stable-diffusion](#stable-diffusion)
 - [swift](#swift)
-- [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
 - [trading](#trading)
-- [ui-design](#ui-design)
 - [verilog](#verilog)
 - [video](#video)
 - [vim](#vim)
@@ -160,18 +153,9 @@
 - [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
-## claude 
-
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
-
 ## claude-code 
 
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
-
-## command-line 
-
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 
 ## computer-vision 
 
@@ -379,14 +363,6 @@
 
 - [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 
-## go 
-
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-
-## golang 
-
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-
 ## haskell 
 
 - [damianfral/colortransfer](https://github.com/damianfral/colortransfer) - A small tool to transfer colors between images.
@@ -394,10 +370,6 @@
 ## html 
 
 - [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
-
-## html5 
-
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 
 ## image-processing 
 
@@ -478,7 +450,6 @@
 - [milvus-io/bootcamp](https://github.com/milvus-io/bootcamp) - Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.
 - [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) - AI+金融（量化）：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## machine-learning 
 
@@ -553,6 +524,7 @@
 
 ## others 
 
+- [libozhu03/PassionSR](https://github.com/libozhu03/PassionSR) - 
 - [wwangcece/SlimDiffSR](https://github.com/wwangcece/SlimDiffSR) - [Arxiv 2026] SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation
 - [dohyun-as/Random-Conditioning](https://github.com/dohyun-as/Random-Conditioning) - Official Implementation of CVPR 2025 paper "Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression"
 - [EvelynZhang-epiclab/SiTo](https://github.com/EvelynZhang-epiclab/SiTo) - [AAAI-2025] The offical code for SiTo （Similarity-based Token Pruning for Stable Diffusion Models）
@@ -758,7 +730,6 @@
 - [sevenHsu/FaceMask_CelebA](https://github.com/sevenHsu/FaceMask_CelebA) - Simulated masked face with dataset CelebA
 - [chenjunkai2018/Photoshop_algorithm](https://github.com/chenjunkai2018/Photoshop_algorithm) - the Photoshop algorithm
 - [NVlabs/RADIO](https://github.com/NVlabs/RADIO) - Official repository for "AM-RADIO: Reduce All Domains Into One"
-- [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 - [ArchipLab-LinfengZhang/wkd-datasets](https://github.com/ArchipLab-LinfengZhang/wkd-datasets) - This repository provides the dataset used in our cvpr2022 paper - wavelet knowledge distillation
 - [zhengchen1999/QuantDemoire](https://github.com/zhengchen1999/QuantDemoire) - PyTorch code for our paper "QuantDemoire: Quantization with Outlier Aware for Image Demoiréing"
 - [VectorSpaceLab/EditScore](https://github.com/VectorSpaceLab/EditScore) - [ICLR 2026] EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling
@@ -937,7 +908,6 @@
 - [OUCVisionGroup/CLIP-UIE](https://github.com/OUCVisionGroup/CLIP-UIE) - Underwater Image Enhancement by Diffusion Model with Customized CLIP-Classifier
 - [Yuanshi9815/OminiControl](https://github.com/Yuanshi9815/OminiControl) - [ICCV 2025 Highlight] OminiControl: Minimal and Universal Control for Diffusion Transformer
 - [dhryougit/learning-to-translate-noise](https://github.com/dhryougit/learning-to-translate-noise) - 
-- [JianzeLi-114/FluxSR](https://github.com/JianzeLi-114/FluxSR) - 
 - [Boyiliee/SITTA](https://github.com/Boyiliee/SITTA) - Single Image Texture Translation for Data Augmentation
 - [rosinality/swapping-autoencoder-pytorch](https://github.com/rosinality/swapping-autoencoder-pytorch) - Unofficial implementation of Swapping Autoencoder for Deep Image Manipulation (https://arxiv.org/abs/2007.00653) in PyTorch
 - [GuHuangAI/DiffusionEdge](https://github.com/GuHuangAI/DiffusionEdge) - Code for AAAI 2024 paper: "DiffusionEdge: Diffusion Probabilistic Model for Crisp Edge Detection"
@@ -1321,6 +1291,7 @@
 
 ## pytorch 
 
+- [sunny2109/SAFMN](https://github.com/sunny2109/SAFMN) - [ICCV 2023] Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolution; runner-up method for the model complexity track in NTIRE2023 Efficient SR challenge
 - [LuizScarlet/AEIC](https://github.com/LuizScarlet/AEIC) - [CVPR 2026] Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder
 - [Nota-NetsPresso/BK-SDM](https://github.com/Nota-NetsPresso/BK-SDM) - A Compressed Stable Diffusion for Efficient Text-to-Image Generation [ECCV'24]
 - [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
@@ -1428,7 +1399,6 @@
 
 ## react 
 
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 ## react-native 
@@ -1478,10 +1448,6 @@
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [samuelyu2002/ImVisible](https://github.com/samuelyu2002/ImVisible) - ImVisible: Pedestrian Traffic Light (PTL) Dataset, Lightweight CNN (LytNet), and Mobile Application for the Visually Impaired (CAIP '19, ICCV Workshops '19)
 
-## tailwindcss 
-
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
-
 ## tensorflow 
 
 - [modelbox-ai/modelbox](https://github.com/modelbox-ai/modelbox) - A high performance, high expansion, easy to use framework for AI application. 为AI应用的开发者提供一套统一的高性能、易用的编程框架，快速基于AI全栈服务、开发跨端边云的AI行业应用，支持GPU，NPU加速。
@@ -1492,10 +1458,6 @@
 ## trading 
 
 - [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) - AI+金融（量化）：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.
-
-## ui-design 
-
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 
 ## verilog 
 
