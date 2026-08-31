@@ -10,7 +10,6 @@
 - [C++](#c++)
 - [Cuda](#cuda)
 - [GLSL](#glsl)
-- [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [JavaScript](#javascript)
@@ -120,10 +119,6 @@
 ## GLSL 
 
 - [HUSTjmx/ShaderToy](https://github.com/HUSTjmx/ShaderToy) - 
-
-## Go 
-
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
 ## HTML 
 
@@ -287,7 +282,6 @@
 - [bcmi/Awesome-Image-Blending](https://github.com/bcmi/Awesome-Image-Blending) - A curated list of papers, code and resources pertaining to image blending.
 - [ChunmingHe/awesome-diffusion-models-in-low-level-vision](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) - A Repository for Diffusion-Model-related Papers in Low-level Vision
 - [ofeeler/LPR](https://github.com/ofeeler/LPR) - pku lpr dataset
-- [JianzeLi-114/FluxSR](https://github.com/JianzeLi-114/FluxSR) - 
 - [yeungchenwa/Recommendations-Diffusion-Text-Image](https://github.com/yeungchenwa/Recommendations-Diffusion-Text-Image) - A paper collection of recent diffusion models for text-image generation tasks, e,g., visual text generation, font generation, text removal, text image super resolution, text editing, handwritten gener
 - [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
 - [starkfan007/awesome-ISP](https://github.com/starkfan007/awesome-ISP) - A curated list of awesome ISP frameworks, papers, libraries, resources, and shiny things.
@@ -313,6 +307,8 @@
 
 ## Python 
 
+- [libozhu03/PassionSR](https://github.com/libozhu03/PassionSR) - 
+- [sunny2109/SAFMN](https://github.com/sunny2109/SAFMN) - [ICCV 2023] Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolution; runner-up method for the model complexity track in NTIRE2023 Efficient SR challenge
 - [wwangcece/SlimDiffSR](https://github.com/wwangcece/SlimDiffSR) - [Arxiv 2026] SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation
 - [dohyun-as/Random-Conditioning](https://github.com/dohyun-as/Random-Conditioning) - Official Implementation of CVPR 2025 paper "Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression"
 - [EvelynZhang-epiclab/SiTo](https://github.com/EvelynZhang-epiclab/SiTo) - [AAAI-2025] The offical code for SiTo （Similarity-based Token Pruning for Stable Diffusion Models）
@@ -336,7 +332,6 @@
 - [Faze-Hsw/RFMSR](https://github.com/Faze-Hsw/RFMSR) - RFMSR: Residual Flow Matching for Image Super-Resolution
 - [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - Efficient vision foundation models for high-resolution generation and perception.
 - [Joyies/GDPO](https://github.com/Joyies/GDPO) - Official code for GDPO-SR: Group Direct Preference Optimization for One-Step Generative Image Super-Resolution
-- [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [cswry/DP2O-SR](https://github.com/cswry/DP2O-SR) - [NeurIPS 2025] DP²O-SR: Direct Perceptual Preference Optimization for Real-World Image Super-Resolution
 - [PolyU-VCLab/GGT-100K](https://github.com/PolyU-VCLab/GGT-100K) - GGT-100K: Generative Ground Truth for Generalizable Real-World Image Restoration
 - [ArcticHare105/S3Diff](https://github.com/ArcticHare105/S3Diff) - Official implementation of S3Diff
@@ -514,7 +509,6 @@
 - [sevenHsu/FaceMask_CelebA](https://github.com/sevenHsu/FaceMask_CelebA) - Simulated masked face with dataset CelebA
 - [flrs/blend_modes](https://github.com/flrs/blend_modes) - Python package that implements image blend modes
 - [NVlabs/RADIO](https://github.com/NVlabs/RADIO) - Official repository for "AM-RADIO: Reduce All Domains Into One"
-- [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
 - [ArchipLab-LinfengZhang/wkd-datasets](https://github.com/ArchipLab-LinfengZhang/wkd-datasets) - This repository provides the dataset used in our cvpr2022 paper - wavelet knowledge distillation
 - [snap-research/CAT](https://github.com/snap-research/CAT) - [CVPR 2021] Teachers Do More Than Teach: Compressing Image-to-Image Models (CAT)
 - [vitorsr/exact-histogram-specification](https://github.com/vitorsr/exact-histogram-specification) - Fast implementation of "Exact Histogram Specification" by Coltuc et al.
