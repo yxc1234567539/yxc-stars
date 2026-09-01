@@ -524,6 +524,8 @@
 
 ## others 
 
+- [zirui0625/HDRFace](https://github.com/zirui0625/HDRFace) - HDRFace: Rethinking Face Restoration with High-Dimensional Representation
+- [RedMediaTech/ODTSR](https://github.com/RedMediaTech/ODTSR) - [CVPR2026] ODTSR: This repo is the official implementation of "One-Step Diffusion Transformer for Controllable Real-World Image Super-Resolution"
 - [libozhu03/PassionSR](https://github.com/libozhu03/PassionSR) - 
 - [wwangcece/SlimDiffSR](https://github.com/wwangcece/SlimDiffSR) - [Arxiv 2026] SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation
 - [dohyun-as/Random-Conditioning](https://github.com/dohyun-as/Random-Conditioning) - Official Implementation of CVPR 2025 paper "Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression"
