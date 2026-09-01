@@ -307,6 +307,8 @@
 
 ## Python 
 
+- [zirui0625/HDRFace](https://github.com/zirui0625/HDRFace) - HDRFace: Rethinking Face Restoration with High-Dimensional Representation
+- [RedMediaTech/ODTSR](https://github.com/RedMediaTech/ODTSR) - [CVPR2026] ODTSR: This repo is the official implementation of "One-Step Diffusion Transformer for Controllable Real-World Image Super-Resolution"
 - [libozhu03/PassionSR](https://github.com/libozhu03/PassionSR) - 
 - [sunny2109/SAFMN](https://github.com/sunny2109/SAFMN) - [ICCV 2023] Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolution; runner-up method for the model complexity track in NTIRE2023 Efficient SR challenge
 - [wwangcece/SlimDiffSR](https://github.com/wwangcece/SlimDiffSR) - [Arxiv 2026] SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation
