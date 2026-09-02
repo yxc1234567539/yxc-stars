@@ -15,7 +15,6 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [MATLAB](#matlab)
-- [Metal](#metal)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -23,6 +22,7 @@
 - [Rust](#rust)
 - [SWIG](#swig)
 - [Shell](#shell)
+- [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Typst](#typst)
@@ -235,10 +235,6 @@
 - [xyang35/BurstImageDenoising](https://github.com/xyang35/BurstImageDenoising) - Fast burst images denoising project
 - [baidut/OpenCE](https://github.com/baidut/OpenCE) - Contrast Enhancement Techniques for low-light images
 
-## Metal 
-
-- [yangKJ/Harbeth](https://github.com/yangKJ/Harbeth) - 🎨 GPU accelerated image / video and camera filter library based on Metal. Support macOS & iOS. 图像、视频、相机滤镜框架
-
 ## OCaml 
 
 - [mjambon/purple-fringe](https://github.com/mjambon/purple-fringe) - Removal of purple fringing from digital photos
@@ -307,6 +303,12 @@
 
 ## Python 
 
+- [bytedance/Hybrid-SD](https://github.com/bytedance/Hybrid-SD) - 
+- [limuloo/RefineAnything](https://github.com/limuloo/RefineAnything) - 
+- [yfyang007/RealRestorer](https://github.com/yfyang007/RealRestorer) - 
+- [csbowei/ART](https://github.com/csbowei/ART) - [ECCV2026] Anchoring on Reality: Breaking the Pseudo-Target Ceiling in Makeup Transfer
+- [vivoCameraResearch/BeautyGRPO](https://github.com/vivoCameraResearch/BeautyGRPO) - 
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [zirui0625/HDRFace](https://github.com/zirui0625/HDRFace) - HDRFace: Rethinking Face Restoration with High-Dimensional Representation
 - [RedMediaTech/ODTSR](https://github.com/RedMediaTech/ODTSR) - [CVPR2026] ODTSR: This repo is the official implementation of "One-Step Diffusion Transformer for Controllable Real-World Image Super-Resolution"
 - [libozhu03/PassionSR](https://github.com/libozhu03/PassionSR) - 
@@ -322,7 +324,7 @@
 - [qulishen/Flickerformer](https://github.com/qulishen/Flickerformer) - The official code for the paper "It Takes Two: A Duet of Periodicity and Directionality for Burst Flicker Removal".
 - [LucaCogo/Mobile-Spectral-CC](https://github.com/LucaCogo/Mobile-Spectral-CC) - [CVPR 2026] Leveraging Multispectral Sensors for Color Correction in Mobile Cameras
 - [Ar0Kim/FiDeSR](https://github.com/Ar0Kim/FiDeSR) - FiDeSR: High-Fidelity and Detail-Preserving One-Step Diffusion Super-Resolution
-- [cszn/ColorFM](https://github.com/cszn/ColorFM) - ECCV 2026
+- [cszn/ColorFM](https://github.com/cszn/ColorFM) - ECCV 2026 (The testing codes are released!)
 - [aiimaginglab/PCFlow](https://github.com/aiimaginglab/PCFlow) - [ECCV 2026] Official repository for "Flow Straight to Reality: Perceptually Consistent Flow Matching for Efficient Image Restoration"
 - [filippawlicki/nanovsr](https://github.com/filippawlicki/nanovsr) - [ECCV 2026] NanoVSR: Real-time video super-resolution on edge devices - official PyTorch implementation
 - [jiyang0315/DASP-SR](https://github.com/jiyang0315/DASP-SR) - DASP-SR is a method for real-world image super-resolution that integrates degradation-aware and structure-preserving diffusion techniques to enhance image quality. This repository contains the impleme
@@ -1022,6 +1024,10 @@
 ## Shell 
 
 - [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
+
+## Swift 
+
+- [yangKJ/Harbeth](https://github.com/yangKJ/Harbeth) - 🎨 GPU accelerated image / video and camera filter library based on Metal. Support macOS & iOS. 图像、视频、相机滤镜框架
 
 ## TeX 
 
