@@ -102,6 +102,7 @@
 
 ## agent-skills 
 
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) - 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。
 
 ## ai 
@@ -155,6 +156,7 @@
 
 ## claude-code 
 
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
 
 ## computer-vision 
@@ -524,6 +526,11 @@
 
 ## others 
 
+- [bytedance/Hybrid-SD](https://github.com/bytedance/Hybrid-SD) - 
+- [limuloo/RefineAnything](https://github.com/limuloo/RefineAnything) - 
+- [yfyang007/RealRestorer](https://github.com/yfyang007/RealRestorer) - 
+- [csbowei/ART](https://github.com/csbowei/ART) - [ECCV2026] Anchoring on Reality: Breaking the Pseudo-Target Ceiling in Makeup Transfer
+- [vivoCameraResearch/BeautyGRPO](https://github.com/vivoCameraResearch/BeautyGRPO) - 
 - [zirui0625/HDRFace](https://github.com/zirui0625/HDRFace) - HDRFace: Rethinking Face Restoration with High-Dimensional Representation
 - [RedMediaTech/ODTSR](https://github.com/RedMediaTech/ODTSR) - [CVPR2026] ODTSR: This repo is the official implementation of "One-Step Diffusion Transformer for Controllable Real-World Image Super-Resolution"
 - [libozhu03/PassionSR](https://github.com/libozhu03/PassionSR) - 
@@ -537,7 +544,7 @@
 - [qulishen/Flickerformer](https://github.com/qulishen/Flickerformer) - The official code for the paper "It Takes Two: A Duet of Periodicity and Directionality for Burst Flicker Removal".
 - [LucaCogo/Mobile-Spectral-CC](https://github.com/LucaCogo/Mobile-Spectral-CC) - [CVPR 2026] Leveraging Multispectral Sensors for Color Correction in Mobile Cameras
 - [Ar0Kim/FiDeSR](https://github.com/Ar0Kim/FiDeSR) - FiDeSR: High-Fidelity and Detail-Preserving One-Step Diffusion Super-Resolution
-- [cszn/ColorFM](https://github.com/cszn/ColorFM) - ECCV 2026
+- [cszn/ColorFM](https://github.com/cszn/ColorFM) - ECCV 2026 (The testing codes are released!)
 - [aiimaginglab/PCFlow](https://github.com/aiimaginglab/PCFlow) - [ECCV 2026] Official repository for "Flow Straight to Reality: Perceptually Consistent Flow Matching for Efficient Image Restoration"
 - [filippawlicki/nanovsr](https://github.com/filippawlicki/nanovsr) - [ECCV 2026] NanoVSR: Real-time video super-resolution on edge devices - official PyTorch implementation
 - [jiyang0315/DASP-SR](https://github.com/jiyang0315/DASP-SR) - DASP-SR is a method for real-world image super-resolution that integrates degradation-aware and structure-preserving diffusion techniques to enhance image quality. This repository contains the impleme
@@ -1249,6 +1256,7 @@
 
 ## prompt-engineering 
 
+- [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
 
 ## python 
