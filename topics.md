@@ -526,6 +526,7 @@
 
 ## others 
 
+- [westlake-repl/LeanVAE](https://github.com/westlake-repl/LeanVAE) - [ICCV2025]LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models
 - [bytedance/Hybrid-SD](https://github.com/bytedance/Hybrid-SD) - 
 - [limuloo/RefineAnything](https://github.com/limuloo/RefineAnything) - 
 - [yfyang007/RealRestorer](https://github.com/yfyang007/RealRestorer) - 
@@ -1439,6 +1440,7 @@
 
 ## stable-diffusion 
 
+- [segmind/distill-sd](https://github.com/segmind/distill-sd) - Segmind Distilled diffusion
 - [neonforestmist/Clover-Image-Tiny](https://github.com/neonforestmist/Clover-Image-Tiny) - Run Clover Image Tiny locally with Diffusers or Gradio; links to the model, demo, iPhone app, Core ML release, LoRA trainer, styles, and datasets.
 - [Nota-NetsPresso/BK-SDM](https://github.com/Nota-NetsPresso/BK-SDM) - A Compressed Stable Diffusion for Efficient Text-to-Image Generation [ECCV'24]
 - [JyChen9811/FaithDiff](https://github.com/JyChen9811/FaithDiff) - [CVPR 2025] FaithDiff for Classic Film Rejuvenation, Old Photo Revival, Social Media Restoration, Image Enhancement and AIGC Enhancement.
