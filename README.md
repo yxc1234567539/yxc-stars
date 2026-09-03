@@ -303,6 +303,8 @@
 
 ## Python 
 
+- [segmind/distill-sd](https://github.com/segmind/distill-sd) - Segmind Distilled diffusion
+- [westlake-repl/LeanVAE](https://github.com/westlake-repl/LeanVAE) - [ICCV2025]LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models
 - [bytedance/Hybrid-SD](https://github.com/bytedance/Hybrid-SD) - 
 - [limuloo/RefineAnything](https://github.com/limuloo/RefineAnything) - 
 - [yfyang007/RealRestorer](https://github.com/yfyang007/RealRestorer) - 
