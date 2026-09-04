@@ -303,6 +303,8 @@
 
 ## Python 
 
+- [SimonGiebenhain/pixel3dmm](https://github.com/SimonGiebenhain/pixel3dmm) - [Official Code] Pixel3DMM: Versatile Screen-Space Priors for Single-Image 3D Face Reconstruction
+- [nunchaku-ai/deepcompressor](https://github.com/nunchaku-ai/deepcompressor) - Model Compression Toolbox for Large Language Models and Diffusion Models
 - [segmind/distill-sd](https://github.com/segmind/distill-sd) - Segmind Distilled diffusion
 - [westlake-repl/LeanVAE](https://github.com/westlake-repl/LeanVAE) - [ICCV2025]LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models
 - [bytedance/Hybrid-SD](https://github.com/bytedance/Hybrid-SD) - 
