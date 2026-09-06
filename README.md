@@ -303,6 +303,7 @@
 
 ## Python 
 
+- [nunchux-ai/nunchaku](https://github.com/nunchux-ai/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
 - [aimagelab/GramSR](https://github.com/aimagelab/GramSR) - Official implementation of "GramSR: Visual Feature Conditioning for Diffusion-Based Super-Resolution"
 - [instantX-research/InstantIR](https://github.com/instantX-research/InstantIR) - InstantIR: Blind Image Restoration with Instant Generative Reference 🔥
 - [SimonGiebenhain/pixel3dmm](https://github.com/SimonGiebenhain/pixel3dmm) - [Official Code] Pixel3DMM: Versatile Screen-Space Priors for Single-Image 3D Face Reconstruction
