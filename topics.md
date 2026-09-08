@@ -421,7 +421,7 @@
 
 ## ios 
 
-- [neonforestmist/Clover-Image-Tiny](https://github.com/neonforestmist/Clover-Image-Tiny) - Run Clover Image Tiny locally with Diffusers or Gradio; links to the model, demo, iPhone app, Core ML release, LoRA trainer, styles, and datasets.
+- [neonforestmist/Clover-Image-Tiny](https://github.com/neonforestmist/Clover-Image-Tiny) - Compact local AI image generation with Clover Image Tiny, Inpaint HQ image editing, LoRA styles, Diffusers, and Core ML for Apple devices.
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 ## javascript 
@@ -526,6 +526,8 @@
 
 ## others 
 
+- [hustvl/Turbo-VAED](https://github.com/hustvl/Turbo-VAED) - [AAAI 2026] Turbo-VAED: Fast and Stable Transfer of Video-VAEs to Mobile Devices
+- [cityuhkai/OrionEdit](https://github.com/cityuhkai/OrionEdit) - [CVPR 2026] The Official implementation of "OrionEdit: Bridging Reference and Source Images for Generalized Cross-Image Editing".
 - [nunchux-ai/nunchaku](https://github.com/nunchux-ai/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
 - [aimagelab/GramSR](https://github.com/aimagelab/GramSR) - Official implementation of "GramSR: Visual Feature Conditioning for Diffusion-Based Super-Resolution"
 - [instantX-research/InstantIR](https://github.com/instantX-research/InstantIR) - InstantIR: Blind Image Restoration with Instant Generative Reference 🔥
@@ -567,7 +569,6 @@
 - [ArcticHare105/S3Diff](https://github.com/ArcticHare105/S3Diff) - Official implementation of S3Diff
 - [VainF/TinyFusion](https://github.com/VainF/TinyFusion) - [CVPR 2025 Highlight] TinyFusion: Diffusion Transformers Learned Shallow
 - [cloneofsimo/vqgan-training](https://github.com/cloneofsimo/vqgan-training) - Train VAE like a boss
-- [lavinal712/AutoencoderKL](https://github.com/lavinal712/AutoencoderKL) - A research-friendly PyTorch Lightning toolkit for training, fine-tuning, and evaluating AutoencoderKL for Stable Diffusion and FLUX.
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [mosaicml/diffusion](https://github.com/mosaicml/diffusion) - 
 - [madebyollin/seraena](https://github.com/madebyollin/seraena) - WIP Pytorch code for stably training single-step, mode-dropping, deterministic autoencoders
@@ -1446,8 +1447,9 @@
 ## stable-diffusion 
 
 - [segmind/distill-sd](https://github.com/segmind/distill-sd) - Segmind Distilled diffusion
-- [neonforestmist/Clover-Image-Tiny](https://github.com/neonforestmist/Clover-Image-Tiny) - Run Clover Image Tiny locally with Diffusers or Gradio; links to the model, demo, iPhone app, Core ML release, LoRA trainer, styles, and datasets.
+- [neonforestmist/Clover-Image-Tiny](https://github.com/neonforestmist/Clover-Image-Tiny) - Compact local AI image generation with Clover Image Tiny, Inpaint HQ image editing, LoRA styles, Diffusers, and Core ML for Apple devices.
 - [Nota-NetsPresso/BK-SDM](https://github.com/Nota-NetsPresso/BK-SDM) - A Compressed Stable Diffusion for Efficient Text-to-Image Generation [ECCV'24]
+- [lavinal712/AutoencoderKL](https://github.com/lavinal712/AutoencoderKL) - A research-friendly PyTorch Lightning toolkit for training, fine-tuning, and benchmarking AutoencoderKL for Stable Diffusion, FLUX, and beyond.
 - [JyChen9811/FaithDiff](https://github.com/JyChen9811/FaithDiff) - [CVPR 2025] FaithDiff for Classic Film Rejuvenation, Old Photo Revival, Social Media Restoration, Image Enhancement and AIGC Enhancement.
 - [wangkai930418/awesome-diffusion-categorized](https://github.com/wangkai930418/awesome-diffusion-categorized) - collection of diffusion model papers categorized by their subareas
 - [ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
