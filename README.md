@@ -303,6 +303,8 @@
 
 ## Python 
 
+- [hustvl/Turbo-VAED](https://github.com/hustvl/Turbo-VAED) - [AAAI 2026] Turbo-VAED: Fast and Stable Transfer of Video-VAEs to Mobile Devices
+- [cityuhkai/OrionEdit](https://github.com/cityuhkai/OrionEdit) - [CVPR 2026] The Official implementation of "OrionEdit: Bridging Reference and Source Images for Generalized Cross-Image Editing".
 - [nunchux-ai/nunchaku](https://github.com/nunchux-ai/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
 - [aimagelab/GramSR](https://github.com/aimagelab/GramSR) - Official implementation of "GramSR: Visual Feature Conditioning for Diffusion-Based Super-Resolution"
 - [instantX-research/InstantIR](https://github.com/instantX-research/InstantIR) - InstantIR: Blind Image Restoration with Instant Generative Reference 🔥
@@ -323,7 +325,7 @@
 - [wwangcece/SlimDiffSR](https://github.com/wwangcece/SlimDiffSR) - [Arxiv 2026] SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation
 - [dohyun-as/Random-Conditioning](https://github.com/dohyun-as/Random-Conditioning) - Official Implementation of CVPR 2025 paper "Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression"
 - [EvelynZhang-epiclab/SiTo](https://github.com/EvelynZhang-epiclab/SiTo) - [AAAI-2025] The offical code for SiTo （Similarity-based Token Pruning for Stable Diffusion Models）
-- [neonforestmist/Clover-Image-Tiny](https://github.com/neonforestmist/Clover-Image-Tiny) - Run Clover Image Tiny locally with Diffusers or Gradio; links to the model, demo, iPhone app, Core ML release, LoRA trainer, styles, and datasets.
+- [neonforestmist/Clover-Image-Tiny](https://github.com/neonforestmist/Clover-Image-Tiny) - Compact local AI image generation with Clover Image Tiny, Inpaint HQ image editing, LoRA styles, Diffusers, and Core ML for Apple devices.
 - [GianSegugio/flicker_suppressor](https://github.com/GianSegugio/flicker_suppressor) - Single-image/batch restoration for rolling-shutter flicker/banding under temporally modulated artificial lighting
 - [AVC2-UESTC/MobileIE](https://github.com/AVC2-UESTC/MobileIE) - [ICCV2025] Implementation of "MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices"
 - [sanechips-multimedia/syenet](https://github.com/sanechips-multimedia/syenet) - SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-Time Performance on Mobile Device, in ICCV 2023
@@ -348,7 +350,7 @@
 - [ArcticHare105/S3Diff](https://github.com/ArcticHare105/S3Diff) - Official implementation of S3Diff
 - [Nota-NetsPresso/BK-SDM](https://github.com/Nota-NetsPresso/BK-SDM) - A Compressed Stable Diffusion for Efficient Text-to-Image Generation [ECCV'24]
 - [VainF/TinyFusion](https://github.com/VainF/TinyFusion) - [CVPR 2025 Highlight] TinyFusion: Diffusion Transformers Learned Shallow
-- [lavinal712/AutoencoderKL](https://github.com/lavinal712/AutoencoderKL) - A research-friendly PyTorch Lightning toolkit for training, fine-tuning, and evaluating AutoencoderKL for Stable Diffusion and FLUX.
+- [lavinal712/AutoencoderKL](https://github.com/lavinal712/AutoencoderKL) - A research-friendly PyTorch Lightning toolkit for training, fine-tuning, and benchmarking AutoencoderKL for Stable Diffusion, FLUX, and beyond.
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [mosaicml/diffusion](https://github.com/mosaicml/diffusion) - 
 - [jiatongli2024/NTIRE2026_Mobile_RealWorld_ImageSR](https://github.com/jiatongli2024/NTIRE2026_Mobile_RealWorld_ImageSR) - 
