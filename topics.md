@@ -526,6 +526,7 @@
 
 ## others 
 
+- [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [hustvl/Turbo-VAED](https://github.com/hustvl/Turbo-VAED) - [AAAI 2026] Turbo-VAED: Fast and Stable Transfer of Video-VAEs to Mobile Devices
 - [cityuhkai/OrionEdit](https://github.com/cityuhkai/OrionEdit) - [CVPR 2026] The Official implementation of "OrionEdit: Bridging Reference and Source Images for Generalized Cross-Image Editing".
 - [nunchux-ai/nunchaku](https://github.com/nunchux-ai/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
@@ -542,7 +543,7 @@
 - [zirui0625/HDRFace](https://github.com/zirui0625/HDRFace) - HDRFace: Rethinking Face Restoration with High-Dimensional Representation
 - [RedMediaTech/ODTSR](https://github.com/RedMediaTech/ODTSR) - [CVPR2026] ODTSR: This repo is the official implementation of "One-Step Diffusion Transformer for Controllable Real-World Image Super-Resolution"
 - [libozhu03/PassionSR](https://github.com/libozhu03/PassionSR) - 
-- [wwangcece/SlimDiffSR](https://github.com/wwangcece/SlimDiffSR) - [Arxiv 2026] SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation
+- [wwangcece/SlimDiffSR](https://github.com/wwangcece/SlimDiffSR) - [TGRS 2026] SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation
 - [dohyun-as/Random-Conditioning](https://github.com/dohyun-as/Random-Conditioning) - Official Implementation of CVPR 2025 paper "Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression"
 - [EvelynZhang-epiclab/SiTo](https://github.com/EvelynZhang-epiclab/SiTo) - [AAAI-2025] The offical code for SiTo （Similarity-based Token Pruning for Stable Diffusion Models）
 - [keshik6/grafting](https://github.com/keshik6/grafting) - [NeurIPS 2025 Oral] Official Code for Exploring Diffusion Transformer Designs via Grafting
@@ -1088,7 +1089,7 @@
 - [fenghansen/PNNP](https://github.com/fenghansen/PNNP) - Physics-guided Noise Neural Proxy for Practical Low-light Raw Image Denoising
 - [pigirons/cpufp](https://github.com/pigirons/cpufp) - A CPU tool for benchmarking the peak of floating points
 - [lhaippp/gyro-video-stabilization](https://github.com/lhaippp/gyro-video-stabilization) - 
-- [youngyangyang04/TechCPP](https://github.com/youngyangyang04/TechCPP) - 【C++面试&C++学习指南】 这里整理了C++后端研发工程师面试和工作必备的知识点 。
+- [youngyangyang04/TechCPP](https://github.com/youngyangyang04/TechCPP) - 【AI时代C++面试&C++学习指南】 🔥
 - [BBuf/how-to-learn-deep-learning-framework](https://github.com/BBuf/how-to-learn-deep-learning-framework) - how to learn PyTorch and OneFlow
 - [flame/how-to-optimize-gemm](https://github.com/flame/how-to-optimize-gemm) - 
 - [HUSTjmx/ShaderToy](https://github.com/HUSTjmx/ShaderToy) - 
