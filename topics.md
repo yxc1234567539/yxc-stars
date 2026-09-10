@@ -526,7 +526,8 @@
 
 ## others 
 
-- [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
+- [sonhm3029/FreqOrtho-SR](https://github.com/sonhm3029/FreqOrtho-SR) - [ECCV 2026] Official code repository for "FreqOrtho-SR: Frequency-Guided Orthogonal Expert Learning for Real-World Image Super-Resolution"
+- [khangnguyen-sci/non-uniform-pruning](https://github.com/khangnguyen-sci/non-uniform-pruning) - for ICIP2026
 - [hustvl/Turbo-VAED](https://github.com/hustvl/Turbo-VAED) - [AAAI 2026] Turbo-VAED: Fast and Stable Transfer of Video-VAEs to Mobile Devices
 - [cityuhkai/OrionEdit](https://github.com/cityuhkai/OrionEdit) - [CVPR 2026] The Official implementation of "OrionEdit: Bridging Reference and Source Images for Generalized Cross-Image Editing".
 - [nunchux-ai/nunchaku](https://github.com/nunchux-ai/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
