@@ -526,6 +526,7 @@
 
 ## others 
 
+- [RishabhS66/Inference-Acceleration-of-Stable-Diffusion](https://github.com/RishabhS66/Inference-Acceleration-of-Stable-Diffusion) - This project focuses on improving diffusion model inference time with quantization and pruning techniques.
 - [sonhm3029/FreqOrtho-SR](https://github.com/sonhm3029/FreqOrtho-SR) - [ECCV 2026] Official code repository for "FreqOrtho-SR: Frequency-Guided Orthogonal Expert Learning for Real-World Image Super-Resolution"
 - [khangnguyen-sci/non-uniform-pruning](https://github.com/khangnguyen-sci/non-uniform-pruning) - for ICIP2026
 - [hustvl/Turbo-VAED](https://github.com/hustvl/Turbo-VAED) - [AAAI 2026] Turbo-VAED: Fast and Stable Transfer of Video-VAEs to Mobile Devices
