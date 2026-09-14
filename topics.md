@@ -526,6 +526,8 @@
 
 ## others 
 
+- [XmYx/tinyvae-flux](https://github.com/XmYx/tinyvae-flux) - 
+- [dc-ai-projects/DC-Gen](https://github.com/dc-ai-projects/DC-Gen) - DC-Gen: Post-Training Diffusion Acceleration with Deeply Compressed Latent Space
 - [RishabhS66/Inference-Acceleration-of-Stable-Diffusion](https://github.com/RishabhS66/Inference-Acceleration-of-Stable-Diffusion) - This project focuses on improving diffusion model inference time with quantization and pruning techniques.
 - [sonhm3029/FreqOrtho-SR](https://github.com/sonhm3029/FreqOrtho-SR) - [ECCV 2026] Official code repository for "FreqOrtho-SR: Frequency-Guided Orthogonal Expert Learning for Real-World Image Super-Resolution"
 - [khangnguyen-sci/non-uniform-pruning](https://github.com/khangnguyen-sci/non-uniform-pruning) - for ICIP2026
