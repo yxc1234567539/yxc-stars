@@ -304,6 +304,10 @@
 
 ## Python 
 
+- [feice-huang/ConvRot](https://github.com/feice-huang/ConvRot) - Official ConvRot implementation. A plug-and-play, convolution-like rotation module enabling efficient W4A4 quantization for diffusion models, achieving 4× memory savings and 2× faster inference with p
+- [Juanerx/Q-DiT](https://github.com/Juanerx/Q-DiT) - [CVPR 2025] Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers
+- [adreamwu/PTQ4DiT](https://github.com/adreamwu/PTQ4DiT) - PyTorch implementation of PTQ4DiT https://arxiv.org/abs/2405.16005
+- [wwbwang/NTIRE2026_IMAGESR_X4](https://github.com/wwbwang/NTIRE2026_IMAGESR_X4) - 
 - [XmYx/tinyvae-flux](https://github.com/XmYx/tinyvae-flux) - 
 - [dc-ai-projects/DC-Gen](https://github.com/dc-ai-projects/DC-Gen) - DC-Gen: Post-Training Diffusion Acceleration with Deeply Compressed Latent Space
 - [RishabhS66/Inference-Acceleration-of-Stable-Diffusion](https://github.com/RishabhS66/Inference-Acceleration-of-Stable-Diffusion) - This project focuses on improving diffusion model inference time with quantization and pruning techniques.
