@@ -526,6 +526,7 @@
 
 ## others 
 
+- [willisma/SiT](https://github.com/willisma/SiT) - Official PyTorch Implementation of "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers"
 - [feice-huang/ConvRot](https://github.com/feice-huang/ConvRot) - Official ConvRot implementation. A plug-and-play, convolution-like rotation module enabling efficient W4A4 quantization for diffusion models, achieving 4× memory savings and 2× faster inference with p
 - [Juanerx/Q-DiT](https://github.com/Juanerx/Q-DiT) - [CVPR 2025] Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers
 - [adreamwu/PTQ4DiT](https://github.com/adreamwu/PTQ4DiT) - PyTorch implementation of PTQ4DiT https://arxiv.org/abs/2405.16005
@@ -811,7 +812,6 @@
 - [zhenqifu/PairLIE](https://github.com/zhenqifu/PairLIE) - 
 - [langmanbusi/Semantic-Aware-Low-Light-Image-Enhancement](https://github.com/langmanbusi/Semantic-Aware-Low-Light-Image-Enhancement) - Semantic-Aware LLIE. CVPR 2023 TPAMI 2024
 - [caiyuanhao1998/Retinexformer](https://github.com/caiyuanhao1998/Retinexformer) - "Retinexformer: One-stage Retinex-based Transformer for Low-light Image Enhancement" (ICCV 2023 Top-10 Cited 🏆) & (NTIRE 2024 Runner-Up 🏆) & (NTIRE 2025 Winner 🏆) & (NTIRE 2026 Winner 🏆)
-- [ChunmingHe/Reti-Diff](https://github.com/ChunmingHe/Reti-Diff) - Official Code for "Reti-Diff: Illumination Degradation Image Restoration with Retinex-based Latent Diffusion Model". A SOTA algorithm in low-light image enhancement, underwater image enhancement, and 
 - [XPixelGroup/HYPIR](https://github.com/XPixelGroup/HYPIR) - Official implementation of HYPIR: Harnessing Diffusion-Yielded Score Priors for Image Restoration (SIGGRAPH 2025)
 - [osmosis-diffusion/osmosis-diffusion-code](https://github.com/osmosis-diffusion/osmosis-diffusion-code) - official implementation of Osmosis - RGBD Diffusion Prior for Underwater Image Restoration
 - [kongdai123/SLURPP](https://github.com/kongdai123/SLURPP) - 💦 [IEEE TPAMI 2025] SLURPP Single-step Latent Underwater Restoration with Pretrained Priors
