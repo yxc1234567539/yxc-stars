@@ -526,6 +526,11 @@
 
 ## others 
 
+- [KaiChen1998/GeoDiffusion](https://github.com/KaiChen1998/GeoDiffusion) - Official PyTorch implementation of GeoDiffusion in ICLR 2024 (https://arxiv.org/abs/2306.04607)
+- [ivanmikhnenkov/tinydit](https://github.com/ivanmikhnenkov/tinydit) - A 210M text-to-image diffusion transformer trained from scratch on one GPU in 3.5 days: rectified flow on FLUX.2 latents, aspect-ratio buckets, registers, 4.2M curated images. Every decision with sour
+- [ZongfangLiu/Diff-ES](https://github.com/ZongfangLiu/Diff-ES) - Diff-ES: Stage-Wise Structural Diffusion Pruning via Evolutionary Search
+- [xunzhang1128/Q-DiT4SR](https://github.com/xunzhang1128/Q-DiT4SR) - [ICML 2026] Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer  Quantization for Real-World Image Super-Resolution
+- [Adam-duan/DiT4SR](https://github.com/Adam-duan/DiT4SR) - [ICCV 2025] This is the official PyTorch codes for the paper: "DiT4SR: Taming Diffusion Transformer for Real-World Image Super-Resolution"
 - [willisma/SiT](https://github.com/willisma/SiT) - Official PyTorch Implementation of "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers"
 - [feice-huang/ConvRot](https://github.com/feice-huang/ConvRot) - Official ConvRot implementation. A plug-and-play, convolution-like rotation module enabling efficient W4A4 quantization for diffusion models, achieving 4× memory savings and 2× faster inference with p
 - [Juanerx/Q-DiT](https://github.com/Juanerx/Q-DiT) - [CVPR 2025] Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers
