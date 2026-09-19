@@ -305,6 +305,9 @@
 
 ## Python 
 
+- [OPPO-Mente-Lab/Qwen-Image-Pruning](https://github.com/OPPO-Mente-Lab/Qwen-Image-Pruning) - CVPR 2026 Highlight: Pluggable Pruning with Contiguous Layer Distillation for Diffusion Transformers
+- [fanzh03/Bird-SR](https://github.com/fanzh03/Bird-SR) - Bird-SR: Bidirectional Reward-Guided Diffusion for Real-World Image Super-Resolution
+- [SalesforceAIResearch/DiffusionDPO](https://github.com/SalesforceAIResearch/DiffusionDPO) - Code for "Diffusion Model Alignment Using Direct Preference Optimization"
 - [KaiChen1998/GeoDiffusion](https://github.com/KaiChen1998/GeoDiffusion) - Official PyTorch implementation of GeoDiffusion in ICLR 2024 (https://arxiv.org/abs/2306.04607)
 - [ivanmikhnenkov/tinydit](https://github.com/ivanmikhnenkov/tinydit) - A 210M text-to-image diffusion transformer trained from scratch on one GPU in 3.5 days: rectified flow on FLUX.2 latents, aspect-ratio buckets, registers, 4.2M curated images. Every decision with sour
 - [ZongfangLiu/Diff-ES](https://github.com/ZongfangLiu/Diff-ES) - Diff-ES: Stage-Wise Structural Diffusion Pruning via Evolutionary Search
