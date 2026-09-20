@@ -305,6 +305,8 @@
 
 ## Python 
 
+- [hatchetProject/QuEST](https://github.com/hatchetProject/QuEST) - [ICCV 2025] QuEST: Efficient Finetuning for Low-bit Diffusion Models
+- [NguyenPhamPhuongNam/AIO_MAI](https://github.com/NguyenPhamPhuongNam/AIO_MAI) - [CVPRW'26] Efficient INT8 Single-Image Super-Resolution via Deployment-Aware Quantization and Teacher-Guided Training
 - [OPPO-Mente-Lab/Qwen-Image-Pruning](https://github.com/OPPO-Mente-Lab/Qwen-Image-Pruning) - CVPR 2026 Highlight: Pluggable Pruning with Contiguous Layer Distillation for Diffusion Transformers
 - [fanzh03/Bird-SR](https://github.com/fanzh03/Bird-SR) - Bird-SR: Bidirectional Reward-Guided Diffusion for Real-World Image Super-Resolution
 - [SalesforceAIResearch/DiffusionDPO](https://github.com/SalesforceAIResearch/DiffusionDPO) - Code for "Diffusion Model Alignment Using Direct Preference Optimization"
