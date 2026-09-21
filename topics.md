@@ -526,6 +526,7 @@
 
 ## others 
 
+- [justinpinkney/stable-diffusion](https://github.com/justinpinkney/stable-diffusion) - 
 - [hatchetProject/QuEST](https://github.com/hatchetProject/QuEST) - [ICCV 2025] QuEST: Efficient Finetuning for Low-bit Diffusion Models
 - [NguyenPhamPhuongNam/AIO_MAI](https://github.com/NguyenPhamPhuongNam/AIO_MAI) - [CVPRW'26] Efficient INT8 Single-Image Super-Resolution via Deployment-Aware Quantization and Teacher-Guided Training
 - [OPPO-Mente-Lab/Qwen-Image-Pruning](https://github.com/OPPO-Mente-Lab/Qwen-Image-Pruning) - CVPR 2026 Highlight: Pluggable Pruning with Contiguous Layer Distillation for Diffusion Transformers
