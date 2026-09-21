@@ -138,6 +138,7 @@
 
 ## Jupyter Notebook 
 
+- [justinpinkney/stable-diffusion](https://github.com/justinpinkney/stable-diffusion) - 
 - [keshik6/grafting](https://github.com/keshik6/grafting) - [NeurIPS 2025 Oral] Official Code for Exploring Diffusion Transformer Designs via Grafting
 - [cloneofsimo/vqgan-training](https://github.com/cloneofsimo/vqgan-training) - Train VAE like a boss
 - [madebyollin/seraena](https://github.com/madebyollin/seraena) - WIP Pytorch code for stably training single-step, mode-dropping, deterministic autoencoders
