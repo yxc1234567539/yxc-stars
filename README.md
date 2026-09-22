@@ -15,6 +15,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [MATLAB](#matlab)
+- [Metal](#metal)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -22,7 +23,6 @@
 - [Rust](#rust)
 - [SWIG](#swig)
 - [Shell](#shell)
-- [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Typst](#typst)
@@ -236,6 +236,10 @@
 - [xyang35/BurstImageDenoising](https://github.com/xyang35/BurstImageDenoising) - Fast burst images denoising project
 - [baidut/OpenCE](https://github.com/baidut/OpenCE) - Contrast Enhancement Techniques for low-light images
 
+## Metal 
+
+- [yangKJ/Harbeth](https://github.com/yangKJ/Harbeth) - 🎨 GPU accelerated image / video and camera filter library based on Metal. Support macOS & iOS. 图像、视频、相机滤镜框架
+
 ## OCaml 
 
 - [mjambon/purple-fringe](https://github.com/mjambon/purple-fringe) - Removal of purple fringing from digital photos
@@ -306,6 +310,7 @@
 
 ## Python 
 
+- [01NeuralNinja/DiffusionReward](https://github.com/01NeuralNinja/DiffusionReward) - Public code and model
 - [hatchetProject/QuEST](https://github.com/hatchetProject/QuEST) - [ICCV 2025] QuEST: Efficient Finetuning for Low-bit Diffusion Models
 - [NguyenPhamPhuongNam/AIO_MAI](https://github.com/NguyenPhamPhuongNam/AIO_MAI) - [CVPRW'26] Efficient INT8 Single-Image Super-Resolution via Deployment-Aware Quantization and Teacher-Guided Training
 - [OPPO-Mente-Lab/Qwen-Image-Pruning](https://github.com/OPPO-Mente-Lab/Qwen-Image-Pruning) - CVPR 2026 Highlight: Pluggable Pruning with Contiguous Layer Distillation for Diffusion Transformers
@@ -1053,10 +1058,6 @@
 ## Shell 
 
 - [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
-
-## Swift 
-
-- [yangKJ/Harbeth](https://github.com/yangKJ/Harbeth) - 🎨 GPU accelerated image / video and camera filter library based on Metal. Support macOS & iOS. 图像、视频、相机滤镜框架
 
 ## TeX 
 
