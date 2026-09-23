@@ -254,7 +254,6 @@
 - [XiayanZhou/Papers-on-Efficient-Diffusion-Models](https://github.com/XiayanZhou/Papers-on-Efficient-Diffusion-Models) - Papers on Efficient Diffusion Models
 - [JianzeLi-114/D3SR](https://github.com/JianzeLi-114/D3SR) - 
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
-- [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [gityihang/LearnIR](https://github.com/gityihang/LearnIR) - Official PyTorch implementation of “LearnIR: Learnable Posterior Sampling for Real-World Image Restoration” (ICLR 2026).
 - [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
@@ -383,6 +382,7 @@
 - [jiatongli2024/NTIRE2026_Mobile_RealWorld_ImageSR](https://github.com/jiatongli2024/NTIRE2026_Mobile_RealWorld_ImageSR) - 
 - [BUG1989/sd1.5-lcm.axera](https://github.com/BUG1989/sd1.5-lcm.axera) - StableDiffusion 1.5 LCM on Axera
 - [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
+- [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 - [Blazedengcy/GTASR](https://github.com/Blazedengcy/GTASR) - ICML 2026 - Joint Geometric and Trajectory Consistency Learning for One-Step Real-World Super-Resolution (GTASR)
 - [csslc/PiSA-SR](https://github.com/csslc/PiSA-SR) - [CVPR 2025] Official code repository for "Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach"
 - [gobunu/HAODiff](https://github.com/gobunu/HAODiff) - 
