@@ -309,6 +309,7 @@
 
 ## Python 
 
+- [Zongliang-Wu/RCOD](https://github.com/Zongliang-Wu/RCOD) - [AAAI'26 - Oral] Realism Control One-step Diffusion for Real-World Image Super-Resolution
 - [01NeuralNinja/DiffusionReward](https://github.com/01NeuralNinja/DiffusionReward) - Public code and model
 - [hatchetProject/QuEST](https://github.com/hatchetProject/QuEST) - [ICCV 2025] QuEST: Efficient Finetuning for Low-bit Diffusion Models
 - [NguyenPhamPhuongNam/AIO_MAI](https://github.com/NguyenPhamPhuongNam/AIO_MAI) - [CVPRW'26] Efficient INT8 Single-Image Super-Resolution via Deployment-Aware Quantization and Teacher-Guided Training
