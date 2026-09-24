@@ -9,6 +9,7 @@
 - [agent](#agent)
 - [agent-skills](#agent-skills)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [algorithm](#algorithm)
 - [android](#android)
 - [angular](#angular)
@@ -112,6 +113,10 @@
 - [modelbox-ai/modelbox](https://github.com/modelbox-ai/modelbox) - A high performance, high expansion, easy to use framework for AI application. 为AI应用的开发者提供一套统一的高性能、易用的编程框架，快速基于AI全栈服务、开发跨端边云的AI行业应用，支持GPU，NPU加速。
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
+
+## ai-agent 
+
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 
 ## algorithm 
 
@@ -526,6 +531,7 @@
 
 ## others 
 
+- [Zongliang-Wu/RCOD](https://github.com/Zongliang-Wu/RCOD) - [AAAI'26 - Oral] Realism Control One-step Diffusion for Real-World Image Super-Resolution
 - [01NeuralNinja/DiffusionReward](https://github.com/01NeuralNinja/DiffusionReward) - Public code and model
 - [justinpinkney/stable-diffusion](https://github.com/justinpinkney/stable-diffusion) - 
 - [hatchetProject/QuEST](https://github.com/hatchetProject/QuEST) - [ICCV 2025] QuEST: Efficient Finetuning for Low-bit Diffusion Models
