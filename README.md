@@ -309,6 +309,7 @@
 
 ## Python 
 
+- [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) - A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstre
 - [Zongliang-Wu/RCOD](https://github.com/Zongliang-Wu/RCOD) - [AAAI'26 - Oral] Realism Control One-step Diffusion for Real-World Image Super-Resolution
 - [01NeuralNinja/DiffusionReward](https://github.com/01NeuralNinja/DiffusionReward) - Public code and model
 - [hatchetProject/QuEST](https://github.com/hatchetProject/QuEST) - [ICCV 2025] QuEST: Efficient Finetuning for Low-bit Diffusion Models
