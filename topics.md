@@ -28,6 +28,7 @@
 - [data-visualization](#data-visualization)
 - [deep-learning](#deep-learning)
 - [developer-tools](#developer-tools)
+- [distributed-systems](#distributed-systems)
 - [docker](#docker)
 - [electron](#electron)
 - [emacs](#emacs)
@@ -328,6 +329,10 @@
 
 - [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
 
+## distributed-systems 
+
+- [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) - 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
+
 ## docker 
 
 - [a-nau/synthetic-dataset-generation](https://github.com/a-nau/synthetic-dataset-generation) - Easily create an instance segmentation dataset from an existing pool of objects of interest, distractor objects and background images. Easy configuration, diverse image compositions, multiple blending
@@ -450,6 +455,7 @@
 
 ## llm 
 
+- [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) - 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
