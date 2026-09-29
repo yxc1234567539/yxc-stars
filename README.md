@@ -311,6 +311,7 @@
 
 ## Python 
 
+- [MediaX-SJTU/A2BFR](https://github.com/MediaX-SJTU/A2BFR) - Official implement of A2BFR: Attribute-Aware Blind Face Restoration
 - [CompVis/concept_guidance](https://github.com/CompVis/concept_guidance) - 
 - [Rain-sy/PGSR](https://github.com/Rain-sy/PGSR) - [NeurIPS 2026] Official Implementation of "When Latents Forget Pixels: Restoring Fidelity in Diffusion Transformer Super-Resolution"
 - [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) - 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
