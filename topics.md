@@ -545,7 +545,7 @@
 ## others 
 
 - [MediaX-SJTU/A2BFR](https://github.com/MediaX-SJTU/A2BFR) - Official implement of A2BFR: Attribute-Aware Blind Face Restoration
-- [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
+- [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 - [cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better) - 《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
 - [CompVis/concept_guidance](https://github.com/CompVis/concept_guidance) - 
 - [Rain-sy/PGSR](https://github.com/Rain-sy/PGSR) - [NeurIPS 2026] Official Implementation of "When Latents Forget Pixels: Restoring Fidelity in Diffusion Transformer Super-Resolution"
