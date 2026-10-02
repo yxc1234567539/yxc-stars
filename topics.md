@@ -544,6 +544,7 @@
 
 ## others 
 
+- [Jiang-yan-wei/SFIQA](https://github.com/Jiang-yan-wei/SFIQA) - Official implementation of "Surveillance Facial Image Quality Assessment: A Multi-dimensional Dataset and Lightweight Model"
 - [MediaX-SJTU/A2BFR](https://github.com/MediaX-SJTU/A2BFR) - Official implement of A2BFR: Attribute-Aware Blind Face Restoration
 - [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 - [cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better) - 《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
@@ -667,7 +668,7 @@
 - [CalvinXKY/InfraTech](https://github.com/CalvinXKY/InfraTech) - 分享AI Infra知识&代码练习：PyTorch、vLLM/SGLang、slime/vime框架入门⚡️、性能加速🚀、大模型基础🧠、AI软硬件🔧等
 - [visionxiang/awesome-computational-photography](https://github.com/visionxiang/awesome-computational-photography) - A curated list of awesome resources for topics related to computational photography via deep learning, which mainly focuses on image alignment and stitching.
 - [labsyspharm/ashlar](https://github.com/labsyspharm/ashlar) - ASHLAR: Alignment by Simultaneous Harmonization of Layer/Adjacency Registration
-- [NVlabs/PixelDiT](https://github.com/NVlabs/PixelDiT) - [CVPR 2026 Best Paper Finalist] Pixel Diffusion Transformers for Image Generation
+- [NVlabs/PixelDiT](https://github.com/NVlabs/PixelDiT) - [CVPR 2026 Best Paper Finalist & NeurIPS 2026]
 - [bcmi/Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition) - A curated list of papers, code and resources pertaining to image composition/compositing or object/subject insertion/addition/compositing, which aims to generate realistic composite image.
 - [YangLing0818/consistency_flow_matching](https://github.com/YangLing0818/consistency_flow_matching) - Official Implementation for "Consistency Flow Matching: Defining Straight Flows with Velocity Consistency"
 - [stepfun-ai/Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) - A SOTA open-source image editing model, which aims to provide comparable performance against the closed-source models like GPT-4o and Gemini 2 Flash.
