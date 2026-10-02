@@ -252,6 +252,7 @@
 
 ## Others 
 
+- [Jiang-yan-wei/SFIQA](https://github.com/Jiang-yan-wei/SFIQA) - Official implementation of "Surveillance Facial Image Quality Assessment: A Multi-dimensional Dataset and Lightweight Model"
 - [xunzhang1128/Q-DiT4SR](https://github.com/xunzhang1128/Q-DiT4SR) - [ICML 2026] Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer  Quantization for Real-World Image Super-Resolution
 - [XiayanZhou/Papers-on-Efficient-Diffusion-Models](https://github.com/XiayanZhou/Papers-on-Efficient-Diffusion-Models) - Papers on Efficient Diffusion Models
 - [JianzeLi-114/D3SR](https://github.com/JianzeLi-114/D3SR) - 
@@ -431,7 +432,7 @@
 - [EadCat/APAP-Image-Stitching](https://github.com/EadCat/APAP-Image-Stitching) - As-Projective-As-Possible (APAP) Image Stitching with Moving DLT (CVPR 2013) - Python Implementation
 - [Avinash793/panoramic-image-stitching](https://github.com/Avinash793/panoramic-image-stitching) - Create panorama image using invariant features from given set of overlapping images.
 - [labsyspharm/ashlar](https://github.com/labsyspharm/ashlar) - ASHLAR: Alignment by Simultaneous Harmonization of Layer/Adjacency Registration
-- [NVlabs/PixelDiT](https://github.com/NVlabs/PixelDiT) - [CVPR 2026 Best Paper Finalist] Pixel Diffusion Transformers for Image Generation
+- [NVlabs/PixelDiT](https://github.com/NVlabs/PixelDiT) - [CVPR 2026 Best Paper Finalist & NeurIPS 2026]
 - [YangLing0818/consistency_flow_matching](https://github.com/YangLing0818/consistency_flow_matching) - Official Implementation for "Consistency Flow Matching: Defining Straight Flows with Velocity Consistency"
 - [stepfun-ai/Step1X-Edit](https://github.com/stepfun-ai/Step1X-Edit) - A SOTA open-source image editing model, which aims to provide comparable performance against the closed-source models like GPT-4o and Gemini 2 Flash.
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
