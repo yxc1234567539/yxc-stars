@@ -173,6 +173,7 @@
 
 ## computer-vision 
 
+- [DSL-FIQA/DSL-FIQA](https://github.com/DSL-FIQA/DSL-FIQA) - DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer (CVPR 2024)
 - [sanechips-multimedia/syenet](https://github.com/sanechips-multimedia/syenet) - SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-Time Performance on Mobile Device, in ICCV 2023
 - [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [StaryMoon/OSDFace-Unofficial](https://github.com/StaryMoon/OSDFace-Unofficial) - Unofficial PyTorch reproduction for OSDFace: One-Step Diffusion Model for Face Restoration.
@@ -1035,7 +1036,6 @@
 - [zhaoyuzhi/RAW2RGB-GAN](https://github.com/zhaoyuzhi/RAW2RGB-GAN) - PyTorch implementation of saliency map-aided GAN for Auto-demosaic+denosing
 - [XPixelGroup/DepictQA](https://github.com/XPixelGroup/DepictQA) - [ECCV 2024 & TIP] DepictQA: Depicted Image Quality Assessment with Vision Language Models
 - [AIM-SKKU/IFQA](https://github.com/AIM-SKKU/IFQA) - IFQA: Interpretable Face Quality Assessment - Official Pytorch Implementation (WACV 2023)
-- [YaN9-Y/lafin](https://github.com/YaN9-Y/lafin) - LaFIn: Generative Landmark Guided Face Inpainting
 - [labhai/ffhq-wrinkle-dataset](https://github.com/labhai/ffhq-wrinkle-dataset) - [ICPR 2024] Official dataset repository for the paper "Facial Wrinkle Segmentation for Cosmetic Dermatology: Pretraining with Texture Map-Based Weak Supervision"
 - [hhj1897/face_pose_augmentation](https://github.com/hhj1897/face_pose_augmentation) - 
 - [wang-zidu/3DDFA-V3](https://github.com/wang-zidu/3DDFA-V3) - The official implementation of 3DDFA_V3 in CVPR2024 (Highlight).
@@ -1045,12 +1045,10 @@
 - [JennaChangY/Reflection-Removal-with-Auxiliary-Techniques](https://github.com/JennaChangY/Reflection-Removal-with-Auxiliary-Techniques) - Single Image Reflection Removal with Edge Guidance, Reflection Classifier, and Recurrent Decomposition, WACV2021
 - [rajeevyasarla/AT-Net](https://github.com/rajeevyasarla/AT-Net) - Learning to Restore Images Degraded by Atmospheric Turbulence Using Uncertainty
 - [sidneyrachel/psfrgan-reimplementation](https://github.com/sidneyrachel/psfrgan-reimplementation) - Reimplementation of progressive semantic-aware style transformation for blind face restoration.
-- [rajeevyasarla/UMSN-Face-Deblurring](https://github.com/rajeevyasarla/UMSN-Face-Deblurring) - Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks
 - [chaofengc/PSFRGAN](https://github.com/chaofengc/PSFRGAN) - PyTorch codes for "Progressive Semantic-Aware Style Transformation for Blind Face Restoration", CVPR2021
 - [SeungyounShin/CAGFace](https://github.com/SeungyounShin/CAGFace) - Component Attention Guided Face Super-Resolution Network: CAGFace
 - [cs-giung/FSRNet-pytorch](https://github.com/cs-giung/FSRNet-pytorch) - PyTorch implementation of "FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors" (https://arxiv.org/abs/1711.10703)
 - [yinzhicun/MetaF2N](https://github.com/yinzhicun/MetaF2N) - MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces (ICCV 2023)
-- [csxmli2016/ReDegNet](https://github.com/csxmli2016/ReDegNet) - From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution (ECCV 2022)
 - [AndersonCotrim/SBFBurst](https://github.com/AndersonCotrim/SBFBurst) - SBFBurst: This is the official implementation of VISAPP 2024 "Simple Base Frame Guided Residual Network for RAW Burst Image Super-Resolution".
 - [mjq11302010044/Real-CE](https://github.com/mjq11302010044/Real-CE) - Real-CE: A Benchmark for Chinese-English Scene Text Image Super-resolution (ICCV2023)
 - [mjq11302010044/TATT](https://github.com/mjq11302010044/TATT) - A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution (CVPR2022)
@@ -1125,7 +1123,6 @@
 - [budui/flare_removal_pytorch](https://github.com/budui/flare_removal_pytorch) - PyTorch Implementation of "How to Train Neural Networks for Flare Removal"
 - [pfnet-research/FSCS](https://github.com/pfnet-research/FSCS) - Fast Soft Color Segmentation
 - [mattnedrich/MeanShift_py](https://github.com/mattnedrich/MeanShift_py) - Simple implementation of mean shift clustering in python
-- [yylgoodlucky/HDTR-Net](https://github.com/yylgoodlucky/HDTR-Net) - A Real-Time High-Definition Teeth Restoration Network for ArbitraryTalking Face Generation Methods
 - [TencentYoutuResearch/FaceRestoration-sgpn](https://github.com/TencentYoutuResearch/FaceRestoration-sgpn) - Code for CVPR 2022 paper "Blind Face Restoration via Integrating Face Shape and Generative Priors"
 - [pq-yang/PGDiff](https://github.com/pq-yang/PGDiff) - [NeurIPS 2023] PGDiff: Guiding Diffusion Models for Versatile Face Restoration via Partial Guidance
 - [chenxx89/BFRffusion](https://github.com/chenxx89/BFRffusion) - Official codes of Towards Real-World Blind Face Restoration with Generative Diffusion Prior
