@@ -312,6 +312,7 @@
 
 ## Python 
 
+- [DSL-FIQA/DSL-FIQA](https://github.com/DSL-FIQA/DSL-FIQA) - DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer (CVPR 2024)
 - [MediaX-SJTU/A2BFR](https://github.com/MediaX-SJTU/A2BFR) - Official implement of A2BFR: Attribute-Aware Blind Face Restoration
 - [CompVis/concept_guidance](https://github.com/CompVis/concept_guidance) - 
 - [Rain-sy/PGSR](https://github.com/Rain-sy/PGSR) - [NeurIPS 2026] Official Implementation of "When Latents Forget Pixels: Restoring Fidelity in Diffusion Transformer Super-Resolution"
@@ -814,7 +815,6 @@
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 - [XPixelGroup/DepictQA](https://github.com/XPixelGroup/DepictQA) - [ECCV 2024 & TIP] DepictQA: Depicted Image Quality Assessment with Vision Language Models
 - [AIM-SKKU/IFQA](https://github.com/AIM-SKKU/IFQA) - IFQA: Interpretable Face Quality Assessment - Official Pytorch Implementation (WACV 2023)
-- [YaN9-Y/lafin](https://github.com/YaN9-Y/lafin) - LaFIn: Generative Landmark Guided Face Inpainting
 - [labhai/ffhq-wrinkle-dataset](https://github.com/labhai/ffhq-wrinkle-dataset) - [ICPR 2024] Official dataset repository for the paper "Facial Wrinkle Segmentation for Cosmetic Dermatology: Pretraining with Texture Map-Based Weak Supervision"
 - [hhj1897/face_pose_augmentation](https://github.com/hhj1897/face_pose_augmentation) - 
 - [wang-zidu/3DDFA-V3](https://github.com/wang-zidu/3DDFA-V3) - The official implementation of 3DDFA_V3 in CVPR2024 (Highlight).
@@ -825,12 +825,10 @@
 - [JennaChangY/Reflection-Removal-with-Auxiliary-Techniques](https://github.com/JennaChangY/Reflection-Removal-with-Auxiliary-Techniques) - Single Image Reflection Removal with Edge Guidance, Reflection Classifier, and Recurrent Decomposition, WACV2021
 - [rajeevyasarla/AT-Net](https://github.com/rajeevyasarla/AT-Net) - Learning to Restore Images Degraded by Atmospheric Turbulence Using Uncertainty
 - [sidneyrachel/psfrgan-reimplementation](https://github.com/sidneyrachel/psfrgan-reimplementation) - Reimplementation of progressive semantic-aware style transformation for blind face restoration.
-- [rajeevyasarla/UMSN-Face-Deblurring](https://github.com/rajeevyasarla/UMSN-Face-Deblurring) - Deblurring Face Images using Uncertainty Guided Multi-Stream Semantic Networks
 - [chaofengc/PSFRGAN](https://github.com/chaofengc/PSFRGAN) - PyTorch codes for "Progressive Semantic-Aware Style Transformation for Blind Face Restoration", CVPR2021
 - [SeungyounShin/CAGFace](https://github.com/SeungyounShin/CAGFace) - Component Attention Guided Face Super-Resolution Network: CAGFace
 - [cs-giung/FSRNet-pytorch](https://github.com/cs-giung/FSRNet-pytorch) - PyTorch implementation of "FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors" (https://arxiv.org/abs/1711.10703)
 - [yinzhicun/MetaF2N](https://github.com/yinzhicun/MetaF2N) - MetaF2N: Blind Image Super-Resolution by Learning Efficient Model Adaptation from Faces (ICCV 2023)
-- [csxmli2016/ReDegNet](https://github.com/csxmli2016/ReDegNet) - From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution (ECCV 2022)
 - [AndersonCotrim/SBFBurst](https://github.com/AndersonCotrim/SBFBurst) - SBFBurst: This is the official implementation of VISAPP 2024 "Simple Base Frame Guided Residual Network for RAW Burst Image Super-Resolution".
 - [xuxy09/RawSR](https://github.com/xuxy09/RawSR) - Exploiting raw images for real-scene super-resolution, TPAMI 2021
 - [mjq11302010044/Real-CE](https://github.com/mjq11302010044/Real-CE) - Real-CE: A Benchmark for Chinese-English Scene Text Image Super-resolution (ICCV2023)
@@ -917,7 +915,6 @@
 - [pfnet-research/FSCS](https://github.com/pfnet-research/FSCS) - Fast Soft Color Segmentation
 - [mattnedrich/MeanShift_py](https://github.com/mattnedrich/MeanShift_py) - Simple implementation of mean shift clustering in python
 - [LIAGM/DAEFR](https://github.com/LIAGM/DAEFR) - [ICLR 2024] DAEFR: Dual Associated Encoder for Face Restoration
-- [yylgoodlucky/HDTR-Net](https://github.com/yylgoodlucky/HDTR-Net) - A Real-Time High-Definition Teeth Restoration Network for ArbitraryTalking Face Generation Methods
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [wzhouxiff/RestoreFormer](https://github.com/wzhouxiff/RestoreFormer) - [CVPR 2022] RestoreFormer: High-Quality Blind Face Restoration from Undegraded Key-Value Pairs
 - [TencentYoutuResearch/FaceRestoration-sgpn](https://github.com/TencentYoutuResearch/FaceRestoration-sgpn) - Code for CVPR 2022 paper "Blind Face Restoration via Integrating Face Shape and Generative Priors"
