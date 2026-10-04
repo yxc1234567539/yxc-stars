@@ -545,6 +545,11 @@
 
 ## others 
 
+- [Junboooo/RealSR-R1](https://github.com/Junboooo/RealSR-R1) - Code for paper "RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought"
+- [yushuaisong/RefReward-SR](https://github.com/yushuaisong/RefReward-SR) - [ECCV2026] RefReward-SR: LR-Conditioned Reward Modeling for Preference-Aligned Super-Resolution
+- [yifan123/flow_grpo](https://github.com/yifan123/flow_grpo) - [NeurIPS 2025] An official implementation of Flow-GRPO: Training Flow Matching Models via Online RL
+- [CherryJoshi/RL-IR](https://github.com/CherryJoshi/RL-IR) - 
+- [W2GenAI-Lab/LucidNFT](https://github.com/W2GenAI-Lab/LucidNFT) - 
 - [Jiang-yan-wei/SFIQA](https://github.com/Jiang-yan-wei/SFIQA) - Official implementation of "Surveillance Facial Image Quality Assessment: A Multi-dimensional Dataset and Lightweight Model"
 - [MediaX-SJTU/A2BFR](https://github.com/MediaX-SJTU/A2BFR) - Official implement of A2BFR: Attribute-Aware Blind Face Restoration
 - [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
