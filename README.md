@@ -140,6 +140,7 @@
 
 ## Jupyter Notebook 
 
+- [yushuaisong/RefReward-SR](https://github.com/yushuaisong/RefReward-SR) - [ECCV2026] RefReward-SR: LR-Conditioned Reward Modeling for Preference-Aligned Super-Resolution
 - [justinpinkney/stable-diffusion](https://github.com/justinpinkney/stable-diffusion) - 
 - [keshik6/grafting](https://github.com/keshik6/grafting) - [NeurIPS 2025 Oral] Official Code for Exploring Diffusion Transformer Designs via Grafting
 - [cloneofsimo/vqgan-training](https://github.com/cloneofsimo/vqgan-training) - Train VAE like a boss
@@ -252,6 +253,7 @@
 
 ## Others 
 
+- [CherryJoshi/RL-IR](https://github.com/CherryJoshi/RL-IR) - 
 - [Jiang-yan-wei/SFIQA](https://github.com/Jiang-yan-wei/SFIQA) - Official implementation of "Surveillance Facial Image Quality Assessment: A Multi-dimensional Dataset and Lightweight Model"
 - [xunzhang1128/Q-DiT4SR](https://github.com/xunzhang1128/Q-DiT4SR) - [ICML 2026] Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer  Quantization for Real-World Image Super-Resolution
 - [XiayanZhou/Papers-on-Efficient-Diffusion-Models](https://github.com/XiayanZhou/Papers-on-Efficient-Diffusion-Models) - Papers on Efficient Diffusion Models
@@ -312,6 +314,9 @@
 
 ## Python 
 
+- [Junboooo/RealSR-R1](https://github.com/Junboooo/RealSR-R1) - Code for paper "RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought"
+- [yifan123/flow_grpo](https://github.com/yifan123/flow_grpo) - [NeurIPS 2025] An official implementation of Flow-GRPO: Training Flow Matching Models via Online RL
+- [W2GenAI-Lab/LucidNFT](https://github.com/W2GenAI-Lab/LucidNFT) - 
 - [DSL-FIQA/DSL-FIQA](https://github.com/DSL-FIQA/DSL-FIQA) - DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer (CVPR 2024)
 - [MediaX-SJTU/A2BFR](https://github.com/MediaX-SJTU/A2BFR) - Official implement of A2BFR: Attribute-Aware Blind Face Restoration
 - [CompVis/concept_guidance](https://github.com/CompVis/concept_guidance) - 
