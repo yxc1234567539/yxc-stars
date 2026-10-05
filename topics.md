@@ -545,6 +545,9 @@
 
 ## others 
 
+- [EternalEvan/VARestorer](https://github.com/EternalEvan/VARestorer) - Official repository for VARestorer: One-Step VAR Distillation for Real-World Image Super-Resolution (ICLR2026))
+- [SHH-Han/DNF-SR](https://github.com/SHH-Han/DNF-SR) - This is the official PyTorch codes for the paper: "DNF-SR: Dual-Input and Negative-Aware Feature Fine-Tuning for Real-World Image Super-Resolution"
+- [NVlabs/DiffusionNFT](https://github.com/NVlabs/DiffusionNFT) - [ICLR 2026 Oral] DiffusionNFT: Online Diffusion Reinforcement with Forward Process
 - [Junboooo/RealSR-R1](https://github.com/Junboooo/RealSR-R1) - Code for paper "RealSR-R1: Reinforcement Learning for Real-World Image Super-Resolution with Vision-Language Chain-of-Thought"
 - [yushuaisong/RefReward-SR](https://github.com/yushuaisong/RefReward-SR) - [ECCV2026] RefReward-SR: LR-Conditioned Reward Modeling for Preference-Aligned Super-Resolution
 - [yifan123/flow_grpo](https://github.com/yifan123/flow_grpo) - [NeurIPS 2025] An official implementation of Flow-GRPO: Training Flow Matching Models via Online RL
@@ -612,7 +615,7 @@
 - [jiyang0315/DASP-SR](https://github.com/jiyang0315/DASP-SR) - DASP-SR is a method for real-world image super-resolution that integrates degradation-aware and structure-preserving diffusion techniques to enhance image quality. This repository contains the impleme
 - [JianzeLi-114/D3SR](https://github.com/JianzeLi-114/D3SR) - 
 - [Microtreei/TinySR](https://github.com/Microtreei/TinySR) - [CVPR 2026 Findings] Official implementation of the paper "TinySR: Pruning Diffusion for Real-World Image Super-Resolution".
-- [JaehaKim97/NOLA-IR](https://github.com/JaehaKim97/NOLA-IR) - Official implementation of "Noise-Free One-Step LoRA for Task-Driven Image Restoration"
+- [JaehaKim97/NOLA-IR](https://github.com/JaehaKim97/NOLA-IR) - [ACCV 2026] Official implementation of "Noise-Free One-Step LoRA for Task-Driven Image Restoration with Diffusion Priors"
 - [Hyun-s/LIFT_PLACE](https://github.com/Hyun-s/LIFT_PLACE) - [CVPR 2026] LIFT and PLACE: A Simple, Stable, and Effective Knowledge Distillation Framework for Lightweight Diffusion Models
 - [cswry/VOSR](https://github.com/cswry/VOSR) - [CVPR2026] VOSR: A Vision-Only Generative Model for Image Super-Resolution
 - [Faze-Hsw/RFMSR](https://github.com/Faze-Hsw/RFMSR) - RFMSR: Residual Flow Matching for Image Super-Resolution
