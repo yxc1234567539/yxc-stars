@@ -26,6 +26,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Typst](#typst)
+- [Vue](#vue)
 
 ## Assembly 
 
@@ -122,6 +123,7 @@
 
 ## HTML 
 
+- [skindhu/Build-A-Large-Language-Model-CN](https://github.com/skindhu/Build-A-Large-Language-Model-CN) - 《Build a Large Language Model (From Scratch)》是一本深入探讨大语言模型原理与实现的电子书，适合希望深入了解 GPT 等大模型架构、训练过程及应用开发的学习者。为了让更多中文读者能够接触到这本极具价值的教材，我决定将其翻译成中文，并通过 GitHub 进行开源共享。
 - [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 - [cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better) - 《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
 - [facebookresearch/content-seal](https://github.com/facebookresearch/content-seal) - Content Seal is a state-of-the-art framework for invisible, robust watermarking across all modalities audio, image, video, and text. This suite spans the entire generative lifecycle, from training dat
@@ -135,7 +137,6 @@
 ## JavaScript 
 
 - [OpenImagingLab/InstantRetouch](https://github.com/OpenImagingLab/InstantRetouch) - [CVPR 2026] InstantRetouch: Efficient and High-Fidelity Instruction-Guided Image Retouching with Bilateral Space
-- [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 - [mohitmishra786/low-level-dev-skills](https://github.com/mohitmishra786/low-level-dev-skills) - A curated suite of AI agent skills for systems and low-level programming with C/C++, Rust, and Zig toolchains, covering compilers, debuggers, profilers, build systems, sanitizers, and binary analysis
 
 ## Jupyter Notebook 
@@ -1084,6 +1085,10 @@
 ## Typst 
 
 - [parallel101/cppguidebook](https://github.com/parallel101/cppguidebook) - 小彭老师领衔编写，现代C++的中文百科全书
+
+## Vue 
+
+- [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar) - 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速
 
 
 ## License
