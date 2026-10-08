@@ -37,6 +37,7 @@
 - [finance](#finance)
 - [font](#font)
 - [framework](#framework)
+- [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -259,6 +260,7 @@
 
 ## deep-learning 
 
+- [FireRedTeam/FireRed-Image-Edit](https://github.com/FireRedTeam/FireRed-Image-Edit) - FireRed-Image-Edit is a powerful image editing foundation model achieving open-source state-of-the-art performance with precise instruction following, high-fidelity generation, superior identity consi
 - [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [miccunifi/ARNIQA](https://github.com/miccunifi/ARNIQA) - [WACV 2024 Oral] - ARNIQA: Learning Distortion Manifold for Image Quality Assessment
 - [miccunifi/QualiCLIP](https://github.com/miccunifi/QualiCLIP) - Quality-Aware Image-Text Alignment for Opinion-Unaware Image Quality Assessment
@@ -369,6 +371,10 @@
 ## framework 
 
 - [modelbox-ai/modelbox](https://github.com/modelbox-ai/modelbox) - A high performance, high expansion, easy to use framework for AI application. 为AI应用的开发者提供一套统一的高性能、易用的编程框架，快速基于AI全栈服务、开发跨端边云的AI行业应用，支持GPU，NPU加速。
+
+## generative-ai 
+
+- [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
 
 ## git 
 
@@ -545,6 +551,7 @@
 
 ## others 
 
+- [zty557/TADSR](https://github.com/zty557/TADSR) - This is the official PyTorch codes for the paper: "Time-Aware One Step Diffusion Network for Real-World Image Super-Resolution"
 - [skindhu/Build-A-Large-Language-Model-CN](https://github.com/skindhu/Build-A-Large-Language-Model-CN) - 《Build a Large Language Model (From Scratch)》是一本深入探讨大语言模型原理与实现的电子书，适合希望深入了解 GPT 等大模型架构、训练过程及应用开发的学习者。为了让更多中文读者能够接触到这本极具价值的教材，我决定将其翻译成中文，并通过 GitHub 进行开源共享。
 - [EternalEvan/VARestorer](https://github.com/EternalEvan/VARestorer) - Official repository for VARestorer: One-Step VAR Distillation for Real-World Image Super-Resolution (ICLR2026))
 - [SHH-Han/DNF-SR](https://github.com/SHH-Han/DNF-SR) - This is the official PyTorch codes for the paper: "DNF-SR: Dual-Input and Negative-Aware Feature Fine-Tuning for Real-World Image Super-Resolution"
@@ -1361,6 +1368,7 @@
 
 ## pytorch 
 
+- [FireRedTeam/FireRed-Image-Edit](https://github.com/FireRedTeam/FireRed-Image-Edit) - FireRed-Image-Edit is a powerful image editing foundation model achieving open-source state-of-the-art performance with precise instruction following, high-fidelity generation, superior identity consi
 - [sunny2109/SAFMN](https://github.com/sunny2109/SAFMN) - [ICCV 2023] Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolution; runner-up method for the model complexity track in NTIRE2023 Efficient SR challenge
 - [LuizScarlet/AEIC](https://github.com/LuizScarlet/AEIC) - [CVPR 2026] Ultra-Low Bitrate Perceptual Image Compression with Shallow Encoder
 - [Nota-NetsPresso/BK-SDM](https://github.com/Nota-NetsPresso/BK-SDM) - A Compressed Stable Diffusion for Efficient Text-to-Image Generation [ECCV'24]
