@@ -315,6 +315,9 @@
 
 ## Python 
 
+- [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
+- [FireRedTeam/FireRed-Image-Edit](https://github.com/FireRedTeam/FireRed-Image-Edit) - FireRed-Image-Edit is a powerful image editing foundation model achieving open-source state-of-the-art performance with precise instruction following, high-fidelity generation, superior identity consi
+- [zty557/TADSR](https://github.com/zty557/TADSR) - This is the official PyTorch codes for the paper: "Time-Aware One Step Diffusion Network for Real-World Image Super-Resolution"
 - [EternalEvan/VARestorer](https://github.com/EternalEvan/VARestorer) - Official repository for VARestorer: One-Step VAR Distillation for Real-World Image Super-Resolution (ICLR2026))
 - [SHH-Han/DNF-SR](https://github.com/SHH-Han/DNF-SR) - This is the official PyTorch codes for the paper: "DNF-SR: Dual-Input and Negative-Aware Feature Fine-Tuning for Real-World Image Super-Resolution"
 - [NVlabs/DiffusionNFT](https://github.com/NVlabs/DiffusionNFT) - [ICLR 2026 Oral] DiffusionNFT: Online Diffusion Reinforcement with Forward Process
