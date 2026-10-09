@@ -315,6 +315,7 @@
 
 ## Python 
 
+- [kohya-ss/musubi-tuner](https://github.com/kohya-ss/musubi-tuner) - 
 - [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
 - [FireRedTeam/FireRed-Image-Edit](https://github.com/FireRedTeam/FireRed-Image-Edit) - FireRed-Image-Edit is a powerful image editing foundation model achieving open-source state-of-the-art performance with precise instruction following, high-fidelity generation, superior identity consi
 - [zty557/TADSR](https://github.com/zty557/TADSR) - This is the official PyTorch codes for the paper: "Time-Aware One Step Diffusion Network for Real-World Image Super-Resolution"
