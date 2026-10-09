@@ -551,6 +551,7 @@
 
 ## others 
 
+- [kohya-ss/musubi-tuner](https://github.com/kohya-ss/musubi-tuner) - 
 - [zty557/TADSR](https://github.com/zty557/TADSR) - This is the official PyTorch codes for the paper: "Time-Aware One Step Diffusion Network for Real-World Image Super-Resolution"
 - [skindhu/Build-A-Large-Language-Model-CN](https://github.com/skindhu/Build-A-Large-Language-Model-CN) - 《Build a Large Language Model (From Scratch)》是一本深入探讨大语言模型原理与实现的电子书，适合希望深入了解 GPT 等大模型架构、训练过程及应用开发的学习者。为了让更多中文读者能够接触到这本极具价值的教材，我决定将其翻译成中文，并通过 GitHub 进行开源共享。
 - [EternalEvan/VARestorer](https://github.com/EternalEvan/VARestorer) - Official repository for VARestorer: One-Step VAR Distillation for Real-World Image Super-Resolution (ICLR2026))
