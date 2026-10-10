@@ -315,6 +315,7 @@
 
 ## Python 
 
+- [Hope7Happiness/minit2i-torch](https://github.com/Hope7Happiness/minit2i-torch) - Official PyTorch re-implementation of MiniT2I.
 - [kohya-ss/musubi-tuner](https://github.com/kohya-ss/musubi-tuner) - 
 - [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
 - [FireRedTeam/FireRed-Image-Edit](https://github.com/FireRedTeam/FireRed-Image-Edit) - FireRed-Image-Edit is a powerful image editing foundation model achieving open-source state-of-the-art performance with precise instruction following, high-fidelity generation, superior identity consi
@@ -656,7 +657,6 @@
 - [ErinChen1/EPDN](https://github.com/ErinChen1/EPDN) - Enhanced Pix2pix Dehazing Network, accepted by CVPR 2019
 - [wtjiang98/PSGAN](https://github.com/wtjiang98/PSGAN) - PyTorch code for "PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer" (CVPR 2020 Oral)
 - [huangzhikun1995/IPM-Net](https://github.com/huangzhikun1995/IPM-Net) - IJCAI-2020 Real-World Automatic Makeup via Identity Preservation Makeup Net
-- [xl-tang3/RCOT](https://github.com/xl-tang3/RCOT) - (ICML' 24) Residual-Conditioned Optimal Transport: Towards Structure-Preserving Unpaired and Paired Image Restoration
 - [mingcv/YTMT-Strategy](https://github.com/mingcv/YTMT-Strategy) - Offical implementation for "Trash or Treasure? An Interactive Dual-Stream Strategy for Single Image Reflection Separation".
 - [ZhenboSong/RobustSIRR](https://github.com/ZhenboSong/RobustSIRR) - Official implement for CVPR2023 "Robust Single Image Reflection Removal Against Adversarial Attacks"
 - [zsyOAOA/ResShift](https://github.com/zsyOAOA/ResShift) - ResShift: Efficient Diffusion Model for Image Super-resolution by Residual Shifting (NeurIPS@2023 Spotlight, TPAMI@2024)
