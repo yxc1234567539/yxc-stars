@@ -282,7 +282,6 @@
 - [G-U-N/Awesome-Consistency-Models](https://github.com/G-U-N/Awesome-Consistency-Models) - Awesome List of Consistency Models
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [lixinustc/Awesome-diffusion-model-for-image-processing](https://github.com/lixinustc/Awesome-diffusion-model-for-image-processing) - one summary of diffusion-based image processing, including restoration, enhancement, coding, quality assessment
-- [zhengchen1999/QuantDemoire](https://github.com/zhengchen1999/QuantDemoire) - PyTorch code for our paper "QuantDemoire: Quantization with Outlier Aware for Image Demoiréing"
 - [taeho-kil/Document-Image-Dewarping](https://github.com/taeho-kil/Document-Image-Dewarping) - Document Image Dewarping
 - [krantbrity/Single-Image-Reflection-Removal-Papers-and-Code-Collection](https://github.com/krantbrity/Single-Image-Reflection-Removal-Papers-and-Code-Collection) - 
 - [nucbaixu/AutoExposure](https://github.com/nucbaixu/AutoExposure) - 自动曝光的开源代码
@@ -576,6 +575,7 @@
 - [snap-research/CAT](https://github.com/snap-research/CAT) - [CVPR 2021] Teachers Do More Than Teach: Compressing Image-to-Image Models (CAT)
 - [vitorsr/exact-histogram-specification](https://github.com/vitorsr/exact-histogram-specification) - Fast implementation of "Exact Histogram Specification" by Coltuc et al.
 - [StefanoD/ExactHistogramSpecification](https://github.com/StefanoD/ExactHistogramSpecification) - Exact histogram matching implementation of Dinu Coltuc et al.
+- [zhengchen1999/QuantDemoire](https://github.com/zhengchen1999/QuantDemoire) - PyTorch code for our paper "QuantDemoire: Quantization with Outlier Aware for Image Demoiréing"
 - [VectorSpaceLab/EditScore](https://github.com/VectorSpaceLab/EditScore) - [ICLR 2026] EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling
 - [homm/color-filters-reconstruction](https://github.com/homm/color-filters-reconstruction) - Very accurate color filters reconstruction tools based on 3D color LUTs
 - [yz-wang/UCL-Dehaze](https://github.com/yz-wang/UCL-Dehaze) - Image dehazing
