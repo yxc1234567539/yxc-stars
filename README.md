@@ -254,6 +254,7 @@
 
 ## Others 
 
+- [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) - Technical guide to making money and investing（最全赚钱投资指南）
 - [CherryJoshi/RL-IR](https://github.com/CherryJoshi/RL-IR) - 
 - [Jiang-yan-wei/SFIQA](https://github.com/Jiang-yan-wei/SFIQA) - Official implementation of "Surveillance Facial Image Quality Assessment: A Multi-dimensional Dataset and Lightweight Model"
 - [xunzhang1128/Q-DiT4SR](https://github.com/xunzhang1128/Q-DiT4SR) - [ICML 2026] Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer  Quantization for Real-World Image Super-Resolution
