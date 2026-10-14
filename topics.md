@@ -551,6 +551,7 @@
 
 ## others 
 
+- [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) - Technical guide to making money and investing（最全赚钱投资指南）
 - [Hope7Happiness/minit2i-torch](https://github.com/Hope7Happiness/minit2i-torch) - Official PyTorch re-implementation of MiniT2I.
 - [kohya-ss/musubi-tuner](https://github.com/kohya-ss/musubi-tuner) - 
 - [zty557/TADSR](https://github.com/zty557/TADSR) - This is the official PyTorch codes for the paper: "Time-Aware One Step Diffusion Network for Real-World Image Super-Resolution"
