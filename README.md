@@ -257,7 +257,6 @@
 - [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) - Technical guide to making money and investing（最全赚钱投资指南）
 - [CherryJoshi/RL-IR](https://github.com/CherryJoshi/RL-IR) - 
 - [Jiang-yan-wei/SFIQA](https://github.com/Jiang-yan-wei/SFIQA) - Official implementation of "Surveillance Facial Image Quality Assessment: A Multi-dimensional Dataset and Lightweight Model"
-- [xunzhang1128/Q-DiT4SR](https://github.com/xunzhang1128/Q-DiT4SR) - [ICML 2026] Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer  Quantization for Real-World Image Super-Resolution
 - [XiayanZhou/Papers-on-Efficient-Diffusion-Models](https://github.com/XiayanZhou/Papers-on-Efficient-Diffusion-Models) - Papers on Efficient Diffusion Models
 - [JianzeLi-114/D3SR](https://github.com/JianzeLi-114/D3SR) - 
 - [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) - A skill file for removing AI tells from prose
@@ -268,7 +267,7 @@
 - [visionxiang/awesome-computational-photography](https://github.com/visionxiang/awesome-computational-photography) - A curated list of awesome resources for topics related to computational photography via deep learning, which mainly focuses on image alignment and stitching.
 - [bcmi/Awesome-Image-Composition](https://github.com/bcmi/Awesome-Image-Composition) - A curated list of papers, code and resources pertaining to image composition/compositing or object/subject insertion/addition/compositing, which aims to generate realistic composite image.
 - [wangkai930418/awesome-diffusion-categorized](https://github.com/wangkai930418/awesome-diffusion-categorized) - collection of diffusion model papers categorized by their subareas
-- [Becomebright/MTV](https://github.com/Becomebright/MTV) - Revisiting Multi-Task Visual Representation Learning
+- [Becomebright/MTV](https://github.com/Becomebright/MTV) - [ACCV'26] Revisiting Multi-Task Visual Representation Learning
 - [Q-Future/Co-Instruct](https://github.com/Q-Future/Co-Instruct) - ④[ECCV 2024 Oral, Comparison among Multiple Images!] A study on open-ended multi-image quality comparison: a dataset, a model and a benchmark.
 - [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the communit
 - [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit
@@ -342,6 +341,7 @@
 - [KaiChen1998/GeoDiffusion](https://github.com/KaiChen1998/GeoDiffusion) - Official PyTorch implementation of GeoDiffusion in ICLR 2024 (https://arxiv.org/abs/2306.04607)
 - [ivanmikhnenkov/tinydit](https://github.com/ivanmikhnenkov/tinydit) - A 210M text-to-image diffusion transformer trained from scratch on one GPU in 3.5 days: rectified flow on FLUX.2 latents, aspect-ratio buckets, registers, 4.2M curated images. Every decision with sour
 - [ZongfangLiu/Diff-ES](https://github.com/ZongfangLiu/Diff-ES) - Diff-ES: Stage-Wise Structural Diffusion Pruning via Evolutionary Search
+- [xunzhang1128/Q-DiT4SR](https://github.com/xunzhang1128/Q-DiT4SR) - [ICML 2026] Q-DiT4SR: Exploration of Detail-Preserving Diffusion Transformer  Quantization for Real-World Image Super-Resolution
 - [Adam-duan/DiT4SR](https://github.com/Adam-duan/DiT4SR) - [ICCV 2025] This is the official PyTorch codes for the paper: "DiT4SR: Taming Diffusion Transformer for Real-World Image Super-Resolution"
 - [willisma/SiT](https://github.com/willisma/SiT) - Official PyTorch Implementation of "SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers"
 - [feice-huang/ConvRot](https://github.com/feice-huang/ConvRot) - Official ConvRot implementation. A plug-and-play, convolution-like rotation module enabling efficient W4A4 quantization for diffusion models, achieving 4× memory savings and 2× faster inference with p
