@@ -41,6 +41,7 @@
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
+- [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [html](#html)
 - [image-processing](#image-processing)
@@ -388,6 +389,10 @@
 
 - [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 
+## hacktoberfest 
+
+- [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
+
 ## haskell 
 
 - [damianfral/colortransfer](https://github.com/damianfral/colortransfer) - A small tool to transfer colors between images.
@@ -701,7 +706,7 @@
 - [PixArt-alpha/PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) - PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
 - [magic-research/piecewise-rectified-flow](https://github.com/magic-research/piecewise-rectified-flow) - PeRFlow: Piecewise Rectified Flow as Universal Plug-and-Play Accelerator (NeurIPS 2024)
 - [fast-codi/CoDi](https://github.com/fast-codi/CoDi) - [CVPR24] CoDi: Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation
-- [Becomebright/MTV](https://github.com/Becomebright/MTV) - Revisiting Multi-Task Visual Representation Learning
+- [Becomebright/MTV](https://github.com/Becomebright/MTV) - [ACCV'26] Revisiting Multi-Task Visual Representation Learning
 - [osmarks/meme-search-engine](https://github.com/osmarks/meme-search-engine) - Large-scale CLIP image search
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 - [aba122/Q-Hawkeye](https://github.com/aba122/Q-Hawkeye) - 
