@@ -37,6 +37,7 @@
 - [finance](#finance)
 - [font](#font)
 - [framework](#framework)
+- [game](#game)
 - [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
@@ -373,6 +374,10 @@
 
 - [modelbox-ai/modelbox](https://github.com/modelbox-ai/modelbox) - A high performance, high expansion, easy to use framework for AI application. 为AI应用的开发者提供一套统一的高性能、易用的编程框架，快速基于AI全栈服务、开发跨端边云的AI行业应用，支持GPU，NPU加速。
 
+## game 
+
+- [VAST-AI-Research/EdenLive](https://github.com/VAST-AI-Research/EdenLive) - Real-time generative rendering for interactive worlds, from any visual reference.
+
 ## generative-ai 
 
 - [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
@@ -556,6 +561,7 @@
 
 ## others 
 
+- [VinAIResearch/EFHQ](https://github.com/VinAIResearch/EFHQ) - Code and data for the CVPR24 paper "EFHQ: Multi-purpose ExtremePose-Face-HQ dataset" [CVPR'24]
 - [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) - Technical guide to making money and investing（最全赚钱投资指南）
 - [Hope7Happiness/minit2i-torch](https://github.com/Hope7Happiness/minit2i-torch) - Official PyTorch re-implementation of MiniT2I.
 - [kohya-ss/musubi-tuner](https://github.com/kohya-ss/musubi-tuner) - 
@@ -617,7 +623,7 @@
 - [libozhu03/PassionSR](https://github.com/libozhu03/PassionSR) - 
 - [wwangcece/SlimDiffSR](https://github.com/wwangcece/SlimDiffSR) - [TGRS 2026] SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation
 - [dohyun-as/Random-Conditioning](https://github.com/dohyun-as/Random-Conditioning) - Official Implementation of CVPR 2025 paper "Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression"
-- [EvelynZhang-epiclab/SiTo](https://github.com/EvelynZhang-epiclab/SiTo) - [AAAI-2025] The offical code for SiTo （Similarity-based Token Pruning for Stable Diffusion Models）
+- [YuweiZhang2002/SiTo](https://github.com/YuweiZhang2002/SiTo) - [AAAI-2025] The offical code for SiTo （Similarity-based Token Pruning for Stable Diffusion Models）
 - [keshik6/grafting](https://github.com/keshik6/grafting) - [NeurIPS 2025 Oral] Official Code for Exploring Diffusion Transformer Designs via Grafting
 - [XiayanZhou/Papers-on-Efficient-Diffusion-Models](https://github.com/XiayanZhou/Papers-on-Efficient-Diffusion-Models) - Papers on Efficient Diffusion Models
 - [GianSegugio/flicker_suppressor](https://github.com/GianSegugio/flicker_suppressor) - Single-image/batch restoration for rolling-shutter flicker/banding under temporally modulated artificial lighting
