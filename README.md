@@ -314,6 +314,8 @@
 
 ## Python 
 
+- [VAST-AI-Research/EdenLive](https://github.com/VAST-AI-Research/EdenLive) - Real-time generative rendering for interactive worlds, from any visual reference.
+- [VinAIResearch/EFHQ](https://github.com/VinAIResearch/EFHQ) - Code and data for the CVPR24 paper "EFHQ: Multi-purpose ExtremePose-Face-HQ dataset" [CVPR'24]
 - [Hope7Happiness/minit2i-torch](https://github.com/Hope7Happiness/minit2i-torch) - Official PyTorch re-implementation of MiniT2I.
 - [kohya-ss/musubi-tuner](https://github.com/kohya-ss/musubi-tuner) - 
 - [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
@@ -374,7 +376,7 @@
 - [sunny2109/SAFMN](https://github.com/sunny2109/SAFMN) - [ICCV 2023] Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolution; runner-up method for the model complexity track in NTIRE2023 Efficient SR challenge
 - [wwangcece/SlimDiffSR](https://github.com/wwangcece/SlimDiffSR) - [TGRS 2026] SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation
 - [dohyun-as/Random-Conditioning](https://github.com/dohyun-as/Random-Conditioning) - Official Implementation of CVPR 2025 paper "Random Conditioning with Distillation for Data-Efficient Diffusion Model Compression"
-- [EvelynZhang-epiclab/SiTo](https://github.com/EvelynZhang-epiclab/SiTo) - [AAAI-2025] The offical code for SiTo （Similarity-based Token Pruning for Stable Diffusion Models）
+- [YuweiZhang2002/SiTo](https://github.com/YuweiZhang2002/SiTo) - [AAAI-2025] The offical code for SiTo （Similarity-based Token Pruning for Stable Diffusion Models）
 - [neonforestmist/Clover-Image-Tiny](https://github.com/neonforestmist/Clover-Image-Tiny) - Compact local AI image generation with Clover Image Tiny, Inpaint HQ image editing, LoRA styles, Diffusers, and Core ML for Apple devices.
 - [GianSegugio/flicker_suppressor](https://github.com/GianSegugio/flicker_suppressor) - Single-image/batch restoration for rolling-shutter flicker/banding under temporally modulated artificial lighting
 - [AVC2-UESTC/MobileIE](https://github.com/AVC2-UESTC/MobileIE) - [ICCV2025] Implementation of "MobileIE: An Extremely Lightweight and Effective ConvNet for Real-Time Image Enhancement on Mobile Devices"
