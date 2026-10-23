@@ -57,6 +57,7 @@
 
 ## C++ 
 
+- [hugohadfield/LensDistortionFromLines](https://github.com/hugohadfield/LensDistortionFromLines) - Python bindings and improvements for a hough line based lens distortion corection algorithm
 - [gergelyhornyak/VehicleImageStitching](https://github.com/gergelyhornyak/VehicleImageStitching) - Application to stitch vehicles from side view road camera
 - [Mob-FGSR/mob-ss](https://github.com/Mob-FGSR/mob-ss) - [SIGGRAPH Asia 2025] Lightweight, Edge-Aware, and Temporally Consistent Supersampling for Mobile Real-Time Rendering
 - [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja) - This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
@@ -496,7 +497,6 @@
 - [woodx9/minimal-embedding-server](https://github.com/woodx9/minimal-embedding-server) - a embedding infer server faster than vllm and sglang
 - [gobunu/OSDHuman](https://github.com/gobunu/OSDHuman) - 
 - [Qualcomm-AI-research/SwiftEdit](https://github.com/Qualcomm-AI-research/SwiftEdit) - Official PyTorch implementation of our CVPR 2025 paper: "SwiftEdit: Lightning Fast Text-guided Image Editing via One-step Diffusion"
-- [AMAP-ML/RealQA](https://github.com/AMAP-ML/RealQA) - Next Token Is Enough: Realistic Image Quality and Aesthetic Scoring with Multimodal Large Language Model.
 - [thunderbolt215/UniPercept](https://github.com/thunderbolt215/UniPercept) - [ICML2026 Spotlight] UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
 - [bytedance/Q-Insight](https://github.com/bytedance/Q-Insight) - Q-Insight Family: Q-Insight, VQ-Insight and RALI (NeurIPS 2025 Spotlight, AAAI 2026 Oral, and ICLR 2026 Oral)
 - [Huang-ShiRui/Semi-UIR](https://github.com/Huang-ShiRui/Semi-UIR) - Official code for "Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank" (2023 CVPR)
