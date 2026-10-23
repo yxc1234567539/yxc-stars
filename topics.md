@@ -77,6 +77,7 @@
 - [react](#react)
 - [react-native](#react-native)
 - [reinforcement-learning](#reinforcement-learning)
+- [robotics](#robotics)
 - [rust](#rust)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
@@ -176,6 +177,7 @@
 
 ## computer-vision 
 
+- [hugohadfield/LensDistortionFromLines](https://github.com/hugohadfield/LensDistortionFromLines) - Python bindings and improvements for a hough line based lens distortion corection algorithm
 - [DSL-FIQA/DSL-FIQA](https://github.com/DSL-FIQA/DSL-FIQA) - DSL-FIQA: Assessing Facial Image Quality via Dual-Set Degradation Learning and Landmark-Guided Transformer (CVPR 2024)
 - [sanechips-multimedia/syenet](https://github.com/sanechips-multimedia/syenet) - SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-Time Performance on Mobile Device, in ICCV 2023
 - [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
@@ -549,6 +551,7 @@
 
 ## opencv 
 
+- [hugohadfield/LensDistortionFromLines](https://github.com/hugohadfield/LensDistortionFromLines) - Python bindings and improvements for a hough line based lens distortion corection algorithm
 - [EadCat/APAP-Image-Stitching](https://github.com/EadCat/APAP-Image-Stitching) - As-Projective-As-Possible (APAP) Image Stitching with Moving DLT (CVPR 2013) - Python Implementation
 - [soumik12345/colorization-using-optimization](https://github.com/soumik12345/colorization-using-optimization) - Python and C++ implementations of a user-guided image/video colorization technique as proposed by the paper Colorization Using Optimization
 - [ZongXR/2024HHGJ-AItraining](https://github.com/ZongXR/2024HHGJ-AItraining) - 2024中国职业技能大赛人工智能训练赛项
@@ -751,7 +754,6 @@
 - [gobunu/OSDHuman](https://github.com/gobunu/OSDHuman) - 
 - [Qualcomm-AI-research/SwiftEdit](https://github.com/Qualcomm-AI-research/SwiftEdit) - Official PyTorch implementation of our CVPR 2025 paper: "SwiftEdit: Lightning Fast Text-guided Image Editing via One-step Diffusion"
 - [Qualcomm-AI-research/clockwork-diffusion](https://github.com/Qualcomm-AI-research/clockwork-diffusion) - 
-- [AMAP-ML/RealQA](https://github.com/AMAP-ML/RealQA) - Next Token Is Enough: Realistic Image Quality and Aesthetic Scoring with Multimodal Large Language Model.
 - [thunderbolt215/UniPercept](https://github.com/thunderbolt215/UniPercept) - [ICML2026 Spotlight] UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
 - [bytedance/Q-Insight](https://github.com/bytedance/Q-Insight) - Q-Insight Family: Q-Insight, VQ-Insight and RALI (NeurIPS 2025 Spotlight, AAAI 2026 Oral, and ICLR 2026 Oral)
 - [Huang-ShiRui/Semi-UIR](https://github.com/Huang-ShiRui/Semi-UIR) - Official code for "Contrastive Semi-supervised Learning for Underwater Image Restoration via Reliable Bank" (2023 CVPR)
@@ -1501,6 +1503,10 @@
 
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+
+## robotics 
+
+- [hugohadfield/LensDistortionFromLines](https://github.com/hugohadfield/LensDistortionFromLines) - Python bindings and improvements for a hough line based lens distortion corection algorithm
 
 ## rust 
 
