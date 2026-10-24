@@ -162,16 +162,19 @@
 
 ## chatgpt 
 
+- [youngyangyang04/gpt-daichong](https://github.com/youngyangyang04/gpt-daichong) - 国内ChatGPT/Claude充值代充教程合集 2026 | 支付宝微信开通Plus、Claude Pro
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 
 ## claude 
 
+- [youngyangyang04/gpt-daichong](https://github.com/youngyangyang04/gpt-daichong) - 国内ChatGPT/Claude充值代充教程合集 2026 | 支付宝微信开通Plus、Claude Pro
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 
 ## claude-code 
 
+- [youngyangyang04/gpt-daichong](https://github.com/youngyangyang04/gpt-daichong) - 国内ChatGPT/Claude充值代充教程合集 2026 | 支付宝微信开通Plus、Claude Pro
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
 
@@ -564,6 +567,7 @@
 
 ## others 
 
+- [ATH-MaaS/TextVerifier](https://github.com/ATH-MaaS/TextVerifier) - TextVerifier: Seeing Beyond Recognition to Verify Chinese Text Rendering
 - [VinAIResearch/EFHQ](https://github.com/VinAIResearch/EFHQ) - Code and data for the CVPR24 paper "EFHQ: Multi-purpose ExtremePose-Face-HQ dataset" [CVPR'24]
 - [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) - Technical guide to making money and investing（最全赚钱投资指南）
 - [Hope7Happiness/minit2i-torch](https://github.com/Hope7Happiness/minit2i-torch) - Official PyTorch re-implementation of MiniT2I.
