@@ -124,6 +124,7 @@
 
 ## HTML 
 
+- [youngyangyang04/gpt-daichong](https://github.com/youngyangyang04/gpt-daichong) - 国内ChatGPT/Claude充值代充教程合集 2026 | 支付宝微信开通Plus、Claude Pro
 - [skindhu/Build-A-Large-Language-Model-CN](https://github.com/skindhu/Build-A-Large-Language-Model-CN) - 《Build a Large Language Model (From Scratch)》是一本深入探讨大语言模型原理与实现的电子书，适合希望深入了解 GPT 等大模型架构、训练过程及应用开发的学习者。为了让更多中文读者能够接触到这本极具价值的教材，我决定将其翻译成中文，并通过 GitHub 进行开源共享。
 - [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 - [cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better) - 《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
@@ -315,6 +316,7 @@
 
 ## Python 
 
+- [ATH-MaaS/TextVerifier](https://github.com/ATH-MaaS/TextVerifier) - TextVerifier: Seeing Beyond Recognition to Verify Chinese Text Rendering
 - [VAST-AI-Research/EdenLive](https://github.com/VAST-AI-Research/EdenLive) - Real-time generative rendering for interactive worlds, from any visual reference.
 - [VinAIResearch/EFHQ](https://github.com/VinAIResearch/EFHQ) - Code and data for the CVPR24 paper "EFHQ: Multi-purpose ExtremePose-Face-HQ dataset" [CVPR'24]
 - [Hope7Happiness/minit2i-torch](https://github.com/Hope7Happiness/minit2i-torch) - Official PyTorch re-implementation of MiniT2I.
