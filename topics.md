@@ -38,6 +38,7 @@
 - [font](#font)
 - [framework](#framework)
 - [game](#game)
+- [game-engine](#game-engine)
 - [generative-ai](#generative-ai)
 - [git](#git)
 - [github](#github)
@@ -379,6 +380,10 @@
 - [modelbox-ai/modelbox](https://github.com/modelbox-ai/modelbox) - A high performance, high expansion, easy to use framework for AI application. 为AI应用的开发者提供一套统一的高性能、易用的编程框架，快速基于AI全栈服务、开发跨端边云的AI行业应用，支持GPU，NPU加速。
 
 ## game 
+
+- [VAST-AI-Research/EdenLive](https://github.com/VAST-AI-Research/EdenLive) - Real-time generative rendering for interactive worlds, from any visual reference.
+
+## game-engine 
 
 - [VAST-AI-Research/EdenLive](https://github.com/VAST-AI-Research/EdenLive) - Real-time generative rendering for interactive worlds, from any visual reference.
 
