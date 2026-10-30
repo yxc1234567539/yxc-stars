@@ -18,6 +18,7 @@
 - [awesome-list](#awesome-list)
 - [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
+- [clash](#clash)
 - [claude](#claude)
 - [claude-code](#claude-code)
 - [computer-vision](#computer-vision)
@@ -166,6 +167,10 @@
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
+
+## clash 
+
+- [KiRinXC/clash-codex-autodl](https://github.com/KiRinXC/clash-codex-autodl) - 面向 AutoDL 的 Mihomo/Clash 与 Codex CLI 一键初始化脚本，支持终端交互配置、代理切换和 Codex 中转站切换。
 
 ## claude 
 
