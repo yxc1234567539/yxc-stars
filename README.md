@@ -590,7 +590,7 @@
 - [Mid-Push/santa](https://github.com/Mid-Push/santa) - Unpaired Image-to-Image Translation with Shortest Path Regularization
 - [alexandonian/contrastive-feature-loss](https://github.com/alexandonian/contrastive-feature-loss) - PyTorch implementation of Contrastive Feature Loss for Image Prediction (AIM Workshop at ICCV 2021)
 - [fnzhan/MoNCE](https://github.com/fnzhan/MoNCE) - [CVPR 2022] Modulated Contrast for Versatile Image Synthesis
-- [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - The easiest way to use deep metric learning in your application. Modular, flexible, and extensible. Written in PyTorch.
+- [KevinMusgrave/pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning) - Train and evaluate embeddings for similarity search with PyTorch. Includes contrastive losses, hard example mining, samplers, and retrieval metrics.
 - [cyclomon/DiffuseIT](https://github.com/cyclomon/DiffuseIT) - Official repository of "Diffusion-based Image Translation using Disentangled Style and Content Representation" ( ICLR 2023 )
 - [galaxygliese/Latent-DDBM](https://github.com/galaxygliese/Latent-DDBM) - Simplified implementation of DDBM.
 - [mzur/pyJBU](https://github.com/mzur/pyJBU) - A Python implementation of Joint Bilateral Upsampling
@@ -1081,6 +1081,7 @@
 
 ## Shell 
 
+- [KiRinXC/clash-codex-autodl](https://github.com/KiRinXC/clash-codex-autodl) - 面向 AutoDL 的 Mihomo/Clash 与 Codex CLI 一键初始化脚本，支持终端交互配置、代理切换和 Codex 中转站切换。
 - [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
 
 ## TeX 
