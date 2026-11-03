@@ -84,6 +84,7 @@
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [sketch](#sketch)
+- [skills](#skills)
 - [stable-diffusion](#stable-diffusion)
 - [swift](#swift)
 - [tensorflow](#tensorflow)
@@ -107,6 +108,7 @@
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始构建大模型
 - [Barca0412/Introduction-to-Quantitative-Finance](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) - AI+金融（量化）：1.多因子股票量化框架开源教程 2.学界和业界的经典资料收录 3.AI + 金融的相关工作，包括LLM, Agent, benchmark(evaluation), etc.
+- [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit
 
 ## agent-skills 
 
@@ -708,7 +710,7 @@
 - [dut-media-lab/Image-Stitching](https://github.com/dut-media-lab/Image-Stitching) - Leveraging Line-point Consistence to Preserve Structures for Wide Parallax Image Stitching
 - [Tr1stesse/DirectEdit](https://github.com/Tr1stesse/DirectEdit) - [ICML 2026] Official implementation for "DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing".
 - [vivoCameraResearch/SmartPhotoCrafter](https://github.com/vivoCameraResearch/SmartPhotoCrafter) - official github code for "SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing"
-- [dhryougit/Beyond-the-Ground-Truth](https://github.com/dhryougit/Beyond-the-Ground-Truth) - 
+- [dhryougit/Beyond-the-Ground-Truth](https://github.com/dhryougit/Beyond-the-Ground-Truth) - Beyond the Ground Truth: Enhanced Supervision for Image Restoration (2026 CVPR)
 - [fanzh03/IR-Flow](https://github.com/fanzh03/IR-Flow) - IR-Flow: Bridging Discriminative and Generative Image Restoration via Rectified Flow
 - [coolsyn2000/ISP-AutoTuning](https://github.com/coolsyn2000/ISP-AutoTuning) - Image signal process (ISP) parameters auto-tuning program based on Black-Box hyperparameter optimization
 - [coolsyn2000/Open-AISP](https://github.com/coolsyn2000/Open-AISP) - Open-AISP is a toy-level, and open-source AI-ISP (Artificial Intelligence Image Signal Process) pipeline framework for beginners.
@@ -1016,7 +1018,7 @@
 - [NVlabs/imaginaire](https://github.com/NVlabs/imaginaire) - NVIDIA's Deep Imagination Team's PyTorch Library
 - [OUCVisionGroup/CLIP-UIE](https://github.com/OUCVisionGroup/CLIP-UIE) - Underwater Image Enhancement by Diffusion Model with Customized CLIP-Classifier
 - [Yuanshi9815/OminiControl](https://github.com/Yuanshi9815/OminiControl) - [ICCV 2025 Highlight] OminiControl: Minimal and Universal Control for Diffusion Transformer
-- [dhryougit/learning-to-translate-noise](https://github.com/dhryougit/learning-to-translate-noise) - 
+- [dhryougit/learning-to-translate-noise](https://github.com/dhryougit/learning-to-translate-noise) - Learning to Translate Noise for Robust Image Denoising (2026 CVPR Findings)
 - [Boyiliee/SITTA](https://github.com/Boyiliee/SITTA) - Single Image Texture Translation for Data Augmentation
 - [rosinality/swapping-autoencoder-pytorch](https://github.com/rosinality/swapping-autoencoder-pytorch) - Unofficial implementation of Swapping Autoencoder for Deep Image Manipulation (https://arxiv.org/abs/2007.00653) in PyTorch
 - [GuHuangAI/DiffusionEdge](https://github.com/GuHuangAI/DiffusionEdge) - Code for AAAI 2024 paper: "DiffusionEdge: Diffusion Probabilistic Model for Crisp Edge Detection"
@@ -1145,7 +1147,7 @@
 - [jinlong17/LightDiff](https://github.com/jinlong17/LightDiff) - About [CVPR 2024] The official implementation of paper " Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving"
 - [EternalEvan/FlowIE](https://github.com/EternalEvan/FlowIE) - [CVPR 2024 oral]This repository contains the official implementation of "FlowIE: Efficient Image Enhancement via Rectified Flow"
 - [ZcsrenlongZ/ZoomGS](https://github.com/ZcsrenlongZ/ZoomGS) - [ECCV 2024] Dual-Camera Smoooth Zoom on Mobile Phones
-- [dhryougit/AFM](https://github.com/dhryougit/AFM) - 
+- [dhryougit/AFM](https://github.com/dhryougit/AFM) - Robust Image Denoising through Adversarial Frequency Mixup (2024 CVPR)
 - [rflepp/SplitterNet-Efficient-Mobile-Denoising-Models-CVPR2024](https://github.com/rflepp/SplitterNet-Efficient-Mobile-Denoising-Models-CVPR2024) - This framework includes the loading of different datasets as well as several denoising models. Several of the models are optimized for mobile usage. Those models include a simple U-Net, the winning mo
 - [teboli/simulated_exposure_fusion_python](https://github.com/teboli/simulated_exposure_fusion_python) - 
 - [stroking-fishes-ml-corp/A-ESRGAN](https://github.com/stroking-fishes-ml-corp/A-ESRGAN) - [PRICAI 2023] A-ESRGAN aims to provide better super-resolution images by using multi-scale attention U-net discriminators.
@@ -1537,6 +1539,10 @@
 ## sketch 
 
 - [delta6189/Anime-Sketch-Colorizer](https://github.com/delta6189/Anime-Sketch-Colorizer) - Automatic Sketch Colorization with reference image
+
+## skills 
+
+- [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit
 
 ## stable-diffusion 
 
