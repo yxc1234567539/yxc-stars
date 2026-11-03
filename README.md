@@ -272,6 +272,7 @@
 - [Becomebright/MTV](https://github.com/Becomebright/MTV) - [ACCV'26] Revisiting Multi-Task Visual Representation Learning
 - [Q-Future/Co-Instruct](https://github.com/Q-Future/Co-Instruct) - ④[ECCV 2024 Oral, Comparison among Multiple Images!] A study on open-ended multi-image quality comparison: a dataset, a model and a benchmark.
 - [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the communit
+- [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit
 - [0voice/awesome_audio_video_learning](https://github.com/0voice/awesome_audio_video_learning) - 2025年音视频开发最新总结，提供全面的音视频开发学习资源，涵盖从基础知识到实战项目的资料、论文、书籍、项目和示例，帮助你快速热门并逐步进阶，持续更新维护中！
 - [ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
 - [SintonZZ/Awesome-AI-ISP](https://github.com/SintonZZ/Awesome-AI-ISP) - A list of awesome AI-ISP works.
@@ -444,7 +445,7 @@
 - [nv-tlabs/PiD](https://github.com/nv-tlabs/PiD) - [NeurIPS 2026] PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion
 - [Tr1stesse/DirectEdit](https://github.com/Tr1stesse/DirectEdit) - [ICML 2026] Official implementation for "DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing".
 - [vivoCameraResearch/SmartPhotoCrafter](https://github.com/vivoCameraResearch/SmartPhotoCrafter) - official github code for "SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing"
-- [dhryougit/Beyond-the-Ground-Truth](https://github.com/dhryougit/Beyond-the-Ground-Truth) - 
+- [dhryougit/Beyond-the-Ground-Truth](https://github.com/dhryougit/Beyond-the-Ground-Truth) - Beyond the Ground Truth: Enhanced Supervision for Image Restoration (2026 CVPR)
 - [fanzh03/IR-Flow](https://github.com/fanzh03/IR-Flow) - IR-Flow: Bridging Discriminative and Generative Image Restoration via Rectified Flow
 - [coolsyn2000/ISP-AutoTuning](https://github.com/coolsyn2000/ISP-AutoTuning) - Image signal process (ISP) parameters auto-tuning program based on Black-Box hyperparameter optimization
 - [coolsyn2000/Open-AISP](https://github.com/coolsyn2000/Open-AISP) - Open-AISP is a toy-level, and open-source AI-ISP (Artificial Intelligence Image Signal Process) pipeline framework for beginners.
@@ -758,7 +759,7 @@
 - [NVlabs/imaginaire](https://github.com/NVlabs/imaginaire) - NVIDIA's Deep Imagination Team's PyTorch Library
 - [OUCVisionGroup/CLIP-UIE](https://github.com/OUCVisionGroup/CLIP-UIE) - Underwater Image Enhancement by Diffusion Model with Customized CLIP-Classifier
 - [Yuanshi9815/OminiControl](https://github.com/Yuanshi9815/OminiControl) - [ICCV 2025 Highlight] OminiControl: Minimal and Universal Control for Diffusion Transformer
-- [dhryougit/learning-to-translate-noise](https://github.com/dhryougit/learning-to-translate-noise) - 
+- [dhryougit/learning-to-translate-noise](https://github.com/dhryougit/learning-to-translate-noise) - Learning to Translate Noise for Robust Image Denoising (2026 CVPR Findings)
 - [Boyiliee/SITTA](https://github.com/Boyiliee/SITTA) - Single Image Texture Translation for Data Augmentation
 - [avivga/lord-pytorch](https://github.com/avivga/lord-pytorch) - Official pytorch re-implementation of "Demystifying Inter-Class Disentanglement", ICLR 2020.
 - [rosinality/swapping-autoencoder-pytorch](https://github.com/rosinality/swapping-autoencoder-pytorch) - Unofficial implementation of Swapping Autoencoder for Deep Image Manipulation (https://arxiv.org/abs/2007.00653) in PyTorch
@@ -900,7 +901,7 @@
 - [jinlong17/LightDiff](https://github.com/jinlong17/LightDiff) - About [CVPR 2024] The official implementation of paper " Light the Night: A Multi-Condition Diffusion Framework for Unpaired Low-Light Enhancement in Autonomous Driving"
 - [EternalEvan/FlowIE](https://github.com/EternalEvan/FlowIE) - [CVPR 2024 oral]This repository contains the official implementation of "FlowIE: Efficient Image Enhancement via Rectified Flow"
 - [ZcsrenlongZ/ZoomGS](https://github.com/ZcsrenlongZ/ZoomGS) - [ECCV 2024] Dual-Camera Smoooth Zoom on Mobile Phones
-- [dhryougit/AFM](https://github.com/dhryougit/AFM) - 
+- [dhryougit/AFM](https://github.com/dhryougit/AFM) - Robust Image Denoising through Adversarial Frequency Mixup (2024 CVPR)
 - [rflepp/SplitterNet-Efficient-Mobile-Denoising-Models-CVPR2024](https://github.com/rflepp/SplitterNet-Efficient-Mobile-Denoising-Models-CVPR2024) - This framework includes the loading of different datasets as well as several denoising models. Several of the models are optimized for mobile usage. Those models include a simple U-Net, the winning mo
 - [Jamy-L/Handheld-Multi-Frame-Super-Resolution](https://github.com/Jamy-L/Handheld-Multi-Frame-Super-Resolution) - Handheld Multi-image Super-resolution [Wronski et al., SIGGRAPH19]. Non-official GPU-supported Python implementation.
 - [teboli/simulated_exposure_fusion_python](https://github.com/teboli/simulated_exposure_fusion_python) - 
