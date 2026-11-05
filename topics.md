@@ -843,7 +843,7 @@
 - [chenjunkai2018/Photoshop_algorithm](https://github.com/chenjunkai2018/Photoshop_algorithm) - the Photoshop algorithm
 - [NVlabs/RADIO](https://github.com/NVlabs/RADIO) - Official repository for "AM-RADIO: Reduce All Domains Into One"
 - [ArchipLab-LinfengZhang/wkd-datasets](https://github.com/ArchipLab-LinfengZhang/wkd-datasets) - This repository provides the dataset used in our cvpr2022 paper - wavelet knowledge distillation
-- [zhengchen1999/QuantDemoire](https://github.com/zhengchen1999/QuantDemoire) - PyTorch code for our paper "QuantDemoire: Quantization with Outlier Aware for Image Demoiréing"
+- [zhengchen1999/QuantDemoire](https://github.com/zhengchen1999/QuantDemoire) - [NeurIPS 2026] QuantDemoire: Quantization with Outlier Aware for Image Demoiréing
 - [VectorSpaceLab/EditScore](https://github.com/VectorSpaceLab/EditScore) - [ICLR 2026] EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling
 - [homm/color-filters-reconstruction](https://github.com/homm/color-filters-reconstruction) - Very accurate color filters reconstruction tools based on 3D color LUTs
 - [yulinghan/ImageQualityEnhancement](https://github.com/yulinghan/ImageQualityEnhancement) - 
@@ -1405,7 +1405,7 @@
 - [Nota-NetsPresso/BK-SDM](https://github.com/Nota-NetsPresso/BK-SDM) - A Compressed Stable Diffusion for Efficient Text-to-Image Generation [ECCV'24]
 - [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [StaryMoon/OSDFace-Unofficial](https://github.com/StaryMoon/OSDFace-Unofficial) - Unofficial PyTorch reproduction for OSDFace: One-Step Diffusion Model for Face Restoration.
-- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.
 - [bupt-ai-cz/BCI](https://github.com/bupt-ai-cz/BCI) - BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix
 - [NWPU-LHH/WFLM-GAN](https://github.com/NWPU-LHH/WFLM-GAN) - WFLM-GAN：Multiscale Generative Adversarial Network Based on Wavelet Feature Learning for SAR-to-Optical Image Translation
@@ -1517,7 +1517,7 @@
 ## reinforcement-learning 
 
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling
 
 ## robotics 
 
