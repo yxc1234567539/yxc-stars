@@ -462,7 +462,7 @@
 - [eladc-git/ELIR](https://github.com/eladc-git/ELIR) - Efficient Latent Image Restoration
 - [Researcher-1042/TuLaBM](https://github.com/Researcher-1042/TuLaBM) - Official Pytorch Implementation of "TuLaBM: Tumor-Biased Latent Bridge Matching for Contrast-Enhanced MRI Synthesis"
 - [PixArt-alpha/PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) - PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
-- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling
 - [fast-codi/CoDi](https://github.com/fast-codi/CoDi) - [CVPR24] CoDi: Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation
 - [miccunifi/ARNIQA](https://github.com/miccunifi/ARNIQA) - [WACV 2024 Oral] - ARNIQA: Learning Distortion Manifold for Image Quality Assessment
 - [miccunifi/QualiCLIP](https://github.com/miccunifi/QualiCLIP) - Quality-Aware Image-Text Alignment for Opinion-Unaware Image Quality Assessment
@@ -580,7 +580,7 @@
 - [snap-research/CAT](https://github.com/snap-research/CAT) - [CVPR 2021] Teachers Do More Than Teach: Compressing Image-to-Image Models (CAT)
 - [vitorsr/exact-histogram-specification](https://github.com/vitorsr/exact-histogram-specification) - Fast implementation of "Exact Histogram Specification" by Coltuc et al.
 - [StefanoD/ExactHistogramSpecification](https://github.com/StefanoD/ExactHistogramSpecification) - Exact histogram matching implementation of Dinu Coltuc et al.
-- [zhengchen1999/QuantDemoire](https://github.com/zhengchen1999/QuantDemoire) - PyTorch code for our paper "QuantDemoire: Quantization with Outlier Aware for Image Demoiréing"
+- [zhengchen1999/QuantDemoire](https://github.com/zhengchen1999/QuantDemoire) - [NeurIPS 2026] QuantDemoire: Quantization with Outlier Aware for Image Demoiréing
 - [VectorSpaceLab/EditScore](https://github.com/VectorSpaceLab/EditScore) - [ICLR 2026] EditScore: Unlocking Online RL for Image Editing via High-Fidelity Reward Modeling
 - [homm/color-filters-reconstruction](https://github.com/homm/color-filters-reconstruction) - Very accurate color filters reconstruction tools based on 3D color LUTs
 - [yz-wang/UCL-Dehaze](https://github.com/yz-wang/UCL-Dehaze) - Image dehazing
