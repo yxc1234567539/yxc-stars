@@ -256,6 +256,7 @@
 
 ## Others 
 
+- [enhansome/enhansome-Awesome-Super-Resolution](https://github.com/enhansome/enhansome-Awesome-Super-Resolution) - 
 - [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) - Technical guide to making money and investing（最全赚钱投资指南）
 - [CherryJoshi/RL-IR](https://github.com/CherryJoshi/RL-IR) - 
 - [Jiang-yan-wei/SFIQA](https://github.com/Jiang-yan-wei/SFIQA) - Official implementation of "Surveillance Facial Image Quality Assessment: A Multi-dimensional Dataset and Lightweight Model"
@@ -316,6 +317,9 @@
 
 ## Python 
 
+- [vivoCameraResearch/AdaRefSR](https://github.com/vivoCameraResearch/AdaRefSR) - AdaRefSR is a novel reference-based one-step diffusion super-resolution framework. Paper was accepted by ICLR2026.
+- [jinnh/E-Bridge](https://github.com/jinnh/E-Bridge) - [ICLR 2026] Energy-oriented Diffusion Bridge for Image Restoration with Foundational Diffusion Models
+- [JZD151/Real-IISR](https://github.com/JZD151/Real-IISR) - [CVPR 2026 Highlight] Official implementation for "Toward Real-world Infrared Image Super-Resolution: A Unified Autoregressive Framework and Benchmark Dataset".
 - [ATH-MaaS/TextVerifier](https://github.com/ATH-MaaS/TextVerifier) - TextVerifier: Seeing Beyond Recognition to Verify Chinese Text Rendering
 - [VAST-AI-Research/EdenLive](https://github.com/VAST-AI-Research/EdenLive) - Real-time generative rendering for interactive worlds, from any visual reference.
 - [VinAIResearch/EFHQ](https://github.com/VinAIResearch/EFHQ) - Code and data for the CVPR24 paper "EFHQ: Multi-purpose ExtremePose-Face-HQ dataset" [CVPR'24]
