@@ -317,6 +317,8 @@
 
 ## Python 
 
+- [Sailor-t/ShiftLUT](https://github.com/Sailor-t/ShiftLUT) - ShiftLUT: Spatial Shift Enhanced Look-Up Tables for Efficient Image Restoration
+- [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) - Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻。
 - [vivoCameraResearch/AdaRefSR](https://github.com/vivoCameraResearch/AdaRefSR) - AdaRefSR is a novel reference-based one-step diffusion super-resolution framework. Paper was accepted by ICLR2026.
 - [jinnh/E-Bridge](https://github.com/jinnh/E-Bridge) - [ICLR 2026] Energy-oriented Diffusion Bridge for Image Restoration with Foundational Diffusion Models
 - [JZD151/Real-IISR](https://github.com/JZD151/Real-IISR) - [CVPR 2026 Highlight] Official implementation for "Toward Real-world Infrared Image Super-Resolution: A Unified Autoregressive Framework and Benchmark Dataset".
