@@ -79,7 +79,7 @@
 - [flyeyesport/flicker_remover](https://github.com/flyeyesport/flicker_remover) - Source code for "Realtime flicker removal for fast video streaming" paper.
 - [XiaZixun/Edit_Propagation_via_Color_Palettes](https://github.com/XiaZixun/Edit_Propagation_via_Color_Palettes) - 
 - [dengyueyun666/Image-Contrast-Enhancement](https://github.com/dengyueyun666/Image-Contrast-Enhancement) - C++ implementation of several image contrast enhancement techniques.
-- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
+- [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,Minimax H3,...) inference in pure C/C++
 - [JokerEyeAdas/HDR-ISP](https://github.com/JokerEyeAdas/HDR-ISP) - An ISP Pipeline For  HDR CMOS Image Sensor
 - [ChunelFeng/CThreadPool](https://github.com/ChunelFeng/CThreadPool) - 【A simple used C++ threadpool】一个简单好用，性能优异的，跨平台的C++线程池。欢迎 star & fork
 - [BBuf/Image-processing-algorithm-Speed](https://github.com/BBuf/Image-processing-algorithm-Speed) - opencv
@@ -1093,6 +1093,7 @@
 
 ## TeX 
 
+- [dendibakh/perf-book](https://github.com/dendibakh/perf-book) - The book "Performance Analysis and Tuning on Modern CPU"
 - [chaofengc/Awesome-Image-Quality-Assessment](https://github.com/chaofengc/Awesome-Image-Quality-Assessment) - A comprehensive collection of IQA papers
 
 ## TypeScript 
