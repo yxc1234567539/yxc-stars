@@ -143,6 +143,7 @@
 
 ## Jupyter Notebook 
 
+- [yangwenbo99/content-degradation-disentanglement](https://github.com/yangwenbo99/content-degradation-disentanglement) - The repository for "Towards a Universal Image Degradation Model via Content-Degradation Disentanglement"
 - [yushuaisong/RefReward-SR](https://github.com/yushuaisong/RefReward-SR) - [ECCV2026] RefReward-SR: LR-Conditioned Reward Modeling for Preference-Aligned Super-Resolution
 - [justinpinkney/stable-diffusion](https://github.com/justinpinkney/stable-diffusion) - 
 - [keshik6/grafting](https://github.com/keshik6/grafting) - [NeurIPS 2025 Oral] Official Code for Exploring Diffusion Transformer Designs via Grafting
@@ -317,8 +318,10 @@
 
 ## Python 
 
+- [IVRL/2-Shots-in-the-Dark](https://github.com/IVRL/2-Shots-in-the-Dark) - Official code of 2-Shots in the Dark: Low-Light Denoising with Minimal Data Acquisition (CVPR 2026)
+- [present091/DegFlow](https://github.com/present091/DegFlow) - Continuous Degradation Modeling via Latent Flow Matching for Real-World Super-Resolution, in AAAI 2026
 - [Sailor-t/ShiftLUT](https://github.com/Sailor-t/ShiftLUT) - ShiftLUT: Spatial Shift Enhanced Look-Up Tables for Efficient Image Restoration
-- [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) - Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻。
+- [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) - Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
 - [vivoCameraResearch/AdaRefSR](https://github.com/vivoCameraResearch/AdaRefSR) - AdaRefSR is a novel reference-based one-step diffusion super-resolution framework. Paper was accepted by ICLR2026.
 - [jinnh/E-Bridge](https://github.com/jinnh/E-Bridge) - [ICLR 2026] Energy-oriented Diffusion Bridge for Image Restoration with Foundational Diffusion Models
 - [JZD151/Real-IISR](https://github.com/JZD151/Real-IISR) - [CVPR 2026 Highlight] Official implementation for "Toward Real-world Infrared Image Super-Resolution: A Unified Autoregressive Framework and Benchmark Dataset".
