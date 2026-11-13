@@ -318,6 +318,7 @@
 
 ## Python 
 
+- [jp-guo/OSCAR](https://github.com/jp-guo/OSCAR) - [NeurIPS'25] OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates
 - [IVRL/2-Shots-in-the-Dark](https://github.com/IVRL/2-Shots-in-the-Dark) - Official code of 2-Shots in the Dark: Low-Light Denoising with Minimal Data Acquisition (CVPR 2026)
 - [present091/DegFlow](https://github.com/present091/DegFlow) - Continuous Degradation Modeling via Latent Flow Matching for Real-World Super-Resolution, in AAAI 2026
 - [Sailor-t/ShiftLUT](https://github.com/Sailor-t/ShiftLUT) - ShiftLUT: Spatial Shift Enhanced Look-Up Tables for Efficient Image Restoration
