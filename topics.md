@@ -582,6 +582,7 @@
 
 ## others 
 
+- [modyu-liu/FaceMe](https://github.com/modyu-liu/FaceMe) - [AAAI2025] This is the official PyTorch codes for the paper: "FaceMe: Robust Blind Face Restoration With Personal Identification"
 - [jp-guo/OSCAR](https://github.com/jp-guo/OSCAR) - [NeurIPS'25] OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates
 - [yangwenbo99/content-degradation-disentanglement](https://github.com/yangwenbo99/content-degradation-disentanglement) - The repository for "Towards a Universal Image Degradation Model via Content-Degradation Disentanglement"
 - [IVRL/2-Shots-in-the-Dark](https://github.com/IVRL/2-Shots-in-the-Dark) - Official code of 2-Shots in the Dark: Low-Light Denoising with Minimal Data Acquisition (CVPR 2026)
