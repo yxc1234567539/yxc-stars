@@ -318,6 +318,8 @@
 
 ## Python 
 
+- [fdbtrs/IDperturb](https://github.com/fdbtrs/IDperturb) - 
+- [YingJiacheng/RestorerID](https://github.com/YingJiacheng/RestorerID) - 
 - [kangkzeng/feature-similarity-KD](https://github.com/kangkzeng/feature-similarity-KD) - Official implementation of the paper "Enhancing Low Resolution Face Recognition with Feature Similarity Knowledge Distillation""
 - [modyu-liu/FaceMe](https://github.com/modyu-liu/FaceMe) - [AAAI2025] This is the official PyTorch codes for the paper: "FaceMe: Robust Blind Face Restoration With Personal Identification"
 - [jp-guo/OSCAR](https://github.com/jp-guo/OSCAR) - [NeurIPS'25] OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates
