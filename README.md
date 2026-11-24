@@ -257,6 +257,7 @@
 
 ## Others 
 
+- [YanCHEN-fr/RDDM](https://github.com/YanCHEN-fr/RDDM) - The official implementation  for "RDDM: Practicing RAW Domain Diffusion Model for Real-world Image Restoration"
 - [enhansome/enhansome-Awesome-Super-Resolution](https://github.com/enhansome/enhansome-Awesome-Super-Resolution) - 
 - [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom) - Technical guide to making money and investing（最全赚钱投资指南）
 - [CherryJoshi/RL-IR](https://github.com/CherryJoshi/RL-IR) - 
@@ -476,7 +477,7 @@
 - [eladc-git/ELIR](https://github.com/eladc-git/ELIR) - Efficient Latent Image Restoration
 - [Researcher-1042/TuLaBM](https://github.com/Researcher-1042/TuLaBM) - Official Pytorch Implementation of "TuLaBM: Tumor-Biased Latent Bridge Matching for Contrast-Enhanced MRI Synthesis"
 - [PixArt-alpha/PixArt-alpha](https://github.com/PixArt-alpha/PixArt-alpha) - PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
-- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, World Modeling and Robotics
 - [fast-codi/CoDi](https://github.com/fast-codi/CoDi) - [CVPR24] CoDi: Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation
 - [miccunifi/ARNIQA](https://github.com/miccunifi/ARNIQA) - [WACV 2024 Oral] - ARNIQA: Learning Distortion Manifold for Image Quality Assessment
 - [miccunifi/QualiCLIP](https://github.com/miccunifi/QualiCLIP) - Quality-Aware Image-Text Alignment for Opinion-Unaware Image Quality Assessment
