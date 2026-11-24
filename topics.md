@@ -582,6 +582,7 @@
 
 ## others 
 
+- [YanCHEN-fr/RDDM](https://github.com/YanCHEN-fr/RDDM) - The official implementation  for "RDDM: Practicing RAW Domain Diffusion Model for Real-world Image Restoration"
 - [fdbtrs/IDperturb](https://github.com/fdbtrs/IDperturb) - 
 - [YingJiacheng/RestorerID](https://github.com/YingJiacheng/RestorerID) - 
 - [kangkzeng/feature-similarity-KD](https://github.com/kangkzeng/feature-similarity-KD) - Official implementation of the paper "Enhancing Low Resolution Face Recognition with Feature Similarity Knowledge Distillation""
@@ -1422,7 +1423,7 @@
 - [Nota-NetsPresso/BK-SDM](https://github.com/Nota-NetsPresso/BK-SDM) - A Compressed Stable Diffusion for Efficient Text-to-Image Generation [ECCV'24]
 - [Guaishou74851/AdcSR](https://github.com/Guaishou74851/AdcSR) - (CVPR 2025) Adversarial Diffusion Compression for Real-World Image Super-Resolution [PyTorch]
 - [StaryMoon/OSDFace-Unofficial](https://github.com/StaryMoon/OSDFace-Unofficial) - Unofficial PyTorch reproduction for OSDFace: One-Step Diffusion Model for Face Restoration.
-- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, World Modeling and Robotics
 - [RightNow-AI/autokernel](https://github.com/RightNow-AI/autokernel) - Autoresearch for GPU kernels. Give it any PyTorch model, go to sleep, wake up to optimized Triton kernels.
 - [bupt-ai-cz/BCI](https://github.com/bupt-ai-cz/BCI) - BCI: Breast Cancer Immunohistochemical Image Generation through Pyramid Pix2pix
 - [NWPU-LHH/WFLM-GAN](https://github.com/NWPU-LHH/WFLM-GAN) - WFLM-GAN：Multiscale Generative Adversarial Network Based on Wavelet Feature Learning for SAR-to-Optical Image Translation
@@ -1534,7 +1535,7 @@
 ## reinforcement-learning 
 
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, World Modeling and Robotics
 
 ## reverse-engineering 
 
@@ -1543,6 +1544,7 @@
 ## robotics 
 
 - [hugohadfield/LensDistortionFromLines](https://github.com/hugohadfield/LensDistortionFromLines) - Python bindings and improvements for a hough line based lens distortion corection algorithm
+- [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, World Modeling and Robotics
 
 ## rust 
 
