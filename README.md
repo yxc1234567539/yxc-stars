@@ -319,6 +319,7 @@
 
 ## Python 
 
+- [R44VC0RP/dashsplat](https://github.com/R44VC0RP/dashsplat) - Turn a car's dashcam footage into a 3D world you can drive through again: Gaussian splats, a 1 cm road atlas, tracked vehicles and a diffusion-repaired chase view.
 - [fdbtrs/IDperturb](https://github.com/fdbtrs/IDperturb) - 
 - [YingJiacheng/RestorerID](https://github.com/YingJiacheng/RestorerID) - 
 - [kangkzeng/feature-similarity-KD](https://github.com/kangkzeng/feature-similarity-KD) - Official implementation of the paper "Enhancing Low Resolution Face Recognition with Feature Similarity Knowledge Distillation""
