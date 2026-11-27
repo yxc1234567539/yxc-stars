@@ -129,7 +129,7 @@
 - [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 - [cdyforever/how-to-live-better](https://github.com/cdyforever/how-to-live-better) - 《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线
 - [facebookresearch/content-seal](https://github.com/facebookresearch/content-seal) - Content Seal is a state-of-the-art framework for invisible, robust watermarking across all modalities audio, image, video, and text. This suite spans the entire generative lifecycle, from training dat
-- [YeyingLab/night-enhancement](https://github.com/YeyingLab/night-enhancement) - [ECCV2022] "Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression",  https://arxiv.org/abs/2207.10564
+- [YeyingLab/night-enhancement](https://github.com/YeyingLab/night-enhancement) - [ECCV 2022] Unsupervised Night Image Enhancement: When Layer Decomposition Meets Light-Effects Suppression
 - [Krasjet/quaternion](https://github.com/Krasjet/quaternion) - A brief introduction to the quaternions and its applications in 3D geometry.
 
 ## Haskell 
@@ -527,7 +527,7 @@
 - [Ave001025/UIE_CLIP](https://github.com/Ave001025/UIE_CLIP) - Unveiling the underwater world:CLIP perception model-guided underwater image enhancement
 - [csslc/CCSR](https://github.com/csslc/CCSR) - [TIP2026] Official codes of CCSRv2 and CCSRv1: Improving the Stability and Efficiency of Diffusion Models for Content Consistent Super-Resolution
 - [sony/ctm](https://github.com/sony/ctm) - 
-- [YeyingLab/DC-ShadowNet-Hard-and-Soft-Shadow-Removal](https://github.com/YeyingLab/DC-ShadowNet-Hard-and-Soft-Shadow-Removal) - [ICCV2021]"DC-ShadowNet: Single-Image Hard and Soft Shadow Removal Using Unsupervised Domain-Classifier Guided Network", https://arxiv.org/abs/2207.10434
+- [YeyingLab/DC-ShadowNet-Hard-and-Soft-Shadow-Removal](https://github.com/YeyingLab/DC-ShadowNet-Hard-and-Soft-Shadow-Removal) - [ICCV 2021] DC-ShadowNet: Single-Image Hard and Soft Shadow Removal Using Unsupervised Domain-Classifier Guided Network
 - [snap-research/InstantRestore](https://github.com/snap-research/InstantRestore) - Official Implementation for "InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention"
 - [ZhexinLiang/CLIP-LIT](https://github.com/ZhexinLiang/CLIP-LIT) - [ICCV 2023, Oral] Iterative Prompt Learning for Unsupervised Backlit Image Enhancement
 - [FreeButUselessSoul/bokehdiff](https://github.com/FreeButUselessSoul/bokehdiff) - This is the official repository for "BokehDiff: Neural Lens Blur with One-Step Diffusion" (ICCV'25).
@@ -539,7 +539,7 @@
 - [nftblackmagic/catvton-flux](https://github.com/nftblackmagic/catvton-flux) - 
 - [Peyton-Chen/RegionE](https://github.com/Peyton-Chen/RegionE) - [ICLR 2026] The official implementation of "RegionE: Adaptive Region-Aware Generation for Efficient Image Editing"
 - [River-Zhang/ICEdit](https://github.com/River-Zhang/ICEdit) - [NeurIPS 2025] Image editing is worth a single LoRA! 0.1% training data for fantastic image editing! Surpasses GPT-4o in ID persistence~ MoE ckpt released! Only 4GB VRAM is enough to run!
-- [ZouShilong1024/CycleDiff](https://github.com/ZouShilong1024/CycleDiff) - Code for TIP2026 paper: CycleDiff: Cycle Diffusion Models for Unpaired Image-to-image Translation
+- [ZouShilong1024/CycleDiff](https://github.com/ZouShilong1024/CycleDiff) - [TIP 2026] CycleDiff: Cycle Diffusion Models for Unpaired Image-to-image Translation
 - [showlab/PhotoDoodle](https://github.com/showlab/PhotoDoodle) - [ICCV 2025] Code Implementation of  "ArtEditor: Learning Customized Instructional Image Editor from Few-Shot Examples"
 - [showlab/OmniConsistency](https://github.com/showlab/OmniConsistency) - The official code implementation of the paper "OmniConsistency: Learning Style-Agnostic Consistency from Paired Stylization Data."
 - [prs-eth/Marigold](https://github.com/prs-eth/Marigold) - [CVPR 2024 - Oral, Best Paper Award Candidate] Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation
@@ -874,7 +874,7 @@
 - [DeokyunKim/Progressive-Face-Super-Resolution](https://github.com/DeokyunKim/Progressive-Face-Super-Resolution) - Official Pytorch Implementation of Progressive Face Super-Resolution (BMVC 2019 Accepted)
 - [wzhouxiff/RestoreFormerPlusPlus](https://github.com/wzhouxiff/RestoreFormerPlusPlus) - [TPAMI2023] RestoreFormer++
 - [Kaldwin0106/DR2_Drgradation_Remover](https://github.com/Kaldwin0106/DR2_Drgradation_Remover) - DR2: Diffusion-based Robust Degradation Remover for Blind Face Restoration. CVPR 2023.
-- [YeyingLab/RaindropClarity](https://github.com/YeyingLab/RaindropClarity) - [ECCV2024] "Raindrop Clarity: A Dual-Focused Dataset for Day and Night Raindrop Removal", https://arxiv.org/abs/2407.16957
+- [YeyingLab/RaindropClarity](https://github.com/YeyingLab/RaindropClarity) - [ECCV 2024] Raindrop Clarity: A Dual-Focused Dataset for Day and Night Raindrop Removal
 - [CalayZhou/JDM-HDRNet](https://github.com/CalayZhou/JDM-HDRNet) - Joint RGB-Spectral Decomposition Model Guided Image Enhancement in Mobile Photography (ECCV2024)
 - [lllyasviel/LayerDiffuse_DiffusersCLI](https://github.com/lllyasviel/LayerDiffuse_DiffusersCLI) - LayerDiffuse in pure diffusers without any GUI
 - [chenhaoxing/DiffUTE](https://github.com/chenhaoxing/DiffUTE) - This repository is the code of our paper "DiffUTE: Universal Text Editing Diffusion Model" (NeurIPS'2023).
@@ -921,7 +921,7 @@
 - [rflepp/SplitterNet-Efficient-Mobile-Denoising-Models-CVPR2024](https://github.com/rflepp/SplitterNet-Efficient-Mobile-Denoising-Models-CVPR2024) - This framework includes the loading of different datasets as well as several denoising models. Several of the models are optimized for mobile usage. Those models include a simple U-Net, the winning mo
 - [Jamy-L/Handheld-Multi-Frame-Super-Resolution](https://github.com/Jamy-L/Handheld-Multi-Frame-Super-Resolution) - Handheld Multi-image Super-resolution [Wronski et al., SIGGRAPH19]. Non-official GPU-supported Python implementation.
 - [teboli/simulated_exposure_fusion_python](https://github.com/teboli/simulated_exposure_fusion_python) - 
-- [YeyingLab/nighttime_dehaze](https://github.com/YeyingLab/nighttime_dehaze) - [ACMMM2023] "Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution", https://arxiv.org/abs/2308.01738
+- [YeyingLab/nighttime_dehaze](https://github.com/YeyingLab/nighttime_dehaze) - [ACM MM 2023] Enhancing Visibility in Nighttime Haze Images Using Guided APSF and Gradient Adaptive Convolution
 - [stroking-fishes-ml-corp/A-ESRGAN](https://github.com/stroking-fishes-ml-corp/A-ESRGAN) - [PRICAI 2023] A-ESRGAN aims to provide better super-resolution images by using multi-scale attention U-net discriminators.
 - [cszn/SCUNet](https://github.com/cszn/SCUNet) - Practical Blind Denoising via Swin-Conv-UNet and Data Synthesis (Machine Intelligence Research 2023)
 - [cswry/SeeSR](https://github.com/cswry/SeeSR) - [CVPR2024] SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution
