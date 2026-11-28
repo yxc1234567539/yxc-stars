@@ -44,6 +44,7 @@
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
+- [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [html](#html)
@@ -55,6 +56,7 @@
 - [linux](#linux)
 - [llm](#llm)
 - [machine-learning](#machine-learning)
+- [macos](#macos)
 - [matlab](#matlab)
 - [mcp](#mcp)
 - [mobile](#mobile)
@@ -414,6 +416,10 @@
 
 - [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
 
+## graphql 
+
+- [yangKJ/Harbeth](https://github.com/yangKJ/Harbeth) - 🎨 A texture-first Metal rendering engine for images, camera frames, and video frames on iOS, iPadOS, macOS, and tvOS.
+
 ## hacktoberfest 
 
 - [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking
@@ -461,6 +467,7 @@
 - [haoyuc/MaskedDenoising](https://github.com/haoyuc/MaskedDenoising) - [CVPR 2023] Masked Image Training for Generalizable Deep Image Denoising https://arxiv.org/abs/2303.13132
 - [balcilar/Color-Image-Segmentation-Using-Region-Growing-and-Region-Merging](https://github.com/balcilar/Color-Image-Segmentation-Using-Region-Growing-and-Region-Merging) - Unsupervised color image segmentation using Region Growing and Region Merging
 - [mv-lab/AISP](https://github.com/mv-lab/AISP) - AI Image Signal Processing and Computational Photography. Official library for NTIRE (CVPR) and AIM (ICCV/ECCV) Challenges. You will find Learned ISPs, RAW Restoration-Upsampling-Reconstruction, Image
+- [yangKJ/Harbeth](https://github.com/yangKJ/Harbeth) - 🎨 A texture-first Metal rendering engine for images, camera frames, and video frames on iOS, iPadOS, macOS, and tvOS.
 - [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON, SVE for ARM, HVX for Hexagon
 - [QiuJueqin/fast-openISP](https://github.com/QiuJueqin/fast-openISP) - fast-openISP: a faster re-implementation of openISP
 - [hellloxiaotian/CFSRCNN](https://github.com/hellloxiaotian/CFSRCNN) - Coarse-to-Fine CNN for Image Super-Resolution (IEEE Transactions on Multimedia,2021)
@@ -476,6 +483,7 @@
 
 - [neonforestmist/Clover-Image-Tiny](https://github.com/neonforestmist/Clover-Image-Tiny) - Compact local AI image generation with Clover Image Tiny, Inpaint HQ image editing, LoRA styles, Diffusers, and Core ML for Apple devices.
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+- [yangKJ/Harbeth](https://github.com/yangKJ/Harbeth) - 🎨 A texture-first Metal rendering engine for images, camera frames, and video frames on iOS, iPadOS, macOS, and tvOS.
 
 ## javascript 
 
@@ -523,6 +531,10 @@
 - [iperov/DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is the leading software for creating deepfakes.
 - [ermig1979/Simd](https://github.com/ermig1979/Simd) - C++ image processing and machine learning library with using of SIMD: SSE, AVX, AVX-512, AMX  for x86/x64, NEON, SVE for ARM, HVX for Hexagon
 - [WangQvQ/YOLOMagic](https://github.com/WangQvQ/YOLOMagic) - YOLO Magic🪄 is an extension based on Ultralytics' YOLOv5, designed to provide more powerful functionality and simpler operations for visual tasks.
+
+## macos 
+
+- [yangKJ/Harbeth](https://github.com/yangKJ/Harbeth) - 🎨 A texture-first Metal rendering engine for images, camera frames, and video frames on iOS, iPadOS, macOS, and tvOS.
 
 ## matlab 
 
@@ -1590,6 +1602,7 @@
 ## swift 
 
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+- [yangKJ/Harbeth](https://github.com/yangKJ/Harbeth) - 🎨 A texture-first Metal rendering engine for images, camera frames, and video frames on iOS, iPadOS, macOS, and tvOS.
 - [samuelyu2002/ImVisible](https://github.com/samuelyu2002/ImVisible) - ImVisible: Pedestrian Traffic Light (PTL) Dataset, Lightweight CNN (LytNet), and Mobile Application for the Visually Impaired (CAIP '19, ICCV Workshops '19)
 
 ## tensorflow 
@@ -1610,7 +1623,6 @@
 ## video 
 
 - [mcpp-community/d2mcpp](https://github.com/mcpp-community/d2mcpp) - D2X | Modern C++ Core Language Features - "A C++ tutorial project focused on practical"
-- [yangKJ/Harbeth](https://github.com/yangKJ/Harbeth) - 🎨 GPU accelerated image / video and camera filter library based on Metal. Support macOS & iOS. 图像、视频、相机滤镜框架
 
 ## vim 
 
